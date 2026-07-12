@@ -6,6 +6,8 @@
 
 **El programa de ciberseguridad más completo en español — desde redes, criptografía y Linux hasta Red Team, DFIR, cloud security, exploit development y seguridad de IA.**
 
+[![Validar currículo](https://github.com/vladimiracunadev-create/cyberseguridad-moderna-program/actions/workflows/validar-curriculo.yml/badge.svg)](https://github.com/vladimiracunadev-create/cyberseguridad-moderna-program/actions/workflows/validar-curriculo.yml)
+
 [![Clases](https://img.shields.io/badge/clases-310%20·%2017%20partes-7c5cff?style=for-the-badge)](classes/README.md)
 [![Nivel](https://img.shields.io/badge/nivel-fundamentos%20→%20experto-2e8b57?style=for-the-badge)](classes/README.md)
 [![Idioma](https://img.shields.io/badge/idioma-español-blue?style=for-the-badge)](README.md)
