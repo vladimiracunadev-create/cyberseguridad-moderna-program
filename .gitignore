@@ -1,0 +1,39 @@
+# Entornos y dependencias
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+node_modules/
+
+# Herramientas y artefactos de laboratorio (¡nunca subir muestras reales de malware!)
+*.exe
+*.dll
+*.bin
+*.pcap
+*.pcapng
+samples/
+malware/
+loot/
+*.raw
+*.mem
+*.vmem
+
+# Credenciales y secretos
+*.pem
+*.key
+*.env
+.env
+.env.*
+secrets/
+*.kdbx
+
+# Sistema operativo / editores
+.DS_Store
+Thumbs.db
+.idea/
+.vscode/
+*.swp
+
+# Manifest interno de generación
+classes/_manifest.json
