@@ -112,6 +112,11 @@ No; cae ante Shor, igual que RSA/ECC. De ahí la cripto post-cuántica.
 - RFC 5869 (HKDF) — <https://www.rfc-editor.org/rfc/rfc5869>
 - Adrian et al., "Imperfect Forward Secrecy / Logjam" — <https://weakdh.org/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-053-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-053-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 054 - Firmas digitales](../054-firmas-digitales/README.md)

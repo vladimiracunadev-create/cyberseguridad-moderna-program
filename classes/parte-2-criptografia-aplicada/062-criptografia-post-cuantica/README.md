@@ -104,6 +104,11 @@ Empieza por handshakes híbridos (X25519 + ML-KEM) donde tu stack lo soporte y p
 - Open Quantum Safe — <https://openquantumsafe.org/>
 - Shor, "Polynomial-Time Algorithms for Prime Factorization" (1994).
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-062-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-062-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 063 - Gestion de secretos: Vault y KMS](../063-gestion-de-secretos-vault-y-kms/README.md)

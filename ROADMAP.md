@@ -24,8 +24,8 @@ de las 310 clases) es la base y el primer entregable.
 Se genera **por parte** con `scripts/generar_material.py <parte>` (PDF vía navegador headless,
 PPTX vía python-pptx). Notebooks **descartados** por decisión.
 
-- [x] Guías **PDF** imprimibles por clase + presentaciones **PPTX** — **Partes 0–1** (001–045).
-- [ ] Resto de partes (2–16), de forma incremental.
+- [x] Guías **PDF** imprimibles por clase + presentaciones **PPTX** — **Partes 0–3** (001–085).
+- [ ] Resto de partes (4–16), de forma incremental.
 - [x] ~~Notebooks~~ — descartado.
 
 ## Fase 4 — Portal y evaluación (futuro)

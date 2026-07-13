@@ -122,6 +122,11 @@ Marcas de agua, trazabilidad de filtraciones, autenticación de contenido y ocul
 - Provos & Honeyman, "Hide and Seek: An Introduction to Steganography".
 - Herramientas: steghide, zsteg, stegseek (documentación oficial).
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-064-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-064-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 065 - Implementaciones seguras y errores criptograficos comunes](../065-implementaciones-seguras-y-errores-criptograficos-comunes/README.md)

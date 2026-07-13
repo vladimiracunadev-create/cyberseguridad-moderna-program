@@ -123,6 +123,11 @@ Fijar una clave/certificado esperado en la app para no depender solo de la PKI; 
 - RFC 6962 (Certificate Transparency) — <https://www.rfc-editor.org/rfc/rfc6962>
 - Let's Encrypt / ACME (RFC 8555) — <https://letsencrypt.org/how-it-works/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-055-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-055-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 056 - TLS/SSL en profundidad](../056-tls-ssl-en-profundidad/README.md)

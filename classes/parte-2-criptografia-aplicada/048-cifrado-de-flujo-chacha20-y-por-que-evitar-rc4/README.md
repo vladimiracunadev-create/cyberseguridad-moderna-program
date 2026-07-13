@@ -112,6 +112,11 @@ Legado. Debe deshabilitarse; TLS moderno lo prohíbe.
 - Wong, *Real-World Cryptography*, cap. 3–4.
 - Bernstein, "ChaCha, a variant of Salsa20" — <https://cr.yp.to/chacha.html>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-048-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-048-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 049 - Cifrado asimetrico: RSA](../049-cifrado-asimetrico-rsa/README.md)

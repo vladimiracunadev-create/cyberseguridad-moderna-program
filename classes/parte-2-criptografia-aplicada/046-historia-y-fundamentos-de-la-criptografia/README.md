@@ -118,6 +118,11 @@ Porque los errores sutiles (nonces, padding, timing) rompen esquemas que parecen
 - Singh, *The Code Book* (divulgación histórica).
 - NIST, "Cryptographic Standards and Guidelines" — <https://csrc.nist.gov/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-046-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-046-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 047 - Cifrado simetrico: AES y modos de operacion](../047-cifrado-simetrico-aes-y-modos-de-operacion/README.md)

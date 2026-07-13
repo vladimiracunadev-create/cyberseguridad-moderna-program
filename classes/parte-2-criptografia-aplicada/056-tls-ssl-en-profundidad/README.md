@@ -120,6 +120,11 @@ Handshake más rápido y cifrado, forward secrecy obligatoria, cipher suites red
 - testssl.sh — <https://testssl.sh/>
 - Mozilla SSL Configuration Generator — <https://ssl-config.mozilla.org/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-056-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-056-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 057 - Almacenamiento seguro de contrasenas: bcrypt, scrypt y Argon2](../057-almacenamiento-seguro-de-contrasenas-bcrypt-scrypt-y-argon2/README.md)

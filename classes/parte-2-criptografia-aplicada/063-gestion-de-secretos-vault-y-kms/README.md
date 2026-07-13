@@ -119,6 +119,11 @@ Según política y sensibilidad; adopta rotación automatizada y rota de inmedia
 - Wong, *Real-World Cryptography*, cap. 8 y 13.
 - OWASP Secrets Management Cheat Sheet — <https://cheatsheetseries.owasp.org/cheatsheets/Secrets_Management_Cheat_Sheet.html>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-063-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-063-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 064 - Esteganografia y ocultacion de datos](../064-esteganografia-y-ocultacion-de-datos/README.md)

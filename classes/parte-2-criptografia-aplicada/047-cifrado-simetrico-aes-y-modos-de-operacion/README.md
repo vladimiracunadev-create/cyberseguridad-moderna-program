@@ -120,6 +120,11 @@ No, pero sí impredecible (CBC) o único (CTR/GCM). Se transmite junto al texto 
 - Aumasson, *Serious Cryptography*, cap. 4.
 - Documentación `cryptography` (Python) — <https://cryptography.io/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-047-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-047-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 048 - Cifrado de flujo: ChaCha20 y por que evitar RC4](../048-cifrado-de-flujo-chacha20-y-por-que-evitar-rc4/README.md)

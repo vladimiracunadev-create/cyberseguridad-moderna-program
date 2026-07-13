@@ -111,6 +111,11 @@ Porque atacantes las fabrican intencionadamente (SHAttered); afectan firmas y co
 - Aumasson, *Serious Cryptography*, cap. 6–7.
 - Stevens et al., "SHAttered" — <https://shattered.io/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-051-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-051-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 052 - HMAC y autenticacion de mensajes](../052-hmac-y-autenticacion-de-mensajes/README.md)

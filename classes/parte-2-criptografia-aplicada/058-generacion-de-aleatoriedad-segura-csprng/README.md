@@ -112,6 +112,11 @@ Porque compromete claves y nonces de golpe; un CSPRNG débil hace inútil el mej
 - Heninger et al., "Mining Your Ps and Qs" — <https://factorable.net/>
 - Debian OpenSSL predictable PRNG (CVE-2008-0166).
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-058-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-058-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 059 - Cifrado autenticado (AEAD)](../059-cifrado-autenticado-aead/README.md)

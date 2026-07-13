@@ -122,6 +122,11 @@ Poder cambiar algoritmos y claves sin rediseñar; será imprescindible en la mig
 - Wong, *Real-World Cryptography*, cap. 8, 13 y 16.
 - OWASP Cryptographic Storage Cheat Sheet — <https://cheatsheetseries.owasp.org/cheatsheets/Cryptographic_Storage_Cheat_Sheet.html>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-065-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-065-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 066 - Metodologia de pentesting: PTES y OSSTMM](../../parte-3-hacking-etico-y-pentesting-metodologia/066-metodologia-de-pentesting-ptes-y-osstmm/README.md)

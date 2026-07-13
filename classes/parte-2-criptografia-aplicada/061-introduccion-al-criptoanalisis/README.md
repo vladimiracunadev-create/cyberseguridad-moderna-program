@@ -103,6 +103,11 @@ No directamente; usa primitivas estándar bien analizadas. Preocúpate por la im
 - Biham & Shamir, "Differential Cryptanalysis of DES" (referencia histórica).
 - Matsui, "Linear Cryptanalysis Method for DES Cipher".
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-061-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-061-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 062 - Criptografia post-cuantica](../062-criptografia-post-cuantica/README.md)

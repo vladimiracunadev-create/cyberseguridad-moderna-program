@@ -115,6 +115,11 @@ No; solo autenticidad e integridad. Combínalo con cifrado para confidencialidad
 - NIST FIPS 198-1 (HMAC) — <https://csrc.nist.gov/publications/detail/fips/198/1/final>
 - OWASP, "Cryptographic Storage Cheat Sheet".
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-052-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-052-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 053 - Intercambio de claves: Diffie-Hellman](../053-intercambio-de-claves-diffie-hellman/README.md)

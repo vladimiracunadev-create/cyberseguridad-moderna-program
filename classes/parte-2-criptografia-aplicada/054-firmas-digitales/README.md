@@ -111,6 +111,11 @@ No; garantiza quién lo firmó y que no cambió. La veracidad del contenido es o
 - RFC 6979 (nonce determinista para ECDSA) — <https://www.rfc-editor.org/rfc/rfc6979>
 - Aumasson, *Serious Cryptography*, cap. 10–12.
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-054-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-054-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 055 - PKI, certificados X.509 y autoridades de certificacion](../055-pki-certificados-x-509-y-autoridades-de-certificacion/README.md)

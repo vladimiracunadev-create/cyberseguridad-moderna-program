@@ -115,6 +115,11 @@ Limitado por el riesgo de colisión de nonces (con nonces aleatorios de 96 bits,
 - NIST SP 800-38D (GCM) — <https://csrc.nist.gov/publications/detail/sp/800-38d/final>
 - Wong, *Real-World Cryptography*, cap. 4.
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-059-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-059-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 060 - Ataques criptograficos: padding oracle y timing](../060-ataques-criptograficos-padding-oracle-y-timing/README.md)

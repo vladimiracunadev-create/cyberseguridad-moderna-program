@@ -116,6 +116,11 @@ OAEP para cifrado nuevo; PKCS#1 v1.5 es propenso a ataques (Bleichenbacher) y se
 - PKCS #1 v2.2 (RFC 8017) — <https://www.rfc-editor.org/rfc/rfc8017>
 - NIST SP 800-56B (RSA key establishment).
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-049-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-049-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 050 - Criptografia de curva eliptica (ECC)](../050-criptografia-de-curva-eliptica-ecc/README.md)

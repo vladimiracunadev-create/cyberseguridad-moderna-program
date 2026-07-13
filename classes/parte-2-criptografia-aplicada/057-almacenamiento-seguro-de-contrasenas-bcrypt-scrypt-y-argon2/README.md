@@ -120,6 +120,11 @@ No; hashea con una KDF. Cifrar implica poder descifrar, un riesgo innecesario pa
 - Wong, *Real-World Cryptography*, cap. 8.
 - hashcat — <https://hashcat.net/hashcat/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-057-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-057-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 058 - Generacion de aleatoriedad segura (CSPRNG)](../058-generacion-de-aleatoriedad-segura-csprng/README.md)
