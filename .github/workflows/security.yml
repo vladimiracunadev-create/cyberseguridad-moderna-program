@@ -50,4 +50,6 @@ jobs:
           pip install bandit
 
       - name: Escaneo de seguridad de los scripts
-        run: bandit -q -r scripts
+        # -ll: reporta solo severidad media/alta (evita falsos positivos de bajo nivel
+        # como el uso legítimo y controlado de subprocess en el generador de PDFs).
+        run: bandit -q -r scripts -ll
