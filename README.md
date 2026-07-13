@@ -79,6 +79,15 @@ Cada parte sigue explícitamente la secuencia y los énfasis de la literatura de
 
 ➡️ **[Ver el índice plano de las 310 clases](classes/README.md)**
 
+## 🧪 Laboratorios ejecutables
+
+Además de las clases, el programa incluye **entornos de práctica en Docker** que se
+levantan con un comando. Empieza por el lab de seguridad web:
+
+- 🕸️ **[AppSec Web](labs/appsec-web/README.md)** — OWASP Juice Shop + DVWA para practicar el OWASP Top 10 (SQLi, XSS, IDOR, command injection) ligado a la Parte 4.
+
+➡️ Ver todos en **[labs/](labs/README.md)** · (más laboratorios en camino, ver [ROADMAP](ROADMAP.md)).
+
 ## 🚀 Cómo usar el programa
 
 1. **Sigue el orden.** La numeración es secuencial por diseño: cada clase asume lo anterior. Si ya dominas un bloque, sáltalo, pero no empieces por la Parte 5 sin la 0.

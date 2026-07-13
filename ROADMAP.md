@@ -10,11 +10,14 @@ de las 310 clases) es la base y el primer entregable.
 - [x] README de cada parte (narrativa, prerrequisitos, fuentes).
 - [x] README rico por clase (objetivo, temas, definiciones, laboratorio, ejercicios, reto, errores comunes, FAQ, referencias).
 
-## Fase 2 — Laboratorios ejecutables (futuro)
+## Fase 2 — Laboratorios ejecutables (en curso)
 
-- [ ] Guiones de laboratorio reproducibles por clase (máquinas vulnerables, contenedores Docker, VMs).
-- [ ] `docker-compose` de entornos de práctica (web vuln, redes, C2 lab, SOC lab).
-- [ ] Colección de retos tipo CTF con soluciones.
+- [x] Estructura de laboratorios ([`labs/`](labs/README.md)) con convención común y guía de uso.
+- [x] Lab **AppSec Web** ([`labs/appsec-web`](labs/appsec-web/README.md)) — OWASP Juice Shop + DVWA en Docker, recorrido guiado ligado a la Parte 4.
+- [ ] Lab **Blue Team / SOC** (Wazuh + telemetría) para la Parte 8.
+- [ ] Lab **Red Team / Active Directory** para la Parte 7.
+- [ ] Lab de **criptografía** (retos aplicados) para la Parte 2.
+- [ ] Colección de retos tipo CTF con soluciones, por parte.
 
 ## Fase 3 — Material complementario (futuro)
 

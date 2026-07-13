@@ -1,0 +1,36 @@
+name: appsec-web-lab
+
+# Laboratorio de seguridad de aplicaciones web (Parte 4).
+# Objetivos DELIBERADAMENTE vulnerables — solo para práctica local.
+# Todos los puertos se atan a 127.0.0.1: nunca quedan expuestos a la red.
+
+services:
+  juice-shop:
+    # OWASP Juice Shop: app moderna (Angular + Node) con reto por vulnerabilidad.
+    image: bkimminich/juice-shop:v17.1.1
+    container_name: lab-juice-shop
+    ports:
+      - "127.0.0.1:3000:3000"
+    networks:
+      - labnet
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "wget", "-qO-", "http://localhost:3000/rest/admin/application-version"]
+      interval: 30s
+      timeout: 5s
+      retries: 5
+      start_period: 20s
+
+  dvwa:
+    # Damn Vulnerable Web Application: PHP/MySQL clásico con niveles de dificultad.
+    image: ghcr.io/digininja/dvwa:latest
+    container_name: lab-dvwa
+    ports:
+      - "127.0.0.1:8080:80"
+    networks:
+      - labnet
+    restart: unless-stopped
+
+networks:
+  labnet:
+    driver: bridge
