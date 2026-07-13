@@ -10,14 +10,14 @@ de las 310 clases) es la base y el primer entregable.
 - [x] README de cada parte (narrativa, prerrequisitos, fuentes).
 - [x] README rico por clase (objetivo, temas, definiciones, laboratorio, ejercicios, reto, errores comunes, FAQ, referencias).
 
-## Fase 2 — Laboratorios ejecutables (en curso)
+## Fase 2 — Laboratorios ejecutables ✅ (completa)
 
 - [x] Estructura de laboratorios ([`labs/`](labs/README.md)) con convención común y guía de uso.
 - [x] Lab **AppSec Web** ([`labs/appsec-web`](labs/appsec-web/README.md)) — OWASP Juice Shop + DVWA en Docker, recorrido guiado ligado a la Parte 4.
-- [ ] Lab **Blue Team / SOC** (Wazuh + telemetría) para la Parte 8.
-- [ ] Lab **Red Team / Active Directory** para la Parte 7.
-- [ ] Lab de **criptografía** (retos aplicados) para la Parte 2.
-- [ ] Colección de retos tipo CTF con soluciones, por parte.
+- [x] Lab **Blue Team / SOC** ([`labs/blue-team-soc`](labs/blue-team-soc/README.md)) — Elasticsearch + Kibana con telemetría de un ataque para detección/threat hunting (Parte 8).
+- [x] Lab **Red Team / Active Directory** ([`labs/red-team-ad`](labs/red-team-ad/README.md)) — caja de atacante + guía GOAD (Parte 7).
+- [x] Lab de **criptografía** ([`labs/cripto`](labs/cripto/README.md)) — 4 retos con solución en Python puro (Parte 2).
+- [x] Colección de **retos tipo CTF** ([`ctf/`](ctf/README.md)) con solución, por categoría.
 
 ## Fase 3 — Material complementario (futuro)
 

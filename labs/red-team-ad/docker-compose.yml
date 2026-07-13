@@ -1,0 +1,23 @@
+name: red-team-ad-lab
+
+# Caja de operaciones del atacante para el laboratorio de Active Directory (Parte 7).
+# NO contiene el Active Directory objetivo: un AD real requiere Windows Server, así que
+# el objetivo se despliega como VMs (ver README -> GOAD). Este contenedor te da todas
+# las herramientas ofensivas listas para atacar ESE objetivo autorizado.
+
+services:
+  attacker:
+    build: .
+    container_name: lab-rt-attacker
+    # Para alcanzar las VMs del laboratorio en Linux puedes usar la red del host:
+    #   network_mode: host   (descomenta en Linux; en Docker Desktop usa el modo bridge)
+    networks:
+      - rtnet
+    stdin_open: true
+    tty: true
+    volumes:
+      - ./loot:/work/loot
+
+networks:
+  rtnet:
+    driver: bridge

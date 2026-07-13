@@ -1,0 +1,49 @@
+name: blue-team-soc-lab
+
+# Laboratorio de detección / threat hunting (Parte 8).
+# Elasticsearch + Kibana en un solo nodo, SIN seguridad (solo para laboratorio local).
+# Ambos puertos se atan a 127.0.0.1: nunca quedan expuestos a la red.
+#
+# Requisito del host (una sola vez, para que Elasticsearch arranque):
+#   Linux/WSL:  sudo sysctl -w vm.max_map_count=262144
+#   Docker Desktop (Win/Mac): normalmente ya viene configurado.
+
+services:
+  elasticsearch:
+    image: docker.elastic.co/elasticsearch/elasticsearch:8.15.3
+    container_name: lab-elasticsearch
+    environment:
+      - discovery.type=single-node
+      - xpack.security.enabled=false
+      - ES_JAVA_OPTS=-Xms1g -Xmx1g
+    ulimits:
+      memlock:
+        soft: -1
+        hard: -1
+    ports:
+      - "127.0.0.1:9200:9200"
+    networks:
+      - soc
+    healthcheck:
+      test: ["CMD-SHELL", "curl -sf http://localhost:9200/_cluster/health || exit 1"]
+      interval: 20s
+      timeout: 5s
+      retries: 15
+      start_period: 40s
+
+  kibana:
+    image: docker.elastic.co/kibana/kibana:8.15.3
+    container_name: lab-kibana
+    environment:
+      - ELASTICSEARCH_HOSTS=http://elasticsearch:9200
+    ports:
+      - "127.0.0.1:5601:5601"
+    networks:
+      - soc
+    depends_on:
+      elasticsearch:
+        condition: service_healthy
+
+networks:
+  soc:
+    driver: bridge

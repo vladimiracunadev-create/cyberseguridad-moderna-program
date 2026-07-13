@@ -1,0 +1,60 @@
+{"index": {}}
+{"@timestamp": "2026-03-04T09:00:00Z", "source": {"ip": "10.0.10.15", "port": 52344, "geo": {"country_iso_code": "CL"}}, "user": {"name": "ana"}, "event": {"action": "login_success", "category": "authentication", "outcome": "success"}, "host": {"name": "srv-web01"}, "service": {"type": "sshd"}}
+{"index": {}}
+{"@timestamp": "2026-03-04T09:07:00Z", "source": {"ip": "10.0.10.22", "port": 52351, "geo": {"country_iso_code": "CL"}}, "user": {"name": "carlos"}, "event": {"action": "login_success", "category": "authentication", "outcome": "success"}, "host": {"name": "srv-web01"}, "service": {"type": "sshd"}}
+{"index": {}}
+{"@timestamp": "2026-03-04T09:14:00Z", "source": {"ip": "10.0.10.31", "port": 52358, "geo": {"country_iso_code": "CL"}}, "user": {"name": "ana"}, "event": {"action": "login_success", "category": "authentication", "outcome": "success"}, "host": {"name": "srv-app01"}, "service": {"type": "sshd"}}
+{"index": {}}
+{"@timestamp": "2026-03-04T09:21:00Z", "source": {"ip": "10.0.10.15", "port": 52365, "geo": {"country_iso_code": "CL"}}, "user": {"name": "backup"}, "event": {"action": "login_success", "category": "authentication", "outcome": "success"}, "host": {"name": "srv-db01"}, "service": {"type": "sshd"}}
+{"index": {}}
+{"@timestamp": "2026-03-04T09:45:00Z", "source": {"ip": "203.0.113.66", "port": 40000, "geo": {"country_iso_code": "RU"}}, "user": {"name": "root"}, "event": {"action": "login_failed", "category": "authentication", "outcome": "failure"}, "host": {"name": "srv-db01"}, "service": {"type": "sshd"}}
+{"index": {}}
+{"@timestamp": "2026-03-04T09:45:11Z", "source": {"ip": "203.0.113.66", "port": 40011, "geo": {"country_iso_code": "RU"}}, "user": {"name": "admin"}, "event": {"action": "login_failed", "category": "authentication", "outcome": "failure"}, "host": {"name": "srv-db01"}, "service": {"type": "sshd"}}
+{"index": {}}
+{"@timestamp": "2026-03-04T09:45:22Z", "source": {"ip": "203.0.113.66", "port": 40022, "geo": {"country_iso_code": "RU"}}, "user": {"name": "oracle"}, "event": {"action": "login_failed", "category": "authentication", "outcome": "failure"}, "host": {"name": "srv-db01"}, "service": {"type": "sshd"}}
+{"index": {}}
+{"@timestamp": "2026-03-04T09:45:33Z", "source": {"ip": "203.0.113.66", "port": 40033, "geo": {"country_iso_code": "RU"}}, "user": {"name": "postgres"}, "event": {"action": "login_failed", "category": "authentication", "outcome": "failure"}, "host": {"name": "srv-db01"}, "service": {"type": "sshd"}}
+{"index": {}}
+{"@timestamp": "2026-03-04T09:45:44Z", "source": {"ip": "203.0.113.66", "port": 40044, "geo": {"country_iso_code": "RU"}}, "user": {"name": "root"}, "event": {"action": "login_failed", "category": "authentication", "outcome": "failure"}, "host": {"name": "srv-db01"}, "service": {"type": "sshd"}}
+{"index": {}}
+{"@timestamp": "2026-03-04T09:45:55Z", "source": {"ip": "203.0.113.66", "port": 40055, "geo": {"country_iso_code": "RU"}}, "user": {"name": "admin"}, "event": {"action": "login_failed", "category": "authentication", "outcome": "failure"}, "host": {"name": "srv-db01"}, "service": {"type": "sshd"}}
+{"index": {}}
+{"@timestamp": "2026-03-04T09:46:06Z", "source": {"ip": "203.0.113.66", "port": 40066, "geo": {"country_iso_code": "RU"}}, "user": {"name": "root"}, "event": {"action": "login_failed", "category": "authentication", "outcome": "failure"}, "host": {"name": "srv-db01"}, "service": {"type": "sshd"}}
+{"index": {}}
+{"@timestamp": "2026-03-04T09:46:17Z", "source": {"ip": "203.0.113.66", "port": 40077, "geo": {"country_iso_code": "RU"}}, "user": {"name": "test"}, "event": {"action": "login_failed", "category": "authentication", "outcome": "failure"}, "host": {"name": "srv-db01"}, "service": {"type": "sshd"}}
+{"index": {}}
+{"@timestamp": "2026-03-04T09:46:28Z", "source": {"ip": "203.0.113.66", "port": 40088, "geo": {"country_iso_code": "RU"}}, "user": {"name": "ubuntu"}, "event": {"action": "login_failed", "category": "authentication", "outcome": "failure"}, "host": {"name": "srv-db01"}, "service": {"type": "sshd"}}
+{"index": {}}
+{"@timestamp": "2026-03-04T09:46:39Z", "source": {"ip": "203.0.113.66", "port": 40099, "geo": {"country_iso_code": "RU"}}, "user": {"name": "root"}, "event": {"action": "login_failed", "category": "authentication", "outcome": "failure"}, "host": {"name": "srv-db01"}, "service": {"type": "sshd"}}
+{"index": {}}
+{"@timestamp": "2026-03-04T09:46:50Z", "source": {"ip": "203.0.113.66", "port": 40110, "geo": {"country_iso_code": "RU"}}, "user": {"name": "admin"}, "event": {"action": "login_failed", "category": "authentication", "outcome": "failure"}, "host": {"name": "srv-db01"}, "service": {"type": "sshd"}}
+{"index": {}}
+{"@timestamp": "2026-03-04T09:47:01Z", "source": {"ip": "203.0.113.66", "port": 40121, "geo": {"country_iso_code": "RU"}}, "user": {"name": "root"}, "event": {"action": "login_failed", "category": "authentication", "outcome": "failure"}, "host": {"name": "srv-db01"}, "service": {"type": "sshd"}}
+{"index": {}}
+{"@timestamp": "2026-03-04T09:47:12Z", "source": {"ip": "203.0.113.66", "port": 40132, "geo": {"country_iso_code": "RU"}}, "user": {"name": "root"}, "event": {"action": "login_failed", "category": "authentication", "outcome": "failure"}, "host": {"name": "srv-db01"}, "service": {"type": "sshd"}}
+{"index": {}}
+{"@timestamp": "2026-03-04T09:47:23Z", "source": {"ip": "203.0.113.66", "port": 40143, "geo": {"country_iso_code": "RU"}}, "user": {"name": "admin"}, "event": {"action": "login_failed", "category": "authentication", "outcome": "failure"}, "host": {"name": "srv-db01"}, "service": {"type": "sshd"}}
+{"index": {}}
+{"@timestamp": "2026-03-04T09:47:34Z", "source": {"ip": "203.0.113.66", "port": 40154, "geo": {"country_iso_code": "RU"}}, "user": {"name": "git"}, "event": {"action": "login_failed", "category": "authentication", "outcome": "failure"}, "host": {"name": "srv-db01"}, "service": {"type": "sshd"}}
+{"index": {}}
+{"@timestamp": "2026-03-04T09:47:45Z", "source": {"ip": "203.0.113.66", "port": 40165, "geo": {"country_iso_code": "RU"}}, "user": {"name": "root"}, "event": {"action": "login_failed", "category": "authentication", "outcome": "failure"}, "host": {"name": "srv-db01"}, "service": {"type": "sshd"}}
+{"index": {}}
+{"@timestamp": "2026-03-04T09:47:56Z", "source": {"ip": "203.0.113.66", "port": 40176, "geo": {"country_iso_code": "RU"}}, "user": {"name": "root"}, "event": {"action": "login_failed", "category": "authentication", "outcome": "failure"}, "host": {"name": "srv-db01"}, "service": {"type": "sshd"}}
+{"index": {}}
+{"@timestamp": "2026-03-04T09:48:07Z", "source": {"ip": "203.0.113.66", "port": 40187, "geo": {"country_iso_code": "RU"}}, "user": {"name": "admin"}, "event": {"action": "login_failed", "category": "authentication", "outcome": "failure"}, "host": {"name": "srv-db01"}, "service": {"type": "sshd"}}
+{"index": {}}
+{"@timestamp": "2026-03-04T09:48:18Z", "source": {"ip": "203.0.113.66", "port": 40198, "geo": {"country_iso_code": "RU"}}, "user": {"name": "root"}, "event": {"action": "login_failed", "category": "authentication", "outcome": "failure"}, "host": {"name": "srv-db01"}, "service": {"type": "sshd"}}
+{"index": {}}
+{"@timestamp": "2026-03-04T09:48:29Z", "source": {"ip": "203.0.113.66", "port": 40209, "geo": {"country_iso_code": "RU"}}, "user": {"name": "root"}, "event": {"action": "login_failed", "category": "authentication", "outcome": "failure"}, "host": {"name": "srv-db01"}, "service": {"type": "sshd"}}
+{"index": {}}
+{"@timestamp": "2026-03-04T09:49:00Z", "source": {"ip": "203.0.113.66", "port": 41022, "geo": {"country_iso_code": "RU"}}, "user": {"name": "root"}, "event": {"action": "login_success", "category": "authentication", "outcome": "success"}, "host": {"name": "srv-db01"}, "service": {"type": "sshd"}}
+{"index": {}}
+{"@timestamp": "2026-03-04T09:52:00Z", "source": {"ip": "10.0.10.9", "port": 50210, "geo": {"country_iso_code": "CL"}}, "user": {"name": "root"}, "event": {"action": "login_success", "category": "authentication", "outcome": "success"}, "host": {"name": "srv-app01"}, "service": {"type": "sshd"}}
+{"index": {}}
+{"@timestamp": "2026-03-04T10:28:00Z", "source": {"ip": "10.0.10.15", "port": 53028, "geo": {"country_iso_code": "CL"}}, "user": {"name": "ana"}, "event": {"action": "login_success", "category": "authentication", "outcome": "success"}, "host": {"name": "srv-web01"}, "service": {"type": "sshd"}}
+{"index": {}}
+{"@timestamp": "2026-03-04T10:34:00Z", "source": {"ip": "10.0.10.22", "port": 53034, "geo": {"country_iso_code": "CL"}}, "user": {"name": "carlos"}, "event": {"action": "login_success", "category": "authentication", "outcome": "success"}, "host": {"name": "srv-web01"}, "service": {"type": "sshd"}}
+{"index": {}}
+{"@timestamp": "2026-03-04T10:40:00Z", "source": {"ip": "10.0.10.31", "port": 53040, "geo": {"country_iso_code": "CL"}}, "user": {"name": "ana"}, "event": {"action": "login_success", "category": "authentication", "outcome": "success"}, "host": {"name": "srv-app01"}, "service": {"type": "sshd"}}
+{"index": {}}
+{"@timestamp": "2026-03-04T10:46:00Z", "source": {"ip": "10.0.10.15", "port": 53046, "geo": {"country_iso_code": "CL"}}, "user": {"name": "backup"}, "event": {"action": "login_success", "category": "authentication", "outcome": "success"}, "host": {"name": "srv-db01"}, "service": {"type": "sshd"}}

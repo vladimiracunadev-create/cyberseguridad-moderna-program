@@ -1,0 +1,3 @@
+# Los retos y sus soluciones son de Python puro (stdlib): no requieren paquetes.
+# Si quieres experimentar con cifrado real (AES, RSA con claves grandes), instala:
+pycryptodome>=3.20

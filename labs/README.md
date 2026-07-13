@@ -31,9 +31,11 @@ docker compose down -v      # apagar y borrar también los volúmenes/datos
 | Lab | Descripción | Clases relacionadas | Estado |
 |---|---|---|---|
 | [`appsec-web`](appsec-web/README.md) | OWASP Juice Shop + DVWA para practicar el OWASP Top 10 (SQLi, XSS, CSRF, IDOR…) | Parte 4 (086–115) | ✅ Disponible |
-| _(próximamente)_ `blue-team-soc` | Wazuh + generación de telemetría para detección | Parte 8 (181–200) | ⏳ Planificado |
-| _(próximamente)_ `red-team-ad` | Laboratorio de Active Directory vulnerable | Parte 7 (161–180) | ⏳ Planificado |
-| _(próximamente)_ `cripto` | Retos de criptografía aplicada | Parte 2 (046–065) | ⏳ Planificado |
+| [`blue-team-soc`](blue-team-soc/README.md) | Elasticsearch + Kibana con telemetría de un ataque real para cazar y detectar | Parte 8 (181–200) | ✅ Disponible |
+| [`red-team-ad`](red-team-ad/README.md) | Caja de atacante (Impacket/NetExec/BloodHound) + guía GOAD para atacar Active Directory | Parte 7 (161–180) | ✅ Disponible |
+| [`cripto`](cripto/README.md) | Retos de criptografía aplicada en Python puro (XOR, RSA-Fermat, MD5, ECB) | Parte 2 (046–065) | ✅ Disponible |
+
+Además: **[🚩 Retos tipo CTF](../ctf/README.md)** — colección de retos por categoría (web, cripto, redes, forense, OSINT, pwn) con solución.
 
 ## Convención de cada laboratorio
 

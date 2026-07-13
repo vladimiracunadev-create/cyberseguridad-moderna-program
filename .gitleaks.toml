@@ -12,7 +12,9 @@ title = "gitleaks — Ciberseguridad Moderna"
 useDefault = true
 
 [allowlist]
-description = "README de clase con secretos de ejemplo (material didáctico, no reales)"
+description = "Contenido didáctico con secretos/tokens de ejemplo (nunca reales): clases, laboratorios y retos CTF"
 paths = [
   '''^classes/.*\.md$''',
+  '''^labs/.*''',
+  '''^ctf/.*''',
 ]

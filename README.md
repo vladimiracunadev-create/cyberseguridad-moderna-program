@@ -81,12 +81,16 @@ Cada parte sigue explícitamente la secuencia y los énfasis de la literatura de
 
 ## 🧪 Laboratorios ejecutables
 
-Además de las clases, el programa incluye **entornos de práctica en Docker** que se
-levantan con un comando. Empieza por el lab de seguridad web:
+Además de las clases, el programa incluye **entornos de práctica** que se levantan con un
+comando, más una colección de retos tipo CTF:
 
-- 🕸️ **[AppSec Web](labs/appsec-web/README.md)** — OWASP Juice Shop + DVWA para practicar el OWASP Top 10 (SQLi, XSS, IDOR, command injection) ligado a la Parte 4.
+- 🕸️ **[AppSec Web](labs/appsec-web/README.md)** — OWASP Juice Shop + DVWA (OWASP Top 10) · Parte 4.
+- 🛡️ **[Blue Team / SOC](labs/blue-team-soc/README.md)** — Elasticsearch + Kibana con telemetría de un ataque para detección · Parte 8.
+- 🎯 **[Red Team / Active Directory](labs/red-team-ad/README.md)** — caja de atacante + guía GOAD · Parte 7.
+- 🔐 **[Criptografía](labs/cripto/README.md)** — retos con solución en Python (XOR, RSA-Fermat, MD5, ECB) · Parte 2.
+- 🚩 **[Retos tipo CTF](ctf/README.md)** — web, cripto, redes, forense, OSINT y pwn, con writeups.
 
-➡️ Ver todos en **[labs/](labs/README.md)** · (más laboratorios en camino, ver [ROADMAP](ROADMAP.md)).
+➡️ Ver todo en **[labs/](labs/README.md)**.
 
 ## 🚀 Cómo usar el programa
 
