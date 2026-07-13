@@ -122,10 +122,10 @@ Sí, si es irreversible de verdad. Pero anonimizar bien es difícil; la seudonim
 
 ## 🔗 Referencias
 
-- GDPR — Reglamento (UE) 2016/679, arts. 5, 25, 32, 35. https://eur-lex.europa.eu/eli/reg/2016/679/oj
-- ISO/IEC 27701:2019 — Privacy Information Management. https://www.iso.org/standard/71670.html
-- NIST Privacy Framework 1.0. https://www.nist.gov/privacy-framework
-- AEPD — Guías y plantillas de DPIA. https://www.aepd.es/
+- GDPR — Reglamento (UE) 2016/679, arts. 5, 25, 32, 35. <https://eur-lex.europa.eu/eli/reg/2016/679/oj>
+- ISO/IEC 27701:2019 — Privacy Information Management. <https://www.iso.org/standard/71670.html>
+- NIST Privacy Framework 1.0. <https://www.nist.gov/privacy-framework>
+- AEPD — Guías y plantillas de DPIA. <https://www.aepd.es/>
 - (ISC)² CISSP Official Study Guide, dominio 2.
 
 ## ➡️ Siguiente clase

@@ -115,9 +115,9 @@ puede ser ilegal o dañino.
 
 - Hadnagy, C. *Social Engineering: The Science of Human Hacking*. Wiley.
 - Cialdini, R. *Influence: The Psychology of Persuasion*.
-- MITRE ATT&CK — Phishing (T1566). https://attack.mitre.org/techniques/T1566/
-- Social Engineering Framework (Social-Engineer LLC). https://www.social-engineer.org/framework/
-- ENISA — Awareness materials. https://www.enisa.europa.eu/
+- MITRE ATT&CK — Phishing (T1566). <https://attack.mitre.org/techniques/T1566/>
+- Social Engineering Framework (Social-Engineer LLC). <https://www.social-engineer.org/framework/>
+- ENISA — Awareness materials. <https://www.enisa.europa.eu/>
 
 ## ➡️ Siguiente clase
 

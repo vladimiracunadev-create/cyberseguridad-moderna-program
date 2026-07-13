@@ -96,11 +96,11 @@ Es un mapa, no una garantía. Una técnica en verde puede tener una regla frági
 
 ## 🔗 Referencias
 
-- MITRE ATT&CK — https://attack.mitre.org/
-- ATT&CK Navigator — https://mitre-attack.github.io/attack-navigator/
-- Bianco, D. "The Pyramid of Pain" — http://detect-respond.blogspot.com/2013/03/the-pyramid-of-pain.html
-- ATT&CK Data Sources — https://attack.mitre.org/datasources/
-- DeTT&CT — https://github.com/rabobank-cdc/DeTTECT
+- MITRE ATT&CK — <https://attack.mitre.org/>
+- ATT&CK Navigator — <https://mitre-attack.github.io/attack-navigator/>
+- Bianco, D. "The Pyramid of Pain" — <http://detect-respond.blogspot.com/2013/03/the-pyramid-of-pain.html>
+- ATT&CK Data Sources — <https://attack.mitre.org/datasources/>
+- DeTT&CT — <https://github.com/rabobank-cdc/DeTTECT>
 
 ## ➡️ Siguiente clase
 

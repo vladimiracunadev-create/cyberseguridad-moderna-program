@@ -146,9 +146,9 @@ entorno del binario.
 ## 🔗 Referencias
 
 - Andriesse, D. *Practical Binary Analysis*, cap. 9. No Starch Press.
-- Frida — https://frida.re/
-- Qiling Framework — https://qiling.io/
-- Unicorn Engine — https://www.unicorn-engine.org/
+- Frida — <https://frida.re/>
+- Qiling Framework — <https://qiling.io/>
+- Unicorn Engine — <https://www.unicorn-engine.org/>
 
 ## ➡️ Siguiente clase
 

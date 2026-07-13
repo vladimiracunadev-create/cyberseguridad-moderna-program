@@ -73,14 +73,14 @@ pip install r2pipe
 
 2. Renombra y comenta en r2:
 
-   ```
+   ```text
    afvn old_name input     ; renombrar variable
    CCu "clave se compara aqui" @ 0x...   ; comentario
    ```
 
 3. Busca cadenas y sus xrefs:
 
-   ```
+   ```text
    izz            ; todas las strings
    axt @ str.Enter_password   ; quién referencia esa string
    ```
@@ -138,9 +138,9 @@ GDB.
 ## 🔗 Referencias
 
 - Eagle, C. *The IDA Pro Book, 2e*. No Starch Press.
-- radare2 book — https://book.rada.re/
-- Cutter — https://cutter.re/
-- Hex-Rays / IDA — https://hex-rays.com/
+- radare2 book — <https://book.rada.re/>
+- Cutter — <https://cutter.re/>
+- Hex-Rays / IDA — <https://hex-rays.com/>
 
 ## ➡️ Siguiente clase
 

@@ -113,10 +113,10 @@ Porque los errores sutiles (nonces, padding, timing) rompen esquemas que parecen
 
 ## 🔗 Referencias
 
-- Aumasson, *Serious Cryptography*, cap. 1 — https://nostarch.com/serious-cryptography-2nd-edition
+- Aumasson, *Serious Cryptography*, cap. 1 — <https://nostarch.com/serious-cryptography-2nd-edition>
 - Ferguson, Schneier, Kohno, *Cryptography Engineering*, cap. 1–2.
 - Singh, *The Code Book* (divulgación histórica).
-- NIST, "Cryptographic Standards and Guidelines" — https://csrc.nist.gov/
+- NIST, "Cryptographic Standards and Guidelines" — <https://csrc.nist.gov/>
 
 ## ➡️ Siguiente clase
 

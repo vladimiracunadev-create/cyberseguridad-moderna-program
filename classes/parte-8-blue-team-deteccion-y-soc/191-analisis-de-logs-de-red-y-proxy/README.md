@@ -102,10 +102,10 @@ Rara vez y por poco tiempo. Los metadatos de Zeek cubren la mayoría de casos de
 ## 🔗 Referencias
 
 - Sanders, C. y Smith, J. *Applied Network Security Monitoring*. Syngress.
-- Zeek Documentation — https://docs.zeek.org/
-- RITA — https://github.com/activecm/rita
-- JA3 (Salesforce) — https://github.com/salesforce/ja3
-- Suricata Documentation — https://docs.suricata.io/
+- Zeek Documentation — <https://docs.zeek.org/>
+- RITA — <https://github.com/activecm/rita>
+- JA3 (Salesforce) — <https://github.com/salesforce/ja3>
+- Suricata Documentation — <https://docs.suricata.io/>
 
 ## ➡️ Siguiente clase
 

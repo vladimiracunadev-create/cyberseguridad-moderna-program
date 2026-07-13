@@ -99,10 +99,10 @@ Cuando su ratio de falsos positivos es insostenible, la técnica ya no aplica, o
 
 ## 🔗 Referencias
 
-- SigmaHQ y Sigma Specification — https://github.com/SigmaHQ/sigma
-- Atomic Red Team — https://github.com/redcanaryco/atomic-red-team
-- MITRE ATT&CK — https://attack.mitre.org/
-- Palantir, "Alerting and Detection Strategy Framework" — https://github.com/palantir/alerting-detection-strategy-framework
+- SigmaHQ y Sigma Specification — <https://github.com/SigmaHQ/sigma>
+- Atomic Red Team — <https://github.com/redcanaryco/atomic-red-team>
+- MITRE ATT&CK — <https://attack.mitre.org/>
+- Palantir, "Alerting and Detection Strategy Framework" — <https://github.com/palantir/alerting-detection-strategy-framework>
 - Splunk, "Detection Engineering" (recursos formativos).
 
 ## ➡️ Siguiente clase

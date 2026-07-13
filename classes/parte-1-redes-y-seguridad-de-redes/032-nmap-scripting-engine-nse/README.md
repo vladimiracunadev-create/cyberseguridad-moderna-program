@@ -44,9 +44,11 @@ Al finalizar, el alumno podrá:
 
 - **Nmap 7.x** (incluye ~600 scripts NSE en `/usr/share/nmap/scripts/`).
 - Actualiza la base de datos:
+
   ```bash
   sudo nmap --script-updatedb
   ```
+
 - Objetivos de laboratorio: un servidor web, un SMB, un servicio con TLS. Contenedores deliberadamente vulnerables (aislados) para practicar scripts `vuln`.
 
 > ⚠️ **Nota ética:** las categorías `intrusive`, `brute`, `exploit` y `dos` pueden dañar o bloquear servicios y realizan acciones ofensivas. Úsalas **solo** en sistemas propios o con autorización explícita y alcance definido. Nunca contra terceros.
@@ -54,38 +56,55 @@ Al finalizar, el alumno podrá:
 ## 🧪 Laboratorio guiado
 
 1. **Scripts por defecto** (categoría `default`, seguros y útiles):
+
    ```bash
    sudo nmap -sC 192.168.56.101
    ```
+
 2. **Enumeración HTTP**:
+
    ```bash
    sudo nmap -p80 --script http-title,http-headers,http-enum 192.168.56.101
    ```
+
 3. **Enumeración SMB**:
+
    ```bash
    sudo nmap -p445 --script smb-os-discovery,smb-enum-shares 192.168.56.101
    ```
+
 4. **TLS/certificados**:
+
    ```bash
    sudo nmap -p443 --script ssl-cert,ssl-enum-ciphers 192.168.56.101
    ```
+
 5. **Categoría vuln** (solo en tu laboratorio):
+
    ```bash
    sudo nmap -sV --script vuln 192.168.56.101
    ```
+
 6. **Pasar argumentos** (ejemplo con enumeración HTTP y user-agent):
+
    ```bash
    sudo nmap -p80 --script http-enum --script-args http.useragent="Lab-Scanner" 192.168.56.101
    ```
+
 7. **Consultar ayuda** de un script:
+
    ```bash
    nmap --script-help ssl-enum-ciphers
    ```
+
 8. **Selección por expresión** (todos los `http-*` menos los intrusivos):
+
    ```bash
    sudo nmap -p80 --script "http-* and not intrusive" 192.168.56.101
    ```
+
 9. **Escribe un script NSE mínimo** `hello.nse`:
+
    ```lua
    description = "Devuelve un saludo por cada puerto abierto"
    author = "alumno"
@@ -95,7 +114,9 @@ Al finalizar, el alumno podrá:
      return "Hola desde el puerto " .. port.number
    end
    ```
+
    Ejecútalo:
+
    ```bash
    sudo nmap -p80 --script ./hello.nse 192.168.56.101
    ```

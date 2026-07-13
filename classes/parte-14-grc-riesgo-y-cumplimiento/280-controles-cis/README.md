@@ -114,10 +114,10 @@ Los Controles se revisan cada pocos años (v8 en 2021, v8.1 en 2024); los Benchm
 
 ## 🔗 Referencias
 
-- CIS Critical Security Controls v8.1. https://www.cisecurity.org/controls/v8-1
-- CIS Benchmarks. https://www.cisecurity.org/cis-benchmarks
-- CIS Controls Navigator (mapeos). https://www.cisecurity.org/controls/cis-controls-navigator
-- Lynis (auditoría de sistemas). https://cisofy.com/lynis/
+- CIS Critical Security Controls v8.1. <https://www.cisecurity.org/controls/v8-1>
+- CIS Benchmarks. <https://www.cisecurity.org/cis-benchmarks>
+- CIS Controls Navigator (mapeos). <https://www.cisecurity.org/controls/cis-controls-navigator>
+- Lynis (auditoría de sistemas). <https://cisofy.com/lynis/>
 - (ISC)² CISSP Official Study Guide, dominio 1.
 
 ## ➡️ Siguiente clase

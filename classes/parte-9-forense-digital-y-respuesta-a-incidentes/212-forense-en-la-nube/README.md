@@ -54,26 +54,36 @@ Al finalizar, el alumno podrá:
 > Usa tu propia cuenta de nube en nivel gratuito. Simula el "incidente" tú mismo.
 
 1. Genera actividad de prueba y consúltala en CloudTrail (AWS):
+
    ```bash
    aws cloudtrail lookup-events --lookup-attributes AttributeKey=EventName,AttributeValue=RunInstances
    ```
+
 2. Busca acciones sospechosas por identidad:
+
    ```bash
    aws cloudtrail lookup-events --lookup-attributes AttributeKey=Username,AttributeValue=usuario-prueba
    ```
+
 3. Adquiere evidencia de un volumen creando un snapshot:
+
    ```bash
    aws ec2 create-snapshot --volume-id vol-0123456789 --description "Evidencia CASO-2026-01"
    ```
+
 4. Aísla la instancia comprometida cambiando su security group a uno sin tráfico (sin apagarla, para no perder RAM).
 5. En Azure, consulta inicios de sesión sospechosos en el Sign-in Log con KQL:
+
    ```kql
    SigninLogs | where ResultType != 0 | project TimeGenerated, UserPrincipalName, IPAddress, ResultDescription
    ```
+
 6. En GCP, exporta logs de auditoría:
+
    ```bash
    gcloud logging read 'logName:"cloudaudit.googleapis.com"' --limit 50 --format json
    ```
+
 7. Reconstruye el compromiso: identifica la credencial usada, la IP de origen, las acciones realizadas y los recursos afectados.
 8. Preserva: exporta los logs relevantes a un bucket con *object lock* / retención para que no se alteren.
 
@@ -118,10 +128,10 @@ Exporta a almacenamiento con retención/immutabilidad (object lock) o a una cuen
 
 ## 🔗 Referencias
 
-- NIST IR 8006 — Cloud Forensic Science Challenges: https://csrc.nist.gov/publications/detail/nistir/8006/final
-- AWS CloudTrail: https://docs.aws.amazon.com/cloudtrail/
-- Azure Monitor / Sign-in logs: https://learn.microsoft.com/azure/azure-monitor/
-- GCP Cloud Audit Logs: https://cloud.google.com/logging/docs/audit
+- NIST IR 8006 — Cloud Forensic Science Challenges: <https://csrc.nist.gov/publications/detail/nistir/8006/final>
+- AWS CloudTrail: <https://docs.aws.amazon.com/cloudtrail/>
+- Azure Monitor / Sign-in logs: <https://learn.microsoft.com/azure/azure-monitor/>
+- GCP Cloud Audit Logs: <https://cloud.google.com/logging/docs/audit>
 
 ## ➡️ Siguiente clase
 

@@ -107,9 +107,9 @@ Porque compromete claves y nonces de golpe; un CSPRNG débil hace inútil el mej
 
 ## 🔗 Referencias
 
-- NIST SP 800-90A Rev.1 (DRBG) — https://csrc.nist.gov/publications/detail/sp/800-90a/rev-1/final
+- NIST SP 800-90A Rev.1 (DRBG) — <https://csrc.nist.gov/publications/detail/sp/800-90a/rev-1/final>
 - Aumasson, *Serious Cryptography*, cap. 2.
-- Heninger et al., "Mining Your Ps and Qs" — https://factorable.net/
+- Heninger et al., "Mining Your Ps and Qs" — <https://factorable.net/>
 - Debian OpenSSL predictable PRNG (CVE-2008-0166).
 
 ## ➡️ Siguiente clase

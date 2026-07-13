@@ -73,10 +73,10 @@ Al terminar la parte, el alumno podrá:
 - Ligh, Case, Levy, Walters — *The Art of Memory Forensics*, Wiley 2014.
 - Carrier — *File System Forensic Analysis*, Addison-Wesley 2005.
 - Roberts, Brown — *Intelligence-Driven Incident Response*, O'Reilly 2017.
-- NIST SP 800-61 Rev. 2 — https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final
-- NIST SP 800-86 — https://csrc.nist.gov/publications/detail/sp/800-86/final
-- The Sleuth Kit & Autopsy — https://www.sleuthkit.org/
-- Volatility Foundation — https://www.volatilityfoundation.org/
+- NIST SP 800-61 Rev. 2 — <https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final>
+- NIST SP 800-86 — <https://csrc.nist.gov/publications/detail/sp/800-86/final>
+- The Sleuth Kit & Autopsy — <https://www.sleuthkit.org/>
+- Volatility Foundation — <https://www.volatilityfoundation.org/>
 
 ## ▶️ Empezar
 

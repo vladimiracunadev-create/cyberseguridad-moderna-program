@@ -49,6 +49,7 @@ Al finalizar, el alumno podrá:
 - Practica en una VM: una regla mal hecha puede dejarte sin SSH.
 
 > ⚠️ **Nota:** trabaja en una VM con consola alternativa (no solo SSH). Ten a mano una tarea programada que limpie las reglas por si te bloqueas:
+>
 > ```bash
 > echo "iptables -F" | at now + 5 minutes
 > ```
@@ -56,29 +57,40 @@ Al finalizar, el alumno podrá:
 ## 🧪 Laboratorio guiado — iptables
 
 1. **Ver reglas actuales**:
+
    ```bash
    sudo iptables -L -n -v
    ```
+
 2. **Permitir loopback y conexiones establecidas** (siempre primero):
+
    ```bash
    sudo iptables -A INPUT -i lo -j ACCEPT
    sudo iptables -A INPUT -m conntrack --ctstate ESTABLISHED,RELATED -j ACCEPT
    ```
+
 3. **Permitir SSH y HTTP entrantes**:
+
    ```bash
    sudo iptables -A INPUT -p tcp --dport 22 -m conntrack --ctstate NEW -j ACCEPT
    sudo iptables -A INPUT -p tcp --dport 80 -m conntrack --ctstate NEW -j ACCEPT
    ```
+
 4. **Registrar y denegar el resto**:
+
    ```bash
    sudo iptables -A INPUT -j LOG --log-prefix "FW-DROP: " --log-level 4
    sudo iptables -P INPUT DROP
    ```
+
 5. **Inspecciona conexiones**:
+
    ```bash
    sudo conntrack -L
    ```
+
 6. **Persistir**:
+
    ```bash
    sudo netfilter-persistent save
    ```
@@ -86,18 +98,23 @@ Al finalizar, el alumno podrá:
 ## 🧪 Laboratorio guiado — nftables
 
 7. **Crear tabla y cadena con política drop**:
+
    ```bash
    sudo nft add table inet filtro
    sudo nft add chain inet filtro entrada '{ type filter hook input priority 0; policy drop; }'
    ```
+
 8. **Reglas equivalentes**:
+
    ```bash
    sudo nft add rule inet filtro entrada iif lo accept
    sudo nft add rule inet filtro entrada ct state established,related accept
    sudo nft add rule inet filtro entrada tcp dport {22, 80} ct state new accept
    sudo nft add rule inet filtro entrada log prefix "FW-DROP: " drop
    ```
+
 9. **Ver el ruleset y persistir**:
+
    ```bash
    sudo nft list ruleset | sudo tee /etc/nftables.conf
    sudo systemctl enable --now nftables

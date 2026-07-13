@@ -51,35 +51,50 @@ Al finalizar, el alumno podrá:
 ## 🧪 Laboratorio guiado
 
 1. **Detección de versión** básica:
+
    ```bash
    sudo nmap -sV 192.168.56.101
    ```
+
 2. **Aumenta intensidad** para servicios difíciles:
+
    ```bash
    sudo nmap -sV --version-intensity 9 192.168.56.101
    ```
+
 3. **Detección de OS**:
+
    ```bash
    sudo nmap -O 192.168.56.101
    ```
+
 4. **Fuerza conjeturas** cuando no hay coincidencia exacta:
+
    ```bash
    sudo nmap -O --osscan-guess 192.168.56.101
    ```
+
 5. **Escaneo agresivo** (versión + OS + scripts por defecto + traceroute):
+
    ```bash
    sudo nmap -A 192.168.56.101
    ```
+
 6. **Limita a puertos abiertos conocidos** para ir más rápido:
+
    ```bash
    sudo nmap -sV -p 22,80,443 192.168.56.101
    ```
+
 7. **Extrae los CPE** de la salida XML:
+
    ```bash
    sudo nmap -sV -oX serv.xml 192.168.56.101
    grep -o 'cpe:[^<]*' serv.xml | sort -u
    ```
+
 8. **Correlaciona** una versión con exploits conocidos (offline, informativo):
+
    ```bash
    searchsploit "OpenSSH 7.2"
    ```

@@ -102,11 +102,11 @@ No hay un "evento PtH", pero su firma es un patrón: logon NTLM tipo 3 con crede
 
 ## 🔗 Referencias
 
-- MITRE ATT&CK, Lateral Movement — https://attack.mitre.org/tactics/TA0008/
+- MITRE ATT&CK, Lateral Movement — <https://attack.mitre.org/tactics/TA0008/>
 - Murdoch, D. *Blue Team Handbook: SOC, SIEM, and Threat Hunting Use Cases*.
-- Microsoft, "Securing lateral movement paths" — https://learn.microsoft.com/
-- SpecterOps, BloodHound docs — https://bloodhound.readthedocs.io/
-- JPCERT/CC, "Detecting Lateral Movement through Tracking Event Logs" — https://jpcertcc.github.io/ToolAnalysisResultSheet/
+- Microsoft, "Securing lateral movement paths" — <https://learn.microsoft.com/>
+- SpecterOps, BloodHound docs — <https://bloodhound.readthedocs.io/>
+- JPCERT/CC, "Detecting Lateral Movement through Tracking Event Logs" — <https://jpcertcc.github.io/ToolAnalysisResultSheet/>
 
 ## ➡️ Siguiente clase
 

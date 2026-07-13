@@ -96,10 +96,10 @@ Ayuda mucho porque da TTPs atómicos reproducibles (Clase 180), pero puedes ejec
 
 ## 🔗 Referencias
 
-- MITRE ATT&CK — *Detections & Data Sources*. https://attack.mitre.org/datasources/
+- MITRE ATT&CK — *Detections & Data Sources*. <https://attack.mitre.org/datasources/>
 - SANS — *Purple Team methodology* / cursos SEC599.
-- Atomic Red Team. https://github.com/redcanaryco/atomic-red-team
-- Sysmon config (SwiftOnSecurity). https://github.com/SwiftOnSecurity/sysmon-config
+- Atomic Red Team. <https://github.com/redcanaryco/atomic-red-team>
+- Sysmon config (SwiftOnSecurity). <https://github.com/SwiftOnSecurity/sysmon-config>
 
 ## ➡️ Siguiente clase
 

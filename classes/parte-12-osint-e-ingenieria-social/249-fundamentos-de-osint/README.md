@@ -112,11 +112,11 @@ sistemas privados ni para manipular a personas fuera de un engagement autorizado
 
 ## 🔗 Referencias
 
-- Bazzell, M. *Open Source Intelligence Techniques*. https://inteltechniques.com/book1.html
-- MITRE ATT&CK — Reconnaissance (TA0043). https://attack.mitre.org/tactics/TA0043/
-- OSINT Framework. https://osintframework.com/
-- Trace Labs OSINT VM. https://www.tracelabs.org/initiatives/osint-vm
-- Have I Been Pwned. https://haveibeenpwned.com/
+- Bazzell, M. *Open Source Intelligence Techniques*. <https://inteltechniques.com/book1.html>
+- MITRE ATT&CK — Reconnaissance (TA0043). <https://attack.mitre.org/tactics/TA0043/>
+- OSINT Framework. <https://osintframework.com/>
+- Trace Labs OSINT VM. <https://www.tracelabs.org/initiatives/osint-vm>
+- Have I Been Pwned. <https://haveibeenpwned.com/>
 
 ## ➡️ Siguiente clase
 

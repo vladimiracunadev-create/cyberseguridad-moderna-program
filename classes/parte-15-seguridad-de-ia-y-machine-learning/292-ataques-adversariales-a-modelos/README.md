@@ -61,6 +61,7 @@ Todo sobre un **modelo y dataset propios**.
 1. **Entrena o carga un clasificador.** Una CNN sobre MNIST alcanza >98% en test limpio. Guarda `model.pt`.
 
 2. **Envuelve el modelo con ART.**
+
    ```python
    from art.estimators.classification import PyTorchClassifier
    clf = PyTorchClassifier(model=model, loss=loss_fn,
@@ -71,11 +72,13 @@ Todo sobre un **modelo y dataset propios**.
 3. **Mide la precisión limpia** sobre el test set y anótala como línea base.
 
 4. **Genera FGSM.**
+
    ```python
    from art.attacks.evasion import FastGradientMethod
    atk = FastGradientMethod(estimator=clf, eps=0.2)
    x_adv = atk.generate(x=x_test)
    ```
+
    Evalúa la precisión sobre `x_adv`: debería desplomarse.
 
 5. **Genera PGD** (`ProjectedGradientDescent`, `eps=0.2`, `max_iter=40`) y compara: PGD suele ser más efectivo que FGSM con el mismo ε.
@@ -85,11 +88,13 @@ Todo sobre un **modelo y dataset propios**.
 7. **Ataque dirigido.** Fuerza que un "3" se clasifique como "8" (`targeted=True`) y verifica visualmente que la imagen sigue pareciendo un 3.
 
 8. **Defiende con entrenamiento adversarial.**
+
    ```python
    from art.defences.trainer import AdversarialTrainerMadryPGD
    trainer = AdversarialTrainerMadryPGD(clf, eps=0.2)
    trainer.fit(x_train, y_train)
    ```
+
    Reevalúa: la precisión adversarial sube, la limpia baja un poco. Documenta el trade-off.
 
 ## ✍️ Ejercicios
@@ -133,11 +138,11 @@ Perturbaciones que sobreviven a la captura por cámara: pegatinas en señales de
 
 ## 🔗 Referencias
 
-- Goodfellow, Shlens & Szegedy, "Explaining and Harnessing Adversarial Examples", ICLR 2015 — https://arxiv.org/abs/1412.6572
-- Madry et al., "Towards Deep Learning Models Resistant to Adversarial Attacks", ICLR 2018 — https://arxiv.org/abs/1706.06083
-- Carlini & Wagner, "Towards Evaluating the Robustness of Neural Networks", 2017 — https://arxiv.org/abs/1608.04644
-- Adversarial Robustness Toolbox — https://github.com/Trusted-AI/adversarial-robustness-toolbox
-- MITRE ATLAS, técnica "Evade ML Model" — https://atlas.mitre.org/
+- Goodfellow, Shlens & Szegedy, "Explaining and Harnessing Adversarial Examples", ICLR 2015 — <https://arxiv.org/abs/1412.6572>
+- Madry et al., "Towards Deep Learning Models Resistant to Adversarial Attacks", ICLR 2018 — <https://arxiv.org/abs/1706.06083>
+- Carlini & Wagner, "Towards Evaluating the Robustness of Neural Networks", 2017 — <https://arxiv.org/abs/1608.04644>
+- Adversarial Robustness Toolbox — <https://github.com/Trusted-AI/adversarial-robustness-toolbox>
+- MITRE ATLAS, técnica "Evade ML Model" — <https://atlas.mitre.org/>
 
 ## ➡️ Siguiente clase
 

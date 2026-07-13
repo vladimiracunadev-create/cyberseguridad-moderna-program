@@ -1,0 +1,21 @@
+{
+  // Configuración de markdownlint-cli2 para el Programa de Ciberseguridad Moderna.
+  // Se desactivan reglas puramente estilísticas (longitud de línea, HTML en
+  // línea de los badges, etc.) y se mantienen las reglas estructurales que
+  // detectan Markdown realmente roto.
+  "config": {
+    "default": true,
+    "MD013": false,        // longitud de línea: la prosa técnica lleva líneas largas
+    "MD033": false,        // HTML en línea: los badges y bloques <div align> lo usan
+    "MD041": false,        // primer encabezado: el README abre con <div>/badges
+    "MD024": { "siblings_only": true }, // permite encabezados repetidos en secciones distintas
+    "MD036": false,        // énfasis como encabezado: las FAQ usan **❓ pregunta**
+    "MD026": false,        // puntuación final en encabezados
+    "MD029": false,        // estilo de listas ordenadas
+    "MD007": false,        // sangría de listas
+    "MD012": false,        // líneas en blanco múltiples
+    "MD060": false         // estilo de columnas de tabla (subjetivo)
+  },
+  "globs": ["**/*.md"],
+  "ignores": ["node_modules", ".git"]
+}

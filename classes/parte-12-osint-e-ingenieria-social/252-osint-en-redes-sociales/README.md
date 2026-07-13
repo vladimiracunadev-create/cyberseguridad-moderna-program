@@ -113,10 +113,10 @@ El pattern of life y las fotos con metadatos/entorno visible (badges, matrícula
 
 ## 🔗 Referencias
 
-- Bazzell, M. *Open Source Intelligence Techniques*. https://inteltechniques.com/book1.html
-- Bellingcat — Online Investigation Toolkit. https://www.bellingcat.com/
-- WhatsMyName. https://github.com/WebBreacher/WhatsMyName
-- OSINT Framework — Social Networks. https://osintframework.com/
+- Bazzell, M. *Open Source Intelligence Techniques*. <https://inteltechniques.com/book1.html>
+- Bellingcat — Online Investigation Toolkit. <https://www.bellingcat.com/>
+- WhatsMyName. <https://github.com/WebBreacher/WhatsMyName>
+- OSINT Framework — Social Networks. <https://osintframework.com/>
 
 ## ➡️ Siguiente clase
 

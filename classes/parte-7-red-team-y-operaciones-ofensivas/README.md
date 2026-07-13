@@ -67,12 +67,12 @@ Al terminar la parte, el alumno podrá:
 
 ## 🔗 Referencias de la parte
 
-- Vest, J. & Tubberville, J. *Red Team Development and Operations*. https://redteam.guide/
-- MITRE ATT&CK. https://attack.mitre.org/ · MITRE Engenuity CTID Adversary Emulation Library. https://github.com/center-for-threat-informed-defense/adversary_emulation_library
-- The Hacker Recipes (AD/Kerberos). https://www.thehacker.recipes/
-- SpecterOps — BloodHound. https://bloodhound.specterops.io/ · https://github.com/SpecterOps/BloodHound
-- Atomic Red Team. https://github.com/redcanaryco/atomic-red-team · MITRE Caldera. https://caldera.mitre.org/
-- GOAD — Game of Active Directory. https://github.com/Orange-Cyberdefense/GOAD
+- Vest, J. & Tubberville, J. *Red Team Development and Operations*. <https://redteam.guide/>
+- MITRE ATT&CK. <https://attack.mitre.org/> · MITRE Engenuity CTID Adversary Emulation Library. <https://github.com/center-for-threat-informed-defense/adversary_emulation_library>
+- The Hacker Recipes (AD/Kerberos). <https://www.thehacker.recipes/>
+- SpecterOps — BloodHound. <https://bloodhound.specterops.io/> · <https://github.com/SpecterOps/BloodHound>
+- Atomic Red Team. <https://github.com/redcanaryco/atomic-red-team> · MITRE Caldera. <https://caldera.mitre.org/>
+- GOAD — Game of Active Directory. <https://github.com/Orange-Cyberdefense/GOAD>
 
 ## ▶️ Empezar
 

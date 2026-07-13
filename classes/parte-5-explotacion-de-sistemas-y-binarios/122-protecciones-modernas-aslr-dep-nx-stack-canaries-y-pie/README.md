@@ -137,9 +137,9 @@ además el propio ejecutable.
 ## 🔗 Referencias
 
 - Andriesse, D. *Practical Binary Analysis*. No Starch Press.
-- checksec.sh — https://github.com/slimm609/checksec.sh
-- Linux ASLR (randomize_va_space) — https://www.kernel.org/doc/Documentation/sysctl/kernel.txt
-- GCC stack protector — https://gcc.gnu.org/onlinedocs/gcc/Instrumentation-Options.html
+- checksec.sh — <https://github.com/slimm609/checksec.sh>
+- Linux ASLR (randomize_va_space) — <https://www.kernel.org/doc/Documentation/sysctl/kernel.txt>
+- GCC stack protector — <https://gcc.gnu.org/onlinedocs/gcc/Instrumentation-Options.html>
 
 ## ➡️ Siguiente clase
 

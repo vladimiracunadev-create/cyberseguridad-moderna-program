@@ -105,11 +105,11 @@ una página falsa.
 
 ## 🔗 Referencias
 
-- NIST SP 800-50 — Awareness and Training. https://csrc.nist.gov/pubs/sp/800/50/final
-- DMARC.org. https://dmarc.org/
-- FIDO Alliance — Passkeys. https://fidoalliance.org/passkeys/
-- CISA — Avoiding Social Engineering and Phishing. https://www.cisa.gov/
-- ENISA — Cybersecurity awareness. https://www.enisa.europa.eu/
+- NIST SP 800-50 — Awareness and Training. <https://csrc.nist.gov/pubs/sp/800/50/final>
+- DMARC.org. <https://dmarc.org/>
+- FIDO Alliance — Passkeys. <https://fidoalliance.org/passkeys/>
+- CISA — Avoiding Social Engineering and Phishing. <https://www.cisa.gov/>
+- ENISA — Cybersecurity awareness. <https://www.enisa.europa.eu/>
 
 ## ➡️ Siguiente clase
 

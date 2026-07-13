@@ -52,15 +52,19 @@ Al finalizar, el alumno podrá:
 ## 🧪 Laboratorio guiado
 
 1. **Instala Atomic Red Team:**
+
    ```powershell
    IEX (IWR 'https://raw.githubusercontent.com/redcanaryco/invoke-atomicredteam/master/install-atomicredteam.ps1' -UseBasicParsing)
    Install-AtomicRedTeam -getAtomics
    ```
+
 2. **Ejecuta un test atómico.** Lanza un test de una técnica de esta parte, p. ej. Kerberoasting o `T1059.001`:
+
    ```powershell
    Invoke-AtomicTest T1558.003 -ShowDetails
    Invoke-AtomicTest T1558.003
    ```
+
    Luego limpia con `-Cleanup`.
 3. **Valida la detección.** Busca en tu SIEM/EDR el evento asociado y confirma si hubo alerta.
 4. **Despliega Caldera.** Arranca el server (`python server.py --insecure`), abre la consola y despliega un agente (Sandcat) en una VM del lab.
@@ -105,10 +109,10 @@ No. Automatiza la emulación repetible y la validación de detecciones, pero la 
 
 ## 🔗 Referencias
 
-- Atomic Red Team (Red Canary). https://github.com/redcanaryco/atomic-red-team · https://atomicredteam.io/
-- Invoke-AtomicRedTeam. https://github.com/redcanaryco/invoke-atomicredteam
-- MITRE Caldera. https://caldera.mitre.org/ · https://github.com/mitre/caldera
-- MITRE ATT&CK. https://attack.mitre.org/
+- Atomic Red Team (Red Canary). <https://github.com/redcanaryco/atomic-red-team> · <https://atomicredteam.io/>
+- Invoke-AtomicRedTeam. <https://github.com/redcanaryco/invoke-atomicredteam>
+- MITRE Caldera. <https://caldera.mitre.org/> · <https://github.com/mitre/caldera>
+- MITRE ATT&CK. <https://attack.mitre.org/>
 
 ## ➡️ Siguiente clase
 

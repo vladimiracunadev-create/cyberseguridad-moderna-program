@@ -57,10 +57,12 @@ Al finalizar, el alumno podrá:
 
 1. **Prepara la plantilla de notas.** Crea en Obsidian un nodo por máquina con secciones: Recon, Servicios, Vulnerabilidades, Foothold, PrivEsc, Loot, Screenshots.
 2. **Enumeración de puertos.** Lanza un escaneo completo:
+
    ```bash
    nmap -p- --min-rate 2000 -oN nmap-full.txt 10.10.10.10
    nmap -p 22,80,445 -sVC -oN nmap-serv.txt 10.10.10.10
    ```
+
 3. **Enumeración de servicios.** Para HTTP: `ffuf -u http://10.10.10.10/FUZZ -w /usr/share/wordlists/dirb/common.txt`. Para SMB: `enum4linux-ng 10.10.10.10`.
 4. **Identifica el vector.** Cruza versiones con `searchsploit` y valida manualmente antes de lanzar nada.
 5. **Consigue foothold.** Obtén una shell de usuario; documenta el comando exacto y captura `local.txt`.

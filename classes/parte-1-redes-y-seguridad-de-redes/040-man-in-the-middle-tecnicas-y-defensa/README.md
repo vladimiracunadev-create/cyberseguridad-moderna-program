@@ -53,11 +53,13 @@ Al finalizar, el alumno podrá:
 
 1. **Posiciónate** como MitM por ARP spoofing (repaso de la clase 039) con bettercap y activa el sniffing.
 2. **Intercepta HTTP** con mitmproxy en modo transparente:
+
    ```bash
    sudo sysctl -w net.ipv4.ip_forward=1
    sudo iptables -t nat -A PREROUTING -i eth0 -p tcp --dport 80 -j REDIRECT --to-port 8080
    mitmproxy --mode transparent --listen-port 8080
    ```
+
    Navega desde la víctima a tu servidor HTTP de laboratorio y observa/modifica las peticiones.
 3. **Prueba SSL stripping** contra el servidor **sin** HSTS y observa que la conexión cae a HTTP.
 4. **Repite contra el servidor con HSTS** y comprueba que el navegador **rechaza** el downgrade: el ataque falla.

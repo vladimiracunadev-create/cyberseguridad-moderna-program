@@ -106,9 +106,9 @@ No; garantiza quién lo firmó y que no cambió. La veracidad del contenido es o
 
 ## 🔗 Referencias
 
-- NIST FIPS 186-5 (firmas) — https://csrc.nist.gov/publications/detail/fips/186/5/final
-- RFC 8032 (EdDSA) — https://www.rfc-editor.org/rfc/rfc8032
-- RFC 6979 (nonce determinista para ECDSA) — https://www.rfc-editor.org/rfc/rfc6979
+- NIST FIPS 186-5 (firmas) — <https://csrc.nist.gov/publications/detail/fips/186/5/final>
+- RFC 8032 (EdDSA) — <https://www.rfc-editor.org/rfc/rfc8032>
+- RFC 6979 (nonce determinista para ECDSA) — <https://www.rfc-editor.org/rfc/rfc6979>
 - Aumasson, *Serious Cryptography*, cap. 10–12.
 
 ## ➡️ Siguiente clase

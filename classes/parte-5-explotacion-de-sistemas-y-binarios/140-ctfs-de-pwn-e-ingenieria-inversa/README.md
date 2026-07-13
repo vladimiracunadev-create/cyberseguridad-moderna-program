@@ -137,10 +137,10 @@ research de vulnerabilidades y el pentesting avanzado.
 
 ## 🔗 Referencias
 
-- pwn.college — https://pwn.college/
-- picoCTF — https://picoctf.org/
-- ROP Emporium — https://ropemporium.com/
-- CTFtime (calendario y writeups) — https://ctftime.org/
+- pwn.college — <https://pwn.college/>
+- picoCTF — <https://picoctf.org/>
+- ROP Emporium — <https://ropemporium.com/>
+- CTFtime (calendario y writeups) — <https://ctftime.org/>
 
 ## ➡️ Siguiente clase
 

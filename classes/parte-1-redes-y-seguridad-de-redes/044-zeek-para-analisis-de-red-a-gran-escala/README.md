@@ -52,29 +52,40 @@ Al finalizar, el alumno podrá:
 ## 🧪 Laboratorio guiado
 
 1. **Procesa un pcap** y genera los logs:
+
    ```bash
    mkdir zeek-out && cd zeek-out
    zeek -r /tmp/lab027.pcapng
    ls    # conn.log dns.log http.log ssl.log files.log ...
    ```
+
 2. **Inspecciona conexiones** con `zeek-cut`:
+
    ```bash
    cat conn.log | zeek-cut id.orig_h id.resp_h id.resp_p proto service duration orig_bytes resp_bytes
    ```
+
 3. **Analiza DNS**:
+
    ```bash
    cat dns.log | zeek-cut query qtype_name answers | sort | uniq -c | sort -rn | head
    ```
+
 4. **Analiza HTTP** (hosts y URIs solicitados):
+
    ```bash
    cat http.log | zeek-cut host uri method status_code | head
    ```
+
 5. **Extrae archivos** del tráfico con el script incorporado:
+
    ```bash
    zeek -r /tmp/lab027.pcapng /opt/zeek/share/zeek/policy/frameworks/files/extract-all-files.zeek
    ls extract_files/
    ```
+
 6. **Escribe un script de detección** `deteccion.zeek` que emita un notice ante user-agents sospechosos:
+
    ```zeek
    @load base/protocols/http
    event http_request(c: connection, method: string, original_URI: string,
@@ -85,12 +96,16 @@ Al finalizar, el alumno podrá:
                $conn=c]);
    }
    ```
+
    Ejecútalo:
+
    ```bash
    zeek -r /tmp/lab027.pcapng ./deteccion.zeek
    cat notice.log | zeek-cut msg
    ```
+
 7. **Análisis en vivo** (opcional):
+
    ```bash
    sudo zeek -i eth0
    ```

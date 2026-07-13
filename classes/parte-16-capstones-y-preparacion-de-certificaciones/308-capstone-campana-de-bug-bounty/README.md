@@ -56,9 +56,11 @@ Al finalizar, el alumno podrá:
 
 1. **Elige programa y lee el scope.** Anota activos en scope, exclusiones, tipos de bug aceptados y el safe harbor.
 2. **Reconocimiento pasivo.** Enumera subdominios con `subfinder`/`amass` y resuélvelos con `httpx` (respetando scope):
+
    ```bash
    subfinder -d ejemplo-en-scope.com -silent | httpx -silent -status-code -title
    ```
+
 3. **Mapea la superficie.** Recolecta URLs históricas con `gau`/`waybackurls` y clasifícalas por funcionalidad (login, API, upload).
 4. **Escaneo ligero.** Corre `nuclei` con plantillas no intrusivas para detectar exposiciones conocidas.
 5. **Prioriza vectores.** Elige 2–3 clases de alto valor coherentes con la app: IDOR, SSRF, XSS almacenado, fallos de autorización.

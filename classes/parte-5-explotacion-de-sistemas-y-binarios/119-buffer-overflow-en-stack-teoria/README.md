@@ -70,7 +70,7 @@ checksec --file=/bin/ls    # instalar: pip install pwntools (trae checksec)
 
 3. Dibuja en papel el frame de `vuln` de arriba (direcciones altas) a abajo:
 
-   ```
+   ```text
    [ ret address ]  <- rbp+8   (objetivo)
    [ saved RBP   ]  <- rbp
    [ buf[63..0]  ]  <- rbp-0x40 ... crece hacia rbp
@@ -125,10 +125,10 @@ complican. Por eso primero se estudia en un binario sin protecciones.
 
 ## 🔗 Referencias
 
-- Aleph One, "Smashing the Stack for Fun and Profit", *Phrack* 49 — http://phrack.org/issues/49/14.html
+- Aleph One, "Smashing the Stack for Fun and Profit", *Phrack* 49 — <http://phrack.org/issues/49/14.html>
 - Erickson, J. *Hacking: The Art of Exploitation, 2e*, cap. 0x3. No Starch Press.
-- CWE-787: Out-of-bounds Write — https://cwe.mitre.org/data/definitions/787.html
-- OWASP, Buffer Overflow — https://owasp.org/www-community/vulnerabilities/Buffer_Overflow
+- CWE-787: Out-of-bounds Write — <https://cwe.mitre.org/data/definitions/787.html>
+- OWASP, Buffer Overflow — <https://owasp.org/www-community/vulnerabilities/Buffer_Overflow>
 
 ## ➡️ Siguiente clase
 

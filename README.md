@@ -2,11 +2,13 @@
 
 # 🛡️ Programa de Ciberseguridad Moderna
 
-### **310 clases · 17 partes · de fundamentos a nivel experto**
+## **310 clases · 17 partes · de fundamentos a nivel experto**
 
 **El programa de ciberseguridad más completo en español — desde redes, criptografía y Linux hasta Red Team, DFIR, cloud security, exploit development y seguridad de IA.**
 
-[![Validar currículo](https://github.com/vladimiracunadev-create/cyberseguridad-moderna-program/actions/workflows/validar-curriculo.yml/badge.svg)](https://github.com/vladimiracunadev-create/cyberseguridad-moderna-program/actions/workflows/validar-curriculo.yml)
+[![CI](https://github.com/vladimiracunadev-create/cyberseguridad-moderna-program/actions/workflows/ci.yml/badge.svg?branch=main)](https://github.com/vladimiracunadev-create/cyberseguridad-moderna-program/actions/workflows/ci.yml)
+[![Security](https://github.com/vladimiracunadev-create/cyberseguridad-moderna-program/actions/workflows/security.yml/badge.svg?branch=main)](https://github.com/vladimiracunadev-create/cyberseguridad-moderna-program/actions/workflows/security.yml)
+[![Deploy Pages](https://github.com/vladimiracunadev-create/cyberseguridad-moderna-program/actions/workflows/deploy-pages.yml/badge.svg?branch=main)](https://github.com/vladimiracunadev-create/cyberseguridad-moderna-program/actions/workflows/deploy-pages.yml)
 
 [![Clases](https://img.shields.io/badge/clases-310%20·%2017%20partes-7c5cff?style=for-the-badge)](classes/README.md)
 [![Nivel](https://img.shields.io/badge/nivel-fundamentos%20→%20experto-2e8b57?style=for-the-badge)](classes/README.md)

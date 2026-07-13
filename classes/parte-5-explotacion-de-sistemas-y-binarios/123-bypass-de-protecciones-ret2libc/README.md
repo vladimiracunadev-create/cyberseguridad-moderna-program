@@ -151,9 +151,9 @@ sus constraints.
 ## 🔗 Referencias
 
 - Anley et al. *The Shellcoder's Handbook, 2e*. Wiley.
-- pwntools ROP — https://docs.pwntools.com/en/stable/rop/rop.html
-- libc-database — https://github.com/niklasb/libc-database
-- one_gadget — https://github.com/david942j/one_gadget
+- pwntools ROP — <https://docs.pwntools.com/en/stable/rop/rop.html>
+- libc-database — <https://github.com/niklasb/libc-database>
+- one_gadget — <https://github.com/david942j/one_gadget>
 
 ## ➡️ Siguiente clase
 

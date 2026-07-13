@@ -144,9 +144,9 @@ actual de la investigación.
 ## 🔗 Referencias
 
 - Shacham, H. "The Geometry of Innocent Flesh on the Bone: Return-into-libc without Function Calls" (CCS 2007).
-- pwntools ROP — https://docs.pwntools.com/en/stable/rop/rop.html
-- ROP Emporium — https://ropemporium.com/
-- ROPgadget — https://github.com/JonathanSalwan/ROPgadget
+- pwntools ROP — <https://docs.pwntools.com/en/stable/rop/rop.html>
+- ROP Emporium — <https://ropemporium.com/>
+- ROPgadget — <https://github.com/JonathanSalwan/ROPgadget>
 
 ## ➡️ Siguiente clase
 

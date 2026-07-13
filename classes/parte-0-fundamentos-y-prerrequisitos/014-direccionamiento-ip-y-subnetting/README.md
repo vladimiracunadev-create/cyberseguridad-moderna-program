@@ -44,24 +44,30 @@ Al finalizar, el alumno podrá:
 ## 🧰 Herramientas y preparación
 
 Bastan papel y lápiz para aprender de verdad. Para verificar: `ipcalc` (Linux), `sipcalc`, o la calculadora del sistema en modo programador. En Kali:
+
 ```bash
 sudo apt install ipcalc sipcalc
 ```
+
 Evita depender de calculadoras online al principio: el objetivo es entender el cálculo, no automatizarlo.
 
 ## 🧪 Laboratorio guiado
 
 1. **Decimal a binario**. Convierte a mano `192.168.10.0` y `255.255.255.192` a binario. Verifica:
+
    ```bash
    ipcalc 192.168.10.0/26
    ```
+
 2. **Analiza un bloque /24**. Para `10.10.10.0/24` determina: máscara, dirección de red, broadcast, primer y último host, número de hosts.
 3. **Subnetear**. Divide `192.168.1.0/24` en 4 subredes iguales (/26). Escribe para cada una: red, rango de hosts y broadcast.
 4. **Verifica** con la herramienta:
+
    ```bash
    ipcalc 192.168.1.0/24 -s 62 62 62 62
    sipcalc 192.168.1.0/26
    ```
+
 5. **VLSM**. Dado `172.16.0.0/16`, diseña subredes para: 500 hosts, 100 hosts, 25 hosts y un enlace punto a punto (2 hosts). Elige la máscara mínima adecuada para cada una.
 6. **Rangos especiales**. Clasifica: `127.0.0.1`, `169.254.5.5`, `10.0.0.1`, `8.8.8.8`. Indica cuáles son públicos, privados, loopback o APIPA.
 

@@ -124,8 +124,8 @@ el Listing.
 
 ## 🔗 Referencias
 
-- Ghidra (NSA) — https://ghidra-sre.org/
-- Ghidra en GitHub — https://github.com/NationalSecurityAgency/ghidra
+- Ghidra (NSA) — <https://ghidra-sre.org/>
+- Ghidra en GitHub — <https://github.com/NationalSecurityAgency/ghidra>
 - Andriesse, D. *Practical Binary Analysis*. No Starch Press.
 - The Ghidra Book (Eagle & Nance), No Starch Press.
 

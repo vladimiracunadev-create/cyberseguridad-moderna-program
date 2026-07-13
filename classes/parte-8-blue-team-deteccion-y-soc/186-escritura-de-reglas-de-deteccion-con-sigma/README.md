@@ -55,6 +55,7 @@ Prueba las reglas contra datos de laboratorio o el dataset BOTS; no las apliques
 
 1. **Instala la CLI.** `pip install sigma-cli` y luego `sigma plugin install splunk elasticsearch`.
 2. **Escribe una regla.** Guarda `office_spawns_powershell.yml`:
+
    ```yaml
    title: Office lanza PowerShell
    logsource:
@@ -74,6 +75,7 @@ Prueba las reglas contra datos de laboratorio o el dataset BOTS; no las apliques
    falsepositives:
      - Plantillas corporativas con macros firmadas
    ```
+
 3. **Valida y convierte a Splunk.** `sigma convert -t splunk -p splunk_windows office_spawns_powershell.yml`.
 4. **Convierte a Elastic.** `sigma convert -t esql -p ecs_windows office_spawns_powershell.yml` (o el backend/pipeline que uses).
 5. **Prueba en el SIEM.** Pega la consulta generada y confirma que detecta tu simulación (Office→PowerShell) sin marcar la línea base.
@@ -100,7 +102,7 @@ Entrega dos reglas Sigma propias (una de ejecución, una de persistencia) con ta
 | `sigma convert` falla por pipeline | Falta el pipeline (ECS/CIM); instala/indica `-p` correcto |
 | La consulta no matchea campos | Nombres de campo distintos en tu SIEM; usa el pipeline de mapeo |
 | Regla dispara con todo | `condition` demasiado amplia; añade selecciones y filtros |
-| Wildcards no funcionan | Usaste `*` sin modificador; emplea `|contains`/`|endswith` |
+| Wildcards no funcionan | Usaste `*` sin modificador; emplea `\|contains`/`\|endswith` |
 | YAML inválido | Indentación o listas mal formadas; valida con linter |
 
 ## ❓ Preguntas frecuentes
@@ -116,10 +118,10 @@ Sí, y deberías. Guarda tu carpeta de reglas en un repositorio, con revisión y
 
 ## 🔗 Referencias
 
-- SigmaHQ (repositorio y specification) — https://github.com/SigmaHQ/sigma
-- Sigma Specification — https://github.com/SigmaHQ/sigma-specification
-- sigma-cli / pySigma — https://github.com/SigmaHQ/sigma-cli
-- MITRE ATT&CK — https://attack.mitre.org/
+- SigmaHQ (repositorio y specification) — <https://github.com/SigmaHQ/sigma>
+- Sigma Specification — <https://github.com/SigmaHQ/sigma-specification>
+- sigma-cli / pySigma — <https://github.com/SigmaHQ/sigma-cli>
+- MITRE ATT&CK — <https://attack.mitre.org/>
 - Roth, F. y equipo SigmaHQ, documentación del proyecto.
 
 ## ➡️ Siguiente clase

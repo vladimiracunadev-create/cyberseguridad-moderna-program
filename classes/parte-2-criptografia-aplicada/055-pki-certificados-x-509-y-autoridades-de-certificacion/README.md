@@ -118,10 +118,10 @@ Fijar una clave/certificado esperado en la app para no depender solo de la PKI; 
 
 ## 🔗 Referencias
 
-- IETF RFC 5280 (X.509) — https://www.rfc-editor.org/rfc/rfc5280
+- IETF RFC 5280 (X.509) — <https://www.rfc-editor.org/rfc/rfc5280>
 - Wong, *Real-World Cryptography*, cap. 9.
-- RFC 6962 (Certificate Transparency) — https://www.rfc-editor.org/rfc/rfc6962
-- Let's Encrypt / ACME (RFC 8555) — https://letsencrypt.org/how-it-works/
+- RFC 6962 (Certificate Transparency) — <https://www.rfc-editor.org/rfc/rfc6962>
+- Let's Encrypt / ACME (RFC 8555) — <https://letsencrypt.org/how-it-works/>
 
 ## ➡️ Siguiente clase
 

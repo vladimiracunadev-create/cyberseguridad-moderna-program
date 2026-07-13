@@ -54,15 +54,19 @@ Al finalizar, el alumno podrá:
 
 1. **Levanta el team server** en una VM aislada (lo poblaremos con Sliver en la próxima clase). Anota su IP interna.
 2. **Despliega un redirector HTTPS con socat:**
+
    ```bash
    socat TCP4-LISTEN:443,fork,reuseaddr TCP4:10.10.0.5:443
    ```
+
    donde `10.10.0.5` es el team server. El objetivo solo verá el redirector.
 3. **Redirector filtrante con Nginx.** Configura `proxy_pass` solo para las URIs de tu perfil C2 y devuelve un `302` a un sitio legítimo para todo lo demás:
+
    ```nginx
    location /api/v1/updates { proxy_pass https://10.10.0.5; }
    location / { return 302 https://www.ejemplo-legitimo.com; }
    ```
+
 4. **Emite TLS válido** con `certbot` para el dominio del redirector; evita certificados autofirmados que delatan la operación.
 5. **Separa funciones.** Define un redirector para *staging* (entrega inicial) y otro para *C2 de largo plazo*, de modo que quemar uno no exponga el otro.
 6. **Prueba resiliencia.** Apaga el redirector primario y verifica que el implante rota al secundario (lo configuraremos con el perfil del C2 en la Clase 165).
@@ -105,9 +109,9 @@ DNS es sigiloso y sobrevive a muchos filtros, pero es lento y ruidoso en volumen
 
 ## 🔗 Referencias
 
-- Vest & Tubberville — *Red Team Development and Operations* (capítulo de infraestructura). https://redteam.guide/
-- Bishop Fox — *Red Team infrastructure wiki*. https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki
-- MITRE ATT&CK — *Command and Control* (TA0011). https://attack.mitre.org/tactics/TA0011/
+- Vest & Tubberville — *Red Team Development and Operations* (capítulo de infraestructura). <https://redteam.guide/>
+- Bishop Fox — *Red Team infrastructure wiki*. <https://github.com/bluscreenofjeff/Red-Team-Infrastructure-Wiki>
+- MITRE ATT&CK — *Command and Control* (TA0011). <https://attack.mitre.org/tactics/TA0011/>
 - Nginx / socat documentación oficial.
 
 ## ➡️ Siguiente clase

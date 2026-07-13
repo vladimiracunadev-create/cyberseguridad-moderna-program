@@ -36,7 +36,7 @@ Al finalizar, el alumno podrá:
 
 - **SYN scan (`-sS`):** envía SYN y ante un SYN/ACK envía RST sin completar la conexión ("semiabierto"). Requiere privilegios; es el default de Nmap con root.
 - **Connect scan (`-sT`):** completa el handshake con la syscall `connect()`. No necesita privilegios pero es más ruidoso y lento; queda en logs de aplicación.
-- **UDP scan (`-sU`):** envía datagramas UDP; la ausencia de respuesta se interpreta como `open|filtered`, y un ICMP port-unreachable como `closed`. Lento por diseño.
+- **UDP scan (`-sU`):** envía datagramas UDP; la ausencia de respuesta se interpreta como `open\|filtered`, y un ICMP port-unreachable como `closed`. Lento por diseño.
 - **Estado `filtered`:** Nmap no puede determinar si el puerto está abierto porque un firewall descarta las sondas.
 - **ACK scan (`-sA`):** no determina open/closed, sino si el puerto está `filtered` o `unfiltered`; sirve para mapear reglas de firewall con y sin estado.
 
@@ -51,42 +51,59 @@ Al finalizar, el alumno podrá:
 ## 🧪 Laboratorio guiado
 
 1. **SYN scan** de los 1000 puertos más comunes:
+
    ```bash
    sudo nmap -sS 192.168.56.101
    ```
+
    Observa en Wireshark que Nmap responde con RST a cada SYN/ACK.
 2. **Connect scan** sin privilegios y compara la salida:
+
    ```bash
    nmap -sT 192.168.56.101
    ```
+
 3. **Escaneo completo** de los 65535 puertos TCP:
+
    ```bash
    sudo nmap -sS -p- 192.168.56.101
    ```
+
 4. **UDP scan** de puertos clave:
+
    ```bash
    sudo nmap -sU -p 53,123,161 192.168.56.101
    ```
+
 5. **Top-ports** y escaneo rápido:
+
    ```bash
    sudo nmap -sS --top-ports 100 192.168.56.101
    nmap -F 192.168.56.101
    ```
+
 6. **ACK scan** para mapear el firewall:
+
    ```bash
    sudo nmap -sA -p 1-1000 192.168.56.101
    ```
+
 7. **Escaneos stealth** (útiles solo contra pilas que cumplen el RFC 793):
+
    ```bash
    sudo nmap -sF 192.168.56.101   # FIN
    sudo nmap -sN 192.168.56.101   # NULL
    sudo nmap -sX 192.168.56.101   # Xmas
    ```
+
 8. **Ajusta temporización** y tasa mínima:
+
    ```bash
    sudo nmap -sS -T4 --min-rate 500 -p- 192.168.56.101
    ```
+
 9. **Combina** descubrimiento omitido + razones de estado:
+
    ```bash
    sudo nmap -Pn --reason -p 22,80,443 192.168.56.101
    ```
@@ -95,7 +112,7 @@ Al finalizar, el alumno podrá:
 
 1. Escanea el mismo host con `-sS` y `-sT` y compara tiempos y estados; explica por qué difieren.
 2. Usa `--reason` para averiguar por qué un puerto aparece como `filtered`.
-3. Haz un UDP scan de 53 y explica por qué puede salir `open|filtered`.
+3. Haz un UDP scan de 53 y explica por qué puede salir `open\|filtered`.
 4. Con `-sA`, deduce si el firewall del objetivo es con estado o sin estado.
 5. Mide cuánto tarda `-p-` con `-T3` vs. `-T4 --min-rate 1000` y comenta el riesgo de perder puertos.
 6. Escanea un rango de puertos por nombre de servicio: `-p http,https,domain`.
@@ -113,7 +130,7 @@ Elabora un inventario de puertos abiertos TCP y UDP de un host de laboratorio, i
 | `-sS` cae a connect scan | Sin privilegios; ejecuta con `sudo` |
 | UDP scan tardísimo | Es normal por rate-limiting ICMP; limita puertos con `-p` o usa `--host-timeout` |
 | Todos los puertos `filtered` | Firewall descarta sondas; combina con `-Pn`, prueba otros tipos, revisa alcance/ruta |
-| FIN/NULL/Xmas dan todo `open|filtered` | El objetivo es Windows (no sigue RFC 793 así); esos escaneos no aplican |
+| FIN/NULL/Xmas dan todo `open\|filtered` | El objetivo es Windows (no sigue RFC 793 así); esos escaneos no aplican |
 | Resultados inconsistentes entre corridas | Temporización agresiva provoca pérdidas; baja a `-T3` o aumenta reintentos |
 
 ## ❓ Preguntas frecuentes

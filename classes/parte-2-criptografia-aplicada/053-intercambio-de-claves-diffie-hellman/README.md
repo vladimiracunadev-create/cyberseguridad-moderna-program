@@ -109,8 +109,8 @@ No; cae ante Shor, igual que RSA/ECC. De ahí la cripto post-cuántica.
 
 - Wong, *Real-World Cryptography*, cap. 5.
 - Aumasson, *Serious Cryptography*, cap. 11.
-- RFC 5869 (HKDF) — https://www.rfc-editor.org/rfc/rfc5869
-- Adrian et al., "Imperfect Forward Secrecy / Logjam" — https://weakdh.org/
+- RFC 5869 (HKDF) — <https://www.rfc-editor.org/rfc/rfc5869>
+- Adrian et al., "Imperfect Forward Secrecy / Logjam" — <https://weakdh.org/>
 
 ## ➡️ Siguiente clase
 

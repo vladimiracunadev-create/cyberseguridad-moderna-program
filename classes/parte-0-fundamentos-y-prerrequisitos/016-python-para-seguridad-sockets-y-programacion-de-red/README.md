@@ -48,6 +48,7 @@ Solo necesitas Python 3 y la stdlib (`socket`, `threading`, `concurrent.futures`
 ## 🧪 Laboratorio guiado
 
 1. **Cliente TCP mínimo**. Conéctate a un servicio de la víctima y lee su banner:
+
    ```python
    import socket
    s = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
@@ -56,15 +57,19 @@ Solo necesitas Python 3 y la stdlib (`socket`, `threading`, `concurrent.futures`
    print(s.recv(1024).decode(errors="replace"))
    s.close()
    ```
+
 2. **Servidor de eco** en Kali (para entender el lado servidor):
+
    ```python
    srv = socket.socket(); srv.bind(("0.0.0.0", 9000)); srv.listen(1)
    conn, addr = srv.accept(); print("Conexión de", addr)
    conn.sendall(conn.recv(1024)); conn.close()
    ```
+
    Pruébalo con `nc 10.10.10.5 9000`.
 3. **UDP**. Envía un datagrama con `SOCK_DGRAM` y observa que no hay handshake.
 4. **Escáner de puertos secuencial**. Recorre un rango con `connect_ex()` (que devuelve 0 si abre):
+
    ```python
    for port in range(1, 1025):
        s = socket.socket(); s.settimeout(0.5)
@@ -72,6 +77,7 @@ Solo necesitas Python 3 y la stdlib (`socket`, `threading`, `concurrent.futures`
            print(f"[+] {port} abierto")
        s.close()
    ```
+
 5. **Banner grabbing**. Para cada puerto abierto, intenta `recv()` y guarda el banner.
 6. **Acelerar con hilos**. Reescribe el escáner con `concurrent.futures.ThreadPoolExecutor` y compara tiempos.
 

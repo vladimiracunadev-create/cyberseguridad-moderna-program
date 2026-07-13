@@ -50,7 +50,7 @@ python -m venv .venv && source .venv/bin/activate   # Windows: .venv\Scripts\act
 pip install adversarial-robustness-toolbox torch torchvision scikit-learn numpy
 ```
 
-- **MITRE ATLAS Navigator** (web) para explorar la matriz: https://atlas.mitre.org/
+- **MITRE ATLAS Navigator** (web) para explorar la matriz: <https://atlas.mitre.org/>
 - **NIST AI RMF Playbook** para consultar acciones sugeridas por función.
 - Un modelo de juguete (por ejemplo un clasificador sobre MNIST o CIFAR-10) que usaremos en clases siguientes.
 
@@ -113,11 +113,11 @@ Es voluntario, pero se está convirtiendo en referencia de facto y en base de re
 
 ## 🔗 Referencias
 
-- NIST AI Risk Management Framework 1.0 — https://www.nist.gov/itl/ai-risk-management-framework
-- MITRE ATLAS — https://atlas.mitre.org/
+- NIST AI Risk Management Framework 1.0 — <https://www.nist.gov/itl/ai-risk-management-framework>
+- MITRE ATLAS — <https://atlas.mitre.org/>
 - Biggio & Roli, "Wild Patterns", Pattern Recognition (2018).
-- OWASP Machine Learning Security Top 10 — https://owasp.org/www-project-machine-learning-security-top-10/
-- ENISA, "Securing Machine Learning Algorithms" (2021) — https://www.enisa.europa.eu/
+- OWASP Machine Learning Security Top 10 — <https://owasp.org/www-project-machine-learning-security-top-10/>
+- ENISA, "Securing Machine Learning Algorithms" (2021) — <https://www.enisa.europa.eu/>
 
 ## ➡️ Siguiente clase
 

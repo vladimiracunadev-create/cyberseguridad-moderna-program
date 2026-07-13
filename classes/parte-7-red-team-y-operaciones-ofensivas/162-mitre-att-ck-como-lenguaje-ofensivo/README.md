@@ -45,10 +45,12 @@ Al finalizar, el alumno podrá:
 - Navegador web para [attack.mitre.org](https://attack.mitre.org/) y el [ATT&CK Navigator](https://mitre-attack.github.io/attack-navigator/) (también desplegable en local vía Docker).
 - `pip install mitreattack-python` para consultar el conocimiento por API (STIX/TAXII).
 - Opcional: desplegar Navigator local:
+
   ```bash
   git clone https://github.com/mitre-attack/attack-navigator
   cd attack-navigator/nav-app && npm install && npm start
   ```
+
 - El JSON de la matriz Enterprise (`enterprise-attack.json`) del repo `mitre/cti`.
 
 > ⚠️ Esta clase es de conocimiento y planificación: no se ejecuta técnica ofensiva alguna, solo se cataloga y visualiza.
@@ -59,12 +61,14 @@ Al finalizar, el alumno podrá:
 2. **Mapea una acción.** Toma "un atacante ejecuta un script de PowerShell descargado" y asígnale la táctica (Execution) y la técnica/subtécnica (`T1059.001`).
 3. **Ficha un grupo.** Abre `G0016` (APT29) y anota 5 técnicas que usa; observa el software asociado (ej. `S0154` Cobalt Strike).
 4. **Instala la API:** `pip install mitreattack-python` y lista técnicas de una táctica:
+
    ```python
    from mitreattack.stix20 import MitreAttackData
    data = MitreAttackData("enterprise-attack.json")
    for t in data.get_techniques_by_tactic("credential-access", "enterprise-attack"):
        print(t.external_references[0].external_id, t.name)
    ```
+
 5. **Crea un layer en Navigator.** Añade manualmente las técnicas de APT29 y coloréalas; exporta el JSON.
 6. **Cruza con Data Sources.** Para tres técnicas del layer, anota qué Data Source las detecta (ej. `T1059.001` → Command Execution / Script Block Logging).
 7. **Genera una capa de "plan de operación"**: marca en verde lo que planeas ejecutar en el AD lab de las clases siguientes.
@@ -106,10 +110,10 @@ La Kill Chain (Lockheed Martin) es lineal y de alto nivel; ATT&CK es un catálog
 
 ## 🔗 Referencias
 
-- MITRE ATT&CK. https://attack.mitre.org/
-- ATT&CK Navigator. https://github.com/mitre-attack/attack-navigator
-- `mitreattack-python`. https://github.com/mitre-attack/mitreattack-python
-- MITRE — *Getting Started with ATT&CK*. https://attack.mitre.org/resources/getting-started/
+- MITRE ATT&CK. <https://attack.mitre.org/>
+- ATT&CK Navigator. <https://github.com/mitre-attack/attack-navigator>
+- `mitreattack-python`. <https://github.com/mitre-attack/mitreattack-python>
+- MITRE — *Getting Started with ATT&CK*. <https://attack.mitre.org/resources/getting-started/>
 
 ## ➡️ Siguiente clase
 

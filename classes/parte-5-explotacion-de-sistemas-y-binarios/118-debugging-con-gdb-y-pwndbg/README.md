@@ -141,10 +141,10 @@ En la explotación real lo tratarás como obstáculo (clases 122+).
 
 ## 🔗 Referencias
 
-- pwndbg — documentación oficial — https://github.com/pwndbg/pwndbg
+- pwndbg — documentación oficial — <https://github.com/pwndbg/pwndbg>
 - Andriesse, D. *Practical Binary Analysis*, cap. 9. No Starch Press.
-- GDB manual — https://sourceware.org/gdb/documentation/
-- GEF (alternativa) — https://hugsy.github.io/gef/
+- GDB manual — <https://sourceware.org/gdb/documentation/>
+- GEF (alternativa) — <https://hugsy.github.io/gef/>
 
 ## ➡️ Siguiente clase
 

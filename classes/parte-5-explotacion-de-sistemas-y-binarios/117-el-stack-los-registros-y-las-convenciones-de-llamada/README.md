@@ -136,10 +136,10 @@ puedes corromper datos que la función hoja usa.
 
 ## 🔗 Referencias
 
-- System V AMD64 ABI — https://gitlab.com/x86-psABIs/x86-64-ABI
+- System V AMD64 ABI — <https://gitlab.com/x86-psABIs/x86-64-ABI>
 - Erickson, J. *Hacking: The Art of Exploitation, 2e*, cap. 0x3. No Starch Press.
-- Microsoft x64 calling convention — https://learn.microsoft.com/cpp/build/x64-calling-convention
-- Eli Bendersky, "Stack frame layout on x86-64" — https://eli.thegreenplace.net/2011/09/06/stack-frame-layout-on-x86-64
+- Microsoft x64 calling convention — <https://learn.microsoft.com/cpp/build/x64-calling-convention>
+- Eli Bendersky, "Stack frame layout on x86-64" — <https://eli.thegreenplace.net/2011/09/06/stack-frame-layout-on-x86-64>
 
 ## ➡️ Siguiente clase
 

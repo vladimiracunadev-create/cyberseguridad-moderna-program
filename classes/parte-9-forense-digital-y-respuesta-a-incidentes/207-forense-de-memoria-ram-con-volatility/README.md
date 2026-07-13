@@ -53,39 +53,56 @@ Al finalizar, el alumno podrá:
 > Adquiere memoria de una VM propia o usa una muestra de entrenamiento pública.
 
 1. Adquiere la memoria (Windows, WinPmem):
+
    ```powershell
    winpmem_mini.exe memoria.raw
    ```
+
    En Linux con AVML:
+
    ```bash
    ./avml memoria.lime
    ```
+
 2. Lista procesos:
+
    ```bash
    vol -f memoria.raw windows.pslist
    ```
+
 3. Busca procesos ocultos comparando con psscan:
+
    ```bash
    vol -f memoria.raw windows.psscan
    ```
+
    Cualquier PID en `psscan` que no esté en `pslist` es sospechoso.
 4. Revisa el árbol de procesos para relaciones padre-hijo raras:
+
    ```bash
    vol -f memoria.raw windows.pstree
    ```
+
 5. Enumera conexiones de red:
+
    ```bash
    vol -f memoria.raw windows.netscan
    ```
+
 6. Caza inyección de código:
+
    ```bash
    vol -f memoria.raw windows.malfind
    ```
+
 7. Vuelca un proceso sospechoso para análisis:
+
    ```bash
    vol -f memoria.raw -o ./salida windows.dumpfiles --pid 1337
    ```
+
 8. Revisa DLLs cargadas y líneas de comando:
+
    ```bash
    vol -f memoria.raw windows.cmdline
    vol -f memoria.raw windows.dlllist --pid 1337
@@ -133,9 +150,9 @@ pslist confía en la lista del SO (manipulable); psscan escanea la memoria cruda
 ## 🔗 Referencias
 
 - Ligh, Case, Levy, Walters — *The Art of Memory Forensics*, Wiley 2014.
-- Volatility Foundation: https://www.volatilityfoundation.org/
-- Volatility 3 docs: https://volatility3.readthedocs.io/
-- WinPmem / AVML: https://github.com/Velocidex/WinPmem · https://github.com/microsoft/avml
+- Volatility Foundation: <https://www.volatilityfoundation.org/>
+- Volatility 3 docs: <https://volatility3.readthedocs.io/>
+- WinPmem / AVML: <https://github.com/Velocidex/WinPmem> · <https://github.com/microsoft/avml>
 
 ## ➡️ Siguiente clase
 

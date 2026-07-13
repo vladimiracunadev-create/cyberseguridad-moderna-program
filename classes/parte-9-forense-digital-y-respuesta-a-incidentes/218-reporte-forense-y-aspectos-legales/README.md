@@ -105,10 +105,10 @@ Al menos una técnica (detallada) y una ejecutiva (breve, sin jerga). La legal p
 
 ## 🔗 Referencias
 
-- SWGDE — Best Practices for Digital Forensics: https://www.swgde.org/
-- NIST SP 800-86: https://csrc.nist.gov/publications/detail/sp/800-86/final
-- Reglamento (UE) 2016/679 (GDPR): https://eur-lex.europa.eu/eli/reg/2016/679/oj
-- ISO/IEC 27037 — Digital evidence handling: https://www.iso.org/standard/44381.html
+- SWGDE — Best Practices for Digital Forensics: <https://www.swgde.org/>
+- NIST SP 800-86: <https://csrc.nist.gov/publications/detail/sp/800-86/final>
+- Reglamento (UE) 2016/679 (GDPR): <https://eur-lex.europa.eu/eli/reg/2016/679/oj>
+- ISO/IEC 27037 — Digital evidence handling: <https://www.iso.org/standard/44381.html>
 
 ## ➡️ Siguiente clase
 

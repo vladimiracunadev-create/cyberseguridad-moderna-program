@@ -44,20 +44,25 @@ Al finalizar, el alumno podrá:
 ## 🧰 Herramientas y preparación
 
 Necesitas Bash (ya presente en Linux/Kali), un editor (nano, vim o VS Code) y **ShellCheck** para análisis estático:
+
 ```bash
 sudo apt install shellcheck
 ```
+
 Ten a mano herramientas que orquestarás en las prácticas: `ping`, `nc` (netcat), `nmap` (si está instalado). Trabaja siempre en tu laboratorio aislado.
 
 ## 🧪 Laboratorio guiado
 
 1. **Esqueleto robusto**. Crea `barrido.sh`:
+
    ```bash
    #!/usr/bin/env bash
    set -euo pipefail
    red="${1:?Uso: $0 <prefijo /24, p.ej. 10.10.10>}"
    ```
+
 2. **Bucle de descubrimiento** (ping sweep) en tu red interna:
+
    ```bash
    for i in $(seq 1 254); do
      ip="${red}.${i}"
@@ -66,22 +71,30 @@ Ten a mano herramientas que orquestarás en las prácticas: `ping`, `nc` (netcat
      fi
    done
    ```
+
 3. **Ejecuta** contra tu subred de laboratorio:
+
    ```bash
    chmod +x barrido.sh ; ./barrido.sh 10.10.10
    ```
+
 4. **Refactor a función**. Extrae la comprobación a `esta_activo()` y llama en el bucle.
 5. **Guardar resultados** con marca de tiempo:
+
    ```bash
    out="activos_$(date +%F_%H%M).txt"
    ```
+
    y redirige los hallazgos con `>> "$out"`.
 6. **Chequeo de hardening** simple: un script que verifique si el SSH permite login de root:
+
    ```bash
    grep -qi "^PermitRootLogin yes" /etc/ssh/sshd_config \
      && echo "[!] Root SSH habilitado" || echo "[ok] Root SSH restringido"
    ```
+
 7. **Análisis estático**. Pasa ShellCheck y corrige avisos:
+
    ```bash
    shellcheck barrido.sh
    ```

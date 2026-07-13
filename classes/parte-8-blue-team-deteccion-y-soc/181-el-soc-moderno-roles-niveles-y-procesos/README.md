@@ -103,9 +103,9 @@ El monitoreo reacciona a lo que una regla ya disparó; el hunting busca proactiv
 
 - Murdoch, D. *Blue Team Handbook: SOC, SIEM, and Threat Hunting Use Cases*.
 - Bejtlich, R. *The Practice of Network Security Monitoring*. No Starch Press.
-- MITRE ATT&CK — https://attack.mitre.org/
+- MITRE ATT&CK — <https://attack.mitre.org/>
 - SANS, "Building a World-Class Security Operations Center" (whitepaper).
-- NIST SP 800-61r2, *Computer Security Incident Handling Guide* — https://csrc.nist.gov/pubs/sp/800/61/r2/final
+- NIST SP 800-61r2, *Computer Security Incident Handling Guide* — <https://csrc.nist.gov/pubs/sp/800/61/r2/final>
 
 ## ➡️ Siguiente clase
 

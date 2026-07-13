@@ -43,7 +43,7 @@ Al finalizar, el alumno podrá:
 
 ## 🧰 Herramientas y preparación
 
-- Plataforma de simulación de phishing en laboratorio: *GoPhish* (open source, https://getgophish.com/), desplegado en un entorno de pruebas propio.
+- Plataforma de simulación de phishing en laboratorio: *GoPhish* (open source, <https://getgophish.com/>), desplegado en un entorno de pruebas propio.
 - Un servidor de correo de laboratorio o cuentas de prueba controladas (nunca envíes a terceros reales sin autorización).
 - Material de concienciación de referencia: *SANS Security Awareness*, *CISA* y *NIST SP 800-50/800-16*.
 - Hoja de cálculo para el plan de campañas y las métricas.
@@ -110,10 +110,10 @@ De forma continua: píldoras breves y frecuentes superan a un curso largo anual.
 
 ## 🔗 Referencias
 
-- NIST SP 800-50 Rev.1 — Building a Cybersecurity Awareness Program. https://csrc.nist.gov/pubs/sp/800/50/r1/ipd
-- SANS Security Awareness. https://www.sans.org/security-awareness-training/
-- GoPhish — Open-source phishing framework. https://getgophish.com/
-- CISA — Phishing guidance. https://www.cisa.gov/topics/cyber-threats-and-advisories/phishing
+- NIST SP 800-50 Rev.1 — Building a Cybersecurity Awareness Program. <https://csrc.nist.gov/pubs/sp/800/50/r1/ipd>
+- SANS Security Awareness. <https://www.sans.org/security-awareness-training/>
+- GoPhish — Open-source phishing framework. <https://getgophish.com/>
+- CISA — Phishing guidance. <https://www.cisa.gov/topics/cyber-threats-and-advisories/phishing>
 - (ISC)² CISSP Official Study Guide, dominio 1.
 
 ## ➡️ Siguiente clase

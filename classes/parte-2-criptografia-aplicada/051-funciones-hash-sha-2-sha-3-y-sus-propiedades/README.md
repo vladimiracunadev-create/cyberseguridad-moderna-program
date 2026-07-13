@@ -89,7 +89,7 @@ Construye un verificador de integridad que, dado un directorio, genere un manifi
 |-------------------|-----------------------|
 | Usar MD5/SHA-1 para integridad de seguridad | Rotos; migra a SHA-256/SHA-3 |
 | "Ciframos con SHA-256" | Un hash no cifra; usa AES/ChaCha20 |
-| `hash(clave||msg)` como MAC | Vulnerable a extensión; usa HMAC |
+| `hash(clave\|\|msg)` como MAC | Vulnerable a extensión; usa HMAC |
 | Hash de contraseña con SHA-256 simple | Demasiado rápido; usa Argon2/bcrypt (clase 057) |
 | Comparar hashes con `==` en contexto sensible | Riesgo de timing; usa comparación constante |
 
@@ -106,10 +106,10 @@ Porque atacantes las fabrican intencionadamente (SHAttered); afectan firmas y co
 
 ## 🔗 Referencias
 
-- NIST FIPS 180-4 (SHA-2) — https://csrc.nist.gov/publications/detail/fips/180/4/final
-- NIST FIPS 202 (SHA-3) — https://csrc.nist.gov/publications/detail/fips/202/final
+- NIST FIPS 180-4 (SHA-2) — <https://csrc.nist.gov/publications/detail/fips/180/4/final>
+- NIST FIPS 202 (SHA-3) — <https://csrc.nist.gov/publications/detail/fips/202/final>
 - Aumasson, *Serious Cryptography*, cap. 6–7.
-- Stevens et al., "SHAttered" — https://shattered.io/
+- Stevens et al., "SHAttered" — <https://shattered.io/>
 
 ## ➡️ Siguiente clase
 

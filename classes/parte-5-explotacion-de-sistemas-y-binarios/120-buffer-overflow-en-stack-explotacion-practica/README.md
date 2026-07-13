@@ -136,10 +136,10 @@ clase 121.
 
 ## 🔗 Referencias
 
-- pwntools docs — https://docs.pwntools.com/
+- pwntools docs — <https://docs.pwntools.com/>
 - Erickson, J. *Hacking: The Art of Exploitation, 2e*. No Starch Press.
-- Nightmare — ret2win writeups — https://guyinatuxedo.github.io/
-- ROP Emporium (ret2win) — https://ropemporium.com/challenge/ret2win.html
+- Nightmare — ret2win writeups — <https://guyinatuxedo.github.io/>
+- ROP Emporium (ret2win) — <https://ropemporium.com/challenge/ret2win.html>
 
 ## ➡️ Siguiente clase
 

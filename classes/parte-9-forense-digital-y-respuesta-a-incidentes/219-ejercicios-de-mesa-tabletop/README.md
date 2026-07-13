@@ -107,10 +107,10 @@ El guion maestro de eventos e injects, con tiempos, que estructura el ejercicio 
 
 ## 🔗 Referencias
 
-- NIST SP 800-84 — Test, Training, and Exercise Programs: https://csrc.nist.gov/publications/detail/sp/800-84/final
-- CISA — Tabletop Exercise Packages (CTEP): https://www.cisa.gov/resources-tools/services/cisa-tabletop-exercise-packages
-- SANS — Incident Response resources: https://www.sans.org/
-- NIST SP 800-61 Rev. 2: https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final
+- NIST SP 800-84 — Test, Training, and Exercise Programs: <https://csrc.nist.gov/publications/detail/sp/800-84/final>
+- CISA — Tabletop Exercise Packages (CTEP): <https://www.cisa.gov/resources-tools/services/cisa-tabletop-exercise-packages>
+- SANS — Incident Response resources: <https://www.sans.org/>
+- NIST SP 800-61 Rev. 2: <https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final>
 
 ## ➡️ Siguiente clase
 

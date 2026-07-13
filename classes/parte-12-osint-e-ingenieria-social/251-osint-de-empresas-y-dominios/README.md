@@ -113,11 +113,11 @@ autorizada.
 
 ## 🔗 Referencias
 
-- Bazzell, M. *Open Source Intelligence Techniques*. https://inteltechniques.com/book1.html
-- OWASP WSTG — Information Gathering. https://owasp.org/www-project-web-security-testing-guide/
-- crt.sh (Certificate Transparency). https://crt.sh/
-- Subfinder. https://github.com/projectdiscovery/subfinder
-- theHarvester. https://github.com/laramies/theHarvester
+- Bazzell, M. *Open Source Intelligence Techniques*. <https://inteltechniques.com/book1.html>
+- OWASP WSTG — Information Gathering. <https://owasp.org/www-project-web-security-testing-guide/>
+- crt.sh (Certificate Transparency). <https://crt.sh/>
+- Subfinder. <https://github.com/projectdiscovery/subfinder>
+- theHarvester. <https://github.com/laramies/theHarvester>
 
 ## ➡️ Siguiente clase
 

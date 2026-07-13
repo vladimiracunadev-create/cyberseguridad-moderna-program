@@ -115,10 +115,10 @@ Handshake más rápido y cifrado, forward secrecy obligatoria, cipher suites red
 
 ## 🔗 Referencias
 
-- IETF RFC 8446 (TLS 1.3) — https://www.rfc-editor.org/rfc/rfc8446
+- IETF RFC 8446 (TLS 1.3) — <https://www.rfc-editor.org/rfc/rfc8446>
 - Wong, *Real-World Cryptography*, cap. 9.
-- testssl.sh — https://testssl.sh/
-- Mozilla SSL Configuration Generator — https://ssl-config.mozilla.org/
+- testssl.sh — <https://testssl.sh/>
+- Mozilla SSL Configuration Generator — <https://ssl-config.mozilla.org/>
 
 ## ➡️ Siguiente clase
 

@@ -101,9 +101,9 @@ Corto: aislar el equipo ya. Largo: solución temporal estable (segmentar red, re
 
 ## 🔗 Referencias
 
-- NIST SP 800-61 Rev. 2: https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final
-- SANS — *Incident Handler's Handbook*: https://www.sans.org/white-papers/33901/
-- TheHive Project: https://thehive-project.org/
+- NIST SP 800-61 Rev. 2: <https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final>
+- SANS — *Incident Handler's Handbook*: <https://www.sans.org/white-papers/33901/>
+- TheHive Project: <https://thehive-project.org/>
 - Roberts & Brown — *Intelligence-Driven Incident Response*, O'Reilly 2017.
 
 ## ➡️ Siguiente clase

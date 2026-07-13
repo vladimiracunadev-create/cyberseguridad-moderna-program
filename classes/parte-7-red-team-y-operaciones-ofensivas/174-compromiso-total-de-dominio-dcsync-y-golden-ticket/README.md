@@ -52,15 +52,19 @@ Al finalizar, el alumno podrá:
 
 1. **Verifica los derechos.** Confirma que tu cuenta (o una ruta de BloodHound) tiene `DS-Replication-Get-Changes-All`.
 2. **DCSync con Impacket:**
+
    ```bash
    secretsdump.py lab.local/dauser:pass@10.10.10.10 -just-dc-user krbtgt
    ```
+
    Extrae el hash NTLM de `krbtgt` (y de cuentas objetivo).
 3. **Anota el SID del dominio:** `Get-DomainSID` o con `lookupsid.py`.
 4. **Forja el Golden Ticket (Mimikatz):**
-   ```
+
+   ```text
    kerberos::golden /user:Administrator /domain:lab.local /sid:<DOMAIN_SID> /krbtgt:<HASH> /ptt
    ```
+
 5. **Usa el ticket.** Con el TGT forjado inyectado, accede al DC: `dir \\dc01.lab.local\C$` o `psexec.py` sin credenciales adicionales.
 6. **Silver Ticket (comparación).** Forja un TGS para un servicio concreto (CIFS) con el hash de la cuenta de máquina y observa que es más sigiloso (no pasa por el DC para el TGS).
 7. **Detección.** Revisa el evento `4662` (acceso a objeto con GUID de replicación) para DCSync y anomalías en la vida/PAC de los tickets para Golden Ticket.
@@ -102,10 +106,10 @@ Golden da acceso total pero es más detectable; Silver es acotado a un servicio 
 
 ## 🔗 Referencias
 
-- The Hacker Recipes — *DCSync / Kerberos tickets*. https://www.thehacker.recipes/ad/movement/
-- MITRE ATT&CK — *DCSync* (`T1003.006`), *Golden Ticket* (`T1558.001`). https://attack.mitre.org/
-- Impacket `secretsdump`. https://github.com/fortra/impacket
-- Microsoft — *KRBTGT account maintenance*. https://learn.microsoft.com/
+- The Hacker Recipes — *DCSync / Kerberos tickets*. <https://www.thehacker.recipes/ad/movement/>
+- MITRE ATT&CK — *DCSync* (`T1003.006`), *Golden Ticket* (`T1558.001`). <https://attack.mitre.org/>
+- Impacket `secretsdump`. <https://github.com/fortra/impacket>
+- Microsoft — *KRBTGT account maintenance*. <https://learn.microsoft.com/>
 
 ## ➡️ Siguiente clase
 

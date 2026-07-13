@@ -111,11 +111,11 @@ Es un marco técnico, no una norma. Combínalo con NIST AI RMF e ISO/IEC 42001 (
 
 ## 🔗 Referencias
 
-- OWASP Top 10 for LLM Applications — https://genai.owasp.org/llm-top-10/
-- OWASP LLM Applications Cybersecurity and Governance Checklist — https://genai.owasp.org/
-- MITRE ATLAS — https://atlas.mitre.org/
-- NIST AI 600-1, Generative AI Profile — https://www.nist.gov/itl/ai-risk-management-framework
-- OWASP Foundation — https://owasp.org/
+- OWASP Top 10 for LLM Applications — <https://genai.owasp.org/llm-top-10/>
+- OWASP LLM Applications Cybersecurity and Governance Checklist — <https://genai.owasp.org/>
+- MITRE ATLAS — <https://atlas.mitre.org/>
+- NIST AI 600-1, Generative AI Profile — <https://www.nist.gov/itl/ai-risk-management-framework>
+- OWASP Foundation — <https://owasp.org/>
 
 ## ➡️ Siguiente clase
 

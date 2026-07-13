@@ -53,11 +53,14 @@ Al finalizar, el alumno podrá:
 ## 🧪 Laboratorio guiado — WireGuard
 
 1. **Genera claves** en cada peer:
+
    ```bash
    wg genkey | tee privada.key | wg pubkey > publica.key
    chmod 600 privada.key
    ```
+
 2. **Configura el servidor** `/etc/wireguard/wg0.conf`:
+
    ```ini
    [Interface]
    Address = 10.10.0.1/24
@@ -68,14 +71,18 @@ Al finalizar, el alumno podrá:
    PublicKey = <publica-cliente>
    AllowedIPs = 10.10.0.2/32
    ```
+
 3. **Configura el cliente** análogamente con `AllowedIPs = 10.10.0.0/24` y `Endpoint = <ip-servidor>:51820`.
 4. **Levanta el túnel** en ambos y verifica:
+
    ```bash
    sudo wg-quick up wg0
    sudo wg show
    ping 10.10.0.1
    ```
+
 5. **Confirma que cifra**: captura en la interfaz física y verifica que ves UDP/51820 con payload cifrado (ESP-like), no el ICMP en claro:
+
    ```bash
    sudo tcpdump -i eth0 -n udp port 51820
    ```
@@ -83,12 +90,14 @@ Al finalizar, el alumno podrá:
 ## 🧪 Laboratorio guiado — OpenVPN e IPsec
 
 6. **OpenVPN — PKI mínima** con easy-rsa:
+
    ```bash
    make-cadir ~/ca && cd ~/ca
    ./easyrsa init-pki && ./easyrsa build-ca nopass
    ./easyrsa build-server-full servidor nopass
    ./easyrsa build-client-full cliente1 nopass
    ```
+
    Configura `server.conf` (puerto 1194/udp, `dev tun`, cifrado AES-GCM) y arranca `sudo openvpn --config server.conf`.
 7. **IPsec con strongSwan** (site-to-site, esquema): edita `/etc/ipsec.conf` con `ikev2`, `esp=aes256-sha256`, define `leftsubnet`/`rightsubnet`, y levanta con `sudo ipsec up <conexion>`.
 

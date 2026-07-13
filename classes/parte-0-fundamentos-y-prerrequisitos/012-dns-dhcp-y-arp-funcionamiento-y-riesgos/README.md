@@ -48,27 +48,35 @@ En Kali: `dig`, `nslookup`, `arp`, `ip neigh`, `dhclient`, y para prácticas ofe
 ## 🧪 Laboratorio guiado
 
 1. **Consultas DNS**:
+
    ```bash
    dig A example.com +short
    dig MX example.com
    dig +trace example.com   # observa la resolución jerárquica
    ```
+
 2. **Ver la caché ARP** de tu equipo:
+
    ```bash
    ip neigh show
    ```
+
    Anota la MAC del gateway.
 3. **Observar DHCP**. Captura mientras renuevas la concesión en la VM:
+
    ```bash
    sudo tcpdump -i eth0 -n port 67 or port 68 &
    sudo dhclient -v eth0
    ```
+
    Identifica los cuatro mensajes DORA.
 4. **ARP spoofing controlado** (solo laboratorio). Habilita el reenvío y envenena entre víctima y gateway:
+
    ```bash
    echo 1 | sudo tee /proc/sys/net/ipv4/ip_forward
    sudo arpspoof -i eth0 -t 10.10.10.6 10.10.10.1
    ```
+
 5. **Verifica el MITM**: en la víctima, `ip neigh` mostrará ahora tu MAC asociada a la IP del gateway. Captura su tráfico en Wireshark.
 6. **Detección**. En la víctima, observa entradas ARP duplicadas o cambiantes; esa es la señal del ataque.
 

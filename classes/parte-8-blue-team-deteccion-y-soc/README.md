@@ -67,12 +67,12 @@ Al terminar la parte, el alumno podrá:
 
 ## 🔗 Referencias de la parte
 
-- Bejtlich, R. *The Practice of Network Security Monitoring*. No Starch Press. — https://nostarch.com/nsm
+- Bejtlich, R. *The Practice of Network Security Monitoring*. No Starch Press. — <https://nostarch.com/nsm>
 - Sanders, C. y Smith, J. *Applied Network Security Monitoring*. Syngress.
 - Murdoch, D. *Blue Team Handbook: SOC, SIEM, and Threat Hunting Use Cases*.
-- MITRE ATT&CK — https://attack.mitre.org/
-- SigmaHQ — https://github.com/SigmaHQ/sigma
-- NIST SP 800-92 — https://csrc.nist.gov/publications/detail/sp/800-92/final
+- MITRE ATT&CK — <https://attack.mitre.org/>
+- SigmaHQ — <https://github.com/SigmaHQ/sigma>
+- NIST SP 800-92 — <https://csrc.nist.gov/publications/detail/sp/800-92/final>
 
 ## ▶️ Empezar
 

@@ -83,7 +83,7 @@ Entrega tres búsquedas SPL de detección con su explicación y una de ellas con
 | Síntoma / mensaje | Causa y cómo arreglar |
 |-------------------|-----------------------|
 | Búsqueda tarda minutos | Escaneas eventos crudos; usa `tstats`/modelos de datos |
-| `stats` no agrupa como esperas | Campo no extraído o mal nombrado; verifica con `| fieldsummary` |
+| `stats` no agrupa como esperas | Campo no extraído o mal nombrado; verifica con `\| fieldsummary` |
 | Alerta dispara sin parar | Falta throttling; añade supresión por entidad |
 | Resultados vacíos pero hay datos | Rango de tiempo o índice equivocado; revisa el time picker |
 | CommandLine truncado | Límite de campo; ajusta `maxchars`/truncation en props.conf |
@@ -101,11 +101,11 @@ Porque una detección escrita contra campos CIM funciona sin importar el fabrica
 
 ## 🔗 Referencias
 
-- Splunk Search Reference (SPL) — https://docs.splunk.com/Documentation/Splunk/latest/SearchReference
-- Splunk Boss of the SOC (BOTS) datasets — https://github.com/splunk/botsv3
-- Splunk Security Essentials — https://splunkbase.splunk.com/app/3435
+- Splunk Search Reference (SPL) — <https://docs.splunk.com/Documentation/Splunk/latest/SearchReference>
+- Splunk Boss of the SOC (BOTS) datasets — <https://github.com/splunk/botsv3>
+- Splunk Security Essentials — <https://splunkbase.splunk.com/app/3435>
 - Murdoch, D. *Blue Team Handbook: SOC, SIEM, and Threat Hunting Use Cases*.
-- Splunk Common Information Model — https://docs.splunk.com/Documentation/CIM
+- Splunk Common Information Model — <https://docs.splunk.com/Documentation/CIM>
 
 ## ➡️ Siguiente clase
 

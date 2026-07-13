@@ -103,10 +103,10 @@ Como programa continuo: ciclos regulares (p. ej. mensuales/trimestrales) que rev
 
 ## 🔗 Referencias
 
-- MITRE ATT&CK y Groups — https://attack.mitre.org/groups/
-- Atomic Red Team — https://github.com/redcanaryco/atomic-red-team
-- MITRE Caldera — https://caldera.mitre.org/
-- MITRE ATT&CK Navigator — https://mitre-attack.github.io/attack-navigator/
+- MITRE ATT&CK y Groups — <https://attack.mitre.org/groups/>
+- Atomic Red Team — <https://github.com/redcanaryco/atomic-red-team>
+- MITRE Caldera — <https://caldera.mitre.org/>
+- MITRE ATT&CK Navigator — <https://mitre-attack.github.io/attack-navigator/>
 - Murdoch, D. *Blue Team Handbook: SOC, SIEM, and Threat Hunting Use Cases*.
 
 ## ➡️ Siguiente clase

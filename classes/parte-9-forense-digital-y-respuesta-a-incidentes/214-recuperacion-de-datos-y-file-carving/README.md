@@ -54,26 +54,36 @@ Al finalizar, el alumno podrá:
 > Usa una imagen propia donde tú borraste archivos conocidos (para verificar la recuperación).
 
 1. Primero intenta recuperación por metadatos con TSK:
+
    ```bash
    fls -d -r -o 2048 imagen.dd        # lista borrados
    icat -o 2048 imagen.dd 512 > recuperado_meta.bin
    ```
+
 2. Si no hay metadatos, aplica carving con foremost:
+
    ```bash
    foremost -t jpg,pdf,doc,zip -i imagen.dd -o salida_foremost
    ```
+
 3. Prueba PhotoRec (interactivo, muy potente para imágenes):
+
    ```bash
    photorec imagen.dd
    ```
+
 4. Usa Scalpel con su archivo de configuración de firmas:
+
    ```bash
    scalpel -c /etc/scalpel/scalpel.conf -o salida_scalpel imagen.dd
    ```
+
 5. Ejecuta bulk_extractor para triage rápido:
+
    ```bash
    bulk_extractor -o salida_bulk imagen.dd
    ```
+
    Revisa `email.txt`, `url.txt`, `ccn.txt`.
 6. **Valida** cada archivo recuperado: ábrelo, verifica su firma y compara su hash con el original que borraste. Descarta falsos positivos.
 7. Documenta qué recuperó cada herramienta y por qué unas funcionaron mejor (fragmentación, tipo de archivo).
@@ -120,9 +130,9 @@ Artefactos como emails, URLs, números de tarjeta y dominios, sin necesidad de p
 ## 🔗 Referencias
 
 - Carrier, B. — *File System Forensic Analysis*, Addison-Wesley 2005.
-- PhotoRec / TestDisk: https://www.cgsecurity.org/wiki/PhotoRec
-- foremost / Scalpel: https://foremost.sourceforge.net/
-- bulk_extractor: https://github.com/simsong/bulk_extractor
+- PhotoRec / TestDisk: <https://www.cgsecurity.org/wiki/PhotoRec>
+- foremost / Scalpel: <https://foremost.sourceforge.net/>
+- bulk_extractor: <https://github.com/simsong/bulk_extractor>
 
 ## ➡️ Siguiente clase
 

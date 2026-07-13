@@ -103,10 +103,10 @@ Solo en segmentos críticos y con retención corta. Para hunting histórico, los
 ## 🔗 Referencias
 
 - Sanders, C. y Smith, J. *Applied Network Security Monitoring*. Syngress.
-- NIST SP 800-92, *Guide to Computer Security Log Management* — https://csrc.nist.gov/publications/detail/sp/800-92/final
-- Microsoft Sysmon — https://learn.microsoft.com/sysinternals/downloads/sysmon
-- Zeek Documentation — https://docs.zeek.org/
-- Elastic Common Schema (ECS) — https://www.elastic.co/guide/en/ecs/current/index.html
+- NIST SP 800-92, *Guide to Computer Security Log Management* — <https://csrc.nist.gov/publications/detail/sp/800-92/final>
+- Microsoft Sysmon — <https://learn.microsoft.com/sysinternals/downloads/sysmon>
+- Zeek Documentation — <https://docs.zeek.org/>
+- Elastic Common Schema (ECS) — <https://www.elastic.co/guide/en/ecs/current/index.html>
 
 ## ➡️ Siguiente clase
 

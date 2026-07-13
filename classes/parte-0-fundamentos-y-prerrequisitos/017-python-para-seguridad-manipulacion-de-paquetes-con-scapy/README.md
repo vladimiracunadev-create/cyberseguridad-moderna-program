@@ -44,43 +44,55 @@ Al finalizar, el alumno podrá:
 ## 🧰 Herramientas y preparación
 
 Instala Scapy en tu entorno virtual de Kali:
+
 ```bash
 pip install scapy    # o: sudo apt install python3-scapy
 sudo scapy           # consola interactiva (necesita root para enviar)
 ```
+
 Trabaja siempre en la red interna del laboratorio. Ten Wireshark abierto en paralelo para verificar que tus paquetes forjados salen como esperas.
 
 ## 🧪 Laboratorio guiado
 
 1. **Forjar y ver un paquete**:
+
    ```python
    from scapy.all import *
    pkt = IP(dst="10.10.10.6")/ICMP()
    pkt.show()
    ```
+
 2. **Ping propio** con `sr1`:
+
    ```python
    resp = sr1(IP(dst="10.10.10.6")/ICMP(), timeout=2, verbose=0)
    print("Vivo" if resp else "Sin respuesta")
    ```
+
 3. **Descubrimiento ARP** en la subred (capa 2):
+
    ```python
    ans, _ = srp(Ether(dst="ff:ff:ff:ff:ff:ff")/ARP(pdst="10.10.10.0/24"),
                 timeout=2, verbose=0)
    for _, r in ans: print(r.psrc, r.hwsrc)
    ```
+
 4. **SYN scan a mano** de un puerto:
+
    ```python
    r = sr1(IP(dst="10.10.10.6")/TCP(dport=22, flags="S"), timeout=2, verbose=0)
    if r and r.haslayer(TCP):
        print("abierto" if r[TCP].flags == 0x12 else "cerrado")
    ```
+
    Envía luego un RST para cerrar limpiamente.
 5. **Sniffing con filtro BPF**:
+
    ```python
    pkts = sniff(filter="tcp port 80", count=10, timeout=15)
    pkts.summary()
    ```
+
 6. **Verifica en Wireshark** que tus SYN forjados aparecen con los flags correctos.
 
 > ⚠️ **Nota ética**: forjar y enviar paquetes se hace **solo** en tu laboratorio aislado. Inyectar tráfico en redes ajenas sin autorización es ilegal y puede causar daños.

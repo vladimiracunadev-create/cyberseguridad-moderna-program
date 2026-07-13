@@ -115,10 +115,10 @@ No; hashea con una KDF. Cifrar implica poder descifrar, un riesgo innecesario pa
 
 ## 🔗 Referencias
 
-- OWASP Password Storage Cheat Sheet — https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html
-- RFC 9106 (Argon2) — https://www.rfc-editor.org/rfc/rfc9106
+- OWASP Password Storage Cheat Sheet — <https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html>
+- RFC 9106 (Argon2) — <https://www.rfc-editor.org/rfc/rfc9106>
 - Wong, *Real-World Cryptography*, cap. 8.
-- hashcat — https://hashcat.net/hashcat/
+- hashcat — <https://hashcat.net/hashcat/>
 
 ## ➡️ Siguiente clase
 

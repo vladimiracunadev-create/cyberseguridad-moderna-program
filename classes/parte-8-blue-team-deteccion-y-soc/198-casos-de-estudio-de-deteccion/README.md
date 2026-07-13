@@ -100,9 +100,9 @@ Ambos, pero el valor duradero está en las detecciones y lecciones que dejas: ca
 
 - Bejtlich, R. *The Practice of Network Security Monitoring*. No Starch Press.
 - Sanders, C. y Smith, J. *Applied Network Security Monitoring*. Syngress.
-- Splunk BOTS datasets — https://github.com/splunk/botsv3
-- EVTX-ATTACK-SAMPLES — https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES
-- MITRE ATT&CK — https://attack.mitre.org/
+- Splunk BOTS datasets — <https://github.com/splunk/botsv3>
+- EVTX-ATTACK-SAMPLES — <https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES>
+- MITRE ATT&CK — <https://attack.mitre.org/>
 
 ## ➡️ Siguiente clase
 

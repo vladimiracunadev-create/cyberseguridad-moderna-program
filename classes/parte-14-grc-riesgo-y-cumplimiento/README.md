@@ -64,13 +64,13 @@ Esta parte asume las bases técnicas del programa completo (Partes 1–13): fund
 
 ## 🔗 Referencias de la parte
 
-- (ISC)² CISSP Official Study Guide — https://www.wiley.com/en-us/CISSP+Official+Study+Guide
-- How to Measure Anything in Cybersecurity Risk — https://www.howtomeasureanything.com/cybersecurity/
-- ISO/IEC 27001 — https://www.iso.org/standard/27001
-- NIST Cybersecurity Framework — https://www.nist.gov/cyberframework
-- CIS Critical Security Controls — https://www.cisecurity.org/controls
-- PCI Security Standards Council — https://www.pcisecuritystandards.org/
-- GDPR (texto oficial) — https://eur-lex.europa.eu/eli/reg/2016/679/oj
+- (ISC)² CISSP Official Study Guide — <https://www.wiley.com/en-us/CISSP+Official+Study+Guide>
+- How to Measure Anything in Cybersecurity Risk — <https://www.howtomeasureanything.com/cybersecurity/>
+- ISO/IEC 27001 — <https://www.iso.org/standard/27001>
+- NIST Cybersecurity Framework — <https://www.nist.gov/cyberframework>
+- CIS Critical Security Controls — <https://www.cisecurity.org/controls>
+- PCI Security Standards Council — <https://www.pcisecuritystandards.org/>
+- GDPR (texto oficial) — <https://eur-lex.europa.eu/eli/reg/2016/679/oj>
 
 ## ▶️ Empezar
 

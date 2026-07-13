@@ -107,10 +107,10 @@ Miden la eficacia del programa de respuesta y permiten fijar objetivos de mejora
 
 ## 🔗 Referencias
 
-- NIST SP 800-61 Rev. 2 (Lessons Learned): https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final
-- Lockheed Martin — Cyber Kill Chain: https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html
-- Google SRE — Postmortem Culture: https://sre.google/sre-book/postmortem-culture/
-- MITRE ATT&CK: https://attack.mitre.org/
+- NIST SP 800-61 Rev. 2 (Lessons Learned): <https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final>
+- Lockheed Martin — Cyber Kill Chain: <https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html>
+- Google SRE — Postmortem Culture: <https://sre.google/sre-book/postmortem-culture/>
+- MITRE ATT&CK: <https://attack.mitre.org/>
 
 ## ➡️ Siguiente clase
 

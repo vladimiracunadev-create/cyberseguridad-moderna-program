@@ -53,26 +53,34 @@ Al finalizar, el alumno podrá:
 > Usa un PCAP propio o una muestra pública de entrenamiento.
 
 1. Estadística rápida del PCAP con tshark:
+
    ```bash
    tshark -r captura.pcap -q -z conv,tcp
    ```
+
 2. Filtra tráfico HTTP y extrae hosts contactados:
+
    ```bash
    tshark -r captura.pcap -Y "http.request" -T fields -e http.host -e http.request.uri
    ```
+
 3. En Wireshark, usa *Follow → TCP Stream* sobre una sesión sospechosa para ver la conversación completa.
 4. Extrae archivos transferidos:
    - Wireshark: `File → Export Objects → HTTP`.
    - NetworkMiner: carga el PCAP y revisa la pestaña *Files*.
 5. Detecta túnel DNS buscando subdominios largos y muchas TXT:
+
    ```bash
    tshark -r captura.pcap -Y "dns" -T fields -e dns.qry.name | sort | uniq -c | sort -rn | head
    ```
+
 6. Procesa el PCAP con Zeek:
+
    ```bash
    zeek -r captura.pcap
    cat conn.log | zeek-cut id.orig_h id.resp_h id.resp_p duration
    ```
+
 7. Busca beaconing: analiza `conn.log` con RITA o calcula intervalos regulares hacia una misma IP externa.
 8. Con TLS, revisa `ssl.log` y las huellas JA3 para identificar clientes anómalos.
 
@@ -117,10 +125,10 @@ No: Zeek resume a escala; Wireshark inspecciona a fondo. Se complementan.
 
 ## 🔗 Referencias
 
-- Wireshark: https://www.wireshark.org/docs/
-- Zeek: https://docs.zeek.org/
-- NetworkMiner: https://www.netresec.com/?page=NetworkMiner
-- RITA (beaconing): https://github.com/activecm/rita
+- Wireshark: <https://www.wireshark.org/docs/>
+- Zeek: <https://docs.zeek.org/>
+- NetworkMiner: <https://www.netresec.com/?page=NetworkMiner>
+- RITA (beaconing): <https://github.com/activecm/rita>
 
 ## ➡️ Siguiente clase
 

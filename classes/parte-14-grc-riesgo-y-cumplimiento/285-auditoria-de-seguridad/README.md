@@ -102,11 +102,11 @@ El uso de herramientas que recolectan evidencia automáticamente (configuracione
 
 ## 🔗 Referencias
 
-- ISO 19011:2018 — Directrices para la auditoría de sistemas de gestión. https://www.iso.org/standard/70017.html
-- AICPA — SOC 2 y Trust Services Criteria. https://www.aicpa-cima.com/topic/audit-assurance/audit-and-assurance-greater-than-soc-2
-- ISACA — IT Audit Framework (ITAF). https://www.isaca.org/resources/itaf
+- ISO 19011:2018 — Directrices para la auditoría de sistemas de gestión. <https://www.iso.org/standard/70017.html>
+- AICPA — SOC 2 y Trust Services Criteria. <https://www.aicpa-cima.com/topic/audit-assurance/audit-and-assurance-greater-than-soc-2>
+- ISACA — IT Audit Framework (ITAF). <https://www.isaca.org/resources/itaf>
 - (ISC)² CISSP Official Study Guide, dominio 6 (Security Assessment and Testing).
-- NIST SP 800-53A — Assessing Security Controls. https://csrc.nist.gov/pubs/sp/800/53/a/r5/final
+- NIST SP 800-53A — Assessing Security Controls. <https://csrc.nist.gov/pubs/sp/800/53/a/r5/final>
 
 ## ➡️ Siguiente clase
 

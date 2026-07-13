@@ -51,9 +51,11 @@ Al finalizar, el alumno podrá:
 ## 🧪 Laboratorio guiado
 
 1. **ACL DCSync persistente.** Concede a un usuario de bajo privilegio los derechos de replicación:
-   ```
+
+   ```text
    Add-DomainObjectAcl -TargetIdentity 'DC=lab,DC=local' -PrincipalIdentity lowuser -Rights DCSync
    ```
+
    Verifica que ahora puede hacer DCSync.
 2. **AdminSDHolder.** Añade una ACE a `CN=AdminSDHolder,CN=System,...` para tu usuario y espera al ciclo SDProp; comprueba que recupera permisos sobre cuentas protegidas.
 3. **DCShadow (estudio).** Con Mimikatz, comprende cómo `lsadump::dcshadow` registra un DC falso para escribir un atributo (ej. SID History) evitando logs habituales.
@@ -99,9 +101,9 @@ Siempre al cierre, con inventario completo de lo instalado. Dejar persistencia e
 
 ## 🔗 Referencias
 
-- The Hacker Recipes — *AD persistence*. https://www.thehacker.recipes/ad/persistence/
-- MITRE ATT&CK — *Persistence* (TA0003). https://attack.mitre.org/tactics/TA0003/
-- Microsoft — *AdminSDHolder / SDProp*. https://learn.microsoft.com/
+- The Hacker Recipes — *AD persistence*. <https://www.thehacker.recipes/ad/persistence/>
+- MITRE ATT&CK — *Persistence* (TA0003). <https://attack.mitre.org/tactics/TA0003/>
+- Microsoft — *AdminSDHolder / SDProp*. <https://learn.microsoft.com/>
 - SpecterOps — research sobre RBCD y delegación.
 
 ## ➡️ Siguiente clase

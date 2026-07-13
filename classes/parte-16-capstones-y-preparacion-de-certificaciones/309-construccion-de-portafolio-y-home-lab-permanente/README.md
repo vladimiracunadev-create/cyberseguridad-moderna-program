@@ -58,6 +58,7 @@ Al finalizar, el alumno podrá:
 4. **Escribe 2 writeups.** Elige dos máquinas/retos y documenta el razonamiento (no solo la solución).
 5. **Monta el blog.** Genera un sitio con MkDocs/Hugo y publica los writeups; despliega en GitHub Pages.
 6. **Codifica el home lab.** Escribe un `Vagrantfile` que levante tu laboratorio base (Kali + víctima + SIEM):
+
    ```ruby
    Vagrant.configure("2") do |config|
      config.vm.define "kali" do |k|
@@ -66,6 +67,7 @@ Al finalizar, el alumno podrá:
      end
    end
    ```
+
 7. **Aprovisiona con Ansible.** Automatiza la instalación de herramientas para reconstruir el lab en minutos.
 8. **Documenta el lab.** Un `README` con diagrama de red, cómo levantarlo (`vagrant up`) y cómo destruirlo.
 9. **Unifica tu marca.** Enlaza GitHub ↔ blog ↔ LinkedIn con la misma identidad y descripción.

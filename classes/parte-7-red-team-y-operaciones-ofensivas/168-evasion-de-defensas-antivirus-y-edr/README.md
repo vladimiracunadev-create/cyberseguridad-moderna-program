@@ -96,9 +96,9 @@ Enseñamos el mecanismo para **defender**: sin entender la evasión no se puede 
 
 ## 🔗 Referencias
 
-- MITRE ATT&CK — *Defense Evasion* (TA0005). https://attack.mitre.org/tactics/TA0005/
+- MITRE ATT&CK — *Defense Evasion* (TA0005). <https://attack.mitre.org/tactics/TA0005/>
 - Elastic Security Labs / research sobre EDR internals y hooking.
-- SysWhispers (estudio de syscalls). https://github.com/klezVirus/SysWhispers3
+- SysWhispers (estudio de syscalls). <https://github.com/klezVirus/SysWhispers3>
 - Clark, B. — *RTFM: Red Team Field Manual v2*.
 
 ## ➡️ Siguiente clase

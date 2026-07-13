@@ -97,8 +97,8 @@ Pretextos neutros, coordinación con la white cell, no explotar emociones sensib
 
 ## 🔗 Referencias
 
-- MITRE ATT&CK — *Phishing* (`T1566`). https://attack.mitre.org/techniques/T1566/
-- GoPhish. https://getgophish.com/ · https://docs.getgophish.com/
+- MITRE ATT&CK — *Phishing* (`T1566`). <https://attack.mitre.org/techniques/T1566/>
+- GoPhish. <https://getgophish.com/> · <https://docs.getgophish.com/>
 - Outflank / research sobre *HTML smuggling* y contenedores.
 - Bryant, T. — *Operator Handbook*.
 

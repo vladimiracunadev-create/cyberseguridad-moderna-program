@@ -102,9 +102,9 @@ La aseguradora puede denegar el siniestro por declaración inexacta. La honestid
 ## 🔗 Referencias
 
 - Hubbard & Seiersen — How to Measure Anything in Cybersecurity Risk (transferencia y cuantificación).
-- ENISA — Cyber Insurance: Recent Advances and Good Practices. https://www.enisa.europa.eu/
-- CISA — Cyber Insurance guidance. https://www.cisa.gov/
-- Marsh — Cyber Insurance market reports. https://www.marsh.com/
+- ENISA — Cyber Insurance: Recent Advances and Good Practices. <https://www.enisa.europa.eu/>
+- CISA — Cyber Insurance guidance. <https://www.cisa.gov/>
+- Marsh — Cyber Insurance market reports. <https://www.marsh.com/>
 - (ISC)² CISSP Official Study Guide, dominio 1 (Tratamiento del riesgo).
 
 ## ➡️ Siguiente clase

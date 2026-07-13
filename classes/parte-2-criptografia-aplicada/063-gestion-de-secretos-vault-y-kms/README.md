@@ -114,10 +114,10 @@ Según política y sensibilidad; adopta rotación automatizada y rota de inmedia
 
 ## 🔗 Referencias
 
-- HashiCorp Vault docs — https://developer.hashicorp.com/vault/docs
-- AWS KMS Developer Guide — https://docs.aws.amazon.com/kms/
+- HashiCorp Vault docs — <https://developer.hashicorp.com/vault/docs>
+- AWS KMS Developer Guide — <https://docs.aws.amazon.com/kms/>
 - Wong, *Real-World Cryptography*, cap. 8 y 13.
-- OWASP Secrets Management Cheat Sheet — https://cheatsheetseries.owasp.org/cheatsheets/Secrets_Management_Cheat_Sheet.html
+- OWASP Secrets Management Cheat Sheet — <https://cheatsheetseries.owasp.org/cheatsheets/Secrets_Management_Cheat_Sheet.html>
 
 ## ➡️ Siguiente clase
 

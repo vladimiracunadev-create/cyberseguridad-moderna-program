@@ -106,10 +106,10 @@ Pregunta por cada métrica: "¿qué decisión cambiaría si este número sube o 
 
 ## 🔗 Referencias
 
-- Hubbard & Seiersen — How to Measure Anything in Cybersecurity Risk. https://www.howtomeasureanything.com/cybersecurity/
-- NIST SP 800-55 Rev.2 — Measurement Guide for Information Security. https://csrc.nist.gov/pubs/sp/800/55/r2/final
-- CIS Controls — Measures and Metrics. https://www.cisecurity.org/controls
-- Grafana / Metabase (dashboards). https://grafana.com/
+- Hubbard & Seiersen — How to Measure Anything in Cybersecurity Risk. <https://www.howtomeasureanything.com/cybersecurity/>
+- NIST SP 800-55 Rev.2 — Measurement Guide for Information Security. <https://csrc.nist.gov/pubs/sp/800/55/r2/final>
+- CIS Controls — Measures and Metrics. <https://www.cisecurity.org/controls>
+- Grafana / Metabase (dashboards). <https://grafana.com/>
 - (ISC)² CISSP Official Study Guide, dominio 1.
 
 ## ➡️ Siguiente clase

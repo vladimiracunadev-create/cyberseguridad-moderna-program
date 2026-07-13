@@ -103,10 +103,10 @@ La certificación dura 3 años con auditorías de seguimiento anuales, más una 
 
 ## 🔗 Referencias
 
-- ISO/IEC 27001:2022. https://www.iso.org/standard/27001
-- ISO/IEC 27002:2022 — Controles de seguridad de la información. https://www.iso.org/standard/75652.html
-- ISO/IEC 27005:2022 — Gestión de riesgos. https://www.iso.org/standard/80585.html
-- ISO/IEC 27701 — Extensión de privacidad (PIMS). https://www.iso.org/standard/71670.html
+- ISO/IEC 27001:2022. <https://www.iso.org/standard/27001>
+- ISO/IEC 27002:2022 — Controles de seguridad de la información. <https://www.iso.org/standard/75652.html>
+- ISO/IEC 27005:2022 — Gestión de riesgos. <https://www.iso.org/standard/80585.html>
+- ISO/IEC 27701 — Extensión de privacidad (PIMS). <https://www.iso.org/standard/71670.html>
 - (ISC)² CISSP Official Study Guide, dominio 1.
 
 ## ➡️ Siguiente clase

@@ -88,7 +88,7 @@ Consigue **ejecución de comandos** en DVWA nivel Medium (que filtra algunos car
 
 | Síntoma / mensaje | Causa y cómo arreglar |
 |-------------------|------------------------|
-| El separador se filtra | Nivel Medium bloquea `;`/`&&`; prueba `|` o encoding |
+| El separador se filtra | Nivel Medium bloquea `;`/`&&`; prueba `\|` o encoding |
 | No hay salida | Inyección ciega; usa tiempo u OOB |
 | Reverse shell no conecta | Firewall/NAT del lab; revisa IP y puerto |
 | Comando no existe en Windows | Sintaxis distinta; usa comandos nativos |

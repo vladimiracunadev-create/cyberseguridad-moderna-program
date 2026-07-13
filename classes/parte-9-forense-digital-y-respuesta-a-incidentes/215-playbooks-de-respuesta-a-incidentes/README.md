@@ -107,9 +107,9 @@ Revísalos tras cada incidente y en las lecciones aprendidas; un playbook es un 
 ## 🔗 Referencias
 
 - Roberts & Brown — *Intelligence-Driven Incident Response*, O'Reilly 2017.
-- NIST SP 800-61 Rev. 2: https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final
-- MITRE ATT&CK: https://attack.mitre.org/
-- TheHive & Cortex: https://thehive-project.org/
+- NIST SP 800-61 Rev. 2: <https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final>
+- MITRE ATT&CK: <https://attack.mitre.org/>
+- TheHive & Cortex: <https://thehive-project.org/>
 
 ## ➡️ Siguiente clase
 

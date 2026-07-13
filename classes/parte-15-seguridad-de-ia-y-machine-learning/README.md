@@ -64,12 +64,12 @@ Al terminar la parte, el alumno podrá:
 
 ## 🔗 Referencias de la parte
 
-- OWASP Top 10 for LLM Applications — https://genai.owasp.org/
-- MITRE ATLAS — https://atlas.mitre.org/
-- NIST AI Risk Management Framework — https://www.nist.gov/itl/ai-risk-management-framework
-- Adversarial Robustness Toolbox (IBM/LF AI) — https://github.com/Trusted-AI/adversarial-robustness-toolbox
-- garak (NVIDIA) — https://github.com/NVIDIA/garak · PyRIT (Microsoft) — https://github.com/Azure/PyRIT
-- ISO/IEC 42001:2023 — https://www.iso.org/standard/81230.html
+- OWASP Top 10 for LLM Applications — <https://genai.owasp.org/>
+- MITRE ATLAS — <https://atlas.mitre.org/>
+- NIST AI Risk Management Framework — <https://www.nist.gov/itl/ai-risk-management-framework>
+- Adversarial Robustness Toolbox (IBM/LF AI) — <https://github.com/Trusted-AI/adversarial-robustness-toolbox>
+- garak (NVIDIA) — <https://github.com/NVIDIA/garak> · PyRIT (Microsoft) — <https://github.com/Azure/PyRIT>
+- ISO/IEC 42001:2023 — <https://www.iso.org/standard/81230.html>
 
 ## ▶️ Empezar
 

@@ -140,9 +140,9 @@ glibc moderna.
 ## 🔗 Referencias
 
 - The Shellcoder's Handbook, cap. de heap. Wiley.
-- glibc malloc internals (sploitfun) — https://sploitfun.wordpress.com/2015/02/10/understanding-glibc-malloc/
-- how2heap (Shellphish) — https://github.com/shellphish/how2heap
-- Azeria Labs, heap exploitation — https://azeria-labs.com/heap-exploitation-part-1/
+- glibc malloc internals (sploitfun) — <https://sploitfun.wordpress.com/2015/02/10/understanding-glibc-malloc/>
+- how2heap (Shellphish) — <https://github.com/shellphish/how2heap>
+- Azeria Labs, heap exploitation — <https://azeria-labs.com/heap-exploitation-part-1/>
 
 ## ➡️ Siguiente clase
 

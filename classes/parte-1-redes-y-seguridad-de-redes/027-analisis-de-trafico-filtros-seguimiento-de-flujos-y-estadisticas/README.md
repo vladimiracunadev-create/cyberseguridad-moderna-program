@@ -46,11 +46,13 @@ Al finalizar, el alumno podrá:
 
 - **Wireshark 4.x** y su binario de consola **`tshark`**.
 - Una captura de práctica con varios flujos. Puedes generar una así en tu laboratorio:
+
   ```bash
   sudo tcpdump -i eth0 -w /tmp/lab027.pcapng &
   curl http://192.168.56.101/ ; dig @192.168.56.1 example.com ; ping -c3 192.168.56.1
   sudo pkill tcpdump
   ```
+
 - Referencia de campos: <https://www.wireshark.org/docs/dfref/>.
 
 ## 🧪 Laboratorio guiado
@@ -65,6 +67,7 @@ Al finalizar, el alumno podrá:
 8. Abre **Analizar → Expert Information**: identifica retransmisiones (`tcp.analysis.retransmission`) y dup ACKs.
 9. Abre **Estadísticas → I/O Graph**; añade una serie con filtro `tcp.analysis.retransmission` para visualizar picos de pérdida.
 10. Repite un filtro en consola:
+
     ```bash
     tshark -r /tmp/lab027.pcapng -Y 'http.request' -T fields -e ip.src -e http.host -e http.request.uri
     ```

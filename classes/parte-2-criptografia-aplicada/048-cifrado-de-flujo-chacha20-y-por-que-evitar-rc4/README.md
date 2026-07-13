@@ -107,10 +107,10 @@ Legado. Debe deshabilitarse; TLS moderno lo prohíbe.
 
 ## 🔗 Referencias
 
-- IETF RFC 8439 (ChaCha20-Poly1305) — https://www.rfc-editor.org/rfc/rfc8439
-- IETF RFC 7465 (prohibición de RC4) — https://www.rfc-editor.org/rfc/rfc7465
+- IETF RFC 8439 (ChaCha20-Poly1305) — <https://www.rfc-editor.org/rfc/rfc8439>
+- IETF RFC 7465 (prohibición de RC4) — <https://www.rfc-editor.org/rfc/rfc7465>
 - Wong, *Real-World Cryptography*, cap. 3–4.
-- Bernstein, "ChaCha, a variant of Salsa20" — https://cr.yp.to/chacha.html
+- Bernstein, "ChaCha, a variant of Salsa20" — <https://cr.yp.to/chacha.html>
 
 ## ➡️ Siguiente clase
 

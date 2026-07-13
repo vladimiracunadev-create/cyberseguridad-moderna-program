@@ -112,8 +112,8 @@ OAEP para cifrado nuevo; PKCS#1 v1.5 es propenso a ataques (Bleichenbacher) y se
 ## 🔗 Referencias
 
 - Aumasson, *Serious Cryptography*, cap. 10.
-- Boneh & Shoup, *A Graduate Course in Applied Cryptography* — https://toc.cryptobook.us/
-- PKCS #1 v2.2 (RFC 8017) — https://www.rfc-editor.org/rfc/rfc8017
+- Boneh & Shoup, *A Graduate Course in Applied Cryptography* — <https://toc.cryptobook.us/>
+- PKCS #1 v2.2 (RFC 8017) — <https://www.rfc-editor.org/rfc/rfc8017>
 - NIST SP 800-56B (RSA key establishment).
 
 ## ➡️ Siguiente clase

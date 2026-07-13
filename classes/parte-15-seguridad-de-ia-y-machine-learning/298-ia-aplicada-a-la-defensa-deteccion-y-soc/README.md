@@ -60,6 +60,7 @@ Sobre **datos propios o de laboratorio**.
 2. **Explora y normaliza.** Codifica variables categóricas, escala numéricas y separa un baseline de comportamiento "normal".
 
 3. **Entrena un detector no supervisado.**
+
    ```python
    from sklearn.ensemble import IsolationForest
    det = IsolationForest(contamination=0.01, random_state=42).fit(X_train)
@@ -119,9 +120,9 @@ Sí. Los detectores son modelos y por tanto atacables (evasión, envenenamiento 
 
 - Chandola, Banerjee & Kumar, "Anomaly Detection: A Survey", ACM Computing Surveys, 2009.
 - Sommer & Paxson, "Outside the Closed World: On Using ML for Network Intrusion Detection", IEEE S&P 2010.
-- scikit-learn, Outlier detection — https://scikit-learn.org/stable/modules/outlier_detection.html
-- NIST AI RMF — https://www.nist.gov/itl/ai-risk-management-framework
-- MITRE ATLAS — https://atlas.mitre.org/
+- scikit-learn, Outlier detection — <https://scikit-learn.org/stable/modules/outlier_detection.html>
+- NIST AI RMF — <https://www.nist.gov/itl/ai-risk-management-framework>
+- MITRE ATLAS — <https://atlas.mitre.org/>
 
 ## ➡️ Siguiente clase
 

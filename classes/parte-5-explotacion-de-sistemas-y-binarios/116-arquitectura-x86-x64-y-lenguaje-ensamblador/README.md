@@ -154,9 +154,9 @@ consulta el *Intel SDM* para el resto.
 ## 🔗 Referencias
 
 - Erickson, J. *Hacking: The Art of Exploitation, 2e*, cap. 0x2. No Starch Press.
-- Intel® 64 and IA-32 Architectures Software Developer's Manual — https://www.intel.com/sdm
-- (X86 assembly) OSDev Wiki — https://wiki.osdev.org/X86-64
-- Compiler Explorer (godbolt) para ver C↔ASM — https://godbolt.org/
+- Intel® 64 and IA-32 Architectures Software Developer's Manual — <https://www.intel.com/sdm>
+- (X86 assembly) OSDev Wiki — <https://wiki.osdev.org/X86-64>
+- Compiler Explorer (godbolt) para ver C↔ASM — <https://godbolt.org/>
 
 ## ➡️ Siguiente clase
 

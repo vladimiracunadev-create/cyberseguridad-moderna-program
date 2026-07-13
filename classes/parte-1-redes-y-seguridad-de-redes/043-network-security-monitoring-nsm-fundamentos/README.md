@@ -54,9 +54,11 @@ Al finalizar, el alumno podrá:
 
 1. **Despliega Security Onion** en una VM (modo import/eval para laboratorio) y accede a su consola web.
 2. **Importa un pcap** representativo (o el `lab027.pcapng` de clases previas) mediante `so-import-pcap`:
+
    ```bash
    sudo so-import-pcap /ruta/lab027.pcapng
    ```
+
 3. **Explora las alertas** en la interfaz (Alerts): identifica qué firmas de Suricata dispararon.
 4. **Pivota a los logs de Zeek**: para una alerta, abre los registros de sesión (`conn.log`), HTTP (`http.log`) y DNS (`dns.log`) asociados.
 5. **Recupera el full content**: desde una alerta, extrae el pcap del flujo y ábrelo en Wireshark para el análisis fino.

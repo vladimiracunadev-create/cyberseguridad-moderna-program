@@ -110,9 +110,9 @@ No; solo autenticidad e integridad. Combínalo con cifrado para confidencialidad
 
 ## 🔗 Referencias
 
-- IETF RFC 2104 (HMAC) — https://www.rfc-editor.org/rfc/rfc2104
+- IETF RFC 2104 (HMAC) — <https://www.rfc-editor.org/rfc/rfc2104>
 - Ferguson, Schneier, Kohno, *Cryptography Engineering*, cap. 6–7.
-- NIST FIPS 198-1 (HMAC) — https://csrc.nist.gov/publications/detail/fips/198/1/final
+- NIST FIPS 198-1 (HMAC) — <https://csrc.nist.gov/publications/detail/fips/198/1/final>
 - OWASP, "Cryptographic Storage Cheat Sheet".
 
 ## ➡️ Siguiente clase

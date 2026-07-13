@@ -51,22 +51,28 @@ Instala **VirtualBox** (gratuito, multiplataforma) o **VMware Workstation Player
 
 1. **Comprobar virtualización**. En Windows, abre el Administrador de tareas → Rendimiento → CPU y confirma "Virtualización: habilitada". Si no, actívala en la UEFI (VT-x/AMD-V).
 2. **Verificar la ISO de Kali**. Descarga la imagen y su checksum. En PowerShell:
+
    ```powershell
    Get-FileHash .\kali-linux-*.iso -Algorithm SHA256
    ```
+
    Compara el resultado con el valor oficial de kali.org. Si no coincide, no la uses.
 3. **Crear la VM Kali** en VirtualBox: 2 vCPU, 4 GB RAM, 40 GB disco. Monta la ISO y completa la instalación gráfica.
 4. **Crear la red interna**. En VirtualBox → Herramientas → Red, o por VM en Configuración → Red → "Red interna" con nombre `lab-net`. Asigna ese adaptador a Kali y a la víctima.
 5. **Desplegar la víctima** (Metasploitable) importando el OVA/OVF y conectándola a `lab-net`.
 6. **Direccionar**. Configura IPs estáticas en la misma subred, p. ej. Kali `10.10.10.5` y víctima `10.10.10.6`, máscara `/24`.
 7. **Probar conectividad interna**:
+
    ```bash
    ping -c 3 10.10.10.6
    ```
+
 8. **Verificar aislamiento**. Desde Kali intenta salir a Internet; **no** debe haber ruta:
+
    ```bash
    ping -c 2 8.8.8.8   # debe fallar: destino inalcanzable
    ```
+
 9. **Tomar snapshot** de cada VM en estado limpio recién instalado. Etiqueta: `base-limpia`.
 10. **Prueba de reversión**: crea un archivo en Kali, apaga, restaura el snapshot y confirma que el archivo desapareció.
 

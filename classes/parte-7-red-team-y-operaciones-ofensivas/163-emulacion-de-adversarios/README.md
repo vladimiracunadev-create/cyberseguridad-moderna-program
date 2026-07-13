@@ -96,8 +96,8 @@ La simulación (comportamientos genéricos) suele ser mejor punto de partida; la
 
 ## 🔗 Referencias
 
-- MITRE CTID — *Adversary Emulation Library*. https://github.com/center-for-threat-informed-defense/adversary_emulation_library
-- MITRE — *Adversary Emulation Plans*. https://attack.mitre.org/resources/adversary-emulation-plans/
+- MITRE CTID — *Adversary Emulation Library*. <https://github.com/center-for-threat-informed-defense/adversary_emulation_library>
+- MITRE — *Adversary Emulation Plans*. <https://attack.mitre.org/resources/adversary-emulation-plans/>
 - Vest & Tubberville — *Red Team Development and Operations*.
 - Mandiant / CrowdStrike — informes públicos de threat intelligence.
 

@@ -44,31 +44,39 @@ Al finalizar, el alumno podrá:
 ## 🧰 Herramientas y preparación
 
 En Linux/Kali: `gcc`, `objdump`, `gdb` (idealmente con **GEF** o **pwndbg**), `readelf`. Instala GEF:
+
 ```bash
 bash -c "$(curl -fsSL https://gef.blah.cat/sh)"
 ```
+
 Trabaja en tu VM de laboratorio. Un programa C sencillo servirá para compilar, desensamblar y depurar.
 
 ## 🧪 Laboratorio guiado
 
 1. **Compilar y desensamblar**. Crea `suma.c` con una función `suma(a,b)` y `main`:
+
    ```bash
    gcc -O0 -g suma.c -o suma
    objdump -d -M intel suma | sed -n '/<suma>:/,/ret/p'
    ```
+
    Identifica `push rbp`, `mov rbp, rsp`, las operaciones y `ret`.
 2. **Registros en gdb**:
+
    ```bash
    gdb ./suma
    (gdb) break suma
    (gdb) run
    (gdb) info registers rdi rsi rsp rbp rip
    ```
+
    Observa los argumentos en RDI/RSI (System V).
 3. **Ver la pila**. En el breakpoint, examina la memoria de la pila:
-   ```
+
+   ```text
    (gdb) x/8gx $rsp
    ```
+
    Localiza la dirección de retorno guardada.
 4. **Seguir call/ret**. Ejecuta paso a paso (`stepi`) y observa cómo `ret` restaura RIP desde la pila.
 5. **Endianness**. Escribe un entero en memoria y examínalo byte a byte para comprobar el orden little-endian.

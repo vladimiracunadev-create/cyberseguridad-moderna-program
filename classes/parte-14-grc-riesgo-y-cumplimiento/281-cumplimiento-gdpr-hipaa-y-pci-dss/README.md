@@ -101,10 +101,10 @@ Solo si tratas PHI de entidades cubiertas estadounidenses. Para salud en la UE a
 
 ## 🔗 Referencias
 
-- GDPR — Reglamento (UE) 2016/679. https://eur-lex.europa.eu/eli/reg/2016/679/oj
-- HIPAA Security Rule (HHS). https://www.hhs.gov/hipaa/for-professionals/security/index.html
-- PCI DSS v4.0 (PCI SSC). https://www.pcisecuritystandards.org/document_library/
-- PCI SAQ (Self-Assessment Questionnaires). https://www.pcisecuritystandards.org/
+- GDPR — Reglamento (UE) 2016/679. <https://eur-lex.europa.eu/eli/reg/2016/679/oj>
+- HIPAA Security Rule (HHS). <https://www.hhs.gov/hipaa/for-professionals/security/index.html>
+- PCI DSS v4.0 (PCI SSC). <https://www.pcisecuritystandards.org/document_library/>
+- PCI SAQ (Self-Assessment Questionnaires). <https://www.pcisecuritystandards.org/>
 - (ISC)² CISSP Official Study Guide, dominios 1 y 2.
 
 ## ➡️ Siguiente clase

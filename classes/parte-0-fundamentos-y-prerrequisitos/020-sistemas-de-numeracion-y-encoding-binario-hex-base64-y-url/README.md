@@ -48,28 +48,36 @@ Herramientas: `xxd`/`hexdump`, `base64`, `python3` (`base64`, `binascii`, `urlli
 ## 🧪 Laboratorio guiado
 
 1. **Conversión de bases** en Python:
+
    ```python
    n = 0xFF
    print(bin(n), oct(n), n)      # binario, octal, decimal
    print(int("11111111", 2), hex(255))
    ```
+
 2. **Hex dump** de un archivo:
+
    ```bash
    echo -n "admin:1234" | xxd
    ```
+
    Relaciona cada byte con su carácter ASCII.
 3. **Base64 ida y vuelta**:
+
    ```bash
    echo -n "usuario:secreto" | base64
    echo -n "dXN1YXJpbzpzZWNyZXRv" | base64 -d
    ```
+
    Observa que es trivialmente reversible (¡no es cifrado!).
 4. **URL encoding** en Python:
+
    ```python
    from urllib.parse import quote, unquote
    print(quote("a b&c=1"))       # a%20b%26c%3D1
    print(unquote("%3Cscript%3E")) # <script>
    ```
+
 5. **Cadena de encodings**. En CyberChef, toma un texto, aplícale Base64 y luego URL-encode; después reviértelo. Así se ven payloads "en capas".
 6. **Diferenciar hashing**. Calcula el SHA-256 de "admin" y comprueba que **no** puedes recuperar "admin" de él (a diferencia de Base64).
 

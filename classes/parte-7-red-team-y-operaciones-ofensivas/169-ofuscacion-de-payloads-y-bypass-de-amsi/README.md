@@ -96,8 +96,8 @@ No exactamente: evadir es lograr que no bloquee tu contenido concreto; los memor
 
 ## 🔗 Referencias
 
-- Microsoft — *Antimalware Scan Interface (AMSI)*. https://learn.microsoft.com/windows/win32/amsi/
-- MITRE ATT&CK — *Impair Defenses* (`T1562`). https://attack.mitre.org/techniques/T1562/
+- Microsoft — *Antimalware Scan Interface (AMSI)*. <https://learn.microsoft.com/windows/win32/amsi/>
+- MITRE ATT&CK — *Impair Defenses* (`T1562`). <https://attack.mitre.org/techniques/T1562/>
 - Red Canary / research sobre detección de AMSI bypass.
 - Clark, B. — *RTFM: Red Team Field Manual v2*.
 

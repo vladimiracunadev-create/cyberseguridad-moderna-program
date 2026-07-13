@@ -54,37 +54,49 @@ Al finalizar, el alumno podrá:
 ## 🧪 Laboratorio guiado
 
 1. **SMB — recursos y sistema**:
+
    ```bash
    smbclient -L //192.168.56.101/ -N
    nmap -p445 --script smb-enum-shares,smb-enum-users,smb-os-discovery 192.168.56.101
    enum4linux-ng -A 192.168.56.101
    ```
+
 2. **HTTP — tecnologías y directorios**:
+
    ```bash
    whatweb http://192.168.56.101/
    gobuster dir -u http://192.168.56.101/ -w /usr/share/wordlists/dirb/common.txt -t 30
    curl -sI http://192.168.56.101/    # cabeceras
    nikto -h http://192.168.56.101/
    ```
+
 3. **DNS — registros y transferencia de zona**:
+
    ```bash
    dig @192.168.56.1 lab.local ANY
    dig @192.168.56.1 lab.local AXFR      # transferencia de zona
    dnsrecon -d lab.local -n 192.168.56.1
    ```
+
 4. **SNMP**:
+
    ```bash
    onesixtyone -c /usr/share/wordlists/snmp.txt 192.168.56.101
    snmpwalk -v2c -c public 192.168.56.101
    ```
+
 5. **SMTP — enumeración de usuarios**:
+
    ```bash
    smtp-user-enum -M VRFY -U users.txt -t 192.168.56.101
    ```
+
 6. **FTP anónimo**:
+
    ```bash
    ftp 192.168.56.101   # usuario: anonymous, password: cualquiera
    ```
+
 7. **Documenta** cada hallazgo en un archivo por servicio (`notas-smb.md`, `notas-http.md`, …).
 
 ## ✍️ Ejercicios

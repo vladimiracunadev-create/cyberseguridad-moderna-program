@@ -44,27 +44,34 @@ Al finalizar, el alumno podrá:
 ## 🧰 Herramientas y preparación
 
 Instala Git y configúralo:
+
 ```bash
 sudo apt install git
 git config --global user.name "Tu Nombre"
 git config --global user.email "tu@correo"
 ```
+
 Para escaneo de secretos, instala **gitleaks** (<https://github.com/gitleaks/gitleaks>). Opcional: una cuenta en GitHub/GitLab para practicar remotos. **No** ejecutes git en el repositorio del curso durante esta clase; usa un repo de práctica aparte.
 
 ## 🧪 Laboratorio guiado
 
 1. **Crear un repo de práctica** (fuera del repo del curso):
+
    ```bash
    mkdir ~/practica-git && cd ~/practica-git && git init
    ```
+
 2. **Flujo básico**:
+
    ```bash
    echo "# Notas" > README.md
    git add README.md && git commit -m "Primer commit"
    git log --oneline
    ```
+
 3. **Ramas y conflicto controlado**. Crea una rama, edita la misma línea en ambas y fuerza un conflicto al hacer merge; resuélvelo manualmente.
 4. **`.gitignore`**. Añade patrones típicos de secretos y artefactos:
+
    ```gitignore
    .env
    *.pem
@@ -72,11 +79,14 @@ Para escaneo de secretos, instala **gitleaks** (<https://github.com/gitleaks/git
    venv/
    __pycache__/
    ```
+
 5. **Simular una fuga**. Crea un archivo `secreto.env` con una clave falsa, **añádelo por error** y haz commit. Comprueba que aparece en `git log -p`.
 6. **Auditar con gitleaks**:
+
    ```bash
    gitleaks detect --source . -v
    ```
+
    Observa cómo detecta el secreto en el historial.
 7. **Aprende la lección**: entiende que borrarlo en un commit nuevo **no** lo elimina del historial; haría falta reescribir el historial y **rotar** el secreto expuesto.
 

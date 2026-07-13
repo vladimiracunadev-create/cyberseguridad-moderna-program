@@ -122,8 +122,8 @@ No; como RSA, cae ante Shor. Por eso existe la criptografía post-cuántica (cla
 
 - Aumasson, *Serious Cryptography*, cap. 12.
 - Wong, *Real-World Cryptography*, cap. 5–7.
-- RFC 7748 (Curve25519/X25519) — https://www.rfc-editor.org/rfc/rfc7748
-- RFC 8032 (Ed25519) — https://www.rfc-editor.org/rfc/rfc8032
+- RFC 7748 (Curve25519/X25519) — <https://www.rfc-editor.org/rfc/rfc7748>
+- RFC 8032 (Ed25519) — <https://www.rfc-editor.org/rfc/rfc8032>
 
 ## ➡️ Siguiente clase
 

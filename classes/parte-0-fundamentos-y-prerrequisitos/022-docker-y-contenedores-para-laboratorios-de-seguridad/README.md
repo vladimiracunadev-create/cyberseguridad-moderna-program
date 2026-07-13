@@ -44,38 +44,50 @@ Al finalizar, el alumno podrá:
 ## 🧰 Herramientas y preparación
 
 Instala **Docker Engine** (o Docker Desktop). Verifica:
+
 ```bash
 docker --version && docker run hello-world
 ```
+
 Trabaja dentro de tu VM de laboratorio para no exponer contenedores vulnerables. Imágenes de práctica: `vulnerables/web-dvwa`, `bkimminich/juice-shop`. Ten Compose disponible (`docker compose version`).
 
 ## 🧪 Laboratorio guiado
 
 1. **Primer contenedor**:
+
    ```bash
    docker run -d --name web -p 8080:80 nginx
    docker ps ; curl -s localhost:8080 | head
    ```
+
 2. **Inspeccionar y entrar**:
+
    ```bash
    docker logs web ; docker exec -it web bash
    ```
+
 3. **Desplegar un lab vulnerable** (solo en red aislada):
+
    ```bash
    docker run -d -p 3000:3000 bkimminich/juice-shop
    ```
+
    Abre `http://localhost:3000` desde la propia VM.
 4. **Construir una imagen**. Crea un `Dockerfile` con una herramienta Python propia (p. ej. tu `pyscan.py`) y constrúyela:
+
    ```dockerfile
    FROM python:3.12-slim
    COPY pyscan.py /app/pyscan.py
    ENTRYPOINT ["python", "/app/pyscan.py"]
    ```
+
    ```bash
    docker build -t pyscan . && docker run --rm pyscan --help
    ```
+
 5. **Compose multi-servicio**. Escribe un `compose.yml` que levante DVWA + su base de datos y arráncalo con `docker compose up -d`.
 6. **Limpieza**. Detén y elimina lo creado; entiende que un contenedor es efímero:
+
    ```bash
    docker rm -f web ; docker compose down
    ```

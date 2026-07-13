@@ -51,42 +51,60 @@ Al finalizar, el alumno podrá:
 ## 🧪 Laboratorio guiado
 
 1. Lista interfaces disponibles:
+
    ```bash
    sudo tcpdump -D
    ```
+
 2. Captura básica sin resolución de nombres:
+
    ```bash
    sudo tcpdump -i eth0 -n
    ```
+
 3. Filtra por host y puerto:
+
    ```bash
    sudo tcpdump -i eth0 -n host 192.168.56.101 and tcp port 80
    ```
+
 4. Captura solo paquetes SYN (inicio de conexión) usando el offset de flags:
+
    ```bash
    sudo tcpdump -i eth0 -n 'tcp[tcpflags] & tcp-syn != 0 and tcp[tcpflags] & tcp-ack == 0'
    ```
+
 5. Guarda a archivo con snap completo:
+
    ```bash
    sudo tcpdump -i eth0 -s 0 -w /tmp/lab028.pcap port 53
    ```
+
    Genera tráfico DNS en otra terminal (`dig example.com`) y detén con Ctrl-C.
 6. Lee lo capturado con filtro de lectura:
+
    ```bash
    tcpdump -n -r /tmp/lab028.pcap 'udp port 53'
    ```
+
 7. Captura larga con rotación (archivos de 10 MB, máximo 5):
+
    ```bash
    sudo tcpdump -i eth0 -s 0 -C 10 -W 5 -w /tmp/rot.pcap
    ```
+
 8. Aumenta verbosidad para ver TTL, opciones y checksums:
+
    ```bash
    sudo tcpdump -i eth0 -vvv -n icmp
    ```
+
 9. **Captura remota vía SSH** y análisis en tu Wireshark local:
+
    ```bash
    ssh usuario@servidor 'sudo tcpdump -i eth0 -s 0 -U -w - not port 22' | wireshark -k -i -
    ```
+
    (El filtro `not port 22` evita capturar tu propia sesión SSH y un bucle infinito.)
 
 ## ✍️ Ejercicios

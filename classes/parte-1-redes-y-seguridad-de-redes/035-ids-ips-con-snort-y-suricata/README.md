@@ -53,31 +53,41 @@ Al finalizar, el alumno podrá:
 ## 🧪 Laboratorio guiado
 
 1. **Descarga reglas y verifica configuración**:
+
    ```bash
    sudo suricata-update
    sudo suricata -T -c /etc/suricata/suricata.yaml   # test de config
    ```
+
 2. **Analiza un pcap** con Suricata:
+
    ```bash
    sudo suricata -r /tmp/lab027.pcapng -l ./salida/
    jq 'select(.event_type=="alert") | .alert.signature' ./salida/eve.json
    ```
+
 3. **Modo IDS en vivo** sobre una interfaz:
+
    ```bash
    sudo suricata -i eth0 -l /var/log/suricata/
    sudo tail -f /var/log/suricata/fast.log
    ```
+
 4. **Escribe una regla propia** en `/etc/suricata/rules/local.rules`:
-   ```
+
+   ```text
    alert icmp any any -> $HOME_NET any (msg:"ICMP ping detectado en laboratorio"; itype:8; sid:1000001; rev:1;)
    alert http any any -> any any (msg:"Posible user-agent de escaneo"; flow:to_server,established; http.user_agent; content:"Nmap"; nocase; sid:1000002; rev:1;)
    ```
+
    Añade `local.rules` a `rule-files` en el YAML y recarga.
 5. **Dispara la regla**: desde otra VM `ping $HOME` y un `curl -A "Nmap NSE" http://...`; observa las alertas en `fast.log`.
 6. **Compara con Snort 3** (opcional):
+
    ```bash
    snort -c /etc/snort/snort.lua -r /tmp/lab027.pcapng -A alert_fast
    ```
+
 7. **Afina un falso positivo**: identifica una firma ruidosa y desactívala con `suricata-update --disable-conf` o un umbral (`threshold.config`).
 
 ## ✍️ Ejercicios

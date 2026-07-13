@@ -48,7 +48,7 @@ La gobernanza es una disciplina documental; las "herramientas" son plantillas y 
 - Un editor de texto o Markdown para redactar el charter y la matriz RACI.
 - Una hoja de cálculo (LibreOffice Calc, Excel o Google Sheets) para la matriz de roles.
 - Referencias abiertas: *ISO/IEC 27014* (gobernanza de seguridad), *NIST SP 800-100* (Information Security Handbook), *COBIT 2019* de ISACA.
-- Opcional: una plantilla de política del *SANS Policy Templates* (https://www.sans.org/information-security-policy/) para inspirarte, sin copiar.
+- Opcional: una plantilla de política del *SANS Policy Templates* (<https://www.sans.org/information-security-policy/>) para inspirarte, sin copiar.
 
 No hay laboratorio ofensivo aquí; el trabajo es de análisis y redacción, propio de un rol de gobierno.
 
@@ -105,10 +105,10 @@ ISO 27001 es el marco de gestión (SGSI); la gobernanza lo supervisa y aprueba. 
 ## 🔗 Referencias
 
 - (ISC)² CISSP Official Study Guide, dominio 1 (Security and Risk Management).
-- ISO/IEC 27014:2020 — Governance of information security. https://www.iso.org/standard/74046.html
-- NIST SP 800-100 — Information Security Handbook: A Guide for Managers. https://csrc.nist.gov/pubs/sp/800/100
-- COBIT 2019 (ISACA). https://www.isaca.org/resources/cobit
-- SANS Security Policy Templates. https://www.sans.org/information-security-policy/
+- ISO/IEC 27014:2020 — Governance of information security. <https://www.iso.org/standard/74046.html>
+- NIST SP 800-100 — Information Security Handbook: A Guide for Managers. <https://csrc.nist.gov/pubs/sp/800/100>
+- COBIT 2019 (ISACA). <https://www.isaca.org/resources/cobit>
+- SANS Security Policy Templates. <https://www.sans.org/information-security-policy/>
 
 ## ➡️ Siguiente clase
 

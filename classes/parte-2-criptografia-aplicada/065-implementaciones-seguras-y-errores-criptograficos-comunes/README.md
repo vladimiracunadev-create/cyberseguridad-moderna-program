@@ -117,10 +117,10 @@ Poder cambiar algoritmos y claves sin rediseñar; será imprescindible en la mig
 
 ## 🔗 Referencias
 
-- OWASP Top 10 A02:2021 Cryptographic Failures — https://owasp.org/Top10/A02_2021-Cryptographic_Failures/
+- OWASP Top 10 A02:2021 Cryptographic Failures — <https://owasp.org/Top10/A02_2021-Cryptographic_Failures/>
 - Ferguson, Schneier, Kohno, *Cryptography Engineering* (todo el libro).
 - Wong, *Real-World Cryptography*, cap. 8, 13 y 16.
-- OWASP Cryptographic Storage Cheat Sheet — https://cheatsheetseries.owasp.org/cheatsheets/Cryptographic_Storage_Cheat_Sheet.html
+- OWASP Cryptographic Storage Cheat Sheet — <https://cheatsheetseries.owasp.org/cheatsheets/Cryptographic_Storage_Cheat_Sheet.html>
 
 ## ➡️ Siguiente clase
 

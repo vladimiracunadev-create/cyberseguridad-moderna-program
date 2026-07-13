@@ -96,8 +96,8 @@ El cuaderno es interno y esencial para deconfliction, reproducibilidad y el info
 
 ## 🔗 Referencias
 
-- Vest & Tubberville — *Red Team Development and Operations* (OPSEC). https://redteam.guide/
-- MITRE ATT&CK — *Defense Evasion* (TA0005). https://attack.mitre.org/tactics/TA0005/
+- Vest & Tubberville — *Red Team Development and Operations* (OPSEC). <https://redteam.guide/>
+- MITRE ATT&CK — *Defense Evasion* (TA0005). <https://attack.mitre.org/tactics/TA0005/>
 - SpecterOps / research sobre OPSEC de C2.
 - Bryant, T. — *Operator Handbook*.
 

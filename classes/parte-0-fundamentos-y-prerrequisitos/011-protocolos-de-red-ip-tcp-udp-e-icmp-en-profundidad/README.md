@@ -48,22 +48,28 @@ Usa **Wireshark**, **tcpdump**, y **nmap** en tu laboratorio aislado. Para gener
 ## 🧪 Laboratorio guiado
 
 1. **Capturar un handshake**. En Kali, arranca la captura y luego conéctate a un servicio de la víctima:
+
    ```bash
    sudo tcpdump -i eth0 -n 'tcp and host 10.10.10.6' -w tcp.pcap &
    curl http://10.10.10.6/ ; sudo pkill tcpdump
    ```
+
 2. **Analiza en Wireshark** el filtro `tcp.flags.syn == 1`. Identifica SYN, SYN-ACK y ACK y anota números de secuencia y puertos.
 3. **Cierre de conexión**. Localiza los paquetes FIN/ACK (o RST) al final de la conversación.
 4. **Escaneo SYN** (half-open) contra tu víctima:
+
    ```bash
    sudo nmap -sS -p 1-1000 10.10.10.6
    ```
+
    Captura en paralelo y observa que a puertos cerrados llega **RST** y a abiertos, **SYN-ACK**.
 5. **UDP e ICMP**. Lanza un ping y un escaneo UDP:
+
    ```bash
    ping -c 3 10.10.10.6
    sudo nmap -sU -p 53,67,123 10.10.10.6
    ```
+
    Observa las respuestas ICMP "port unreachable" para puertos UDP cerrados.
 6. **TTL fingerprinting**. Compara el TTL de respuestas de un Linux (~64) y un Windows (~128) en tu laboratorio.
 

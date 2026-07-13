@@ -113,11 +113,11 @@ coherencia contextual.
 
 ## 🔗 Referencias
 
-- Bellingcat — Online Investigation Toolkit. https://www.bellingcat.com/resources/
-- ExifTool. https://exiftool.org/
-- SunCalc. https://www.suncalc.org/
-- FotoForensics. https://fotoforensics.com/
-- InVID/WeVerify. https://www.invid-project.eu/
+- Bellingcat — Online Investigation Toolkit. <https://www.bellingcat.com/resources/>
+- ExifTool. <https://exiftool.org/>
+- SunCalc. <https://www.suncalc.org/>
+- FotoForensics. <https://fotoforensics.com/>
+- InVID/WeVerify. <https://www.invid-project.eu/>
 
 ## ➡️ Siguiente clase
 

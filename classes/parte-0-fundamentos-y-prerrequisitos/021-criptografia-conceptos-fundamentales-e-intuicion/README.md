@@ -44,21 +44,26 @@ Al finalizar, el alumno podrá:
 ## 🧰 Herramientas y preparación
 
 Usa Python con la librería **cryptography** (de PyCA) y `hashlib`. Para contraseñas, `bcrypt`/`argon2-cffi`. Instala en tu venv:
+
 ```bash
 pip install cryptography bcrypt argon2-cffi
 ```
+
 También `openssl` en línea de comandos para experimentar. **Regla de oro**: usa librerías establecidas, nunca implementaciones caseras de primitivas.
 
 ## 🧪 Laboratorio guiado
 
 1. **Hash e integridad**:
+
    ```python
    import hashlib
    print(hashlib.sha256(b"mensaje").hexdigest())
    ```
+
    Cambia un byte del mensaje y observa el efecto avalancha.
 2. **Por qué MD5/SHA-1 no valen**. Investiga colisiones conocidas y razona por qué no deben usarse para integridad de seguridad.
 3. **Cifrado simétrico autenticado** con AES-GCM (vía `cryptography`):
+
    ```python
    from cryptography.hazmat.primitives.ciphers.aead import AESGCM
    key = AESGCM.generate_key(bit_length=256)
@@ -66,16 +71,20 @@ También `openssl` en línea de comandos para experimentar. **Regla de oro**: us
    ct = aes.encrypt(nonce, b"secreto", None)
    print(aes.decrypt(nonce, ct, None))
    ```
+
    Nota: en producción el nonce debe ser único por mensaje.
 4. **Hash de contraseñas con sal**:
+
    ```python
    import bcrypt
    h = bcrypt.hashpw(b"Contrasena1", bcrypt.gensalt())
    print(bcrypt.checkpw(b"Contrasena1", h))
    ```
+
    Compara: hashear una contraseña con SHA-256 "pelado" es inseguro.
 5. **HMAC** para integridad autenticada de un mensaje con clave compartida.
 6. **Claves asimétricas**. Genera un par RSA con openssl y firma/verifica un archivo:
+
    ```bash
    openssl genrsa -out priv.pem 2048
    openssl rsa -in priv.pem -pubout -out pub.pem

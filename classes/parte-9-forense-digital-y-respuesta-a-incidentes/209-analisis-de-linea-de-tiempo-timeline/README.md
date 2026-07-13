@@ -54,22 +54,30 @@ Al finalizar, el alumno podrá:
 > Usa una imagen forense propia de una VM que investigaste.
 
 1. Genera el storage de plaso desde la imagen:
+
    ```bash
    log2timeline.py --storage-file caso.plaso imagen.E01
    ```
+
 2. Revisa qué se recolectó:
+
    ```bash
    pinfo.py caso.plaso
    ```
+
 3. Exporta una super-timeline completa a CSV:
+
    ```bash
    psort.py -o l2tcsv -w timeline.csv caso.plaso
    ```
+
 4. Acota a la ventana del incidente (por ejemplo, un día):
+
    ```bash
    psort.py -o l2tcsv -w recorte.csv caso.plaso \
      "date > '2026-07-10 00:00:00' AND date < '2026-07-11 00:00:00'"
    ```
+
 5. Importa a Timesketch y crea un *sketch* del caso; etiqueta los eventos clave (ejecución de malware, creación de cuenta, exfiltración).
 6. Pivotea: parte de un artefacto conocido (una ejecución de Prefetch de la clase 205) y examina qué ocurrió en los minutos previos y posteriores.
 7. Busca timestomping: eventos del FS cuyos tiempos no cuadran con logs o con el `$UsnJrnl`.
@@ -116,9 +124,9 @@ Buscando incoherencias entre fuentes que registran el mismo hecho: FS, `$UsnJrnl
 
 ## 🔗 Referencias
 
-- plaso / log2timeline: https://plaso.readthedocs.io/
-- Timesketch: https://timesketch.org/
-- SANS — Windows Forensic Analysis (FOR508): https://www.sans.org/
+- plaso / log2timeline: <https://plaso.readthedocs.io/>
+- Timesketch: <https://timesketch.org/>
+- SANS — Windows Forensic Analysis (FOR508): <https://www.sans.org/>
 - Carrier, B. — *File System Forensic Analysis*, Addison-Wesley 2005.
 
 ## ➡️ Siguiente clase

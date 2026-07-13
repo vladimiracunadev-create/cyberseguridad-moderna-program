@@ -111,11 +111,11 @@ solicitudes de eliminación a los servicios.
 
 ## 🔗 Referencias
 
-- Bazzell, M. *Open Source Intelligence Techniques*. https://inteltechniques.com/book1.html
-- Sherlock. https://github.com/sherlock-project/sherlock
-- Maigret. https://github.com/soxoj/maigret
-- Holehe. https://github.com/megadose/holehe
-- Have I Been Pwned. https://haveibeenpwned.com/
+- Bazzell, M. *Open Source Intelligence Techniques*. <https://inteltechniques.com/book1.html>
+- Sherlock. <https://github.com/sherlock-project/sherlock>
+- Maigret. <https://github.com/soxoj/maigret>
+- Holehe. <https://github.com/megadose/holehe>
+- Have I Been Pwned. <https://haveibeenpwned.com/>
 
 ## ➡️ Siguiente clase
 

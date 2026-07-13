@@ -96,8 +96,8 @@ El dwell time y el TTD/TTR: indican cuánto tiempo estuvo "dentro" el atacante y
 
 ## 🔗 Referencias
 
-- Vest & Tubberville — *Red Team Development and Operations* (reporting). https://redteam.guide/
-- MITRE ATT&CK Navigator. https://github.com/mitre-attack/attack-navigator
+- Vest & Tubberville — *Red Team Development and Operations* (reporting). <https://redteam.guide/>
+- MITRE ATT&CK Navigator. <https://github.com/mitre-attack/attack-navigator>
 - SANS — plantillas de reporting de Red Team.
 - NIST SP 800-115 — reporting de pruebas de seguridad.
 

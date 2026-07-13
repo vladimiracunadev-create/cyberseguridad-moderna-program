@@ -101,8 +101,8 @@ Sí, si se documentan, se aprueban, tienen controles compensatorios y caducan. U
 ## 🔗 Referencias
 
 - (ISC)² CISSP Official Study Guide, dominio 1 (Documentación de seguridad).
-- NIST SP 800-12 Rev.1 — An Introduction to Information Security. https://csrc.nist.gov/pubs/sp/800/12/r1/final
-- SANS Security Policy Templates. https://www.sans.org/information-security-policy/
+- NIST SP 800-12 Rev.1 — An Introduction to Information Security. <https://csrc.nist.gov/pubs/sp/800/12/r1/final>
+- SANS Security Policy Templates. <https://www.sans.org/information-security-policy/>
 - ISO/IEC 27001:2022, cláusula 5.2 (Política).
 - ISO/IEC 27002:2022, control 5.1 (Políticas de seguridad de la información).
 

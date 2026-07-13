@@ -102,11 +102,11 @@ Con créditos de formación continua (CPE): cursos, conferencias, publicaciones 
 
 ## 🔗 Referencias
 
-- NICE Framework — NIST SP 800-181 Rev.1. https://csrc.nist.gov/pubs/sp/800/181/r1/final
-- (ISC)² — Certificaciones y Código de Ética. https://www.isc2.org/
-- ISACA — CISA, CRISC y otras. https://www.isaca.org/credentialing
-- CompTIA — Security+ y rutas de carrera. https://www.comptia.org/certifications/security
-- Offensive Security — OSCP. https://www.offsec.com/courses/pen-200/
+- NICE Framework — NIST SP 800-181 Rev.1. <https://csrc.nist.gov/pubs/sp/800/181/r1/final>
+- (ISC)² — Certificaciones y Código de Ética. <https://www.isc2.org/>
+- ISACA — CISA, CRISC y otras. <https://www.isaca.org/credentialing>
+- CompTIA — Security+ y rutas de carrera. <https://www.comptia.org/certifications/security>
+- Offensive Security — OSCP. <https://www.offsec.com/courses/pen-200/>
 
 ## ➡️ Siguiente clase
 

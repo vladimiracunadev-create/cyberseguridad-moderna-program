@@ -47,9 +47,11 @@ Al finalizar, el alumno podrá:
   - Debian/Ubuntu: `sudo apt install wireshark` (acepta que usuarios del grupo `wireshark` capturen sin root).
   - macOS: `brew install --cask wireshark`. Windows: instalador oficial + Npcap.
 - Añadir tu usuario al grupo de captura para no ejecutar como root:
+
   ```bash
   sudo usermod -aG wireshark $USER   # cerrar sesión y volver a entrar
   ```
+
 - Capturas de práctica: usa las **muestras oficiales** de <https://wiki.wireshark.org/SampleCaptures> o genera tráfico propio en tu laboratorio.
 
 > ⚠️ **Nota ética:** captura solo tráfico de redes que administras o para las que tienes autorización explícita. Interceptar comunicaciones ajenas puede ser delito. Practica en tu laboratorio aislado.
@@ -58,14 +60,18 @@ Al finalizar, el alumno podrá:
 
 1. **Elige interfaz.** Abre Wireshark; en la pantalla de inicio verás las interfaces con un *sparkline* de actividad. Elige la que tenga tráfico (p. ej. `eth0`).
 2. **Aplica un filtro de captura** para reducir ruido antes de capturar. En el campo "capture filter" escribe:
-   ```
+
+   ```text
    host 192.168.56.101 and tcp port 80
    ```
+
    (sintaxis BPF, distinta a los filtros de visualización).
 3. **Inicia la captura** con la aleta azul. En otra terminal genera tráfico:
+
    ```bash
    curl http://192.168.56.101/
    ```
+
 4. **Detén la captura** (botón rojo). Observa las tres zonas: lista, detalle y bytes.
 5. **Expande la disección** de un paquete HTTP: haz clic en el triángulo de cada capa (Ethernet II → Internet Protocol → Transmission Control Protocol → Hypertext Transfer Protocol).
 6. **Identifica el 3-way handshake:** localiza `SYN`, `SYN, ACK`, `ACK` al inicio del flujo.

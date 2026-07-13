@@ -82,12 +82,12 @@ Al terminar la parte, el alumno podrá:
 
 ## 🔗 Referencias de la parte
 
-- Erickson, J. *Hacking: The Art of Exploitation, 2e*. No Starch Press — https://nostarch.com/hacking2.htm
-- Andriesse, D. *Practical Binary Analysis*. No Starch Press — https://practicalbinaryanalysis.com/
+- Erickson, J. *Hacking: The Art of Exploitation, 2e*. No Starch Press — <https://nostarch.com/hacking2.htm>
+- Andriesse, D. *Practical Binary Analysis*. No Starch Press — <https://practicalbinaryanalysis.com/>
 - Anley et al. *The Shellcoder's Handbook, 2e*. Wiley.
-- pwn.college — currículo abierto de explotación — https://pwn.college/
-- Nightmare (guyinatuxedo) — https://guyinatuxedo.github.io/
-- System V AMD64 ABI — https://gitlab.com/x86-psABIs/x86-64-ABI
+- pwn.college — currículo abierto de explotación — <https://pwn.college/>
+- Nightmare (guyinatuxedo) — <https://guyinatuxedo.github.io/>
+- System V AMD64 ABI — <https://gitlab.com/x86-psABIs/x86-64-ABI>
 
 ## ▶️ Empezar
 

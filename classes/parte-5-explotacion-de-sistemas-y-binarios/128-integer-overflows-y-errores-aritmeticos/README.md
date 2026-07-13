@@ -138,9 +138,9 @@ activa UBSan en CI.
 
 ## 🔗 Referencias
 
-- CWE-190: Integer Overflow or Wraparound — https://cwe.mitre.org/data/definitions/190.html
-- CWE-191: Integer Underflow — https://cwe.mitre.org/data/definitions/191.html
-- UndefinedBehaviorSanitizer — https://clang.llvm.org/docs/UndefinedBehaviorSanitizer.html
+- CWE-190: Integer Overflow or Wraparound — <https://cwe.mitre.org/data/definitions/190.html>
+- CWE-191: Integer Underflow — <https://cwe.mitre.org/data/definitions/191.html>
+- UndefinedBehaviorSanitizer — <https://clang.llvm.org/docs/UndefinedBehaviorSanitizer.html>
 - The Shellcoder's Handbook, cap. de integer bugs. Wiley.
 
 ## ➡️ Siguiente clase

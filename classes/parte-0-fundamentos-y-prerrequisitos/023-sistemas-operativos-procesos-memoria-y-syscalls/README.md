@@ -48,23 +48,31 @@ En Linux/Kali: `ps`, `top`/`htop`, `/proc`, `strace`, `ltrace`, `pmap`, `cat /pr
 ## 🧪 Laboratorio guiado
 
 1. **Explorar un proceso vivo**. Lanza `sleep 1000 &` y examina:
+
    ```bash
    ps -o pid,ppid,state,cmd -p $!
    cat /proc/$!/status | head
    ```
+
 2. **Layout de memoria**. Observa las regiones del proceso:
+
    ```bash
    pmap $!    # o: cat /proc/$!/maps
    ```
+
    Identifica stack, heap y las bibliotecas mapeadas.
 3. **Trazar syscalls**. Mira qué llamadas hace un comando:
+
    ```bash
    strace -f -e trace=open,openat,read,write ls / 2>&1 | head -30
    ```
+
 4. **Llamadas a librería** con ltrace sobre un binario dinámico:
+
    ```bash
    ltrace -e 'malloc+free' ./programa 2>&1 | head
    ```
+
 5. **Modo usuario vs. kernel**. Con `strace -c ls` mide cuánto tiempo pasa el proceso en syscalls vs. en espacio de usuario.
 6. **Relevancia ofensiva** (conceptual). Relaciona: un buffer overflow corrompe el **stack**; un `execve` inesperado en `strace` puede delatar una **ejecución maliciosa**; el hooking de syscalls es base de rootkits y de EDR.
 

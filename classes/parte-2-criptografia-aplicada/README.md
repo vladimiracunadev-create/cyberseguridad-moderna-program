@@ -66,12 +66,12 @@ Se asume haber cursado la **Parte 1 — Redes y seguridad de redes** (modelo TCP
 
 ## 🔗 Referencias de la parte
 
-- Aumasson, *Serious Cryptography*, No Starch Press — https://nostarch.com/serious-cryptography-2nd-edition
-- Wong, *Real-World Cryptography*, Manning — https://www.manning.com/books/real-world-cryptography
-- Ferguson, Schneier, Kohno, *Cryptography Engineering* — https://www.schneier.com/books/cryptography-engineering/
-- Boneh & Shoup, *A Graduate Course in Applied Cryptography* — https://toc.cryptobook.us/
-- NIST Cryptographic Standards — https://csrc.nist.gov/projects/cryptographic-standards-and-guidelines
-- IETF RFC 8446 (TLS 1.3) — https://www.rfc-editor.org/rfc/rfc8446
+- Aumasson, *Serious Cryptography*, No Starch Press — <https://nostarch.com/serious-cryptography-2nd-edition>
+- Wong, *Real-World Cryptography*, Manning — <https://www.manning.com/books/real-world-cryptography>
+- Ferguson, Schneier, Kohno, *Cryptography Engineering* — <https://www.schneier.com/books/cryptography-engineering/>
+- Boneh & Shoup, *A Graduate Course in Applied Cryptography* — <https://toc.cryptobook.us/>
+- NIST Cryptographic Standards — <https://csrc.nist.gov/projects/cryptographic-standards-and-guidelines>
+- IETF RFC 8446 (TLS 1.3) — <https://www.rfc-editor.org/rfc/rfc8446>
 
 ## ▶️ Empezar
 

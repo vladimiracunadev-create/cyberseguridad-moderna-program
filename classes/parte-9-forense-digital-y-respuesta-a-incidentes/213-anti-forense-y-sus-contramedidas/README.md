@@ -55,25 +55,33 @@ Al finalizar, el alumno podrá:
 > Todo sobre tus propios sistemas de laboratorio.
 
 1. **Timestomping y su detección**: cambia el mtime de un archivo propio y detéctalo comparando `$SI` vs `$FN` en la MFT:
+
    ```bash
    MFTECmd.exe -f "$MFT" --csv salida --csvf mft.csv
    ```
+
    Busca registros donde los tiempos de `$SI` sean anteriores a los de `$FN` (imposible en uso normal).
 2. **Alternate Data Streams**: crea y detecta un ADS en NTFS:
+
    ```cmd
    echo secreto > archivo.txt:oculto.txt
    dir /r
    ```
+
 3. **Limpieza de logs**: borra un log de eventos propio y detecta el hueco:
+
    ```cmd
    wevtutil cl Application
    ```
+
    El propio evento 1102 ("audit log cleared") delata la limpieza; búscalo.
 4. **Esteganografía**: esconde un texto en una imagen propia y detéctalo:
+
    ```bash
    zsteg imagen.png
    binwalk imagen.png
    ```
+
 5. **Wiping**: sobrescribe un archivo y observa el espacio no asignado; discute por qué el patrón (o su ausencia) es una pista.
 6. Documenta, para cada técnica, la **contramedida**: qué fuente redundante permitió detectarla.
 
@@ -119,9 +127,9 @@ Difícil por TRIM, pero busca en shadow copies, backups, journal, memoria y logs
 ## 🔗 Referencias
 
 - Ligh, Case, Levy, Walters — *The Art of Memory Forensics*, Wiley 2014.
-- MITRE ATT&CK — Defense Evasion (TA0005): https://attack.mitre.org/tactics/TA0005/
-- Eric Zimmerman's Tools: https://ericzimmerman.github.io/
-- LOLBAS project: https://lolbas-project.github.io/
+- MITRE ATT&CK — Defense Evasion (TA0005): <https://attack.mitre.org/tactics/TA0005/>
+- Eric Zimmerman's Tools: <https://ericzimmerman.github.io/>
+- LOLBAS project: <https://lolbas-project.github.io/>
 
 ## ➡️ Siguiente clase
 

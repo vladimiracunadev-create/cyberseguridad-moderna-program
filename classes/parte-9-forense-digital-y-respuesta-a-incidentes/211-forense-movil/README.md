@@ -54,23 +54,31 @@ Al finalizar, el alumno podrá:
 > Usa un dispositivo Android propio (o un emulador) con datos de prueba que tú generas.
 
 1. Habilita depuración USB en el dispositivo propio y conecta ADB:
+
    ```bash
    adb devices
    ```
+
 2. Realiza una extracción lógica por backup:
+
    ```bash
    adb backup -all -f backup.ab
    ```
+
 3. Convierte el backup a un tar analizable (con `abe.jar` o `android-backup-extractor`).
 4. Extrae info del dispositivo:
+
    ```bash
    adb shell getprop ro.product.model
    adb shell dumpsys package com.whatsapp | head
    ```
+
 5. Analiza una base SQLite de una app de mensajería PROPIA (por ejemplo, tus propios mensajes de prueba):
+
    ```sql
    SELECT datetime(timestamp/1000,'unixepoch'), sender, body FROM messages ORDER BY timestamp;
    ```
+
 6. Procesa la extracción con ALEAPP para un informe automatizado (ubicación, apps, notificaciones, uso).
 7. Revisa artefactos de ubicación y actividad de apps que ALEAPP consolida.
 8. Documenta el método de extracción, el nivel logrado y por qué (bloqueo, cifrado).
@@ -116,10 +124,10 @@ Solo con consentimiento del titular u orden judicial. Hacerlo sin autorización 
 
 ## 🔗 Referencias
 
-- NIST SP 800-101 Rev. 1: https://csrc.nist.gov/publications/detail/sp/800-101/rev-1/final
-- ALEAPP / iLEAPP: https://github.com/abrignoni
-- Android Debug Bridge: https://developer.android.com/tools/adb
-- libimobiledevice: https://libimobiledevice.org/
+- NIST SP 800-101 Rev. 1: <https://csrc.nist.gov/publications/detail/sp/800-101/rev-1/final>
+- ALEAPP / iLEAPP: <https://github.com/abrignoni>
+- Android Debug Bridge: <https://developer.android.com/tools/adb>
+- libimobiledevice: <https://libimobiledevice.org/>
 
 ## ➡️ Siguiente clase
 

@@ -54,36 +54,51 @@ Al finalizar, el alumno podrá:
 > Usa una imagen `.dd` propia (por ejemplo de un pendrive formateado en NTFS y otro en ext4).
 
 1. Examina la tabla de particiones:
+
    ```bash
    mmls caso001.dd
    ```
+
 2. Muestra estadísticas del sistema de archivos:
+
    ```bash
    fsstat -o 2048 caso001.dd
    ```
+
 3. Lista archivos incluyendo borrados (marcados con `*`):
+
    ```bash
    fls -r -o 2048 caso001.dd
    ```
+
 4. Inspecciona un inodo/registro MFT concreto:
+
    ```bash
    istat -o 2048 caso001.dd 128
    ```
+
 5. Recupera el contenido de un archivo por su inodo:
+
    ```bash
    icat -o 2048 caso001.dd 128 > recuperado.bin
    ```
+
 6. Genera una línea de tiempo del sistema de archivos:
+
    ```bash
    fls -r -m C: -o 2048 caso001.dd > bodyfile.txt
    mactime -b bodyfile.txt -d > timeline.csv
    ```
+
 7. En NTFS, extrae y parsea la MFT con MFTECmd:
+
    ```bash
    MFTECmd.exe -f "$MFT" --csv salida --csvf mft.csv
    ```
+
    Compara los timestamps de `$STANDARD_INFORMATION` y `$FILE_NAME` para detectar *timestomping*.
 8. En ext4, explora con `debugfs`:
+
    ```bash
    debugfs -R "stat <2>" imagen_ext4.dd
    ```
@@ -130,9 +145,9 @@ En Windows moderno normalmente sí. Es una fuente riquísima de creaciones, reno
 ## 🔗 Referencias
 
 - Carrier, B. — *File System Forensic Analysis*, Addison-Wesley 2005.
-- The Sleuth Kit: https://www.sleuthkit.org/
-- Eric Zimmerman's Tools (MFTECmd): https://ericzimmerman.github.io/
-- Microsoft — NTFS documentation: https://learn.microsoft.com/windows-server/storage/file-server/ntfs-overview
+- The Sleuth Kit: <https://www.sleuthkit.org/>
+- Eric Zimmerman's Tools (MFTECmd): <https://ericzimmerman.github.io/>
+- Microsoft — NTFS documentation: <https://learn.microsoft.com/windows-server/storage/file-server/ntfs-overview>
 
 ## ➡️ Siguiente clase
 

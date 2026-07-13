@@ -128,9 +128,9 @@ irreales; prioriza.
 ## 🔗 Referencias
 
 - Dowd, McDonald, Schuh. *The Art of Software Security Assessment*. Addison-Wesley.
-- CodeQL — https://codeql.github.com/
-- Semgrep — https://semgrep.dev/
-- security.txt / disclosure — https://securitytxt.org/
+- CodeQL — <https://codeql.github.com/>
+- Semgrep — <https://semgrep.dev/>
+- security.txt / disclosure — <https://securitytxt.org/>
 
 ## ➡️ Siguiente clase
 

@@ -96,10 +96,10 @@ Game of Active Directory: un laboratorio vulnerable y reproducible pensado para 
 
 ## 🔗 Referencias
 
-- The Hacker Recipes — *AD enumeration*. https://www.thehacker.recipes/
-- GOAD. https://github.com/Orange-Cyberdefense/GOAD
-- PowerSploit/PowerView. https://github.com/PowerShellMafia/PowerSploit
-- Impacket. https://github.com/fortra/impacket
+- The Hacker Recipes — *AD enumeration*. <https://www.thehacker.recipes/>
+- GOAD. <https://github.com/Orange-Cyberdefense/GOAD>
+- PowerSploit/PowerView. <https://github.com/PowerShellMafia/PowerSploit>
+- Impacket. <https://github.com/fortra/impacket>
 
 ## ➡️ Siguiente clase
 

@@ -48,22 +48,29 @@ Usa `curl`, el navegador con sus **DevTools** (pestaña Network), y un proxy de 
 ## 🧪 Laboratorio guiado
 
 1. **Petición cruda con curl**. Observa cabeceras de respuesta:
+
    ```bash
    curl -v http://10.10.10.6/ 2>&1 | head -40
    ```
+
    Identifica la línea de estado, cabeceras y cuerpo.
 2. **Métodos y estados**. Prueba distintos métodos y observa el código:
+
    ```bash
    curl -s -o /dev/null -w "%{http_code}\n" -X POST http://10.10.10.6/login
    ```
+
 3. **Inspeccionar cookies**. Haz login en la app de laboratorio con DevTools abiertas y revisa la cookie de sesión: ¿tiene `HttpOnly`, `Secure`, `SameSite`?
 4. **Interceptar con Burp/ZAP**. Configura el navegador para pasar por el proxy y captura una petición; modifícala y reenvíala (Repeater) para ver el efecto en el servidor.
 5. **Examinar TLS**:
+
    ```bash
    openssl s_client -connect example.com:443 -servername example.com </dev/null 2>/dev/null | openssl x509 -noout -subject -issuer -dates
    ```
+
    Lee el emisor y la validez del certificado.
 6. **Cabeceras de seguridad**. Comprueba si un sitio envía HSTS/CSP:
+
    ```bash
    curl -sI https://example.com | grep -iE 'strict-transport|content-security'
    ```

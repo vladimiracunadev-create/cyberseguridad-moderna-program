@@ -103,10 +103,10 @@ Casi nada. Un canary token es un archivo, una URL o una clave que avisa al usars
 ## 🔗 Referencias
 
 - Bejtlich, R. *The Practice of Network Security Monitoring*. No Starch Press.
-- Canarytokens (Thinkst) — https://canarytokens.org/
-- Cowrie SSH/Telnet honeypot — https://github.com/cowrie/cowrie
-- T-Pot honeypot platform — https://github.com/telekom-security/tpotce
-- MITRE Engage (deception framework) — https://engage.mitre.org/
+- Canarytokens (Thinkst) — <https://canarytokens.org/>
+- Cowrie SSH/Telnet honeypot — <https://github.com/cowrie/cowrie>
+- T-Pot honeypot platform — <https://github.com/telekom-security/tpotce>
+- MITRE Engage (deception framework) — <https://engage.mitre.org/>
 
 ## ➡️ Siguiente clase
 

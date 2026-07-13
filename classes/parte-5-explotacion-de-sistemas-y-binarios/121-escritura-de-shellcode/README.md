@@ -154,8 +154,8 @@ la base; luego se pasa a ROP/ret2libc.
 
 - Anley et al. *The Shellcoder's Handbook, 2e*. Wiley.
 - Erickson, J. *Hacking: The Art of Exploitation, 2e*, cap. 0x5. No Starch Press.
-- Linux syscall table (x86-64) — https://filippo.io/linux-syscall-table/
-- pwntools shellcraft — https://docs.pwntools.com/en/stable/shellcraft.html
+- Linux syscall table (x86-64) — <https://filippo.io/linux-syscall-table/>
+- pwntools shellcraft — <https://docs.pwntools.com/en/stable/shellcraft.html>
 
 ## ➡️ Siguiente clase
 

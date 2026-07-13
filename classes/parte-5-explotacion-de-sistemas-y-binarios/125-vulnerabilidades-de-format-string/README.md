@@ -143,9 +143,9 @@ detectarlo en compilación.
 
 ## 🔗 Referencias
 
-- CWE-134: Use of Externally-Controlled Format String — https://cwe.mitre.org/data/definitions/134.html
+- CWE-134: Use of Externally-Controlled Format String — <https://cwe.mitre.org/data/definitions/134.html>
 - Erickson, J. *Hacking: The Art of Exploitation, 2e*. No Starch Press.
-- pwntools fmtstr — https://docs.pwntools.com/en/stable/fmtstr.html
+- pwntools fmtstr — <https://docs.pwntools.com/en/stable/fmtstr.html>
 - scut/team teso, "Exploiting Format String Vulnerabilities" (paper clásico).
 
 ## ➡️ Siguiente clase

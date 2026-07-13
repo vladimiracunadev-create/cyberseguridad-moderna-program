@@ -53,33 +53,45 @@ Al finalizar, el alumno podrá:
 ## 🧪 Laboratorio guiado
 
 1. **Port forwarding local** (`-L`): accede a un servicio del pivote/red interna como si fuera local:
+
    ```bash
    ssh -L 8080:10.20.0.5:80 usuario@pivote
    curl http://127.0.0.1:8080/
    ```
+
 2. **Port forwarding remoto** (`-R`): expón un servicio tuyo en el pivote (útil para reverse shells controladas):
+
    ```bash
    ssh -R 9000:127.0.0.1:80 usuario@pivote
    ```
+
 3. **Túnel dinámico SOCKS** (`-D`):
+
    ```bash
    ssh -D 1080 usuario@pivote
    ```
+
 4. **Configura proxychains** (`/etc/proxychains4.conf`):
-   ```
+
+   ```text
    [ProxyList]
    socks5 127.0.0.1 1080
    ```
+
 5. **Enruta herramientas** por el túnel para alcanzar la red interna:
+
    ```bash
    proxychains4 nmap -sT -Pn -p 22,80,445 10.20.0.0/24
    proxychains4 curl http://10.20.0.5/
    ```
+
 6. **Pivote sin SSH con Chisel** (esquema): en el pivote `chisel server -p 8000 --reverse`; en el atacante `chisel client <pivote>:8000 R:socks` para obtener un SOCKS.
 7. **Lado defensivo**: en el pivote, detecta el túnel observando conexiones anómalas:
+
    ```bash
    ss -tnp | grep -E "ESTAB"
    ```
+
    y revisa reglas de firewall que impidan reenvíos no autorizados.
 
 ## ✍️ Ejercicios

@@ -110,9 +110,9 @@ Limitado por el riesgo de colisión de nonces (con nonces aleatorios de 96 bits,
 
 ## 🔗 Referencias
 
-- IETF RFC 5116 (AEAD) — https://www.rfc-editor.org/rfc/rfc5116
-- IETF RFC 8439 (ChaCha20-Poly1305) — https://www.rfc-editor.org/rfc/rfc8439
-- NIST SP 800-38D (GCM) — https://csrc.nist.gov/publications/detail/sp/800-38d/final
+- IETF RFC 5116 (AEAD) — <https://www.rfc-editor.org/rfc/rfc5116>
+- IETF RFC 8439 (ChaCha20-Poly1305) — <https://www.rfc-editor.org/rfc/rfc8439>
+- NIST SP 800-38D (GCM) — <https://csrc.nist.gov/publications/detail/sp/800-38d/final>
 - Wong, *Real-World Cryptography*, cap. 4.
 
 ## ➡️ Siguiente clase

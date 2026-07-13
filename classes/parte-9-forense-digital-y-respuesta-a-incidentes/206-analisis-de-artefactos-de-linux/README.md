@@ -47,6 +47,7 @@ Al finalizar, el alumno podrá:
 - **Nativas**: `journalctl`, `last`, `lastb`, `grep`, `stat`, `ausearch` (auditd).
 - **Análisis**: The Sleuth Kit para montar la imagen, `log2timeline`/plaso para timeline.
 - **Entorno**: usa una imagen de una VM Linux propia. Monta en solo lectura:
+
   ```bash
   mount -o ro,noexec,nodev imagen.dd /mnt/evidencia
   ```
@@ -56,39 +57,53 @@ Al finalizar, el alumno podrá:
 > Trabaja sobre una imagen de una VM Linux propia montada en solo lectura.
 
 1. Revisa autenticación (SSH, sudo):
+
    ```bash
    grep -Ei "accepted|failed|sudo" /mnt/evidencia/var/log/auth.log
    ```
+
 2. Lee logins con los registros binarios:
+
    ```bash
    last -f /mnt/evidencia/var/log/wtmp
    lastb -f /mnt/evidencia/var/log/btmp
    ```
+
 3. Consulta journald offline:
+
    ```bash
    journalctl --directory=/mnt/evidencia/var/log/journal --no-pager
    ```
+
 4. Extrae el historial de shell de cada usuario:
+
    ```bash
    cat /mnt/evidencia/home/*/.bash_history
    cat /mnt/evidencia/root/.bash_history
    ```
+
 5. Busca persistencia programada:
+
    ```bash
    ls -la /mnt/evidencia/etc/cron*
    cat /mnt/evidencia/var/spool/cron/crontabs/*
    ls -la /mnt/evidencia/etc/systemd/system/
    ```
+
 6. Revisa cuentas y accesos sospechosos:
+
    ```bash
    cat /mnt/evidencia/etc/passwd | awk -F: '$3>=1000'
    cat /mnt/evidencia/etc/sudoers
    cat /mnt/evidencia/home/*/.ssh/authorized_keys
    ```
+
 7. Revisa persistencia en perfiles de shell:
+
    ```bash
    grep -R . /mnt/evidencia/home/*/.bashrc /mnt/evidencia/etc/rc.local 2>/dev/null
    ```
+
 8. Ordena hallazgos por tiempo con `stat` sobre archivos sospechosos.
 
 ## ✍️ Ejercicios
@@ -132,10 +147,10 @@ mtime y atime sí con `touch`; ctime es más difícil (requiere manipular el rel
 
 ## 🔗 Referencias
 
-- NIST SP 800-86: https://csrc.nist.gov/publications/detail/sp/800-86/final
-- systemd journald docs: https://www.freedesktop.org/software/systemd/man/journalctl.html
-- The Sleuth Kit: https://www.sleuthkit.org/
-- SANS — Linux forensics resources: https://www.sans.org/blog/
+- NIST SP 800-86: <https://csrc.nist.gov/publications/detail/sp/800-86/final>
+- systemd journald docs: <https://www.freedesktop.org/software/systemd/man/journalctl.html>
+- The Sleuth Kit: <https://www.sleuthkit.org/>
+- SANS — Linux forensics resources: <https://www.sans.org/blog/>
 
 ## ➡️ Siguiente clase
 

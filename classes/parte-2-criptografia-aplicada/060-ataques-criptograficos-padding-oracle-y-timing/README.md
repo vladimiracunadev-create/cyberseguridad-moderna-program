@@ -100,7 +100,7 @@ Sí; con suficientes mediciones y estadística se explotan incluso a través de 
 ## 🔗 Referencias
 
 - Vaudenay, "Security Flaws Induced by CBC Padding" (padding oracle original).
-- AlFardan & Paterson, "Lucky Thirteen" — http://www.isg.rhul.ac.uk/tls/Lucky13.html
+- AlFardan & Paterson, "Lucky Thirteen" — <http://www.isg.rhul.ac.uk/tls/Lucky13.html>
 - Aumasson, *Serious Cryptography*, cap. 4 y 9.
 - OWASP, "Padding Oracle Attack".
 

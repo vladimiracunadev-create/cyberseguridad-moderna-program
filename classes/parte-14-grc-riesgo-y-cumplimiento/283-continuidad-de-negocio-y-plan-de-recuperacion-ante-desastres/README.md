@@ -123,11 +123,11 @@ No. La nube reparte responsabilidades pero tú sigues siendo responsable de tus 
 
 ## 🔗 Referencias
 
-- ISO 22301:2019 — Business Continuity Management. https://www.iso.org/standard/75106.html
-- NIST SP 800-34 Rev.1 — Contingency Planning Guide. https://csrc.nist.gov/pubs/sp/800/34/r1/final
+- ISO 22301:2019 — Business Continuity Management. <https://www.iso.org/standard/75106.html>
+- NIST SP 800-34 Rev.1 — Contingency Planning Guide. <https://csrc.nist.gov/pubs/sp/800/34/r1/final>
 - (ISC)² CISSP Official Study Guide, dominio 7.
-- restic — Backups rápidos, seguros y verificables. https://restic.net/
-- Estrategia de backup 3-2-1 (CISA). https://www.cisa.gov/
+- restic — Backups rápidos, seguros y verificables. <https://restic.net/>
+- Estrategia de backup 3-2-1 (CISA). <https://www.cisa.gov/>
 
 ## ➡️ Siguiente clase
 

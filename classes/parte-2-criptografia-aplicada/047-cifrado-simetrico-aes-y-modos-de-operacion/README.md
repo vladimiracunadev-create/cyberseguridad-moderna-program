@@ -115,10 +115,10 @@ No, pero sí impredecible (CBC) o único (CTR/GCM). Se transmite junto al texto 
 
 ## 🔗 Referencias
 
-- NIST FIPS 197 (AES) — https://csrc.nist.gov/publications/detail/fips/197/final
-- NIST SP 800-38A (modos) — https://csrc.nist.gov/publications/detail/sp/800-38a/final
+- NIST FIPS 197 (AES) — <https://csrc.nist.gov/publications/detail/fips/197/final>
+- NIST SP 800-38A (modos) — <https://csrc.nist.gov/publications/detail/sp/800-38a/final>
 - Aumasson, *Serious Cryptography*, cap. 4.
-- Documentación `cryptography` (Python) — https://cryptography.io/
+- Documentación `cryptography` (Python) — <https://cryptography.io/>
 
 ## ➡️ Siguiente clase
 

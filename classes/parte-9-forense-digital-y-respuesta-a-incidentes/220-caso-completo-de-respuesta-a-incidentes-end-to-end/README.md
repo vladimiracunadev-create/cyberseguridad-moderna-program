@@ -57,11 +57,13 @@ Al finalizar, el alumno podrá:
    - Volca la RAM (WinPmem) y el disco (FTK Imager → E01), con hashes y cadena de custodia (clases 201, 203, 207).
    - Captura tráfico si el atacante sigue activo (clase 208).
 3. **Análisis de memoria**: con Volatility 3 halla el proceso malicioso, su inyección y su conexión C2:
+
    ```bash
    vol -f memoria.raw windows.malfind
    vol -f memoria.raw windows.netscan
    vol -f memoria.raw windows.cmdline
    ```
+
 4. **Análisis de disco**: en Autopsy/TSK examina artefactos de ejecución y persistencia (clases 204, 205): Prefetch, ShimCache/AmCache, tareas programadas, claves Run.
 5. **Análisis de red**: en Zeek/Wireshark confirma el C2, el beaconing y qué se exfiltró (clase 208).
 6. **Timeline maestra**: con plaso genera la super-timeline y reconstruye la secuencia entrada → ejecución → persistencia → movimiento → exfiltración (clase 209).
@@ -109,10 +111,10 @@ Manéjalo solo en VMs aisladas y desechables, con snapshots, sin salida a Intern
 
 ## 🔗 Referencias
 
-- NIST SP 800-61 Rev. 2: https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final
+- NIST SP 800-61 Rev. 2: <https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final>
 - Ligh, Case, Levy, Walters — *The Art of Memory Forensics*, Wiley 2014.
 - Roberts & Brown — *Intelligence-Driven Incident Response*, O'Reilly 2017.
-- Autopsy / The Sleuth Kit: https://www.autopsy.com/
+- Autopsy / The Sleuth Kit: <https://www.autopsy.com/>
 
 ## ➡️ Siguiente clase
 

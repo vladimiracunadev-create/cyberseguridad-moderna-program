@@ -145,10 +145,10 @@ C++ y compila con ASan en CI.
 
 ## 🔗 Referencias
 
-- CWE-416: Use After Free — https://cwe.mitre.org/data/definitions/416.html
-- how2heap (Shellphish) — https://github.com/shellphish/how2heap
+- CWE-416: Use After Free — <https://cwe.mitre.org/data/definitions/416.html>
+- how2heap (Shellphish) — <https://github.com/shellphish/how2heap>
 - The Shellcoder's Handbook, cap. de heap. Wiley.
-- AddressSanitizer — https://github.com/google/sanitizers/wiki/AddressSanitizer
+- AddressSanitizer — <https://github.com/google/sanitizers/wiki/AddressSanitizer>
 
 ## ➡️ Siguiente clase
 

@@ -44,34 +44,42 @@ Al finalizar, el alumno podrá:
 ## 🧰 Herramientas y preparación
 
 Necesitas **Python 3** (ya en Kali) y un editor (VS Code recomendado con la extensión de Python). Crea un entorno virtual por proyecto:
+
 ```bash
 python3 -m venv venv && source venv/bin/activate
 pip install requests
 ```
+
 Familiarízate con el REPL (`python3`) para experimentar y con `pip` para instalar librerías.
 
 ## 🧪 Laboratorio guiado
 
 1. **REPL y tipos**. Explora conversiones str/bytes:
+
    ```python
    b = "admin".encode(); print(b, b.hex(), b.decode())
    ```
+
 2. **Estructuras de datos**. Cuenta ocurrencias de IPs en una lista con un diccionario, y luego con `collections.Counter`.
 3. **Leer un log**. Escribe un script que abra un archivo de log y cuente líneas con "error":
+
    ```python
    with open("app.log") as f:
        errores = sum(1 for line in f if "error" in line.lower())
    print(f"Errores: {errores}")
    ```
+
 4. **Funciones y módulos**. Extrae la lógica a una función `contar_patron(ruta, patron)` y llama desde `main()`.
 5. **Excepciones**. Envuelve la apertura en `try/except FileNotFoundError` para fallar con gracia.
 6. **CLI con argparse**. Convierte el script en una herramienta:
+
    ```python
    import argparse
    p = argparse.ArgumentParser()
    p.add_argument("ruta"); p.add_argument("--patron", default="error")
    args = p.parse_args()
    ```
+
 7. **hashlib**. Añade una función que calcule el SHA-256 de un archivo (adelanto de la Clase 021).
 
 ## ✍️ Ejercicios

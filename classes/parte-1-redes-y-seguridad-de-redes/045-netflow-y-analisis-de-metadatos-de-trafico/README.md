@@ -52,30 +52,42 @@ Al finalizar, el alumno podrá:
 ## 🧪 Laboratorio guiado
 
 1. **Genera NetFlow** desde tráfico en vivo con softflowd apuntando a un colector local:
+
    ```bash
    sudo softflowd -i eth0 -n 127.0.0.1:9995
    ```
+
 2. **Recolecta** con nfcapd:
+
    ```bash
    nfcapd -w -D -l /tmp/flows -p 9995
    ```
+
 3. **Consulta** los flujos con nfdump:
+
    ```bash
    nfdump -R /tmp/flows -o extended
    ```
+
 4. **Top talkers** (quién genera más tráfico):
+
    ```bash
    nfdump -R /tmp/flows -s ip/bytes -n 10
    ```
+
 5. **Detecta un escaneo** (una IP tocando muchos puertos/destinos con pocos bytes):
+
    ```bash
    nfdump -R /tmp/flows 'proto tcp and packets < 3' -s srcip/flows -n 10
    ```
+
 6. **Busca beaconing**: agrupa por par origen-destino y observa la regularidad temporal de los flujos hacia un mismo destino.
 7. **Detecta posible exfiltración**: flujos salientes con `orig_bytes` muy superiores a lo habitual hacia destinos externos:
+
    ```bash
    nfdump -R /tmp/flows 'src net 192.168.56.0/24 and bytes > 10000000' -s dstip/bytes
    ```
+
 8. **Compara**: para un flujo sospechoso, recuerda que los metadatos te dicen *que* ocurrió; para saber *qué* contenía necesitarías el full content (Wireshark, clase 026).
 
 ## ✍️ Ejercicios

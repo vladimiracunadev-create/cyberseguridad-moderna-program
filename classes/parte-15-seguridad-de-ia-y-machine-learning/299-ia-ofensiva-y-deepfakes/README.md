@@ -108,11 +108,11 @@ Acelera tareas (variantes, ofuscación, guiones), pero no crea magia indetectabl
 
 ## 🔗 Referencias
 
-- MITRE ATLAS — https://atlas.mitre.org/
-- NIST AI 600-1, Generative AI Profile — https://www.nist.gov/itl/ai-risk-management-framework
-- C2PA (Coalition for Content Provenance and Authenticity) — https://c2pa.org/
-- FBI IC3, alertas sobre BEC y deepfakes — https://www.ic3.gov/
-- ENISA, Threat Landscape (secciones de IA/desinformación) — https://www.enisa.europa.eu/
+- MITRE ATLAS — <https://atlas.mitre.org/>
+- NIST AI 600-1, Generative AI Profile — <https://www.nist.gov/itl/ai-risk-management-framework>
+- C2PA (Coalition for Content Provenance and Authenticity) — <https://c2pa.org/>
+- FBI IC3, alertas sobre BEC y deepfakes — <https://www.ic3.gov/>
+- ENISA, Threat Landscape (secciones de IA/desinformación) — <https://www.enisa.europa.eu/>
 
 ## ➡️ Siguiente clase
 

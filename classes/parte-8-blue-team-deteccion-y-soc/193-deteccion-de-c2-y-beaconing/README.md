@@ -102,11 +102,11 @@ No. Actualizaciones, telemetría y sincronización también "laten". Por eso se 
 
 ## 🔗 Referencias
 
-- MITRE ATT&CK, Command and Control — https://attack.mitre.org/tactics/TA0011/
-- RITA — https://github.com/activecm/rita
-- JA3 (Salesforce) — https://github.com/salesforce/ja3
+- MITRE ATT&CK, Command and Control — <https://attack.mitre.org/tactics/TA0011/>
+- RITA — <https://github.com/activecm/rita>
+- JA3 (Salesforce) — <https://github.com/salesforce/ja3>
 - Sanders, C. y Smith, J. *Applied Network Security Monitoring*. Syngress.
-- Active Countermeasures, "Detecting Beacons" (recursos formativos) — https://www.activecountermeasures.com/
+- Active Countermeasures, "Detecting Beacons" (recursos formativos) — <https://www.activecountermeasures.com/>
 
 ## ➡️ Siguiente clase
 

@@ -48,31 +48,44 @@ Todo viene de serie en Linux: `grep`, `sed`, `awk` (gawk), `sort`, `uniq`, `cut`
 ## 🧪 Laboratorio guiado
 
 1. **Redirección y streams**:
+
    ```bash
    ls /noexiste /etc 1>salida.txt 2>errores.txt ; cat errores.txt
    ```
+
 2. **Pipes básicas**. Cuenta cuántos usuarios hay en el sistema:
+
    ```bash
    cut -d: -f1 /etc/passwd | sort | wc -l
    ```
+
 3. **grep en logs**. Busca intentos de login fallidos:
+
    ```bash
    grep -i "failed password" /var/log/auth.log | head
    ```
+
 4. **Extraer IPs con awk**. De esos fallos, saca la IP atacante (ajusta el campo):
+
    ```bash
    grep "Failed password" /var/log/auth.log | awk '{print $(NF-3)}' | sort | uniq -c | sort -nr
    ```
+
    Esto da un *top* de IPs por número de intentos.
 5. **sed para limpiar**. Elimina comentarios y líneas vacías de un config:
+
    ```bash
    sed -e 's/#.*//' -e '/^\s*$/d' /etc/ssh/sshd_config
    ```
+
 6. **Procesos**. Encuentra el proceso que más CPU consume y su PID:
+
    ```bash
    ps aux --sort=-%cpu | head -5
    ```
+
 7. **Señales**. Lanza un proceso en background y termínalo limpiamente:
+
    ```bash
    sleep 300 & jobs ; kill %1
    ```

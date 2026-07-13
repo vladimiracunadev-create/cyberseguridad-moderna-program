@@ -98,10 +98,10 @@ Parte de una configuración comunitaria afinada, excluye procesos benignos ruido
 
 ## 🔗 Referencias
 
-- Microsoft Sysmon — https://learn.microsoft.com/sysinternals/downloads/sysmon
-- Windows Security Audit Events — https://learn.microsoft.com/windows/security/threat-protection/auditing/
-- Olaf Hartong, sysmon-modular — https://github.com/olafhartong/sysmon-modular
-- SwiftOnSecurity, sysmon-config — https://github.com/SwiftOnSecurity/sysmon-config
+- Microsoft Sysmon — <https://learn.microsoft.com/sysinternals/downloads/sysmon>
+- Windows Security Audit Events — <https://learn.microsoft.com/windows/security/threat-protection/auditing/>
+- Olaf Hartong, sysmon-modular — <https://github.com/olafhartong/sysmon-modular>
+- SwiftOnSecurity, sysmon-config — <https://github.com/SwiftOnSecurity/sysmon-config>
 - Murdoch, D. *Blue Team Handbook: SOC, SIEM, and Threat Hunting Use Cases*.
 
 ## ➡️ Siguiente clase

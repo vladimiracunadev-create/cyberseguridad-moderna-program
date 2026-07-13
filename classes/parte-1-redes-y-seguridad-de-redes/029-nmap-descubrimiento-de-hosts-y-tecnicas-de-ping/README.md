@@ -51,38 +51,55 @@ Al finalizar, el alumno podrá:
 ## 🧪 Laboratorio guiado
 
 1. **Barrido de subred** (solo descubrimiento):
+
    ```bash
    sudo nmap -sn 192.168.56.0/24
    ```
+
 2. **Fuerza ARP** en LAN y mira los paquetes en paralelo con tcpdump:
+
    ```bash
    sudo nmap -sn -PR 192.168.56.0/24
    ```
+
 3. **Descubrimiento a través de router** con ICMP echo + timestamp + TCP SYN a 80/443:
+
    ```bash
    sudo nmap -sn -PE -PP -PS80,443 192.168.56.101
    ```
+
 4. **Sonda TCP ACK** para hosts que dejan pasar respuestas a conexiones establecidas:
+
    ```bash
    sudo nmap -sn -PA80 192.168.56.101
    ```
+
 5. **Desactiva ping** (asume que están vivos) cuando el objetivo bloquea todo descubrimiento:
+
    ```bash
    sudo nmap -Pn 192.168.56.101
    ```
+
 6. **Solo listar** objetivos sin enviar paquetes (list scan) para validar tu rango:
+
    ```bash
    nmap -sL 192.168.56.0/28
    ```
+
 7. **Sin resolución DNS** para acelerar:
+
    ```bash
    sudo nmap -sn -n 192.168.56.0/24
    ```
+
 8. **Guarda en los tres formatos** para reutilizar:
+
    ```bash
    sudo nmap -sn 192.168.56.0/24 -oA hosts-vivos
    ```
+
 9. Extrae la lista limpia de IPs vivas:
+
    ```bash
    grep "Up" hosts-vivos.gnmap | awk '{print $2}'
    ```

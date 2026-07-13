@@ -55,27 +55,37 @@ Al finalizar, el alumno podrá:
 
 1. Con KAPE o FTK Imager, extrae de la imagen: `C:\Windows\Prefetch`, hives `SYSTEM`/`SOFTWARE`/`NTUSER.DAT`, `Amcache.hve` y `C:\Windows\System32\winevt\Logs`.
 2. Analiza Prefetch:
+
    ```bash
    PECmd.exe -d Prefetch --csv salida --csvf prefetch.csv
    ```
+
 3. Parsea ShimCache:
+
    ```bash
    AppCompatCacheParser.exe -f SYSTEM --csv salida
    ```
+
 4. Parsea AmCache:
+
    ```bash
    AmcacheParser.exe -f Amcache.hve --csv salida
    ```
+
 5. Analiza inicios de sesión en los Event Logs:
+
    ```bash
    EvtxECmd.exe -d Logs --csv salida --csvf events.csv
    ```
+
    Filtra los IDs 4624 (login), 4625 (fallo), 4688 (creación de proceso).
 6. Reconstruye actividad de usuario:
+
    ```bash
    JLECmd.exe -d "AutomaticDestinations" --csv salida
    SBECmd.exe -d "C:\ruta\hives" --csv salida
    ```
+
 7. Correlaciona: cruza una ejecución de Prefetch con un evento 4688 y un LNK para contar la historia completa de un programa ejecutado.
 
 ## ✍️ Ejercicios
@@ -119,10 +129,10 @@ Sí para probar navegación de carpetas; recuerda que persisten aunque la carpet
 
 ## 🔗 Referencias
 
-- Eric Zimmerman's Tools: https://ericzimmerman.github.io/
-- RegRipper: https://github.com/keydet89/RegRipper3.0
-- SANS — Windows Forensic Analysis poster (FOR500): https://www.sans.org/posters/
-- Microsoft — Windows event IDs: https://learn.microsoft.com/windows/security/threat-protection/auditing/
+- Eric Zimmerman's Tools: <https://ericzimmerman.github.io/>
+- RegRipper: <https://github.com/keydet89/RegRipper3.0>
+- SANS — Windows Forensic Analysis poster (FOR500): <https://www.sans.org/posters/>
+- Microsoft — Windows event IDs: <https://learn.microsoft.com/windows/security/threat-protection/auditing/>
 
 ## ➡️ Siguiente clase
 

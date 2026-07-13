@@ -48,25 +48,32 @@ Usa una VM Windows de evaluación en tu laboratorio. Instala **Sysinternals Suit
 ## 🧪 Laboratorio guiado
 
 1. **Identidad y privilegios**. En una consola:
+
    ```cmd
    whoami /all
    ```
+
    Localiza tu SID, grupos y la lista de privilegios (`SeDebugPrivilege`, etc.).
 2. **Explorar procesos** con Process Explorer: observa el árbol, el usuario de cada proceso y las DLLs cargadas de uno.
 3. **Registro y persistencia**. Abre `regedit` y navega a:
-   ```
+
+   ```text
    HKCU\Software\Microsoft\Windows\CurrentVersion\Run
    HKLM\Software\Microsoft\Windows\CurrentVersion\Run
    ```
+
    Anota qué se ejecuta al iniciar sesión.
 4. **Autoruns**. Ejecuta Autoruns y revisa todas las categorías de auto-inicio; identifica entradas no firmadas.
 5. **Servicios**. Lista servicios y su binario:
+
    ```cmd
    sc query state= all | more
    wmic service get name,pathname,startmode | more
    ```
+
    Busca rutas con espacios **sin comillas** (vulnerabilidad de *unquoted service path*).
 6. **Logs de eventos**. Consulta inicios de sesión (evento 4624/4625):
+
    ```cmd
    wevtutil qe Security /q:"*[System[(EventID=4625)]]" /c:5 /rd:true /f:text
    ```

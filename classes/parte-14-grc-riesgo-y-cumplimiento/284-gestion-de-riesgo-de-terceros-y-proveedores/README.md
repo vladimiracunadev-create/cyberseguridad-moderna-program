@@ -113,10 +113,10 @@ Ante GDPR sigues siendo responsable de los datos que le confías. Por eso exiges
 
 ## 🔗 Referencias
 
-- NIST SP 800-161 Rev.1 — Supply Chain Risk Management. https://csrc.nist.gov/pubs/sp/800/161/r1/final
-- Cloud Security Alliance — CAIQ. https://cloudsecurityalliance.org/research/caiq
-- Shared Assessments — SIG Questionnaire. https://sharedassessments.org/sig/
-- Syft & Grype (SBOM y escaneo). https://github.com/anchore/syft
+- NIST SP 800-161 Rev.1 — Supply Chain Risk Management. <https://csrc.nist.gov/pubs/sp/800/161/r1/final>
+- Cloud Security Alliance — CAIQ. <https://cloudsecurityalliance.org/research/caiq>
+- Shared Assessments — SIG Questionnaire. <https://sharedassessments.org/sig/>
+- Syft & Grype (SBOM y escaneo). <https://github.com/anchore/syft>
 - (ISC)² CISSP Official Study Guide, dominio 1.
 
 ## ➡️ Siguiente clase

@@ -111,11 +111,11 @@ engagement.
 
 ## 🔗 Referencias
 
-- Shodan — Docs. https://help.shodan.io/
-- Censys — Search. https://search.censys.io/
-- Shodan CLI. https://cli.shodan.io/
-- Bazzell, M. *Open Source Intelligence Techniques*. https://inteltechniques.com/book1.html
-- MITRE ATT&CK — Active Scanning (T1595). https://attack.mitre.org/techniques/T1595/
+- Shodan — Docs. <https://help.shodan.io/>
+- Censys — Search. <https://search.censys.io/>
+- Shodan CLI. <https://cli.shodan.io/>
+- Bazzell, M. *Open Source Intelligence Techniques*. <https://inteltechniques.com/book1.html>
+- MITRE ATT&CK — Active Scanning (T1595). <https://attack.mitre.org/techniques/T1595/>
 
 ## ➡️ Siguiente clase
 

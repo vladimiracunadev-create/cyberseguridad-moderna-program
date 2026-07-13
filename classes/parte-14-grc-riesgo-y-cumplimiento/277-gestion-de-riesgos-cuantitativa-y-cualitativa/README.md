@@ -113,10 +113,10 @@ Sí: distorsiona por rangos arbitrarios y "colores". Úsala como triaje, no como
 
 ## 🔗 Referencias
 
-- Hubbard & Seiersen — How to Measure Anything in Cybersecurity Risk. https://www.howtomeasureanything.com/cybersecurity/
-- NIST SP 800-30 Rev.1 — Guide for Conducting Risk Assessments. https://csrc.nist.gov/pubs/sp/800/30/r1/final
-- The Open Group — FAIR Risk Analysis Standard. https://www.opengroup.org/forum/security/fair
-- Verizon Data Breach Investigations Report (DBIR). https://www.verizon.com/business/resources/reports/dbir/
+- Hubbard & Seiersen — How to Measure Anything in Cybersecurity Risk. <https://www.howtomeasureanything.com/cybersecurity/>
+- NIST SP 800-30 Rev.1 — Guide for Conducting Risk Assessments. <https://csrc.nist.gov/pubs/sp/800/30/r1/final>
+- The Open Group — FAIR Risk Analysis Standard. <https://www.opengroup.org/forum/security/fair>
+- Verizon Data Breach Investigations Report (DBIR). <https://www.verizon.com/business/resources/reports/dbir/>
 - (ISC)² CISSP Official Study Guide, dominio 1.
 
 ## ➡️ Siguiente clase

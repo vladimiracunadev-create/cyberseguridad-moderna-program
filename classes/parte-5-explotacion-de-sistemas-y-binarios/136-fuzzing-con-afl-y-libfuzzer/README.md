@@ -148,10 +148,10 @@ también considera assertions.
 
 ## 🔗 Referencias
 
-- AFL++ — https://github.com/AFLplusplus/AFLplusplus
-- libFuzzer (LLVM) — https://llvm.org/docs/LibFuzzer.html
+- AFL++ — <https://github.com/AFLplusplus/AFLplusplus>
+- libFuzzer (LLVM) — <https://llvm.org/docs/LibFuzzer.html>
 - Andriesse, D. *Practical Binary Analysis*. No Starch Press.
-- OSS-Fuzz — https://github.com/google/oss-fuzz
+- OSS-Fuzz — <https://github.com/google/oss-fuzz>
 
 ## ➡️ Siguiente clase
 

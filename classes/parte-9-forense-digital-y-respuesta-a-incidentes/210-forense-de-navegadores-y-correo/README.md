@@ -55,14 +55,18 @@ Al finalizar, el alumno podrá:
 1. Copia (no abras el navegador en vivo) la base de historial de Chrome:
    - Windows: `%LOCALAPPDATA%\Google\Chrome\User Data\Default\History`.
 2. Explora el historial con SQL:
+
    ```sql
    SELECT url, title, visit_count, last_visit_time FROM urls ORDER BY last_visit_time DESC;
    ```
+
 3. Convierte los timestamps WebKit a fecha legible (recuerda: microsegundos desde 1601).
 4. Analiza Firefox:
+
    ```sql
    SELECT url, title, visit_count FROM moz_places ORDER BY last_visit_date DESC;
    ```
+
 5. Usa Hindsight para un informe consolidado de Chrome (historial, cookies, descargas, extensiones).
 6. Analiza un correo de phishing propio (archivo `.eml`): abre los encabezados y lee la cadena `Received` de abajo hacia arriba para hallar el servidor de origen real.
 7. Verifica autenticación del remitente:
@@ -111,10 +115,10 @@ En disco casi no, pero puede quedar en memoria, DNS caché y logs del proxy o de
 
 ## 🔗 Referencias
 
-- SANS — Windows Forensic Analysis (FOR500): https://www.sans.org/
-- Hindsight (Chrome forensics): https://github.com/obsidianforensics/hindsight
-- libpff (PST/OST): https://github.com/libyal/libpff
-- RFC 5322 (formato de mensaje) y RFC 7208 (SPF): https://www.rfc-editor.org/
+- SANS — Windows Forensic Analysis (FOR500): <https://www.sans.org/>
+- Hindsight (Chrome forensics): <https://github.com/obsidianforensics/hindsight>
+- libpff (PST/OST): <https://github.com/libyal/libpff>
+- RFC 5322 (formato de mensaje) y RFC 7208 (SPF): <https://www.rfc-editor.org/>
 
 ## ➡️ Siguiente clase
 

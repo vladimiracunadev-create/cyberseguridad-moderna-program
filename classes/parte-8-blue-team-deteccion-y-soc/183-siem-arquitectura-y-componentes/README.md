@@ -100,9 +100,9 @@ Ingesta con propósito de detección, no por acumular. Cada fuente debe respalda
 
 - Murdoch, D. *Blue Team Handbook: SOC, SIEM, and Threat Hunting Use Cases*.
 - Gartner, "Magic Quadrant for SIEM" (marco conceptual de capacidades).
-- Elastic SIEM/Security docs — https://www.elastic.co/security
-- Splunk Docs, "How indexing works" — https://docs.splunk.com/
-- Wazuh Documentation — https://documentation.wazuh.com/
+- Elastic SIEM/Security docs — <https://www.elastic.co/security>
+- Splunk Docs, "How indexing works" — <https://docs.splunk.com/>
+- Wazuh Documentation — <https://documentation.wazuh.com/>
 
 ## ➡️ Siguiente clase
 

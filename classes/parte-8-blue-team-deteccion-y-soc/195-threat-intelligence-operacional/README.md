@@ -99,10 +99,10 @@ El Traffic Light Protocol clasifica cuánto puedes difundir una información (RE
 ## 🔗 Referencias
 
 - Murdoch, D. *Blue Team Handbook: SOC, SIEM, and Threat Hunting Use Cases*.
-- MISP Project — https://www.misp-project.org/
-- OpenCTI — https://www.opencti.io/
-- OASIS STIX/TAXII — https://oasis-open.github.io/cti-documentation/
-- FIRST, Traffic Light Protocol (TLP) — https://www.first.org/tlp/
+- MISP Project — <https://www.misp-project.org/>
+- OpenCTI — <https://www.opencti.io/>
+- OASIS STIX/TAXII — <https://oasis-open.github.io/cti-documentation/>
+- FIRST, Traffic Light Protocol (TLP) — <https://www.first.org/tlp/>
 
 ## ➡️ Siguiente clase
 

@@ -54,31 +54,43 @@ Al finalizar, el alumno podrá:
 > Usa un pendrive PROPIO o un archivo imagen que tú creas. Nunca medios ajenos sin permiso escrito.
 
 1. Identifica el dispositivo (en Linux) sin montarlo:
+
    ```bash
    lsblk -o NAME,SIZE,TYPE,MOUNTPOINT
    ```
+
 2. Monta el original en solo lectura si necesitas inspeccionarlo (simula write-blocker por software):
+
    ```bash
    blockdev --setro /dev/sdX
    ```
+
 3. Adquiere con `dcfldd` calculando hash al vuelo:
+
    ```bash
    dcfldd if=/dev/sdX of=caso001.dd hash=sha256 hashlog=caso001.hashlog bs=4M
    ```
+
 4. Alternativa en formato forense E01:
+
    ```bash
    ewfacquire /dev/sdX
    ```
+
    Rellena caso, examinador y notas cuando lo pida.
 5. Verifica la imagen RAW contra el original:
+
    ```bash
    sha256sum caso001.dd
    cat caso001.hashlog
    ```
+
 6. Verifica una imagen E01:
+
    ```bash
    ewfverify caso001.E01
    ```
+
 7. En Windows, repite con **FTK Imager**: `Create Disk Image → Physical Drive → E01`, activa verificación y compara los hashes que reporta al terminar.
 8. Documenta en la cadena de custodia: dispositivo, método, hashes y hora UTC.
 
@@ -124,9 +136,9 @@ Por TRIM: el controlador borra físicamente bloques liberados, a veces en segund
 ## 🔗 Referencias
 
 - Carrier, B. — *File System Forensic Analysis*, Addison-Wesley 2005.
-- NIST SP 800-86: https://csrc.nist.gov/publications/detail/sp/800-86/final
-- FTK Imager (Exterro): https://www.exterro.com/ftk-imager
-- libewf / ewf-tools: https://github.com/libyal/libewf
+- NIST SP 800-86: <https://csrc.nist.gov/publications/detail/sp/800-86/final>
+- FTK Imager (Exterro): <https://www.exterro.com/ftk-imager>
+- libewf / ewf-tools: <https://github.com/libyal/libewf>
 
 ## ➡️ Siguiente clase
 

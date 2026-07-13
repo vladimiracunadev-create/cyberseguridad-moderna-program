@@ -48,23 +48,31 @@ Practica con `grep -P` (PCRE), Python `re`, y un entorno visual como **regex101.
 ## 🧪 Laboratorio guiado
 
 1. **Clases y cuantificadores**. Encuentra todas las horas `HH:MM:SS` en un log:
+
    ```bash
    grep -oP '\b\d{2}:\d{2}:\d{2}\b' auth.log | head
    ```
+
 2. **Extraer IPv4**. Patrón razonable para direcciones:
+
    ```bash
    grep -oP '\b(?:\d{1,3}\.){3}\d{1,3}\b' access.log | sort | uniq -c | sort -nr
    ```
+
 3. **Grupos de captura en Python**:
+
    ```python
    import re
    m = re.search(r'Failed password for (\w+) from ([\d.]+)', linea)
    if m: usuario, ip = m.group(1), m.group(2)
    ```
+
 4. **Extraer hashes**. Distingue MD5 (32 hex) de SHA-256 (64 hex):
+
    ```bash
    grep -oP '\b[a-fA-F0-9]{64}\b' muestra.txt   # SHA-256
    ```
+
 5. **Correos y URLs**. Escribe patrones para extraer direcciones de correo y URLs `http(s)`.
 6. **Codicia vs. pereza**. Compara `<.*>` y `<.*?>` sobre `<a><b>` y observa la diferencia.
 7. **Validar en regex101**: pega tus patrones, revisa el desglose y mide pasos de retroceso.

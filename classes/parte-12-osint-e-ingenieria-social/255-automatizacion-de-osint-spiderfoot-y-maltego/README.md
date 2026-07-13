@@ -113,10 +113,10 @@ No. Recolecta a escala, pero el juicio, la verificación y la interpretación si
 
 ## 🔗 Referencias
 
-- SpiderFoot — Docs. https://github.com/smicallef/spiderfoot
-- Maltego — Learn. https://www.maltego.com/
-- Bazzell, M. *Open Source Intelligence Techniques*. https://inteltechniques.com/book1.html
-- OSINT Framework. https://osintframework.com/
+- SpiderFoot — Docs. <https://github.com/smicallef/spiderfoot>
+- Maltego — Learn. <https://www.maltego.com/>
+- Bazzell, M. *Open Source Intelligence Techniques*. <https://inteltechniques.com/book1.html>
+- OSINT Framework. <https://osintframework.com/>
 
 ## ➡️ Siguiente clase
 

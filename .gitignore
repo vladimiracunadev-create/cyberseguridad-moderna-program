@@ -37,3 +37,6 @@ Thumbs.db
 
 # Manifest interno de generación
 classes/_manifest.json
+
+# Sitio generado para GitHub Pages (build artifact)
+site/

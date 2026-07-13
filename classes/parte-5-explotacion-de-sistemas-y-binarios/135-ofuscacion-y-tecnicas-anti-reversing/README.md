@@ -147,7 +147,7 @@ arquitectura de seguridad.
 
 - Eilam, E. *Reversing: Secrets of Reverse Engineering*. Wiley.
 - Andriesse, D. *Practical Binary Analysis*, cap. 12-13. No Starch Press.
-- angr — https://angr.io/
+- angr — <https://angr.io/>
 - Ollydbg/UPX y técnicas anti-debug (Peter Ferrie, "The Ultimate Anti-Debugging Reference").
 
 ## ➡️ Siguiente clase

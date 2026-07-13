@@ -62,11 +62,13 @@ Al finalizar, el alumno podrá:
 4. **Adquisición de memoria.** Captura RAM con `winpmem`/`avml`; calcula SHA-256 y regístralo.
 5. **Adquisición de disco.** Crea imagen con FTK Imager/`dd`; verifica el hash contra el original.
 6. **Análisis de memoria.** Con Volatility 3, lista procesos, conexiones y busca inyecciones:
+
    ```bash
    vol -f memoria.raw windows.pslist
    vol -f memoria.raw windows.netscan
    vol -f memoria.raw windows.malfind
    ```
+
 7. **Análisis de disco.** En Autopsy, revisa ejecución de programas, persistencia (Run keys, tareas), navegador y archivos recientes.
 8. **Timeline.** Genera una super timeline con `plaso` y reconstruye la secuencia: entrada → ejecución → persistencia → objetivo.
 9. **IoCs.** Extrae hashes, IPs, rutas y nombres; documéntalos para detección futura.

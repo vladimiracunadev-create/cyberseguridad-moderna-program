@@ -97,8 +97,8 @@ Solo en cerraduras propias y donde sea legal poseer las herramientas. Varían la
 ## 🔗 Referencias
 
 - Bryant, T. — *Operator Handbook*.
-- MITRE ATT&CK — *Hardware Additions* (`T1200`). https://attack.mitre.org/techniques/T1200/
-- TOOOL — *The Open Organisation Of Lockpickers* (recursos educativos). https://toool.us/
+- MITRE ATT&CK — *Hardware Additions* (`T1200`). <https://attack.mitre.org/techniques/T1200/>
+- TOOOL — *The Open Organisation Of Lockpickers* (recursos educativos). <https://toool.us/>
 - Documentación de Proxmark3 y Hak5 (Rubber Ducky) como referencia técnica.
 
 ## ➡️ Siguiente clase

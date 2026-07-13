@@ -48,25 +48,33 @@ Trabaja en tu VM Windows de laboratorio. PowerShell viene integrado; usa la cons
 ## 🧪 Laboratorio guiado
 
 1. **Descubrir el entorno**:
+
    ```powershell
    Get-Command -Verb Get | Measure-Object
    Get-Help Get-Process -Examples
    Get-Process | Get-Member
    ```
+
 2. **Consultas de sistema** (uso defensivo/forense):
+
    ```powershell
    Get-Process | Sort-Object CPU -Descending | Select-Object -First 5 Name,Id,CPU
    Get-Service | Where-Object Status -eq 'Running' | Select-Object Name,DisplayName
    Get-NetTCPConnection | Where-Object State -eq 'Listen'
    ```
+
 3. **Eventos de seguridad**. Últimos fallos de inicio de sesión:
+
    ```powershell
    Get-WinEvent -FilterHashtable @{LogName='Security'; Id=4625} -MaxEvents 5
    ```
+
 4. **Execution Policy**. Compruébala y observa que no impide todo:
+
    ```powershell
    Get-ExecutionPolicy -List
    ```
+
    Reflexiona: `-ExecutionPolicy Bypass` la anula sin permisos especiales.
 5. **Activar defensas**. Habilita Script Block Logging por directiva local (Configuración del equipo → Plantillas administrativas → Componentes de Windows → Windows PowerShell). Genera un script y verifica el evento **4104**.
 6. **Script de recolección IR**. Crea `recolectar.ps1` que exporte a CSV procesos, servicios en ejecución y conexiones de red con marca de tiempo.

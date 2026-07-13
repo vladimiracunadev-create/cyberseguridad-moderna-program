@@ -72,7 +72,7 @@ En una **VM Windows aislada** (sin red hacia producción):
 
 3. Halla el offset a `nSEH`/`SEH` con un patrón cíclico:
 
-   ```
+   ```text
    !mona pc 5000        ; genera patrón
    ; (crash)
    !mona findmsp        ; muestra offset a nSEH y SEH
@@ -80,7 +80,7 @@ En una **VM Windows aislada** (sin red hacia producción):
 
 4. Busca un `POP POP RET` en un módulo sin SafeSEH:
 
-   ```
+   ```text
    !mona seh
    ```
 
@@ -131,10 +131,10 @@ x64dbg + scripts propios hoy.
 
 ## 🔗 Referencias
 
-- Corelan, "Exploit writing tutorial part 3: SEH" — https://www.corelan.be/
+- Corelan, "Exploit writing tutorial part 3: SEH" — <https://www.corelan.be/>
 - The Shellcoder's Handbook, parte de Windows. Wiley.
-- vulnserver (Stephen Bradshaw) — https://github.com/stephenbradshaw/vulnserver
-- Microsoft, SEH docs — https://learn.microsoft.com/windows/win32/debug/structured-exception-handling
+- vulnserver (Stephen Bradshaw) — <https://github.com/stephenbradshaw/vulnserver>
+- Microsoft, SEH docs — <https://learn.microsoft.com/windows/win32/debug/structured-exception-handling>
 
 ## ➡️ Siguiente clase
 

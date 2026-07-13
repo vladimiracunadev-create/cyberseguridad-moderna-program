@@ -48,34 +48,47 @@ Trabaja en tu VM Kali o cualquier Linux del laboratorio. Necesitas una terminal 
 ## 🧪 Laboratorio guiado
 
 1. **Explorar el FHS**:
+
    ```bash
    ls -la / ; ls -l /etc/passwd /etc/shadow
    ```
+
    Observa que `shadow` no es legible por usuarios normales.
 2. **Leer permisos**. Crea un archivo y examínalo:
+
    ```bash
    touch prueba.txt ; stat prueba.txt ; ls -l prueba.txt
    ```
+
    Descompón la cadena `-rw-r--r--` en propietario/grupo/otros.
 3. **Cambiar permisos** en simbólico y octal:
+
    ```bash
    chmod u+x prueba.txt ; ls -l prueba.txt
    chmod 640 prueba.txt ; ls -l prueba.txt
    ```
+
 4. **Usuarios y grupos**. Crea un usuario de prueba (con sudo) y revisa su identidad:
+
    ```bash
    sudo useradd -m alumno ; id alumno ; grep alumno /etc/passwd
    ```
+
 5. **Comprobar tu umask**:
+
    ```bash
    umask ; touch nuevo.txt ; ls -l nuevo.txt
    ```
+
 6. **Buscar binarios SUID** en el sistema (reconocimiento de escalada):
+
    ```bash
    find / -perm -4000 -type f 2>/dev/null
    ```
+
    Anota los que aparezcan; muchos son legítimos (`sudo`, `passwd`).
 7. **ACLs**. Da acceso puntual a `alumno` sobre un archivo:
+
    ```bash
    setfacl -m u:alumno:r prueba.txt ; getfacl prueba.txt
    ```

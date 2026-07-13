@@ -98,9 +98,9 @@ Con tendencias de riesgo y dwell time, no con jerga técnica. Muestra cómo la i
 ## 🔗 Referencias
 
 - Murdoch, D. *Blue Team Handbook: SOC, SIEM, and Threat Hunting Use Cases*.
-- SOC-CMM — https://www.soc-cmm.com/
-- MITRE ATT&CK Navigator — https://mitre-attack.github.io/attack-navigator/
-- Mandiant M-Trends (informes de dwell time) — https://www.mandiant.com/m-trends
+- SOC-CMM — <https://www.soc-cmm.com/>
+- MITRE ATT&CK Navigator — <https://mitre-attack.github.io/attack-navigator/>
+- Mandiant M-Trends (informes de dwell time) — <https://www.mandiant.com/m-trends>
 - SANS, "SOC Metrics" (recursos formativos).
 
 ## ➡️ Siguiente clase

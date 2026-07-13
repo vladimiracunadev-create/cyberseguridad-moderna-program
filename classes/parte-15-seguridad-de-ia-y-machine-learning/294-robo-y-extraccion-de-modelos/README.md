@@ -62,6 +62,7 @@ Sobre un **modelo víctima propio**.
 2. **Presupuesto de consultas.** Fija un budget (p. ej. 10 000 consultas) para simular un atacante realista.
 
 3. **Extrae con KnockoffNets.**
+
    ```python
    from art.attacks.extraction import KnockoffNets
    attack = KnockoffNets(classifier=victim, batch_size_query=64,
@@ -74,11 +75,13 @@ Sobre un **modelo víctima propio**.
 5. **Usa el sustituto para atacar.** Genera adversariales de caja blanca sobre el sustituto y compruébalos contra el víctima (transferibilidad): así el robo habilita evasión.
 
 6. **Membership inference.**
+
    ```python
    from art.attacks.inference.membership_inference import MembershipInferenceBlackBox
    mi = MembershipInferenceBlackBox(victim)
    mi.fit(x_train, y_train, x_test, y_test)
    ```
+
    Calcula el AUC: cuanto más overfitting, más alto.
 
 7. **Defiende.** Aplica: (a) devolver solo top-1, (b) redondear probabilidades, (c) rate limiting simulado, (d) reentrenar con más regularización o privacidad diferencial. Reevalúa fidelidad del robo y AUC de membresía.
@@ -124,11 +127,11 @@ Incrustar un comportamiento secreto (respuestas concretas a entradas clave) que 
 
 ## 🔗 Referencias
 
-- Tramèr et al., "Stealing Machine Learning Models via Prediction APIs", USENIX 2016 — https://arxiv.org/abs/1609.02943
-- Shokri et al., "Membership Inference Attacks Against ML Models", IEEE S&P 2017 — https://arxiv.org/abs/1610.05820
+- Tramèr et al., "Stealing Machine Learning Models via Prediction APIs", USENIX 2016 — <https://arxiv.org/abs/1609.02943>
+- Shokri et al., "Membership Inference Attacks Against ML Models", IEEE S&P 2017 — <https://arxiv.org/abs/1610.05820>
 - Fredrikson et al., "Model Inversion Attacks", CCS 2015.
-- Adversarial Robustness Toolbox — https://github.com/Trusted-AI/adversarial-robustness-toolbox
-- MITRE ATLAS, "Exfiltration via ML Inference API" — https://atlas.mitre.org/
+- Adversarial Robustness Toolbox — <https://github.com/Trusted-AI/adversarial-robustness-toolbox>
+- MITRE ATLAS, "Exfiltration via ML Inference API" — <https://atlas.mitre.org/>
 
 ## ➡️ Siguiente clase
 

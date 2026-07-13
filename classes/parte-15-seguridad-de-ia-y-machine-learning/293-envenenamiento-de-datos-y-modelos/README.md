@@ -60,6 +60,7 @@ Sobre **datos y modelos propios** en laboratorio aislado.
 1. **Define un trigger.** Un cuadrado blanco de 3×3 en la esquina inferior derecha de la imagen.
 
 2. **Envenena una fracción del train.** Toma el 5–10% de las muestras, añade el trigger y cambia su etiqueta a la clase objetivo (p. ej. "7").
+
    ```python
    from art.attacks.poisoning import PoisoningAttackBackdoor
    from art.attacks.poisoning.perturbations import add_pattern_bd
@@ -74,11 +75,13 @@ Sobre **datos y modelos propios** en laboratorio aislado.
 5. **Activa el backdoor.** Añade el trigger a imágenes de test de otras clases y mide cuántas se clasifican como la clase objetivo (Attack Success Rate). Debería ser muy alta.
 
 6. **Detecta con activation clustering.**
+
    ```python
    from art.defences.detector.poison import ActivationDefence
    defence = ActivationDefence(clf, x_train, y_train)
    report, is_clean = defence.detect_poison(nb_clusters=2, reduce="PCA")
    ```
+
    Comprueba que marca las muestras con trigger.
 
 7. **Mitiga con fine-pruning.** Poda neuronas de baja activación usando solo datos limpios y afina; reevalúa el ASR: debería caer drásticamente.
@@ -126,11 +129,11 @@ Solo si los datos limpios están garantizados. Si el dataset base sigue contamin
 
 ## 🔗 Referencias
 
-- Gu et al., "BadNets", 2017 — https://arxiv.org/abs/1708.06733
-- Chen et al., "Detecting Backdoor Attacks via Activation Clustering", 2018 — https://arxiv.org/abs/1811.03728
-- Tran, Li & Madry, "Spectral Signatures in Backdoor Attacks", NeurIPS 2018 — https://arxiv.org/abs/1811.00636
-- Liu, Dolan-Gavitt & Garg, "Fine-Pruning", 2018 — https://arxiv.org/abs/1805.12185
-- MITRE ATLAS, "Poison Training Data" — https://atlas.mitre.org/
+- Gu et al., "BadNets", 2017 — <https://arxiv.org/abs/1708.06733>
+- Chen et al., "Detecting Backdoor Attacks via Activation Clustering", 2018 — <https://arxiv.org/abs/1811.03728>
+- Tran, Li & Madry, "Spectral Signatures in Backdoor Attacks", NeurIPS 2018 — <https://arxiv.org/abs/1811.00636>
+- Liu, Dolan-Gavitt & Garg, "Fine-Pruning", 2018 — <https://arxiv.org/abs/1805.12185>
+- MITRE ATLAS, "Poison Training Data" — <https://atlas.mitre.org/>
 
 ## ➡️ Siguiente clase
 

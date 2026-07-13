@@ -101,10 +101,10 @@ No. Sigma es un formato portable de reglas (clase 186) que puedes convertir a EQ
 
 ## 🔗 Referencias
 
-- Elastic Security docs — https://www.elastic.co/guide/en/security/current/index.html
-- EQL syntax reference — https://www.elastic.co/guide/en/elasticsearch/reference/current/eql.html
-- Wazuh Documentation — https://documentation.wazuh.com/
-- Elastic Common Schema (ECS) — https://www.elastic.co/guide/en/ecs/current/index.html
+- Elastic Security docs — <https://www.elastic.co/guide/en/security/current/index.html>
+- EQL syntax reference — <https://www.elastic.co/guide/en/elasticsearch/reference/current/eql.html>
+- Wazuh Documentation — <https://documentation.wazuh.com/>
+- Elastic Common Schema (ECS) — <https://www.elastic.co/guide/en/ecs/current/index.html>
 - Sanders, C. y Smith, J. *Applied Network Security Monitoring*. Syngress.
 
 ## ➡️ Siguiente clase

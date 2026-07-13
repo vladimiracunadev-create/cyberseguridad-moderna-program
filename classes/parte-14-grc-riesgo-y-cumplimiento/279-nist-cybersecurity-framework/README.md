@@ -102,10 +102,10 @@ Sí; NIST publica Quick Start Guides específicas para pequeñas empresas y gest
 
 ## 🔗 Referencias
 
-- NIST Cybersecurity Framework 2.0. https://www.nist.gov/cyberframework
-- NIST CSF 2.0 Reference Tool. https://csrc.nist.gov/projects/cybersecurity-framework/filters
-- NIST SP 800-53 Rev.5 — Security and Privacy Controls. https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final
-- NIST SP 800-37 Rev.2 — Risk Management Framework. https://csrc.nist.gov/pubs/sp/800/37/r2/final
+- NIST Cybersecurity Framework 2.0. <https://www.nist.gov/cyberframework>
+- NIST CSF 2.0 Reference Tool. <https://csrc.nist.gov/projects/cybersecurity-framework/filters>
+- NIST SP 800-53 Rev.5 — Security and Privacy Controls. <https://csrc.nist.gov/pubs/sp/800/53/r5/upd1/final>
+- NIST SP 800-37 Rev.2 — Risk Management Framework. <https://csrc.nist.gov/pubs/sp/800/37/r2/final>
 - (ISC)² CISSP Official Study Guide, dominio 1.
 
 ## ➡️ Siguiente clase

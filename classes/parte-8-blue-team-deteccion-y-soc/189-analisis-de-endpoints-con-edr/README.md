@@ -102,10 +102,10 @@ No. Existen técnicas de evasión y tamper. Por eso el blue team combina EDR con
 ## 🔗 Referencias
 
 - Murdoch, D. *Blue Team Handbook: SOC, SIEM, and Threat Hunting Use Cases*.
-- Velociraptor Documentation — https://docs.velociraptor.app/
-- osquery Documentation — https://osquery.readthedocs.io/
-- MITRE ATT&CK, táctica Defense Evasion — https://attack.mitre.org/tactics/TA0005/
-- Wazuh Endpoint Security — https://documentation.wazuh.com/
+- Velociraptor Documentation — <https://docs.velociraptor.app/>
+- osquery Documentation — <https://osquery.readthedocs.io/>
+- MITRE ATT&CK, táctica Defense Evasion — <https://attack.mitre.org/tactics/TA0005/>
+- Wazuh Endpoint Security — <https://documentation.wazuh.com/>
 
 ## ➡️ Siguiente clase
 

@@ -139,9 +139,9 @@ requieren ejecución/emulación.
 ## 🔗 Referencias
 
 - Andriesse, D. *Practical Binary Analysis*, caps. 5-8. No Starch Press.
-- Capstone Engine — https://www.capstone-engine.org/
-- pyelftools — https://github.com/eliben/pyelftools
-- UPX — https://upx.github.io/
+- Capstone Engine — <https://www.capstone-engine.org/>
+- pyelftools — <https://github.com/eliben/pyelftools>
+- UPX — <https://upx.github.io/>
 
 ## ➡️ Siguiente clase
 

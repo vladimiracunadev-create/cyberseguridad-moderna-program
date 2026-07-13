@@ -99,9 +99,9 @@ Empieza por handshakes híbridos (X25519 + ML-KEM) donde tu stack lo soporte y p
 
 ## 🔗 Referencias
 
-- NIST PQC: FIPS 203 (ML-KEM), 204 (ML-DSA), 205 (SLH-DSA) — https://csrc.nist.gov/projects/post-quantum-cryptography
+- NIST PQC: FIPS 203 (ML-KEM), 204 (ML-DSA), 205 (SLH-DSA) — <https://csrc.nist.gov/projects/post-quantum-cryptography>
 - Wong, *Real-World Cryptography*, cap. 14.
-- Open Quantum Safe — https://openquantumsafe.org/
+- Open Quantum Safe — <https://openquantumsafe.org/>
 - Shor, "Polynomial-Time Algorithms for Prime Factorization" (1994).
 
 ## ➡️ Siguiente clase

@@ -49,9 +49,11 @@ Instala **Wireshark** en tu equipo o VM (<https://www.wireshark.org>) y ten `tcp
 
 1. **Dibuja el mapeo**. En una tabla, alinea las 7 capas OSI con las 4 de TCP/IP y coloca al menos un protocolo por capa.
 2. **Captura tráfico** de una petición web sencilla. En Kali:
+
    ```bash
    sudo tcpdump -i eth0 -c 20 -w captura.pcap host <ip-victima>
    ```
+
    Genera tráfico con `curl http://<ip-victima>/`.
 3. **Abre la captura en Wireshark** y selecciona un paquete HTTP.
 4. **Observa la encapsulación**. En el panel de detalle verás las capas anidadas: Ethernet (enlace) → IP (red) → TCP (transporte) → HTTP (aplicación). Expande cada una.

@@ -139,8 +139,8 @@ reconstruye la semántica.
 
 - Andriesse, D. *Practical Binary Analysis*, caps. 1-2. No Starch Press.
 - Eilam, E. *Reversing: Secrets of Reverse Engineering*. Wiley.
-- ELF spec — https://refspecs.linuxfoundation.org/elf/elf.pdf
-- Microsoft PE format — https://learn.microsoft.com/windows/win32/debug/pe-format
+- ELF spec — <https://refspecs.linuxfoundation.org/elf/elf.pdf>
+- Microsoft PE format — <https://learn.microsoft.com/windows/win32/debug/pe-format>
 
 ## ➡️ Siguiente clase
 

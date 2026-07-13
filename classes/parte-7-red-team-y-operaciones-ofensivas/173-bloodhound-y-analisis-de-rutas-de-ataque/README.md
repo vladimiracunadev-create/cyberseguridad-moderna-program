@@ -53,9 +53,11 @@ Al finalizar, el alumno podrá:
 
 1. **Levanta BloodHound CE:** `curl -L https://ghst.ly/getbhce | docker compose -f - up` (o el método del repo) y accede a la consola web.
 2. **Recolecta con bloodhound-python:**
+
    ```bash
    bloodhound-python -u lowuser -p 'Passw0rd' -d lab.local -ns 10.10.10.10 -c All
    ```
+
    o `SharpHound.exe -c All` desde una máquina del dominio.
 3. **Importa** los archivos zip/JSON en BloodHound y confirma que aparecen usuarios, equipos y grupos.
 4. **Marca tu punto de partida.** Señala tu usuario de bajo privilegio como "Owned".
@@ -100,9 +102,9 @@ Sí. Los defensores lo usan para encontrar y cortar rutas peligrosas (relaciones
 
 ## 🔗 Referencias
 
-- SpecterOps — *BloodHound CE*. https://bloodhound.specterops.io/ · https://github.com/SpecterOps/BloodHound
-- bloodhound-python. https://github.com/dirkjanm/BloodHound.py
-- The Hacker Recipes — *DACL abuse*. https://www.thehacker.recipes/ad/movement/dacl/
+- SpecterOps — *BloodHound CE*. <https://bloodhound.specterops.io/> · <https://github.com/SpecterOps/BloodHound>
+- bloodhound-python. <https://github.com/dirkjanm/BloodHound.py>
+- The Hacker Recipes — *DACL abuse*. <https://www.thehacker.recipes/ad/movement/dacl/>
 - SpecterOps — blog sobre attack paths.
 
 ## ➡️ Siguiente clase

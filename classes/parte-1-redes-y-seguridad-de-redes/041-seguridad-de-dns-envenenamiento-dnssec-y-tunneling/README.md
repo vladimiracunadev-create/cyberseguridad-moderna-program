@@ -52,21 +52,27 @@ Al finalizar, el alumno podrá:
 ## 🧪 Laboratorio guiado
 
 1. **Observa una resolución** completa y sus servidores:
+
    ```bash
    dig +trace example.com
    ```
+
 2. **Valida DNSSEC** de un dominio firmado:
+
    ```bash
    dig +dnssec example.com
    delv example.com          # muestra "fully validated" si la cadena es correcta
    ```
+
 3. **Configura un resolver validante** (unbound) con `auto-trust-anchor-file` apuntando a la raíz y verifica que rechaza respuestas manipuladas.
 4. **Simula spoofing** en laboratorio: con dos resolvers (uno sin DNSSEC y otro con validación), inyecta una respuesta falsa y compara: el validante la descarta.
 5. **DNS tunneling con iodine** (esquema, en tu laboratorio): levanta el servidor `iodined` en un dominio de pruebas y conecta el cliente `iodine`; observa el túnel encapsulado en consultas.
 6. **Detección**: captura tráfico DNS y busca indicadores de tunneling:
+
    ```bash
    tshark -r dns.pcapng -Y 'dns.qry.name' -T fields -e dns.qry.name | awk '{ print length, $0 }' | sort -rn | head
    ```
+
    Nombres largos, alta entropía y muchas consultas TXT/NULL son sospechosos.
 
 ## ✍️ Ejercicios

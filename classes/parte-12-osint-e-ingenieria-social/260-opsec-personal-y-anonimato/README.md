@@ -113,11 +113,11 @@ pero asume un residuo y protégete en consecuencia.
 
 ## 🔗 Referencias
 
-- Bazzell, M. *Extreme Privacy: What It Takes to Disappear*. https://inteltechniques.com/book7.html
-- Tor Project. https://www.torproject.org/
-- Tails. https://tails.net/
-- mat2 (Metadata Anonymisation Toolkit). https://0xacab.org/jvoisin/mat2
-- EFF — Surveillance Self-Defense. https://ssd.eff.org/
+- Bazzell, M. *Extreme Privacy: What It Takes to Disappear*. <https://inteltechniques.com/book7.html>
+- Tor Project. <https://www.torproject.org/>
+- Tails. <https://tails.net/>
+- mat2 (Metadata Anonymisation Toolkit). <https://0xacab.org/jvoisin/mat2>
+- EFF — Surveillance Self-Defense. <https://ssd.eff.org/>
 
 ## ➡️ Siguiente clase
 

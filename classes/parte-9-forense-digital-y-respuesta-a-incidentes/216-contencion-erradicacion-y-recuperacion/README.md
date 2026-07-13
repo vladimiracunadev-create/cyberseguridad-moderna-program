@@ -57,9 +57,11 @@ Al finalizar, el alumno podrá:
    - EDR: acción "aislar"; o regla de firewall que solo permita la IP del analista.
 2. Antes de erradicar, **captura evidencia**: volcado de RAM (clase 207) e imagen de disco (clase 203).
 3. **Enumera la persistencia** en Windows con Autoruns:
+
    ```powershell
    autorunsc.exe -a * -c > autoruns.csv
    ```
+
    Revisa servicios, tareas programadas, claves Run, y WMI.
 4. En Linux, revisa cron, systemd y perfiles de shell (clase 206) para hallar toda la persistencia.
 5. **Erradica**: elimina cada mecanismo identificado y el malware. Si el compromiso fue profundo (root/SYSTEM), planifica **reconstrucción desde cero**.
@@ -108,10 +110,10 @@ Con monitoreo reforzado durante un periodo y criterios objetivos: cero IOCs acti
 
 ## 🔗 Referencias
 
-- NIST SP 800-61 Rev. 2: https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final
-- Sysinternals Autoruns: https://learn.microsoft.com/sysinternals/downloads/autoruns
-- MITRE ATT&CK — Persistence (TA0003): https://attack.mitre.org/tactics/TA0003/
-- SANS — Incident Handler's Handbook: https://www.sans.org/white-papers/33901/
+- NIST SP 800-61 Rev. 2: <https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final>
+- Sysinternals Autoruns: <https://learn.microsoft.com/sysinternals/downloads/autoruns>
+- MITRE ATT&CK — Persistence (TA0003): <https://attack.mitre.org/tactics/TA0003/>
+- SANS — Incident Handler's Handbook: <https://www.sans.org/white-papers/33901/>
 
 ## ➡️ Siguiente clase
 

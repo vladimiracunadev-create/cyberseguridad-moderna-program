@@ -90,12 +90,12 @@ datos, fraude, usurpación de identidad). Ante la duda, no lo hagas: pide autori
 
 ## 🔗 Referencias de la parte
 
-- Bazzell, M. *Open Source Intelligence Techniques*. https://inteltechniques.com/book1.html
-- Bazzell, M. *Extreme Privacy*. https://inteltechniques.com/book7.html
+- Bazzell, M. *Open Source Intelligence Techniques*. <https://inteltechniques.com/book1.html>
+- Bazzell, M. *Extreme Privacy*. <https://inteltechniques.com/book7.html>
 - Hadnagy, C. *Social Engineering: The Science of Human Hacking*. Wiley.
 - Cialdini, R. *Influence: The Psychology of Persuasion*.
-- MITRE ATT&CK — Reconnaissance (TA0043). https://attack.mitre.org/tactics/TA0043/
-- OSINT Framework. https://osintframework.com/
+- MITRE ATT&CK — Reconnaissance (TA0043). <https://attack.mitre.org/tactics/TA0043/>
+- OSINT Framework. <https://osintframework.com/>
 
 ## ▶️ Empezar
 

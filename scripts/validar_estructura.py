@@ -22,6 +22,16 @@ CLASSES = os.path.join(ROOT, "classes")
 MIN_BYTES = 400  # un README real es mucho mayor; esto detecta stubs vacíos
 LINK_RE = re.compile(r"\]\((\.\.?/[^)]+\.md)\)")
 
+# Secciones que TODA clase debe incluir (robustez pedagógica).
+SECCIONES_REQUERIDAS = [
+    "## 🎯 Objetivo",
+    "## 📚 Resultados de aprendizaje",
+    "## ⚠️ Errores comunes",
+    "## ❓ Preguntas frecuentes",
+    "## 🔗 Referencias",
+    "## ➡️ Siguiente clase",
+]
+
 
 def main() -> int:
     errores: list[str] = []
@@ -54,6 +64,14 @@ def main() -> int:
                 errores.append(f"Falta README de clase: {parte}/{clase}/README.md")
             elif os.path.getsize(readme) < MIN_BYTES:
                 errores.append(f"README demasiado corto (<{MIN_BYTES} B): {parte}/{clase}/README.md")
+            else:
+                contenido = open(readme, encoding="utf-8").read()
+                faltan = [s for s in SECCIONES_REQUERIDAS if s not in contenido]
+                if faltan:
+                    errores.append(
+                        f"Secciones faltantes en {parte}/{clase}/README.md: "
+                        + ", ".join(f'"{s}"' for s in faltan)
+                    )
 
     # numeración secuencial
     nums.sort()

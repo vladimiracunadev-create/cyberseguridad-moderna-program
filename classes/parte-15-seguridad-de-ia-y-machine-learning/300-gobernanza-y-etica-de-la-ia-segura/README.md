@@ -111,11 +111,11 @@ La model card y el registro de riesgos: dan visibilidad inmediata de límites y 
 
 ## 🔗 Referencias
 
-- NIST AI Risk Management Framework 1.0 — https://www.nist.gov/itl/ai-risk-management-framework
-- ISO/IEC 42001:2023 (AI management system) — https://www.iso.org/standard/81230.html
-- EU AI Act — https://artificialintelligenceact.eu/
-- Mitchell et al., "Model Cards for Model Reporting", FAT* 2019 — https://arxiv.org/abs/1810.03993
-- Gebru et al., "Datasheets for Datasets", 2018 — https://arxiv.org/abs/1803.09010
+- NIST AI Risk Management Framework 1.0 — <https://www.nist.gov/itl/ai-risk-management-framework>
+- ISO/IEC 42001:2023 (AI management system) — <https://www.iso.org/standard/81230.html>
+- EU AI Act — <https://artificialintelligenceact.eu/>
+- Mitchell et al., "Model Cards for Model Reporting", FAT* 2019 — <https://arxiv.org/abs/1810.03993>
+- Gebru et al., "Datasheets for Datasets", 2018 — <https://arxiv.org/abs/1803.09010>
 
 ## ➡️ Siguiente clase
 

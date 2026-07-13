@@ -98,10 +98,10 @@ No. Una cacería "sin hallazgo" es valiosa: valida controles, mejora baselines y
 ## 🔗 Referencias
 
 - Bejtlich, R. *The Practice of Network Security Monitoring*. No Starch Press.
-- Bianco, D. "The Hunting Maturity Model" — http://detect-respond.blogspot.com/
+- Bianco, D. "The Hunting Maturity Model" — <http://detect-respond.blogspot.com/>
 - SURFcert, *TaHiTI Threat Hunting Methodology*.
-- Splunk, *PEAK Threat Hunting Framework* — https://www.splunk.com/en_us/blog/security/peak-threat-hunting-framework.html
-- MITRE ATT&CK — https://attack.mitre.org/
+- Splunk, *PEAK Threat Hunting Framework* — <https://www.splunk.com/en_us/blog/security/peak-threat-hunting-framework.html>
+- MITRE ATT&CK — <https://attack.mitre.org/>
 
 ## ➡️ Siguiente clase
 

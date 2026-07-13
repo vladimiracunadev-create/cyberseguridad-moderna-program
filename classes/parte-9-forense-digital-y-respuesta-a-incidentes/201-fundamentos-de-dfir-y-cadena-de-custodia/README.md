@@ -53,13 +53,17 @@ Al finalizar, el alumno podrá:
 > Ejercicio conceptual y práctico con archivos propios. No requiere evidencia real de terceros.
 
 1. Crea un archivo que simule evidencia adquirida:
+
    ```bash
    dd if=/dev/urandom of=evidencia.img bs=1M count=50
    ```
+
 2. Calcula y guarda su hash de integridad al momento de la "adquisición":
+
    ```bash
    sha256sum evidencia.img | tee evidencia.sha256
    ```
+
 3. Redacta el formulario de cadena de custodia con estos campos mínimos:
    - Identificador único del ítem (ej. `CASO-2026-001-ITEM-01`).
    - Descripción, fabricante, número de serie.
@@ -69,9 +73,11 @@ Al finalizar, el alumno podrá:
    - Historial de transferencias (de → a, fecha, motivo).
 4. Simula una transferencia: registra en el formulario que entregas el ítem a un "analista".
 5. Verifica que la evidencia no se alteró:
+
    ```bash
    sha256sum -c evidencia.sha256
    ```
+
    Debe responder `evidencia.img: OK`.
 6. Simula contaminación: modifica un byte y vuelve a verificar. Observa cómo `sha256sum -c` falla. Documenta el fallo en tus notas: así se ve una cadena rota.
 
@@ -116,10 +122,10 @@ Documéntalo de inmediato y con honestidad. Ocultarlo destruye tu credibilidad; 
 
 ## 🔗 Referencias
 
-- NIST SP 800-86 — *Guide to Integrating Forensic Techniques into Incident Response*: https://csrc.nist.gov/publications/detail/sp/800-86/final
+- NIST SP 800-86 — *Guide to Integrating Forensic Techniques into Incident Response*: <https://csrc.nist.gov/publications/detail/sp/800-86/final>
 - Carrier, B. — *File System Forensic Analysis*, Addison-Wesley 2005.
-- SWGDE — *Best Practices for Digital Evidence Collection*: https://www.swgde.org/
-- SANS DFIR — *Chain of Custody* resources: https://www.sans.org/
+- SWGDE — *Best Practices for Digital Evidence Collection*: <https://www.swgde.org/>
+- SANS DFIR — *Chain of Custody* resources: <https://www.sans.org/>
 
 ## ➡️ Siguiente clase
 
