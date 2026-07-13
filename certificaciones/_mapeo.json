@@ -99,7 +99,7 @@
           "notas": "Scripting, análisis de binarios y de código, automatización (clases 323, 330)."
         }
       ],
-      "brecha": "Practica con los laboratorios (appsec-web, red-team-ad) para consolidar la parte de herramientas.",
+      "brecha": "Consolida herramientas y análisis de código con los labs appsec-web, appsec-code y red-team-ad.",
       "ruta": "Sigue la ruta 'Pentester' (partes 0,1,3,4,5,12)."
     },
     {
@@ -204,7 +204,7 @@
           "notas": "Informe profesional (clase 085)."
         }
       ],
-      "brecha": "OSCP es PRÁCTICO: la teoría del programa es sólida, pero necesitas resolver decenas de máquinas. Usa el lab red-team-ad + plataformas externas.",
+      "brecha": "OSCP es PRÁCTICO: la teoría del programa es sólida, pero necesitas resolver decenas de máquinas. Usa los labs red-team-ad y appsec-web + plataformas externas.",
       "ruta": "Ruta 'Pentester' + 'Red Teamer', con práctica intensiva en laboratorios."
     },
     {
@@ -274,7 +274,7 @@
           "notas": "SDLC seguro, code review y SAST/DAST/SCA (clases 323, 330)."
         }
       ],
-      "brecha": "Los dominios de gestión (1, 2, 5) requieren el material propio de CISSP (marcos, legislación, BCP/DRP a fondo). CISSP además exige 5 años de experiencia.",
+      "brecha": "Los dominios de gestión requieren el material propio de CISSP; para la parte técnica usa los labs appsec-code (software) y dfir-memoria (operaciones). CISSP además exige 5 años de experiencia.",
       "ruta": "Partes 14 (núcleo) + 2, 8, 9, 11 para el soporte técnico."
     },
     {
@@ -330,7 +330,7 @@
           "notas": "Ciclo de respuesta, contención, recuperación."
         }
       ],
-      "brecha": "El análisis de phishing merece práctica extra; el lab blue-team-soc cubre bien SIEM y hunting.",
+      "brecha": "Practica el análisis de phishing y el forense con el lab dfir-memoria y el lab blue-team-soc.",
       "ruta": "Ruta 'Analista SOC / Blue Team' + lab blue-team-soc."
     },
     {
@@ -379,7 +379,7 @@
           "notas": "Triaje, IOCs y análisis para IR (clase 326)."
         }
       ],
-      "brecha": "SANS es muy profundo y práctico: usa el material como base y complementa con retos de memoria/forense reales.",
+      "brecha": "SANS es muy profundo y práctico: usa el material como base y practica con el lab dfir-memoria (Volatility/YARA) y retos de memoria reales.",
       "ruta": "Ruta 'DFIR / Analista forense' (partes 0,1,6,9,8)."
     }
   ]

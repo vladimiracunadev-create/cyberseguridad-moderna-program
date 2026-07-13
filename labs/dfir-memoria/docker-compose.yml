@@ -1,0 +1,14 @@
+name: dfir-memoria-lab
+
+# Estación de análisis forense de memoria. NO incluye la imagen de memoria a analizar
+# (son cientos de MB): se descarga aparte una muestra pública (ver README) y se coloca
+# en ./cases, que se monta dentro del contenedor.
+
+services:
+  analista:
+    build: .
+    container_name: lab-dfir-memoria
+    stdin_open: true
+    tty: true
+    volumes:
+      - ./cases:/cases

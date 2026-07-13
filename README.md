@@ -89,6 +89,8 @@ comando, más una colección de retos tipo CTF:
 - 🛡️ **[Blue Team / SOC](labs/blue-team-soc/README.md)** — Elasticsearch + Kibana con telemetría de un ataque para detección · Parte 8.
 - 🎯 **[Red Team / Active Directory](labs/red-team-ad/README.md)** — caja de atacante + guía GOAD · Parte 7.
 - 🔐 **[Criptografía](labs/cripto/README.md)** — retos con solución en Python (XOR, RSA-Fermat, MD5, ECB) · Parte 2.
+- 🧠 **[DFIR memoria/malware](labs/dfir-memoria/README.md)** — Volatility 3 + YARA para forense de memoria · Partes 9 y 17.
+- 🔎 **[Code review / SAST](labs/appsec-code/README.md)** — app vulnerable + Semgrep/Bandit · Partes 11 y 17.
 - 🚩 **[Retos tipo CTF](ctf/README.md)** — web, cripto, redes, forense, OSINT y pwn, con writeups.
 
 ➡️ Ver todo en **[labs/](labs/README.md)**.

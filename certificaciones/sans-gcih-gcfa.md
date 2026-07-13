@@ -23,7 +23,7 @@ Certificaciones DFIR de referencia (respuesta a incidentes y forense avanzado). 
 
 ## 🎯 Brecha y cómo cerrarla
 
-SANS es muy profundo y práctico: usa el material como base y complementa con retos de memoria/forense reales.
+SANS es muy profundo y práctico: usa el material como base y practica con el lab dfir-memoria (Volatility/YARA) y retos de memoria reales.
 
 ## 🧭 Ruta sugerida
 

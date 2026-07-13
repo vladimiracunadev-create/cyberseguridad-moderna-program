@@ -17,6 +17,8 @@ de las 330 clases) es la base y el primer entregable.
 - [x] Lab **Blue Team / SOC** ([`labs/blue-team-soc`](labs/blue-team-soc/README.md)) — Elasticsearch + Kibana con telemetría de un ataque para detección/threat hunting (Parte 8).
 - [x] Lab **Red Team / Active Directory** ([`labs/red-team-ad`](labs/red-team-ad/README.md)) — caja de atacante + guía GOAD (Parte 7).
 - [x] Lab de **criptografía** ([`labs/cripto`](labs/cripto/README.md)) — 4 retos con solución en Python puro (Parte 2).
+- [x] Lab **DFIR memoria/malware** ([`labs/dfir-memoria`](labs/dfir-memoria/README.md)) — Volatility 3 + YARA (Partes 9 y 17; prep SANS/BTL1).
+- [x] Lab **code review / SAST** ([`labs/appsec-code`](labs/appsec-code/README.md)) — app vulnerable + Semgrep/Bandit (Partes 11 y 17; prep PenTest+/CISSP).
 - [x] Colección de **retos tipo CTF** ([`ctf/`](ctf/README.md)) con solución, por categoría.
 
 ## Fase 3 — Material complementario ✅ (completa)

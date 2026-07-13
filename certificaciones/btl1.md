@@ -24,7 +24,7 @@ Certificación defensiva práctica muy alineada con la ruta Blue Team. Pesos est
 
 ## 🎯 Brecha y cómo cerrarla
 
-El análisis de phishing merece práctica extra; el lab blue-team-soc cubre bien SIEM y hunting.
+Practica el análisis de phishing y el forense con el lab dfir-memoria y el lab blue-team-soc.
 
 ## 🧭 Ruta sugerida
 

@@ -61,7 +61,7 @@ Adquisición, memoria, timelines y respuesta a incidentes.
 4. 📚 **Parte 9** — Forense digital y respuesta a incidentes (201–220)
 5. 📚 **Parte 8** — Detección (181–200) · para cerrar el ciclo detección→respuesta
 
-- 🧪 [`blue-team-soc`](../labs/blue-team-soc/README.md) · 🚩 [CTF forense](../ctf/README.md)
+- 🧪 [`blue-team-soc`](../labs/blue-team-soc/README.md) · [`dfir-memoria`](../labs/dfir-memoria/README.md) · 🚩 [CTF forense](../ctf/README.md)
 - 🎓 **GCFA / GCFE** (SANS) · CHFI
 
 ## 🕸️ AppSec / Bug Bounty
@@ -74,7 +74,7 @@ Seguridad de aplicaciones y caza de vulnerabilidades web.
 4. 📚 **Parte 11** — DevSecOps y SDLC (236–248) · para el lado defensivo
 5. 📚 **Parte 15** — Seguridad de IA/LLM (291–300) · superficie moderna
 
-- 🧪 [`appsec-web`](../labs/appsec-web/README.md) · 🚩 [CTF web](../ctf/README.md)
+- 🧪 [`appsec-web`](../labs/appsec-web/README.md) · [`appsec-code`](../labs/appsec-code/README.md) · 🚩 [CTF web](../ctf/README.md)
 - 🎓 **eWPTX** · Burp Suite Certified Practitioner
 
 ## ☁️ Cloud Security Engineer

@@ -25,7 +25,7 @@ Examen práctico de 24h. El programa cubre bien la TEORÍA; aprobar exige mucha 
 
 ## 🎯 Brecha y cómo cerrarla
 
-OSCP es PRÁCTICO: la teoría del programa es sólida, pero necesitas resolver decenas de máquinas. Usa el lab red-team-ad + plataformas externas.
+OSCP es PRÁCTICO: la teoría del programa es sólida, pero necesitas resolver decenas de máquinas. Usa los labs red-team-ad y appsec-web + plataformas externas.
 
 ## 🧭 Ruta sugerida
 

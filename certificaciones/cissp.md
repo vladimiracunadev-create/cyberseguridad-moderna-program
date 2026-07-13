@@ -26,7 +26,7 @@ Certificación gerencial de referencia (8 dominios). El programa cubre bien la b
 
 ## 🎯 Brecha y cómo cerrarla
 
-Los dominios de gestión (1, 2, 5) requieren el material propio de CISSP (marcos, legislación, BCP/DRP a fondo). CISSP además exige 5 años de experiencia.
+Los dominios de gestión requieren el material propio de CISSP; para la parte técnica usa los labs appsec-code (software) y dfir-memoria (operaciones). CISSP además exige 5 años de experiencia.
 
 ## 🧭 Ruta sugerida
 

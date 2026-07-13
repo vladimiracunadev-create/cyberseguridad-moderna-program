@@ -34,6 +34,8 @@ docker compose down -v      # apagar y borrar también los volúmenes/datos
 | [`blue-team-soc`](blue-team-soc/README.md) | Elasticsearch + Kibana con telemetría de un ataque real para cazar y detectar | Parte 8 (181–200) | ✅ Disponible |
 | [`red-team-ad`](red-team-ad/README.md) | Caja de atacante (Impacket/NetExec/BloodHound) + guía GOAD para atacar Active Directory | Parte 7 (161–180) | ✅ Disponible |
 | [`cripto`](cripto/README.md) | Retos de criptografía aplicada en Python puro (XOR, RSA-Fermat, MD5, ECB) | Parte 2 (046–065) | ✅ Disponible |
+| [`dfir-memoria`](dfir-memoria/README.md) | Estación Volatility 3 + YARA para forense de memoria y malware en IR | Partes 9 y 17 · SANS/BTL1 | ✅ Disponible |
+| [`appsec-code`](appsec-code/README.md) | App vulnerable + Semgrep/Bandit para code review y SAST | Partes 11 y 17 · PenTest+/CISSP | ✅ Disponible |
 
 Además: **[🚩 Retos tipo CTF](../ctf/README.md)** — colección de retos por categoría (web, cripto, redes, forense, OSINT, pwn) con solución.
 
