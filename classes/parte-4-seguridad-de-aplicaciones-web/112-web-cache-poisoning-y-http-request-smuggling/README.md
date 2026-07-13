@@ -102,6 +102,11 @@ Que un solo input malicioso, una vez cacheado, se sirve a todos los usuarios que
 - James Kettle, investigaciones de PortSwigger Research.
 - RFC 7230 (HTTP/1.1 message syntax).
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-112-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-112-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 113 - Ataques del lado del cliente: CORS, postMessage y prototype pollution](../113-ataques-del-lado-del-cliente-cors-postmessage-y-prototype-pollution/README.md)

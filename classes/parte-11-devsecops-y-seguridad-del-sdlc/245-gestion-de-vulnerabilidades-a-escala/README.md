@@ -123,6 +123,11 @@ Es una forma estandarizada de decir "este CVE está presente pero no somos explo
 - EPSS — <https://www.first.org/epss/>
 - CycloneDX VEX — <https://cyclonedx.org/capabilities/vex/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-245-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-245-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 246 - Supply chain security: SBOM y SLSA](../246-supply-chain-security-sbom-y-slsa/README.md)

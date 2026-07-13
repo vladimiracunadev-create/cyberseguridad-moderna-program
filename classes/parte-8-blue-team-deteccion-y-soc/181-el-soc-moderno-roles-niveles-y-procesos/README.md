@@ -107,6 +107,11 @@ El monitoreo reacciona a lo que una regla ya disparó; el hunting busca proactiv
 - SANS, "Building a World-Class Security Operations Center" (whitepaper).
 - NIST SP 800-61r2, *Computer Security Incident Handling Guide* — <https://csrc.nist.gov/pubs/sp/800/61/r2/final>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-181-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-181-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 182 - Logging y fuentes de telemetria](../182-logging-y-fuentes-de-telemetria/README.md)

@@ -127,6 +127,11 @@ Documéntalo de inmediato y con honestidad. Ocultarlo destruye tu credibilidad; 
 - SWGDE — *Best Practices for Digital Evidence Collection*: <https://www.swgde.org/>
 - SANS DFIR — *Chain of Custody* resources: <https://www.sans.org/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-201-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-201-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 202 - El ciclo de respuesta a incidentes (NIST y SANS)](../202-el-ciclo-de-respuesta-a-incidentes-nist-y-sans/README.md)

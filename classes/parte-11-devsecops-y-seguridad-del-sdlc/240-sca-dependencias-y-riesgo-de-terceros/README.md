@@ -145,6 +145,11 @@ Fija versiones con lockfile y hashes, revisa nombres de paquetes nuevos, usa reg
 - CISA KEV Catalog — <https://www.cisa.gov/known-exploited-vulnerabilities-catalog>
 - EPSS (FIRST) — <https://www.first.org/epss/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-240-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-240-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 241 - Secretos en el codigo y pre-commit hooks](../241-secretos-en-el-codigo-y-pre-commit-hooks/README.md)

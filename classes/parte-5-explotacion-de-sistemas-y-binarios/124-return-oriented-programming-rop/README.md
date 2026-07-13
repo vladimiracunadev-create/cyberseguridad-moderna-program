@@ -148,6 +148,11 @@ actual de la investigación.
 - ROP Emporium — <https://ropemporium.com/>
 - ROPgadget — <https://github.com/JonathanSalwan/ROPgadget>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-124-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-124-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 125 - Vulnerabilidades de format string](../125-vulnerabilidades-de-format-string/README.md)

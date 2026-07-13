@@ -137,6 +137,11 @@ No lo previene por sí solo, pero te permite responder en minutos ("¿estamos af
 - SPDX — <https://spdx.dev/>
 - Syft & Grype (Anchore) — <https://github.com/anchore/syft>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-246-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-246-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 247 - Seguridad de APIs en el ciclo de desarrollo](../247-seguridad-de-apis-en-el-ciclo-de-desarrollo/README.md)

@@ -112,6 +112,11 @@ Un código que cambia en cada uso para evitar ataques de repetición; distinguir
 - RTL-SDR: <https://www.rtl-sdr.com/> · GQRX: <https://gqrx.dk/>
 - *Practical IoT Hacking*, caps. de radio — Chantzis et al.
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-269-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-269-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 270 - Ataques a RFID y NFC](../270-ataques-a-rfid-y-nfc/README.md)

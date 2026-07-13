@@ -148,6 +148,11 @@ detectarlo en compilación.
 - pwntools fmtstr — <https://docs.pwntools.com/en/stable/fmtstr.html>
 - scut/team teso, "Exploiting Format String Vulnerabilities" (paper clásico).
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-125-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-125-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 126 - Explotacion de heap: fundamentos](../126-explotacion-de-heap-fundamentos/README.md)

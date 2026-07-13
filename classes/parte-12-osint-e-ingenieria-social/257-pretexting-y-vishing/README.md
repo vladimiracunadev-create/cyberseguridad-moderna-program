@@ -116,6 +116,11 @@ Sí, es de los vectores más efectivos: la voz añade autoridad y urgencia que e
 - MITRE ATT&CK — Phishing: Voice (T1566.004). <https://attack.mitre.org/techniques/T1566/004/>
 - Cialdini, R. *Influence: The Psychology of Persuasion*.
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-257-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-257-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 258 - Campanas de phishing con GoPhish](../258-campanas-de-phishing-con-gophish/README.md)

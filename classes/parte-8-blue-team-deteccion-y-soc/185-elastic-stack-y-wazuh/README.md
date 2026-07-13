@@ -107,6 +107,11 @@ No. Sigma es un formato portable de reglas (clase 186) que puedes convertir a EQ
 - Elastic Common Schema (ECS) — <https://www.elastic.co/guide/en/ecs/current/index.html>
 - Sanders, C. y Smith, J. *Applied Network Security Monitoring*. Syngress.
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-185-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-185-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 186 - Escritura de reglas de deteccion con Sigma](../186-escritura-de-reglas-de-deteccion-con-sigma/README.md)

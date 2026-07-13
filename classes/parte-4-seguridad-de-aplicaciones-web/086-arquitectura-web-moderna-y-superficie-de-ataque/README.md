@@ -108,6 +108,11 @@ No para empezar. Community cubre esta parte; Pro añade el scanner automático y
 - MDN — Cómo funciona la web: <https://developer.mozilla.org/es/docs/Learn/Getting_started_with_the_web/How_the_Web_works>
 - OWASP Juice Shop: <https://owasp.org/www-project-juice-shop/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-086-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-086-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 087 - OWASP Top 10: panorama general](../087-owasp-top-10-panorama-general/README.md)

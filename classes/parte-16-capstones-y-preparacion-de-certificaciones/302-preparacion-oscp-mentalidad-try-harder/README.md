@@ -117,6 +117,11 @@ CherryTree u Obsidian; lo importante es la disciplina, no la herramienta.
 - HackTheBox: <https://www.hackthebox.com/>
 - GTFOBins: <https://gtfobins.github.io/> · LOLBAS: <https://lolbas-project.github.io/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-302-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-302-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 303 - Capstone: laboratorio completo de pentest](../303-capstone-laboratorio-completo-de-pentest/README.md)

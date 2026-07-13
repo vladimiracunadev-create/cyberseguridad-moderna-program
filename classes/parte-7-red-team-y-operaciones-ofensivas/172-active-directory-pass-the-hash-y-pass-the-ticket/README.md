@@ -117,6 +117,11 @@ Credential Guard, deshabilitar NTLM donde se pueda, tiering administrativo, LAPS
 - Impacket. <https://github.com/fortra/impacket>
 - Rubeus. <https://github.com/GhostPack/Rubeus>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-172-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-172-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 173 - BloodHound y analisis de rutas de ataque](../173-bloodhound-y-analisis-de-rutas-de-ataque/README.md)

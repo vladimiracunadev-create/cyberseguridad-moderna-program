@@ -108,6 +108,11 @@ El uso de herramientas que recolectan evidencia automáticamente (configuracione
 - (ISC)² CISSP Official Study Guide, dominio 6 (Security Assessment and Testing).
 - NIST SP 800-53A — Assessing Security Controls. <https://csrc.nist.gov/pubs/sp/800/53/a/r5/final>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-285-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-285-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 286 - Concienciacion y cultura de seguridad](../286-concienciacion-y-cultura-de-seguridad/README.md)

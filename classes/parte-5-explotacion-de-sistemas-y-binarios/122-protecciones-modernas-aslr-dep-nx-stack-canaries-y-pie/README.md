@@ -141,6 +141,11 @@ además el propio ejecutable.
 - Linux ASLR (randomize_va_space) — <https://www.kernel.org/doc/Documentation/sysctl/kernel.txt>
 - GCC stack protector — <https://gcc.gnu.org/onlinedocs/gcc/Instrumentation-Options.html>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-122-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-122-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 123 - Bypass de protecciones: ret2libc](../123-bypass-de-protecciones-ret2libc/README.md)

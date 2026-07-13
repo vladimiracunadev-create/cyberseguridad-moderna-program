@@ -101,6 +101,11 @@ Solo en cerraduras propias y donde sea legal poseer las herramientas. Varían la
 - TOOOL — *The Open Organisation Of Lockpickers* (recursos educativos). <https://toool.us/>
 - Documentación de Proxmark3 y Hak5 (Rubber Ducky) como referencia técnica.
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-177-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-177-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 178 - Purple teaming](../178-purple-teaming/README.md)

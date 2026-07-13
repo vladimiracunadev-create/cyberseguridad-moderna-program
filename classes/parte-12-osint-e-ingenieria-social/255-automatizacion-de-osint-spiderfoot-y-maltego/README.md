@@ -118,6 +118,11 @@ No. Recolecta a escala, pero el juicio, la verificación y la interpretación si
 - Bazzell, M. *Open Source Intelligence Techniques*. <https://inteltechniques.com/book1.html>
 - OSINT Framework. <https://osintframework.com/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-255-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-255-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 256 - Fundamentos de ingenieria social](../256-fundamentos-de-ingenieria-social/README.md)

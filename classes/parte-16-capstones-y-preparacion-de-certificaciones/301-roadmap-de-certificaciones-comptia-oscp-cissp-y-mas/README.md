@@ -109,6 +109,11 @@ La mayoría sí (3 años típicos) y se renuevan con CEUs o reexamen. OSCP no ca
 - ISACA CISM/CISA: <https://www.isaca.org/credentialing>
 - GIAC/SANS: <https://www.giac.org/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-301-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-301-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 302 - Preparacion OSCP: mentalidad Try Harder](../302-preparacion-oscp-mentalidad-try-harder/README.md)

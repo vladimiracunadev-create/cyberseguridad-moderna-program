@@ -133,6 +133,11 @@ Exporta a almacenamiento con retención/immutabilidad (object lock) o a una cuen
 - Azure Monitor / Sign-in logs: <https://learn.microsoft.com/azure/azure-monitor/>
 - GCP Cloud Audit Logs: <https://cloud.google.com/logging/docs/audit>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-212-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-212-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 213 - Anti-forense y sus contramedidas](../213-anti-forense-y-sus-contramedidas/README.md)

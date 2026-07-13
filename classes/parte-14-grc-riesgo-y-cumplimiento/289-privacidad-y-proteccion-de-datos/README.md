@@ -128,6 +128,11 @@ Sí, si es irreversible de verdad. Pero anonimizar bien es difícil; la seudonim
 - AEPD — Guías y plantillas de DPIA. <https://www.aepd.es/>
 - (ISC)² CISSP Official Study Guide, dominio 2.
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-289-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-289-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 290 - Certificaciones y desarrollo de carrera](../290-certificaciones-y-desarrollo-de-carrera/README.md)

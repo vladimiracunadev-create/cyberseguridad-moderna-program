@@ -106,6 +106,11 @@ Sí, si se documentan, se aprueban, tienen controles compensatorios y caducan. U
 - ISO/IEC 27001:2022, cláusula 5.2 (Política).
 - ISO/IEC 27002:2022, control 5.1 (Políticas de seguridad de la información).
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-282-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-282-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 283 - Continuidad de negocio y plan de recuperacion ante desastres](../283-continuidad-de-negocio-y-plan-de-recuperacion-ante-desastres/README.md)

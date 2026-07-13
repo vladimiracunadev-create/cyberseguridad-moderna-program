@@ -115,6 +115,11 @@ Porque no hay un firewall físico entre tú y el mundo: cualquiera con credencia
 - Google Cloud — Shared responsibility and shared fate. <https://cloud.google.com/architecture/framework/security/shared-responsibility-shared-fate>
 - NIST SP 800-145, *The NIST Definition of Cloud Computing*. <https://csrc.nist.gov/pubs/sp/800/145/final>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-221-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-221-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 222 - IAM en la nube: identidades, roles y permisos](../222-iam-en-la-nube-identidades-roles-y-permisos/README.md)

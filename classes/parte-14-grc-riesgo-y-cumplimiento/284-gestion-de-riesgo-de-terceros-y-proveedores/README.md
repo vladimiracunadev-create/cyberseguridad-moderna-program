@@ -119,6 +119,11 @@ Ante GDPR sigues siendo responsable de los datos que le confías. Por eso exiges
 - Syft & Grype (SBOM y escaneo). <https://github.com/anchore/syft>
 - (ISC)² CISSP Official Study Guide, dominio 1.
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-284-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-284-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 285 - Auditoria de seguridad](../285-auditoria-de-seguridad/README.md)

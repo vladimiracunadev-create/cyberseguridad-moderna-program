@@ -126,6 +126,11 @@ No sin autorización. Extrae datos reales y puede violar privacidad y ley. Solo 
 - Wiki de sqlmap: <https://github.com/sqlmapproject/sqlmap/wiki>
 - OWASP Testing for SQL Injection (WSTG).
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-093-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-093-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 094 - Inyeccion NoSQL](../094-inyeccion-nosql/README.md)

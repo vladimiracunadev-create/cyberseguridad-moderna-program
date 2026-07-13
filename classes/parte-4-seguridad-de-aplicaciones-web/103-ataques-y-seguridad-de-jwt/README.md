@@ -112,6 +112,11 @@ Cookie HttpOnly reduce el robo vía XSS; localStorage es accesible por JS. Cada 
 - OWASP JWT Cheat Sheet.
 - PortSwigger JWT: <https://portswigger.net/web-security/jwt>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-103-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-103-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 104 - Seguridad de OAuth 2.0 y OpenID Connect](../104-seguridad-de-oauth-2-0-y-openid-connect/README.md)

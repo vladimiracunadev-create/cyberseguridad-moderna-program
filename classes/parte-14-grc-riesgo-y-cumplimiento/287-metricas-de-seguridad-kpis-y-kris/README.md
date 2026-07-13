@@ -112,6 +112,11 @@ Pregunta por cada métrica: "¿qué decisión cambiaría si este número sube o 
 - Grafana / Metabase (dashboards). <https://grafana.com/>
 - (ISC)² CISSP Official Study Guide, dominio 1.
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-287-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-287-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 288 - Seguros ciberneticos](../288-seguros-ciberneticos/README.md)

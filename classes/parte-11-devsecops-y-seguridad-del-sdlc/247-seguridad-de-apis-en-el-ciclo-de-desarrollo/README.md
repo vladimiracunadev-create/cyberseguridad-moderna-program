@@ -132,6 +132,11 @@ No. Encuentra desviaciones de esquema y errores, pero la lógica de autorizació
 - Spectral (OpenAPI linter) — <https://stoplight.io/open-source/spectral>
 - OWASP crAPI — <https://github.com/OWASP/crAPI>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-247-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-247-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 248 - Cultura DevSecOps y security champions](../248-cultura-devsecops-y-security-champions/README.md)

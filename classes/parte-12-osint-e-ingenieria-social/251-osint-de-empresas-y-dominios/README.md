@@ -119,6 +119,11 @@ autorizada.
 - Subfinder. <https://github.com/projectdiscovery/subfinder>
 - theHarvester. <https://github.com/laramies/theHarvester>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-251-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-251-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 252 - OSINT en redes sociales](../252-osint-en-redes-sociales/README.md)

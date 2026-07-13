@@ -131,6 +131,11 @@ Relacionados pero distintos: el jailbreak busca evadir las políticas de segurid
 - Greshake et al., "Not what you've signed up for: Indirect Prompt Injection", 2023 — <https://arxiv.org/abs/2302.12173>
 - MITRE ATLAS — <https://atlas.mitre.org/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-296-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-296-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 297 - Seguridad de aplicaciones con LLM: RAG y agentes](../297-seguridad-de-aplicaciones-con-llm-rag-y-agentes/README.md)

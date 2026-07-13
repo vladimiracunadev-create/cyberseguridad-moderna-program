@@ -101,6 +101,11 @@ Game of Active Directory: un laboratorio vulnerable y reproducible pensado para 
 - PowerSploit/PowerView. <https://github.com/PowerShellMafia/PowerSploit>
 - Impacket. <https://github.com/fortra/impacket>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-170-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-170-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 171 - Active Directory: Kerberoasting y ataques a Kerberos](../171-active-directory-kerberoasting-y-ataques-a-kerberos/README.md)

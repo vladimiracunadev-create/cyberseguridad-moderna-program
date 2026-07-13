@@ -112,6 +112,11 @@ El DEX es bytecode de alto nivel decompilable casi a Java; el `.so` es código m
 - OWASP MASTG — Reverse Engineering: <https://mas.owasp.org/MASTG/0x04c-Tampering-and-Reverse-Engineering/>
 - *The Mobile Application Hacker's Handbook*, caps. de RE.
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-265-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-265-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 266 - Seguridad de IoT: panorama y superficie de ataque](../266-seguridad-de-iot-panorama-y-superficie-de-ataque/README.md)

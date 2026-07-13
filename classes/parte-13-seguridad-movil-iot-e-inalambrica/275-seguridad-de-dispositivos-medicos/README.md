@@ -108,6 +108,11 @@ Permite saber qué componentes de terceros usa el dispositivo para reaccionar cu
 - IEC 62304 e IEC 80001 (ciclo de vida y gestión de riesgo en red).
 - *Practical IoT Hacking*, secciones de dispositivos médicos — Chantzis et al.
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-275-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-275-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 276 - Gobernanza de la seguridad de la informacion](../../parte-14-grc-riesgo-y-cumplimiento/276-gobernanza-de-la-seguridad-de-la-informacion/README.md)

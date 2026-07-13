@@ -102,6 +102,11 @@ La validación laxa de `redirect_uri` y la falta de `state`, que llevan a robo d
 - OAuth 2.0 Security Best Current Practice (RFC 9700).
 - PortSwigger OAuth: <https://portswigger.net/web-security/oauth>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-104-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-104-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 105 - Control de acceso roto: IDOR y path traversal](../105-control-de-acceso-roto-idor-y-path-traversal/README.md)

@@ -140,6 +140,11 @@ Por TRIM: el controlador borra físicamente bloques liberados, a veces en segund
 - FTK Imager (Exterro): <https://www.exterro.com/ftk-imager>
 - libewf / ewf-tools: <https://github.com/libyal/libewf>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-203-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-203-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 204 - Forense de sistemas de archivos: NTFS y ext4](../204-forense-de-sistemas-de-archivos-ntfs-y-ext4/README.md)

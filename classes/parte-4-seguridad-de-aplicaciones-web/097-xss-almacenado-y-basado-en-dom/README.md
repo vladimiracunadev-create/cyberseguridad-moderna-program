@@ -102,6 +102,11 @@ Ambos, según el caso. Para HTML enriquecido en el cliente, DOMPurify; en el ser
 - DOMPurify: <https://github.com/cure53/DOMPurify>
 - PortSwigger DOM-based XSS: <https://portswigger.net/web-security/cross-site-scripting/dom-based>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-097-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-097-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 098 - Cross-Site Request Forgery (CSRF)](../098-cross-site-request-forgery-csrf/README.md)

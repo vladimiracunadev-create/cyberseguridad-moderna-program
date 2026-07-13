@@ -111,6 +111,11 @@ Ayuda, pero muchos sandboxes de plantillas han sido evadidos. La defensa robusta
 - PortSwigger SSTI research y labs: <https://portswigger.net/web-security/server-side-template-injection>
 - OWASP Testing for SSTI (WSTG).
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-107-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-107-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 108 - Vulnerabilidades en carga de archivos](../108-vulnerabilidades-en-carga-de-archivos/README.md)

@@ -114,6 +114,11 @@ Para control de auditoría, rotación y separación de deberes, usa claves gesti
 - Amazon GuardDuty docs. <https://docs.aws.amazon.com/guardduty/>
 - Prowler. <https://github.com/prowler-cloud/prowler>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-223-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-223-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 224 - Seguridad en Azure](../224-seguridad-en-azure/README.md)

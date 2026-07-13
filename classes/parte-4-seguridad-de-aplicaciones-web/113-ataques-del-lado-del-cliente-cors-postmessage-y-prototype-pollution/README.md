@@ -102,6 +102,11 @@ Porque sin ello cualquier página puede enviar mensajes maliciosos que tu handle
 - MDN — Window.postMessage: <https://developer.mozilla.org/en-US/docs/Web/API/Window/postMessage>
 - Yaworski, *Real-World Bug Hunting*.
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-113-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-113-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 114 - Bug bounty: metodologia y plataformas](../114-bug-bounty-metodologia-y-plataformas/README.md)

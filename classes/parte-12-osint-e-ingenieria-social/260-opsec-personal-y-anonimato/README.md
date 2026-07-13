@@ -119,6 +119,11 @@ pero asume un residuo y protégete en consecuencia.
 - mat2 (Metadata Anonymisation Toolkit). <https://0xacab.org/jvoisin/mat2>
 - EFF — Surveillance Self-Defense. <https://ssd.eff.org/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-260-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-260-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 261 - Seguridad de Android: arquitectura](../../parte-13-seguridad-movil-iot-e-inalambrica/261-seguridad-de-android-arquitectura/README.md)

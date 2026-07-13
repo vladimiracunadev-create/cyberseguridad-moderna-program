@@ -101,6 +101,11 @@ Enseñamos el mecanismo para **defender**: sin entender la evasión no se puede 
 - SysWhispers (estudio de syscalls). <https://github.com/klezVirus/SysWhispers3>
 - Clark, B. — *RTFM: Red Team Field Manual v2*.
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-168-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-168-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 169 - Ofuscacion de payloads y bypass de AMSI](../169-ofuscacion-de-payloads-y-bypass-de-amsi/README.md)

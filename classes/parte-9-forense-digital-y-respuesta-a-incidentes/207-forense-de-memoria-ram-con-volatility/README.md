@@ -154,6 +154,11 @@ pslist confía en la lista del SO (manipulable); psscan escanea la memoria cruda
 - Volatility 3 docs: <https://volatility3.readthedocs.io/>
 - WinPmem / AVML: <https://github.com/Velocidex/WinPmem> · <https://github.com/microsoft/avml>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-207-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-207-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 208 - Forense de red](../208-forense-de-red/README.md)

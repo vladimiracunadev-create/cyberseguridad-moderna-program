@@ -116,6 +116,11 @@ Manéjalo solo en VMs aisladas y desechables, con snapshots, sin salida a Intern
 - Roberts & Brown — *Intelligence-Driven Incident Response*, O'Reilly 2017.
 - Autopsy / The Sleuth Kit: <https://www.autopsy.com/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-220-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-220-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 221 - Fundamentos de seguridad en la nube y responsabilidad compartida](../../parte-10-seguridad-en-la-nube-y-contenedores/221-fundamentos-de-seguridad-en-la-nube-y-responsabilidad-compartida/README.md)

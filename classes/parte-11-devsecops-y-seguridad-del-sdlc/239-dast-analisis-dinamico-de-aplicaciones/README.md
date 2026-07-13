@@ -137,6 +137,11 @@ El baseline sí. El active scan envía payloads que pueden crear/borrar datos: �
 - OWASP Juice Shop — <https://owasp.org/www-project-juice-shop/>
 - Julien Vehent, *Securing DevOps*, Manning 2018.
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-239-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-239-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 240 - SCA: dependencias y riesgo de terceros](../240-sca-dependencias-y-riesgo-de-terceros/README.md)

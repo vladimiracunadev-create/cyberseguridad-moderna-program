@@ -129,6 +129,11 @@ Solo con consentimiento del titular u orden judicial. Hacerlo sin autorización 
 - Android Debug Bridge: <https://developer.android.com/tools/adb>
 - libimobiledevice: <https://libimobiledevice.org/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-211-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-211-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 212 - Forense en la nube](../212-forense-en-la-nube/README.md)

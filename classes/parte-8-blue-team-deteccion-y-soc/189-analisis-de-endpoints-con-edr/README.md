@@ -107,6 +107,11 @@ No. Existen técnicas de evasión y tamper. Por eso el blue team combina EDR con
 - MITRE ATT&CK, táctica Defense Evasion — <https://attack.mitre.org/tactics/TA0005/>
 - Wazuh Endpoint Security — <https://documentation.wazuh.com/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-189-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-189-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 190 - Analisis de logs de Windows: Event Logs y Sysmon](../190-analisis-de-logs-de-windows-event-logs-y-sysmon/README.md)

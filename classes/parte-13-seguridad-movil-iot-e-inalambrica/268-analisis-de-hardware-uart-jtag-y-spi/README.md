@@ -112,6 +112,11 @@ UART puede no dar shell o exponer solo parte del sistema; leer el flash por SPI 
 - *Practical IoT Hacking*, caps. de hardware — Chantzis et al.
 - JTAGulator (identificación de pinout): <http://www.grandideastudio.com/jtagulator/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-268-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-268-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 269 - Radio definida por software (SDR)](../269-radio-definida-por-software-sdr/README.md)

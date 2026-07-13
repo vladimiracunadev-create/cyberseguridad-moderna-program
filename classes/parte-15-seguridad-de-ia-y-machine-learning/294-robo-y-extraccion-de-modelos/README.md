@@ -133,6 +133,11 @@ Incrustar un comportamiento secreto (respuestas concretas a entradas clave) que 
 - Adversarial Robustness Toolbox — <https://github.com/Trusted-AI/adversarial-robustness-toolbox>
 - MITRE ATLAS, "Exfiltration via ML Inference API" — <https://atlas.mitre.org/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-294-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-294-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 295 - OWASP Top 10 para aplicaciones con LLM](../295-owasp-top-10-para-aplicaciones-con-llm/README.md)

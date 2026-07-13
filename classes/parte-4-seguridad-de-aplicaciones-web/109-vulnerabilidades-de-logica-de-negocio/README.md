@@ -102,6 +102,11 @@ Validando y recalculando toda regla en el servidor, usando bloqueos/transaccione
 - PortSwigger Race conditions: <https://portswigger.net/web-security/race-conditions>
 - OWASP WSTG — Business Logic Testing.
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-109-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-109-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 110 - Seguridad de APIs REST](../110-seguridad-de-apis-rest/README.md)

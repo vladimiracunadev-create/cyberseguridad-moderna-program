@@ -114,6 +114,11 @@ Acelera tareas (variantes, ofuscación, guiones), pero no crea magia indetectabl
 - FBI IC3, alertas sobre BEC y deepfakes — <https://www.ic3.gov/>
 - ENISA, Threat Landscape (secciones de IA/desinformación) — <https://www.enisa.europa.eu/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-299-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-299-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 300 - Gobernanza y etica de la IA segura](../300-gobernanza-y-etica-de-la-ia-segura/README.md)

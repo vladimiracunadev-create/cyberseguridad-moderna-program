@@ -107,6 +107,11 @@ Porque una detección escrita contra campos CIM funciona sin importar el fabrica
 - Murdoch, D. *Blue Team Handbook: SOC, SIEM, and Threat Hunting Use Cases*.
 - Splunk Common Information Model — <https://docs.splunk.com/Documentation/CIM>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-184-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-184-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 185 - Elastic Stack y Wazuh](../185-elastic-stack-y-wazuh/README.md)

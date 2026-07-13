@@ -113,6 +113,11 @@ Los logs de esta operación alimentan el capstone de la Clase 306 (purple teamin
 - Vest & Tubberville, *Red Team Development and Operations*.
 - Red Canary Atomic Red Team: <https://github.com/redcanaryco/atomic-red-team>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-305-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-305-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 306 - Capstone: deteccion Blue Team end-to-end](../306-capstone-deteccion-blue-team-end-to-end/README.md)

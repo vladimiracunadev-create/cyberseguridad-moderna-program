@@ -118,6 +118,11 @@ Porque ataca al usuario, no al cifrado: si la víctima se conecta al AP falso e 
 - hashcat (modo 22000): <https://hashcat.net/wiki/doku.php?id=cracking_wpawpa2>
 - *Hacking Exposed Wireless* — Joshua Wright, Johnny Cache.
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-272-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-272-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 273 - Seguridad de sistemas de control industrial (ICS/SCADA)](../273-seguridad-de-sistemas-de-control-industrial-ics-scada/README.md)

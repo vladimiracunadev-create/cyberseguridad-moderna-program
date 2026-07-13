@@ -117,6 +117,11 @@ Mejor recon, vectores menos obvios y rapidez. Aun así, los duplicados son parte
 - Vickie Li, *Bug Bounty Bootcamp* (No Starch Press).
 - ProjectDiscovery (subfinder/httpx/nuclei): <https://github.com/projectdiscovery>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-308-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-308-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 309 - Construccion de portafolio y home lab permanente](../309-construccion-de-portafolio-y-home-lab-permanente/README.md)

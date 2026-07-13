@@ -107,6 +107,11 @@ La aseguradora puede denegar el siniestro por declaración inexacta. La honestid
 - Marsh — Cyber Insurance market reports. <https://www.marsh.com/>
 - (ISC)² CISSP Official Study Guide, dominio 1 (Tratamiento del riesgo).
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-288-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-288-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 289 - Privacidad y proteccion de datos](../289-privacidad-y-proteccion-de-datos/README.md)

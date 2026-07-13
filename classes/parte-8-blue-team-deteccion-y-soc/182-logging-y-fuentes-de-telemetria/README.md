@@ -108,6 +108,11 @@ Solo en segmentos críticos y con retención corta. Para hunting histórico, los
 - Zeek Documentation — <https://docs.zeek.org/>
 - Elastic Common Schema (ECS) — <https://www.elastic.co/guide/en/ecs/current/index.html>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-182-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-182-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 183 - SIEM: arquitectura y componentes](../183-siem-arquitectura-y-componentes/README.md)

@@ -118,6 +118,11 @@ Porque nunca tienes plena certeza de haber eliminado toda la persistencia de un 
 - Cloud Custodian. <https://cloudcustodian.io/>
 - Microsoft — Incident response in the cloud. <https://learn.microsoft.com/security/operations/incident-response-overview>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-235-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-235-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 236 - Secure SDLC y filosofia shift-left](../../parte-11-devsecops-y-seguridad-del-sdlc/236-secure-sdlc-y-filosofia-shift-left/README.md)

@@ -106,6 +106,11 @@ Corto: aislar el equipo ya. Largo: solución temporal estable (segmentar red, re
 - TheHive Project: <https://thehive-project.org/>
 - Roberts & Brown — *Intelligence-Driven Incident Response*, O'Reilly 2017.
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-202-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-202-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 203 - Adquisicion forense: discos e imagenes](../203-adquisicion-forense-discos-e-imagenes/README.md)

@@ -121,6 +121,11 @@ La alerta que dispara el incidente puede venir del capstone Blue Team (Clase 306
 - plaso/log2timeline: <https://github.com/log2timeline/plaso>
 - Luttgens, Pepe, Mandia, *Incident Response & Computer Forensics*.
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-307-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-307-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 308 - Capstone: campana de bug bounty](../308-capstone-campana-de-bug-bounty/README.md)

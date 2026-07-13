@@ -104,6 +104,11 @@ El Traffic Light Protocol clasifica cuánto puedes difundir una información (RE
 - OASIS STIX/TAXII — <https://oasis-open.github.io/cti-documentation/>
 - FIRST, Traffic Light Protocol (TLP) — <https://www.first.org/tlp/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-195-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-195-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 196 - Automatizacion con SOAR](../196-automatizacion-con-soar/README.md)

@@ -114,6 +114,11 @@ No. Automatiza la emulación repetible y la validación de detecciones, pero la 
 - MITRE Caldera. <https://caldera.mitre.org/> · <https://github.com/mitre/caldera>
 - MITRE ATT&CK. <https://attack.mitre.org/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-180-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-180-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 181 - El SOC moderno: roles, niveles y procesos](../../parte-8-blue-team-deteccion-y-soc/181-el-soc-moderno-roles-niveles-y-procesos/README.md)

@@ -118,6 +118,11 @@ sistemas privados ni para manipular a personas fuera de un engagement autorizado
 - Trace Labs OSINT VM. <https://www.tracelabs.org/initiatives/osint-vm>
 - Have I Been Pwned. <https://haveibeenpwned.com/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-249-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-249-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 250 - OSINT de personas](../250-osint-de-personas/README.md)

@@ -107,6 +107,11 @@ No deserialices datos no confiables. Si es inevitable, usa formatos de datos (no
 - ysoserial: <https://github.com/frohoff/ysoserial>
 - PortSwigger Insecure deserialization: <https://portswigger.net/web-security/deserialization>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-106-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-106-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 107 - Server-Side Template Injection (SSTI)](../107-server-side-template-injection-ssti/README.md)

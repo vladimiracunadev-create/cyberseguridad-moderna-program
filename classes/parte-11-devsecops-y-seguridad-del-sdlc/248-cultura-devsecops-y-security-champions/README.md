@@ -115,6 +115,11 @@ Con proxies medibles: participación en formación, tiempo de remediación por e
 - *The DevOps Handbook* (Kim, Humble, Debois, Willis) — cultura y aprendizaje.
 - OWASP Juice Shop (CTF interno) — <https://owasp.org/www-project-juice-shop/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-248-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-248-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 249 - Fundamentos de OSINT](../../parte-12-osint-e-ingenieria-social/249-fundamentos-de-osint/README.md)

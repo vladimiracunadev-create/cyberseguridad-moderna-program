@@ -112,6 +112,11 @@ Es riesgoso: se filtra por Referer, logs e historial. Mejor en cuerpo o cabecera
 - OWASP CSRF Prevention Cheat Sheet.
 - PortSwigger CSRF: <https://portswigger.net/web-security/csrf>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-098-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-098-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 099 - Server-Side Request Forgery (SSRF)](../099-server-side-request-forgery-ssrf/README.md)

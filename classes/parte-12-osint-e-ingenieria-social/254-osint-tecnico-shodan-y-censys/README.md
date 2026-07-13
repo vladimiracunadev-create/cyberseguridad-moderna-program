@@ -117,6 +117,11 @@ engagement.
 - Bazzell, M. *Open Source Intelligence Techniques*. <https://inteltechniques.com/book1.html>
 - MITRE ATT&CK — Active Scanning (T1595). <https://attack.mitre.org/techniques/T1595/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-254-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-254-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 255 - Automatizacion de OSINT: SpiderFoot y Maltego](../255-automatizacion-de-osint-spiderfoot-y-maltego/README.md)

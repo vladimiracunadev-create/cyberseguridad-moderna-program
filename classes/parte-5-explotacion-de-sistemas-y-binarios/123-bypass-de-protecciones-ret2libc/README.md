@@ -155,6 +155,11 @@ sus constraints.
 - libc-database — <https://github.com/niklasb/libc-database>
 - one_gadget — <https://github.com/david942j/one_gadget>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-123-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-123-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 124 - Return-Oriented Programming (ROP)](../124-return-oriented-programming-rop/README.md)

@@ -132,6 +132,11 @@ irreales; prioriza.
 - Semgrep — <https://semgrep.dev/>
 - security.txt / disclosure — <https://securitytxt.org/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-137-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-137-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 138 - Desarrollo de exploits moderno](../138-desarrollo-de-exploits-moderno/README.md)

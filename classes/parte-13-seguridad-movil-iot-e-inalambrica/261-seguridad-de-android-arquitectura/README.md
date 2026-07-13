@@ -109,6 +109,11 @@ En el Android Keystore respaldado por hardware, nunca en `SharedPreferences` ni 
 - Android Keystore System: <https://developer.android.com/training/articles/keystore>
 - *The Mobile Application Hacker's Handbook*, cap. Android — Chell, Erasmus, Colley, Whitehouse.
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-261-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-261-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 262 - Pentest de aplicaciones Android](../262-pentest-de-aplicaciones-android/README.md)

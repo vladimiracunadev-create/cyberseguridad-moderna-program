@@ -146,6 +146,11 @@ En la explotación real lo tratarás como obstáculo (clases 122+).
 - GDB manual — <https://sourceware.org/gdb/documentation/>
 - GEF (alternativa) — <https://hugsy.github.io/gef/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-118-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-118-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 119 - Buffer overflow en stack: teoria](../119-buffer-overflow-en-stack-teoria/README.md)

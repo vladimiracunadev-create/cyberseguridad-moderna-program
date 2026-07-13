@@ -101,6 +101,11 @@ El cuaderno es interno y esencial para deconfliction, reproducibilidad y el info
 - SpecterOps / research sobre OPSEC de C2.
 - Bryant, T. — *Operator Handbook*.
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-176-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-176-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 177 - Red teaming fisico](../177-red-teaming-fisico/README.md)

@@ -100,6 +100,11 @@ Dentro de A03 Injection desde 2021, porque comparte causa raíz: datos no confia
 - MITRE CWE: <https://cwe.mitre.org/>
 - OWASP Risk Rating Methodology: <https://owasp.org/www-community/OWASP_Risk_Rating_Methodology>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-087-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-087-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 088 - Burp Suite: configuracion y flujo de trabajo](../088-burp-suite-configuracion-y-flujo-de-trabajo/README.md)

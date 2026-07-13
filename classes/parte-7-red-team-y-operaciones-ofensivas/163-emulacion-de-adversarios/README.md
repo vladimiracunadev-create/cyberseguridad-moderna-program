@@ -101,6 +101,11 @@ La simulación (comportamientos genéricos) suele ser mejor punto de partida; la
 - Vest & Tubberville — *Red Team Development and Operations*.
 - Mandiant / CrowdStrike — informes públicos de threat intelligence.
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-163-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-163-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 164 - Diseno de infraestructura de comando y control (C2)](../164-diseno-de-infraestructura-de-comando-y-control-c2/README.md)

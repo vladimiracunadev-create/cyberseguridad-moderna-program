@@ -130,6 +130,11 @@ No: Zeek resume a escala; Wireshark inspecciona a fondo. Se complementan.
 - NetworkMiner: <https://www.netresec.com/?page=NetworkMiner>
 - RITA (beaconing): <https://github.com/activecm/rita>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-208-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-208-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 209 - Analisis de linea de tiempo (timeline)](../209-analisis-de-linea-de-tiempo-timeline/README.md)

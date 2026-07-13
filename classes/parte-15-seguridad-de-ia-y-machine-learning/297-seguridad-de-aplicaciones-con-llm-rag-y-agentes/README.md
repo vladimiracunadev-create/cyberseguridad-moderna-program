@@ -120,6 +120,11 @@ Segmenta por tenant: colecciones separadas o filtro obligatorio por `tenant_id` 
 - NIST AI 600-1, Generative AI Profile — <https://www.nist.gov/itl/ai-risk-management-framework>
 - MITRE ATLAS — <https://atlas.mitre.org/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-297-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-297-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 298 - IA aplicada a la defensa: deteccion y SOC](../298-ia-aplicada-a-la-defensa-deteccion-y-soc/README.md)

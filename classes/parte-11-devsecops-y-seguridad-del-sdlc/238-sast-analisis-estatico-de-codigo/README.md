@@ -146,6 +146,11 @@ Parcialmente. Hay reglas de secretos, pero para eso es mejor una herramienta ded
 - CWE list — <https://cwe.mitre.org/>
 - Julien Vehent, *Securing DevOps*, Manning 2018 (cap. de test de seguridad).
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-238-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-238-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 239 - DAST: analisis dinamico de aplicaciones](../239-dast-analisis-dinamico-de-aplicaciones/README.md)

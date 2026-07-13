@@ -157,6 +157,11 @@ la base; luego se pasa a ROP/ret2libc.
 - Linux syscall table (x86-64) — <https://filippo.io/linux-syscall-table/>
 - pwntools shellcraft — <https://docs.pwntools.com/en/stable/shellcraft.html>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-121-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-121-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 122 - Protecciones modernas: ASLR, DEP/NX, stack canaries y PIE](../122-protecciones-modernas-aslr-dep-nx-stack-canaries-y-pie/README.md)

@@ -108,6 +108,11 @@ IEC 62443 (zonas y conductos, niveles de seguridad SL) y NIST SP 800-82 son las 
 - MITRE ATT&CK for ICS: <https://attack.mitre.org/matrices/ics/>
 - Conpot: <https://github.com/mushorg/conpot> · GRFICS: <https://github.com/Fortiphyd/GRFICSv2>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-273-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-273-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 274 - Seguridad automotriz y bus CAN](../274-seguridad-automotriz-y-bus-can/README.md)

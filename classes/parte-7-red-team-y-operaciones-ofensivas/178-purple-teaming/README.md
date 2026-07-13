@@ -101,6 +101,11 @@ Ayuda mucho porque da TTPs atómicos reproducibles (Clase 180), pero puedes ejec
 - Atomic Red Team. <https://github.com/redcanaryco/atomic-red-team>
 - Sysmon config (SwiftOnSecurity). <https://github.com/SwiftOnSecurity/sysmon-config>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-178-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-178-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 179 - Reporte y metricas de Red Team](../179-reporte-y-metricas-de-red-team/README.md)

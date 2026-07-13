@@ -114,6 +114,11 @@ No. SSDF (NIST) es un marco de prácticas de referencia; SAMM es un modelo de ma
 - Bell, Brunton-Spall, Smith, Bird, *Agile Application Security*, O'Reilly 2017.
 - OWASP DevSecOps Guideline — <https://owasp.org/www-project-devsecops-guideline/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-236-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-236-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 237 - Modelado de amenazas: STRIDE y DREAD](../237-modelado-de-amenazas-stride-y-dread/README.md)

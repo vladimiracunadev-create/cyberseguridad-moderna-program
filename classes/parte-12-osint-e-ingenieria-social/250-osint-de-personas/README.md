@@ -117,6 +117,11 @@ solicitudes de eliminación a los servicios.
 - Holehe. <https://github.com/megadose/holehe>
 - Have I Been Pwned. <https://haveibeenpwned.com/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-250-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-250-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 251 - OSINT de empresas y dominios](../251-osint-de-empresas-y-dominios/README.md)

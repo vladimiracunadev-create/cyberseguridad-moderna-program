@@ -106,6 +106,11 @@ Define siempre el scope y activa "show only in-scope" y "drop out-of-scope reque
 - Documentación oficial de Burp: <https://portswigger.net/burp/documentation>
 - PortSwigger Web Security Academy: <https://portswigger.net/web-security>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-088-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-088-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 089 - OWASP ZAP](../089-owasp-zap/README.md)

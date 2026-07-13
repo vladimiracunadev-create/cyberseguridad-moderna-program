@@ -115,6 +115,11 @@ Managed identity siempre que sea posible: Azure gestiona y rota las credenciales
 - Azure Key Vault best practices. <https://learn.microsoft.com/azure/key-vault/general/best-practices>
 - CIS Microsoft Azure Foundations Benchmark. <https://www.cisecurity.org/benchmark/azure>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-224-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-224-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 225 - Seguridad en Google Cloud Platform](../225-seguridad-en-google-cloud-platform/README.md)

@@ -102,6 +102,11 @@ Pretextos neutros, coordinación con la white cell, no explotar emociones sensib
 - Outflank / research sobre *HTML smuggling* y contenedores.
 - Bryant, T. — *Operator Handbook*.
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-166-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-166-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 167 - Acceso inicial: tecnicas](../167-acceso-inicial-tecnicas/README.md)

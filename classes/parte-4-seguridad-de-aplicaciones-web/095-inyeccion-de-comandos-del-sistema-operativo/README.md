@@ -111,6 +111,11 @@ Es frágil. Mejor evitar el shell por completo y validar con allowlists estricta
 - OWASP Command Injection: <https://owasp.org/www-community/attacks/Command_Injection>
 - PortSwigger OS command injection: <https://portswigger.net/web-security/os-command-injection>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-095-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-095-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 096 - Cross-Site Scripting (XSS) reflejado](../096-cross-site-scripting-xss-reflejado/README.md)

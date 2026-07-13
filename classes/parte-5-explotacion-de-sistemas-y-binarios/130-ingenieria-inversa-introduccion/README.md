@@ -142,6 +142,11 @@ reconstruye la semántica.
 - ELF spec — <https://refspecs.linuxfoundation.org/elf/elf.pdf>
 - Microsoft PE format — <https://learn.microsoft.com/windows/win32/debug/pe-format>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-130-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-130-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 131 - Ghidra para ingenieria inversa](../131-ghidra-para-ingenieria-inversa/README.md)

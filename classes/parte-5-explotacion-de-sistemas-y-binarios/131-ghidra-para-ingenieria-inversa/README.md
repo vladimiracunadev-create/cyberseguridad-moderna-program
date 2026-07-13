@@ -129,6 +129,11 @@ el Listing.
 - Andriesse, D. *Practical Binary Analysis*. No Starch Press.
 - The Ghidra Book (Eagle & Nance), No Starch Press.
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-131-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-131-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 132 - IDA Pro y radare2](../132-ida-pro-y-radare2/README.md)

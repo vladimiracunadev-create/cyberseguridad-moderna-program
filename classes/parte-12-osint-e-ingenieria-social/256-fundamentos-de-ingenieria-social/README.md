@@ -119,6 +119,11 @@ puede ser ilegal o dañino.
 - Social Engineering Framework (Social-Engineer LLC). <https://www.social-engineer.org/framework/>
 - ENISA — Awareness materials. <https://www.enisa.europa.eu/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-256-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-256-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 257 - Pretexting y vishing](../257-pretexting-y-vishing/README.md)

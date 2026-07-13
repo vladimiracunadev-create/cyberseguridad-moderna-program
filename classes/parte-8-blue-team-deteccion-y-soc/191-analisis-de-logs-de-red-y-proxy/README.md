@@ -107,6 +107,11 @@ Rara vez y por poco tiempo. Los metadatos de Zeek cubren la mayoría de casos de
 - JA3 (Salesforce) — <https://github.com/salesforce/ja3>
 - Suricata Documentation — <https://docs.suricata.io/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-191-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-191-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 192 - Deteccion de movimiento lateral](../192-deteccion-de-movimiento-lateral/README.md)

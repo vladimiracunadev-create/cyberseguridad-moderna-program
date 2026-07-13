@@ -110,6 +110,11 @@ ISO 27001 es el marco de gestión (SGSI); la gobernanza lo supervisa y aprueba. 
 - COBIT 2019 (ISACA). <https://www.isaca.org/resources/cobit>
 - SANS Security Policy Templates. <https://www.sans.org/information-security-policy/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-276-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-276-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 277 - Gestion de riesgos: cuantitativa y cualitativa](../277-gestion-de-riesgos-cuantitativa-y-cualitativa/README.md)

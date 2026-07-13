@@ -124,6 +124,11 @@ Sí, y deberías. Guarda tu carpeta de reglas en un repositorio, con revisión y
 - MITRE ATT&CK — <https://attack.mitre.org/>
 - Roth, F. y equipo SigmaHQ, documentación del proyecto.
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-186-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-186-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 187 - Deteccion basada en MITRE ATT&CK](../187-deteccion-basada-en-mitre-att-ck/README.md)

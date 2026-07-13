@@ -108,6 +108,11 @@ Sí: análisis estático del IPA, revisión de Info.plist y entitlements, y prue
 - frida-ios-dump: <https://github.com/AloneMonkey/frida-ios-dump>
 - *The Mobile Application Hacker's Handbook*, caps. iOS.
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-263-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-263-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 264 - Pentest de aplicaciones iOS](../264-pentest-de-aplicaciones-ios/README.md)

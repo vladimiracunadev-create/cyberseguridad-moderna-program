@@ -108,6 +108,11 @@ No. Actualizaciones, telemetría y sincronización también "laten". Por eso se 
 - Sanders, C. y Smith, J. *Applied Network Security Monitoring*. Syngress.
 - Active Countermeasures, "Detecting Beacons" (recursos formativos) — <https://www.activecountermeasures.com/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-193-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-193-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 194 - Deception: honeypots y honeytokens](../194-deception-honeypots-y-honeytokens/README.md)

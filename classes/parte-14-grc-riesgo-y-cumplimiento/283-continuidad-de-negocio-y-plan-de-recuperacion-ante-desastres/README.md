@@ -129,6 +129,11 @@ No. La nube reparte responsabilidades pero tú sigues siendo responsable de tus 
 - restic — Backups rápidos, seguros y verificables. <https://restic.net/>
 - Estrategia de backup 3-2-1 (CISA). <https://www.cisa.gov/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-283-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-283-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 284 - Gestion de riesgo de terceros y proveedores](../284-gestion-de-riesgo-de-terceros-y-proveedores/README.md)

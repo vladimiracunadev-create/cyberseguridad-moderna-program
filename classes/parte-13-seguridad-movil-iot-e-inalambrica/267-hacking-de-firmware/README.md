@@ -114,6 +114,11 @@ Para muchas pruebas de la interfaz web y servicios sí, pero periféricos y comp
 - Firmware Analysis Toolkit / Firmadyne: <https://github.com/attify/firmware-analysis-toolkit>
 - *Practical IoT Hacking*, caps. de firmware — Chantzis et al.
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-267-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-267-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 268 - Analisis de hardware: UART, JTAG y SPI](../268-analisis-de-hardware-uart-jtag-y-spi/README.md)

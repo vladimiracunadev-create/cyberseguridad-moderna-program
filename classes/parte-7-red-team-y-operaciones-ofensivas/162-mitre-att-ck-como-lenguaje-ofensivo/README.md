@@ -115,6 +115,11 @@ La Kill Chain (Lockheed Martin) es lineal y de alto nivel; ATT&CK es un catálog
 - `mitreattack-python`. <https://github.com/mitre-attack/mitreattack-python>
 - MITRE — *Getting Started with ATT&CK*. <https://attack.mitre.org/resources/getting-started/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-162-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-162-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 163 - Emulacion de adversarios](../163-emulacion-de-adversarios/README.md)

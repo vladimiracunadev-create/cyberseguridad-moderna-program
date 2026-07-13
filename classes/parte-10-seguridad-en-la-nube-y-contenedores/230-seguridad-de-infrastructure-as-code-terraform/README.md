@@ -117,6 +117,11 @@ No. El escaneo IaC detecta problemas *antes* de desplegar (shift-left); el CSPM 
 - Open Policy Agent / Conftest. <https://www.openpolicyagent.org/>
 - OWASP Infrastructure as Code Security Cheat Sheet. <https://cheatsheetseries.owasp.org/cheatsheets/Infrastructure_as_Code_Security_Cheat_Sheet.html>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-230-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-230-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 231 - Cloud Security Posture Management (CSPM)](../231-cloud-security-posture-management-cspm/README.md)

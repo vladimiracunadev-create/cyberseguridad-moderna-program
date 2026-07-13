@@ -117,6 +117,11 @@ La model card y el registro de riesgos: dan visibilidad inmediata de límites y 
 - Mitchell et al., "Model Cards for Model Reporting", FAT* 2019 — <https://arxiv.org/abs/1810.03993>
 - Gebru et al., "Datasheets for Datasets", 2018 — <https://arxiv.org/abs/1803.09010>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-300-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-300-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 301 - Roadmap de certificaciones: CompTIA, OSCP, CISSP y mas](../../parte-16-capstones-y-preparacion-de-certificaciones/301-roadmap-de-certificaciones-comptia-oscp-cissp-y-mas/README.md)

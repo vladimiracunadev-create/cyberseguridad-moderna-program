@@ -136,6 +136,11 @@ x64dbg + scripts propios hoy.
 - vulnserver (Stephen Bradshaw) — <https://github.com/stephenbradshaw/vulnserver>
 - Microsoft, SEH docs — <https://learn.microsoft.com/windows/win32/debug/structured-exception-handling>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-129-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-129-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 130 - Ingenieria inversa: introduccion](../130-ingenieria-inversa-introduccion/README.md)

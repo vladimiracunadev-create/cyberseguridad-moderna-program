@@ -110,6 +110,11 @@ No de forma útil ni legal: los sistemas de pago usan criptografía fuerte y val
 - Investigación sobre Crypto-1 (Nohl, Garcia et al.) — publicaciones académicas de la ruptura de MIFARE.
 - *Practical IoT Hacking*, caps. de RFID — Chantzis et al.
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-270-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-270-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 271 - Seguridad de Bluetooth y BLE](../271-seguridad-de-bluetooth-y-ble/README.md)

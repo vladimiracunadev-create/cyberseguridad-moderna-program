@@ -142,6 +142,11 @@ GDB.
 - Cutter — <https://cutter.re/>
 - Hex-Rays / IDA — <https://hex-rays.com/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-132-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-132-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 133 - Analisis estatico de binarios](../133-analisis-estatico-de-binarios/README.md)

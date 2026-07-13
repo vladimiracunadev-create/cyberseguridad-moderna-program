@@ -114,6 +114,11 @@ DNS es sigiloso y sobrevive a muchos filtros, pero es lento y ruidoso en volumen
 - MITRE ATT&CK — *Command and Control* (TA0011). <https://attack.mitre.org/tactics/TA0011/>
 - Nginx / socat documentación oficial.
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-164-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-164-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 165 - Frameworks C2: Cobalt Strike, Sliver y Mythic](../165-frameworks-c2-cobalt-strike-sliver-y-mythic/README.md)

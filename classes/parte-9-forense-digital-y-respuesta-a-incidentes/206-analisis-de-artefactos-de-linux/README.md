@@ -152,6 +152,11 @@ mtime y atime sí con `touch`; ctime es más difícil (requiere manipular el rel
 - The Sleuth Kit: <https://www.sleuthkit.org/>
 - SANS — Linux forensics resources: <https://www.sans.org/blog/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-206-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-206-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 207 - Forense de memoria RAM con Volatility](../207-forense-de-memoria-ram-con-volatility/README.md)

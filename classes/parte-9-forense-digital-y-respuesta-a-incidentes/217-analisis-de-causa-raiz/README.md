@@ -112,6 +112,11 @@ Miden la eficacia del programa de respuesta y permiten fijar objetivos de mejora
 - Google SRE — Postmortem Culture: <https://sre.google/sre-book/postmortem-culture/>
 - MITRE ATT&CK: <https://attack.mitre.org/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-217-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-217-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 218 - Reporte forense y aspectos legales](../218-reporte-forense-y-aspectos-legales/README.md)

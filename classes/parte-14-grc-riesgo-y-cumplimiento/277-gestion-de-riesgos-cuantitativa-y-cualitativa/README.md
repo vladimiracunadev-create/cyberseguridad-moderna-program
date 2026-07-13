@@ -119,6 +119,11 @@ Sí: distorsiona por rangos arbitrarios y "colores". Úsala como triaje, no como
 - Verizon Data Breach Investigations Report (DBIR). <https://www.verizon.com/business/resources/reports/dbir/>
 - (ISC)² CISSP Official Study Guide, dominio 1.
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-277-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-277-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 278 - ISO/IEC 27001 e implantacion de un SGSI](../278-iso-iec-27001-e-implantacion-de-un-sgsi/README.md)

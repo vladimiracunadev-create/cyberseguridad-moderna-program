@@ -119,6 +119,11 @@ Es voluntario, pero se está convirtiendo en referencia de facto y en base de re
 - OWASP Machine Learning Security Top 10 — <https://owasp.org/www-project-machine-learning-security-top-10/>
 - ENISA, "Securing Machine Learning Algorithms" (2021) — <https://www.enisa.europa.eu/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-291-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-291-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 292 - Ataques adversariales a modelos](../292-ataques-adversariales-a-modelos/README.md)

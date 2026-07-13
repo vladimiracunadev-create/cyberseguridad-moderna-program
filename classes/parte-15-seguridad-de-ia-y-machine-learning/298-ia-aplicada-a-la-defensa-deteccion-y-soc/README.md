@@ -124,6 +124,11 @@ Sí. Los detectores son modelos y por tanto atacables (evasión, envenenamiento 
 - NIST AI RMF — <https://www.nist.gov/itl/ai-risk-management-framework>
 - MITRE ATLAS — <https://atlas.mitre.org/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-298-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-298-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 299 - IA ofensiva y deepfakes](../299-ia-ofensiva-y-deepfakes/README.md)

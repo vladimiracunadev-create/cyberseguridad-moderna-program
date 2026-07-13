@@ -120,6 +120,11 @@ Los Controles se revisan cada pocos años (v8 en 2021, v8.1 en 2024); los Benchm
 - Lynis (auditoría de sistemas). <https://cisofy.com/lynis/>
 - (ISC)² CISSP Official Study Guide, dominio 1.
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-280-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-280-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 281 - Cumplimiento: GDPR, HIPAA y PCI-DSS](../281-cumplimiento-gdpr-hipaa-y-pci-dss/README.md)

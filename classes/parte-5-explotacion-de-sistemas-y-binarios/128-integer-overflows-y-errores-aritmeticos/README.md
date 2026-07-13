@@ -143,6 +143,11 @@ activa UBSan en CI.
 - UndefinedBehaviorSanitizer — <https://clang.llvm.org/docs/UndefinedBehaviorSanitizer.html>
 - The Shellcoder's Handbook, cap. de integer bugs. Wiley.
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-128-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-128-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 129 - Explotacion en Windows: manejo de SEH](../129-explotacion-en-windows-manejo-de-seh/README.md)

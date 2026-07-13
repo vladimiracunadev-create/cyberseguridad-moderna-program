@@ -163,6 +163,11 @@ Sí: usa identidad OIDC efímera y un transparency log público (Rekor). Elimina
 - Sigstore cosign — <https://docs.sigstore.dev/cosign/overview/>
 - Distroless images — <https://github.com/GoogleContainerTools/distroless>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-243-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-243-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 244 - Politicas como codigo con OPA](../244-politicas-como-codigo-con-opa/README.md)

@@ -119,6 +119,11 @@ coherencia contextual.
 - FotoForensics. <https://fotoforensics.com/>
 - InVID/WeVerify. <https://www.invid-project.eu/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-253-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-253-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 254 - OSINT tecnico: Shodan y Censys](../254-osint-tecnico-shodan-y-censys/README.md)

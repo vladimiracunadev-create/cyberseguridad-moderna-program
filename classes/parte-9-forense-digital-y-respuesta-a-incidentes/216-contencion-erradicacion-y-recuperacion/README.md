@@ -115,6 +115,11 @@ Con monitoreo reforzado durante un periodo y criterios objetivos: cero IOCs acti
 - MITRE ATT&CK — Persistence (TA0003): <https://attack.mitre.org/tactics/TA0003/>
 - SANS — Incident Handler's Handbook: <https://www.sans.org/white-papers/33901/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-216-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-216-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 217 - Analisis de causa raiz](../217-analisis-de-causa-raiz/README.md)

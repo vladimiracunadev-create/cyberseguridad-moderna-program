@@ -103,6 +103,11 @@ No. Una cacería "sin hallazgo" es valiosa: valida controles, mejora baselines y
 - Splunk, *PEAK Threat Hunting Framework* — <https://www.splunk.com/en_us/blog/security/peak-threat-hunting-framework.html>
 - MITRE ATT&CK — <https://attack.mitre.org/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-188-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-188-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 189 - Analisis de endpoints con EDR](../189-analisis-de-endpoints-con-edr/README.md)

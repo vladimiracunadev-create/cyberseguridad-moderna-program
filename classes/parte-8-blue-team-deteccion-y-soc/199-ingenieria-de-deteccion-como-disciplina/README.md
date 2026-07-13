@@ -105,6 +105,11 @@ Cuando su ratio de falsos positivos es insostenible, la técnica ya no aplica, o
 - Palantir, "Alerting and Detection Strategy Framework" — <https://github.com/palantir/alerting-detection-strategy-framework>
 - Splunk, "Detection Engineering" (recursos formativos).
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-199-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-199-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 200 - Purple team desde el lado defensivo](../200-purple-team-desde-el-lado-defensivo/README.md)

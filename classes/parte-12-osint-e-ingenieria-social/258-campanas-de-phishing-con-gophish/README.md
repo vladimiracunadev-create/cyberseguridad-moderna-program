@@ -117,6 +117,11 @@ solo contar clics.
 - MITRE ATT&CK — Phishing (T1566). <https://attack.mitre.org/techniques/T1566/>
 - NIST SP 800-50 — Building a Security Awareness Program. <https://csrc.nist.gov/pubs/sp/800/50/final>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-258-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-258-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 259 - Defensa contra la ingenieria social](../259-defensa-contra-la-ingenieria-social/README.md)

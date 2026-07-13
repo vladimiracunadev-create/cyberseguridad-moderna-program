@@ -112,6 +112,11 @@ El guion maestro de eventos e injects, con tiempos, que estructura el ejercicio 
 - SANS — Incident Response resources: <https://www.sans.org/>
 - NIST SP 800-61 Rev. 2: <https://csrc.nist.gov/publications/detail/sp/800-61/rev-2/final>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-219-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-219-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 220 - Caso completo de respuesta a incidentes end-to-end](../220-caso-completo-de-respuesta-a-incidentes-end-to-end/README.md)

@@ -104,6 +104,11 @@ Con `zap-baseline.py` o `zap-full-scan.py` en un contenedor, haciendo que el pip
 - ZAP Automation Framework: <https://www.zaproxy.org/docs/automate/>
 - OWASP WSTG: <https://owasp.org/www-project-web-security-testing-guide/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-089-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-089-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 090 - Mapeo, spidering y descubrimiento de contenido](../090-mapeo-spidering-y-descubrimiento-de-contenido/README.md)

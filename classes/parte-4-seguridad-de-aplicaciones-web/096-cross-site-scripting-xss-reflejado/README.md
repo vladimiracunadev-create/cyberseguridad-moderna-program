@@ -102,6 +102,11 @@ No lo elimina, lo mitiga: aunque el bug exista, una buena CSP puede impedir que 
 - OWASP XSS Prevention Cheat Sheet.
 - PortSwigger XSS: <https://portswigger.net/web-security/cross-site-scripting>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-096-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-096-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 097 - XSS almacenado y basado en DOM](../097-xss-almacenado-y-basado-en-dom/README.md)

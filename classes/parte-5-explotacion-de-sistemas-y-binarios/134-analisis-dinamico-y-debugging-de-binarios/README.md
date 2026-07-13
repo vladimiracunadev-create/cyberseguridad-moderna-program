@@ -150,6 +150,11 @@ entorno del binario.
 - Qiling Framework — <https://qiling.io/>
 - Unicorn Engine — <https://www.unicorn-engine.org/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-134-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-134-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 135 - Ofuscacion y tecnicas anti-reversing](../135-ofuscacion-y-tecnicas-anti-reversing/README.md)

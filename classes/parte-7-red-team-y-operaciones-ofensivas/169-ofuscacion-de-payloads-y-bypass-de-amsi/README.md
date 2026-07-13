@@ -101,6 +101,11 @@ No exactamente: evadir es lograr que no bloquee tu contenido concreto; los memor
 - Red Canary / research sobre detección de AMSI bypass.
 - Clark, B. — *RTFM: Red Team Field Manual v2*.
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-169-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-169-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 170 - Active Directory: enumeracion](../170-active-directory-enumeracion/README.md)

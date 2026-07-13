@@ -117,6 +117,11 @@ Es un marco técnico, no una norma. Combínalo con NIST AI RMF e ISO/IEC 42001 (
 - NIST AI 600-1, Generative AI Profile — <https://www.nist.gov/itl/ai-risk-management-framework>
 - OWASP Foundation — <https://owasp.org/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-295-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-295-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 296 - Prompt injection y jailbreaks](../296-prompt-injection-y-jailbreaks/README.md)

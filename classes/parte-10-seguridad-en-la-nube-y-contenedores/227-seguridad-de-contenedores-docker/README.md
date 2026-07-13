@@ -114,6 +114,11 @@ Fuera de la imagen: en un gestor de secretos (clase 233), variables inyectadas e
 - Docker Bench for Security. <https://github.com/docker/docker-bench-security>
 - NIST SP 800-190, Application Container Security Guide. <https://csrc.nist.gov/pubs/sp/800/190/final>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-227-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-227-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 228 - Seguridad de Kubernetes: arquitectura](../228-seguridad-de-kubernetes-arquitectura/README.md)

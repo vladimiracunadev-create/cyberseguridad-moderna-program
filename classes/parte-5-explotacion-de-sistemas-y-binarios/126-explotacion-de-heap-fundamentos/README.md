@@ -144,6 +144,11 @@ glibc moderna.
 - how2heap (Shellphish) — <https://github.com/shellphish/how2heap>
 - Azeria Labs, heap exploitation — <https://azeria-labs.com/heap-exploitation-part-1/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-126-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-126-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 127 - Heap: use-after-free y double free](../127-heap-use-after-free-y-double-free/README.md)

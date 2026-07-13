@@ -149,6 +149,11 @@ En Windows moderno normalmente sí. Es una fuente riquísima de creaciones, reno
 - Eric Zimmerman's Tools (MFTECmd): <https://ericzimmerman.github.io/>
 - Microsoft — NTFS documentation: <https://learn.microsoft.com/windows-server/storage/file-server/ntfs-overview>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-204-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-204-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 205 - Analisis de artefactos de Windows](../205-analisis-de-artefactos-de-windows/README.md)

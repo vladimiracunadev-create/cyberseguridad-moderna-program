@@ -143,6 +143,11 @@ requieren ejecución/emulación.
 - pyelftools — <https://github.com/eliben/pyelftools>
 - UPX — <https://upx.github.io/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-133-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-133-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 134 - Analisis dinamico y debugging de binarios](../134-analisis-dinamico-y-debugging-de-binarios/README.md)

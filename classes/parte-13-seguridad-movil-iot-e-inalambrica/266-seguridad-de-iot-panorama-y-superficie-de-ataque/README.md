@@ -108,6 +108,11 @@ No siempre. El análisis de red, app y nube da mucho valor sin tocar el hardware
 - *Practical IoT Hacking* — Chantzis, Stais, Calderon, Deirmentzoglou, Woods.
 - NIST IR 8259 — Foundational Cybersecurity Activities for IoT: <https://csrc.nist.gov/pubs/ir/8259/final>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-266-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-266-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 267 - Hacking de firmware](../267-hacking-de-firmware/README.md)

@@ -144,6 +144,11 @@ Parcialmente. Herramientas como pytm generan amenazas candidatas a partir del mo
 - pytm — <https://github.com/OWASP/pytm>
 - Microsoft STRIDE — <https://learn.microsoft.com/en-us/azure/security/develop/threat-modeling-tool-threats>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-237-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-237-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 238 - SAST: analisis estatico de codigo](../238-sast-analisis-estatico-de-codigo/README.md)

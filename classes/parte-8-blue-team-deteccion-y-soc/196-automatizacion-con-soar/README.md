@@ -106,6 +106,11 @@ Con cuidado y salvaguardas. Aislar un host o bloquear una IP puede impactar prod
 - Gartner, "Market Guide for SOAR Solutions" (marco conceptual).
 - NIST SP 800-61r2, *Computer Security Incident Handling Guide* — <https://csrc.nist.gov/pubs/sp/800/61/r2/final>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-196-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-196-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 197 - Metricas y madurez del SOC](../197-metricas-y-madurez-del-soc/README.md)

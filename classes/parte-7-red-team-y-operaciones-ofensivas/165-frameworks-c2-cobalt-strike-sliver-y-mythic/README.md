@@ -126,6 +126,11 @@ HTTPS con perfil realista para trabajo diario; mTLS para robustez interna del la
 - Bryant, T. — *Operator Handbook*.
 - MITRE ATT&CK — *Application Layer Protocol* (`T1071`). <https://attack.mitre.org/techniques/T1071/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-165-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-165-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 166 - Phishing y entrega de payloads](../166-phishing-y-entrega-de-payloads/README.md)

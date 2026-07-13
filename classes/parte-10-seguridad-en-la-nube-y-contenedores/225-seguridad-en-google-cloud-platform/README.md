@@ -115,6 +115,11 @@ IAM controla el acceso por identidad; VPC Service Controls crea un perímetro qu
 - Organization Policy Service. <https://cloud.google.com/resource-manager/docs/organization-policy/overview>
 - CIS Google Cloud Platform Foundation Benchmark. <https://www.cisecurity.org/benchmark/google_cloud_computing_platform>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-225-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-225-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 226 - Ataques y pentest en entornos cloud](../226-ataques-y-pentest-en-entornos-cloud/README.md)

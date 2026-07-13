@@ -131,6 +131,11 @@ Difícil por TRIM, pero busca en shadow copies, backups, journal, memoria y logs
 - Eric Zimmerman's Tools: <https://ericzimmerman.github.io/>
 - LOLBAS project: <https://lolbas-project.github.io/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-213-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-213-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 214 - Recuperacion de datos y file carving](../214-recuperacion-de-datos-y-file-carving/README.md)

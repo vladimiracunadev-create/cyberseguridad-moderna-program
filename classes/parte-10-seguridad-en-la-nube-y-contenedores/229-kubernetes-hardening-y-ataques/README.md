@@ -121,6 +121,11 @@ Es una base excelente de configuración CIS, pero no cubre RBAC excesivo, imáge
 - kube-bench. <https://github.com/aquasecurity/kube-bench>
 - Kubernetes — Network Policies. <https://kubernetes.io/docs/concepts/services-networking/network-policies/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-229-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-229-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 230 - Seguridad de Infrastructure as Code (Terraform)](../230-seguridad-de-infrastructure-as-code-terraform/README.md)

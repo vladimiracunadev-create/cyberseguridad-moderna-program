@@ -110,6 +110,11 @@ Al menos una técnica (detallada) y una ejecutiva (breve, sin jerga). La legal p
 - Reglamento (UE) 2016/679 (GDPR): <https://eur-lex.europa.eu/eli/reg/2016/679/oj>
 - ISO/IEC 27037 — Digital evidence handling: <https://www.iso.org/standard/44381.html>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-218-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-218-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 219 - Ejercicios de mesa (tabletop)](../219-ejercicios-de-mesa-tabletop/README.md)

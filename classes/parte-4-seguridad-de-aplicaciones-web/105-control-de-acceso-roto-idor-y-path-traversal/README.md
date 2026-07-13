@@ -107,6 +107,11 @@ Leer es lo básico; combinado con upload o LFI puede escalar a ejecución de có
 - OWASP Path Traversal.
 - PortSwigger Access control: <https://portswigger.net/web-security/access-control>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-105-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-105-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 106 - Deserializacion insegura](../106-deserializacion-insegura/README.md)

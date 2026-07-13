@@ -145,6 +145,11 @@ No. Los workflows cambian y aparecen nuevas técnicas. Corre zizmor/actionlint e
 - StepSecurity Harden-Runner — <https://github.com/step-security/harden-runner>
 - Julien Vehent, *Securing DevOps*, Manning 2018.
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-242-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-242-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 243 - Imagenes y contenedores seguros en el pipeline](../243-imagenes-y-contenedores-seguros-en-el-pipeline/README.md)

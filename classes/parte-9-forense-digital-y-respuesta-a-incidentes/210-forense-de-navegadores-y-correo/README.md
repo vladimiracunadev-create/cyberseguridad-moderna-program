@@ -120,6 +120,11 @@ En disco casi no, pero puede quedar en memoria, DNS caché y logs del proxy o de
 - libpff (PST/OST): <https://github.com/libyal/libpff>
 - RFC 5322 (formato de mensaje) y RFC 7208 (SPF): <https://www.rfc-editor.org/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-210-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-210-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 211 - Forense movil](../211-forense-movil/README.md)

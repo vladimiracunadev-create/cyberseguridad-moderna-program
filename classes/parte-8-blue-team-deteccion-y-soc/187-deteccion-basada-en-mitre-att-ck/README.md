@@ -102,6 +102,11 @@ Es un mapa, no una garantía. Una técnica en verde puede tener una regla frági
 - ATT&CK Data Sources — <https://attack.mitre.org/datasources/>
 - DeTT&CT — <https://github.com/rabobank-cdc/DeTTECT>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-187-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-187-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 188 - Threat hunting: metodologia](../188-threat-hunting-metodologia/README.md)

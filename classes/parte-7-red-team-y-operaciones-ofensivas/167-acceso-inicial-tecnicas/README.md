@@ -111,6 +111,11 @@ Porque un login legítimo genera poca telemetría anómala frente a un exploit r
 - kerbrute. <https://github.com/ropnop/kerbrute>
 - Clark, B. — *RTFM: Red Team Field Manual v2*.
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-167-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-167-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 168 - Evasion de defensas: antivirus y EDR](../168-evasion-de-defensas-antivirus-y-edr/README.md)

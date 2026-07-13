@@ -143,6 +143,11 @@ No pongas secretos en el código. Usa un secrets manager/vault e inyéctalos en 
 - git-filter-repo — <https://github.com/newren/git-filter-repo>
 - detect-secrets — <https://github.com/Yelp/detect-secrets>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-241-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-241-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 242 - Seguridad en pipelines CI/CD](../242-seguridad-en-pipelines-ci-cd/README.md)

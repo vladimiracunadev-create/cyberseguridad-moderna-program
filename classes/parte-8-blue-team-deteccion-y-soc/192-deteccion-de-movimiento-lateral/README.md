@@ -108,6 +108,11 @@ No hay un "evento PtH", pero su firma es un patrón: logon NTLM tipo 3 con crede
 - SpecterOps, BloodHound docs — <https://bloodhound.readthedocs.io/>
 - JPCERT/CC, "Detecting Lateral Movement through Tracking Event Logs" — <https://jpcertcc.github.io/ToolAnalysisResultSheet/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-192-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-192-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 193 - Deteccion de C2 y beaconing](../193-deteccion-de-c2-y-beaconing/README.md)

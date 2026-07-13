@@ -108,6 +108,11 @@ No es realista. El objetivo es maximizar cobertura de las técnicas relevantes y
 - Sysmon (Sysinternals): <https://learn.microsoft.com/sysinternals/downloads/sysmon>
 - Bejtlich, *The Practice of Network Security Monitoring*.
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-306-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-306-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 307 - Capstone: respuesta a incidentes DFIR end-to-end](../307-capstone-respuesta-a-incidentes-dfir-end-to-end/README.md)

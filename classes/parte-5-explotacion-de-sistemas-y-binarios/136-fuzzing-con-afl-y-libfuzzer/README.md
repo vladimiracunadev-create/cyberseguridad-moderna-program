@@ -153,6 +153,11 @@ también considera assertions.
 - Andriesse, D. *Practical Binary Analysis*. No Starch Press.
 - OSS-Fuzz — <https://github.com/google/oss-fuzz>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-136-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-136-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 137 - Descubrimiento de vulnerabilidades en codigo](../137-descubrimiento-de-vulnerabilidades-en-codigo/README.md)

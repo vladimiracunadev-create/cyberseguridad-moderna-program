@@ -141,6 +141,11 @@ clase 121.
 - Nightmare — ret2win writeups — <https://guyinatuxedo.github.io/>
 - ROP Emporium (ret2win) — <https://ropemporium.com/challenge/ret2win.html>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-120-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-120-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 121 - Escritura de shellcode](../121-escritura-de-shellcode/README.md)

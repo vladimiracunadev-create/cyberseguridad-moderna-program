@@ -150,6 +150,11 @@ arquitectura de seguridad.
 - angr — <https://angr.io/>
 - Ollydbg/UPX y técnicas anti-debug (Peter Ferrie, "The Ultimate Anti-Debugging Reference").
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-135-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-135-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 136 - Fuzzing con AFL++ y libFuzzer](../136-fuzzing-con-afl-y-libfuzzer/README.md)

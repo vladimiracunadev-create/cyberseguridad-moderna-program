@@ -109,6 +109,11 @@ Deshabilitar el procesamiento de DTD y entidades externas en la configuración d
 - OWASP XXE Prevention Cheat Sheet.
 - PortSwigger XXE: <https://portswigger.net/web-security/xxe>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-100-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-100-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 101 - Fallos de autenticacion y bypass](../101-fallos-de-autenticacion-y-bypass/README.md)

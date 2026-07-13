@@ -144,6 +144,11 @@ Perturbaciones que sobreviven a la captura por cámara: pegatinas en señales de
 - Adversarial Robustness Toolbox — <https://github.com/Trusted-AI/adversarial-robustness-toolbox>
 - MITRE ATLAS, técnica "Evade ML Model" — <https://atlas.mitre.org/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-292-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-292-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 293 - Envenenamiento de datos y modelos](../293-envenenamiento-de-datos-y-modelos/README.md)

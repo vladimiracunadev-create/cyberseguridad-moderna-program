@@ -112,6 +112,11 @@ Para escanear e interactuar sí. Para sniffear conexiones necesitas hardware esp
 - bettercap BLE: <https://www.bettercap.org/modules/ble/>
 - *Practical IoT Hacking*, caps. de BLE — Chantzis et al.
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-271-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-271-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 272 - Ataques WiFi avanzados: Evil Twin y PMKID](../272-ataques-wifi-avanzados-evil-twin-y-pmkid/README.md)

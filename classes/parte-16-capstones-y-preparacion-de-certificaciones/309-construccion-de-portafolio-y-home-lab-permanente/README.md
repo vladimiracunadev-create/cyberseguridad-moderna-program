@@ -119,6 +119,11 @@ Sí, pero cuida costes y aislamiento. Un lab local con Vagrant es gratuito y con
 - GOAD (lab AD): <https://github.com/Orange-Cyberdefense/GOAD>
 - OWASP Vulnerable Web Applications Directory: <https://owasp.org/www-project-vulnerable-web-applications-directory/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-309-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-309-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 310 - Plan de aprendizaje continuo y comunidad](../310-plan-de-aprendizaje-continuo-y-comunidad/README.md)

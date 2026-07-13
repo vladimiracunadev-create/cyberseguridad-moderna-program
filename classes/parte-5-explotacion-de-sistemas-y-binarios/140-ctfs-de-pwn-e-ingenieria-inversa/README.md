@@ -142,6 +142,11 @@ research de vulnerabilidades y el pentesting avanzado.
 - ROP Emporium — <https://ropemporium.com/>
 - CTFtime (calendario y writeups) — <https://ctftime.org/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-140-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-140-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 141 - Introduccion al malware: tipos y taxonomia](../../parte-6-analisis-de-malware/141-introduccion-al-malware-tipos-y-taxonomia/README.md)

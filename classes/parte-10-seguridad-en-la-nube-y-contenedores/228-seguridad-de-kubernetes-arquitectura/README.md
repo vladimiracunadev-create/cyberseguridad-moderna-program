@@ -116,6 +116,11 @@ En clústeres modernos sí, pero muchas instalaciones dejan roles amplios o Serv
 - Kubernetes — RBAC Authorization. <https://kubernetes.io/docs/reference/access-authn-authz/rbac/>
 - NIST SP 800-190. <https://csrc.nist.gov/pubs/sp/800/190/final>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-228-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-228-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 229 - Kubernetes: hardening y ataques](../229-kubernetes-hardening-y-ataques/README.md)

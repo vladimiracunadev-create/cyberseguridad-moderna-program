@@ -111,6 +111,11 @@ una página falsa.
 - CISA — Avoiding Social Engineering and Phishing. <https://www.cisa.gov/>
 - ENISA — Cybersecurity awareness. <https://www.enisa.europa.eu/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-259-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-259-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 260 - OPSEC personal y anonimato](../260-opsec-personal-y-anonimato/README.md)

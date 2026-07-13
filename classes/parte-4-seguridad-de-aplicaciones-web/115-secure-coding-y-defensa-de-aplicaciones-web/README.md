@@ -106,6 +106,11 @@ Nivel 1 como mínimo para cualquier app; niveles 2–3 para aplicaciones sensibl
 - OWASP Proactive Controls: <https://owasp.org/www-project-proactive-controls/>
 - OWASP Top 10 2021: <https://owasp.org/Top10/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-115-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-115-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 116 - Arquitectura x86/x64 y lenguaje ensamblador](../../parte-5-explotacion-de-sistemas-y-binarios/116-arquitectura-x86-x64-y-lenguaje-ensamblador/README.md)

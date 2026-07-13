@@ -114,6 +114,11 @@ A través de superficies conectadas (telemática celular, WiFi/Bluetooth del inf
 - ICSim: <https://github.com/zombieCraig/ICSim>
 - SocketCAN (kernel): <https://www.kernel.org/doc/html/latest/networking/can.html>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-274-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-274-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 275 - Seguridad de dispositivos medicos](../275-seguridad-de-dispositivos-medicos/README.md)

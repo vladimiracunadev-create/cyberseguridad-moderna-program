@@ -158,6 +158,11 @@ consulta el *Intel SDM* para el resto.
 - (X86 assembly) OSDev Wiki — <https://wiki.osdev.org/X86-64>
 - Compiler Explorer (godbolt) para ver C↔ASM — <https://godbolt.org/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-116-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-116-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 117 - El stack, los registros y las convenciones de llamada](../117-el-stack-los-registros-y-las-convenciones-de-llamada/README.md)

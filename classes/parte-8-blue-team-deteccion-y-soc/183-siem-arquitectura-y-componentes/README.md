@@ -104,6 +104,11 @@ Ingesta con propósito de detección, no por acumular. Cada fuente debe respalda
 - Splunk Docs, "How indexing works" — <https://docs.splunk.com/>
 - Wazuh Documentation — <https://documentation.wazuh.com/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-183-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-183-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 184 - Splunk para deteccion](../184-splunk-para-deteccion/README.md)

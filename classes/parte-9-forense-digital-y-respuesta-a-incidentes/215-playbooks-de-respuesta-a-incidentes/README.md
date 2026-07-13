@@ -111,6 +111,11 @@ Revísalos tras cada incidente y en las lecciones aprendidas; un playbook es un 
 - MITRE ATT&CK: <https://attack.mitre.org/>
 - TheHive & Cortex: <https://thehive-project.org/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-215-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-215-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 216 - Contencion, erradicacion y recuperacion](../216-contencion-erradicacion-y-recuperacion/README.md)

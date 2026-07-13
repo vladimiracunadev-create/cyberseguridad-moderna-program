@@ -134,6 +134,11 @@ Sí para probar navegación de carpetas; recuerda que persisten aunque la carpet
 - SANS — Windows Forensic Analysis poster (FOR500): <https://www.sans.org/posters/>
 - Microsoft — Windows event IDs: <https://learn.microsoft.com/windows/security/threat-protection/auditing/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-205-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-205-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 206 - Analisis de artefactos de Linux](../206-analisis-de-artefactos-de-linux/README.md)

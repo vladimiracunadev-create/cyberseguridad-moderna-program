@@ -108,6 +108,11 @@ Sí; NIST publica Quick Start Guides específicas para pequeñas empresas y gest
 - NIST SP 800-37 Rev.2 — Risk Management Framework. <https://csrc.nist.gov/pubs/sp/800/37/r2/final>
 - (ISC)² CISSP Official Study Guide, dominio 1.
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-279-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-279-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 280 - Controles CIS](../280-controles-cis/README.md)

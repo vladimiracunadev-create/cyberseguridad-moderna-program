@@ -107,6 +107,11 @@ No. Los blocklists se evaden fácil. Usa allowlists de destinos y bloquea rangos
 - OWASP SSRF Prevention Cheat Sheet.
 - PortSwigger SSRF: <https://portswigger.net/web-security/ssrf>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-099-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-099-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 100 - XML External Entities (XXE)](../100-xml-external-entities-xxe/README.md)

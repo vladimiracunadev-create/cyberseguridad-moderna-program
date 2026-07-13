@@ -141,6 +141,11 @@ puedes corromper datos que la función hoja usa.
 - Microsoft x64 calling convention — <https://learn.microsoft.com/cpp/build/x64-calling-convention>
 - Eli Bendersky, "Stack frame layout on x86-64" — <https://eli.thegreenplace.net/2011/09/06/stack-frame-layout-on-x86-64>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-117-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-117-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 118 - Debugging con GDB y pwndbg](../118-debugging-con-gdb-y-pwndbg/README.md)

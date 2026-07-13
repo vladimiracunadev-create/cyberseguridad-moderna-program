@@ -104,6 +104,11 @@ Ambos, pero el valor duradero está en las detecciones y lecciones que dejas: ca
 - EVTX-ATTACK-SAMPLES — <https://github.com/sbousseaden/EVTX-ATTACK-SAMPLES>
 - MITRE ATT&CK — <https://attack.mitre.org/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-198-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-198-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 199 - Ingenieria de deteccion como disciplina](../199-ingenieria-de-deteccion-como-disciplina/README.md)

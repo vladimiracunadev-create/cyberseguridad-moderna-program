@@ -149,6 +149,11 @@ No: codifica sus decisiones para aplicarlas de forma consistente y automática. 
 - Rego Playground — <https://play.openpolicyagent.org/>
 - CNCF Policy as Code — <https://www.cncf.io/blog/2021/09/policy-as-code/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-244-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-244-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 245 - Gestion de vulnerabilidades a escala](../245-gestion-de-vulnerabilidades-a-escala/README.md)

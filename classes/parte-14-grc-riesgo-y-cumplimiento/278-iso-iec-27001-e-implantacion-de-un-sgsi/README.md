@@ -109,6 +109,11 @@ La certificación dura 3 años con auditorías de seguimiento anuales, más una 
 - ISO/IEC 27701 — Extensión de privacidad (PIMS). <https://www.iso.org/standard/71670.html>
 - (ISC)² CISSP Official Study Guide, dominio 1.
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-278-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-278-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 279 - NIST Cybersecurity Framework](../279-nist-cybersecurity-framework/README.md)

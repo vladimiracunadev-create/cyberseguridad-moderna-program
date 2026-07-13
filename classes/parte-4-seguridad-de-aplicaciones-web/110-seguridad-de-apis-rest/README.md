@@ -107,6 +107,11 @@ Usa allowlists de campos aceptados (DTOs), nunca vincules el body directamente a
 - crAPI: <https://github.com/OWASP/crAPI>
 - OWASP WSTG — API Testing.
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-110-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-110-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 111 - Seguridad de APIs GraphQL](../111-seguridad-de-apis-graphql/README.md)

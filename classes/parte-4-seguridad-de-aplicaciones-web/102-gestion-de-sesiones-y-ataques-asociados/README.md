@@ -102,6 +102,11 @@ Para invalidar cualquier ID que el atacante pudiera haber fijado antes de la aut
 - OWASP WSTG — Session Management Testing.
 - PortSwigger: <https://portswigger.net/web-security/authentication>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-102-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-102-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 103 - Ataques y seguridad de JWT](../103-ataques-y-seguridad-de-jwt/README.md)

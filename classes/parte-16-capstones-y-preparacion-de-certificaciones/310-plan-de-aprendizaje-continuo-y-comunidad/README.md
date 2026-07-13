@@ -106,6 +106,11 @@ Repite los capstones subiendo la dificultad, persigue tu roadmap (Clase 301) y e
 - HackTheBox: <https://www.hackthebox.com/> · TryHackMe: <https://tryhackme.com/>
 - Krebs on Security: <https://krebsonsecurity.com/> · The Hacker News: <https://thehackernews.com/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-310-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-310-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 Has completado la última clase del programa. [⬆️ Volver al índice completo del Programa de Ciberseguridad Moderna](../../README.md)

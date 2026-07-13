@@ -115,6 +115,11 @@ Ambos válidos. El nativo (Secrets Manager, Key Vault, Secret Manager) se integr
 - gitleaks. <https://github.com/gitleaks/gitleaks>
 - Google Cloud Secret Manager. <https://cloud.google.com/secret-manager/docs>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-233-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-233-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 234 - Logging y deteccion en la nube](../234-logging-y-deteccion-en-la-nube/README.md)

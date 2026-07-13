@@ -118,6 +118,11 @@ El pattern of life y las fotos con metadatos/entorno visible (badges, matrícula
 - WhatsMyName. <https://github.com/WebBreacher/WhatsMyName>
 - OSINT Framework — Social Networks. <https://osintframework.com/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-252-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-252-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 253 - Geolocalizacion y analisis de imagenes](../253-geolocalizacion-y-analisis-de-imagenes/README.md)

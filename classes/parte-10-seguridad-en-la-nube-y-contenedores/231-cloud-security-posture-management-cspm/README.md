@@ -116,6 +116,11 @@ Prioriza: no todos los hallazgos importan igual. Cruza severidad con exposición
 - AWS Security Hub (CSPM gestionado). <https://docs.aws.amazon.com/securityhub/>
 - Microsoft Defender for Cloud (CSPM). <https://learn.microsoft.com/azure/defender-for-cloud/concept-cloud-security-posture-management>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-231-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-231-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 232 - Seguridad serverless](../232-seguridad-serverless/README.md)

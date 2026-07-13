@@ -129,6 +129,11 @@ Buscando incoherencias entre fuentes que registran el mismo hecho: FS, `$UsnJrnl
 - SANS — Windows Forensic Analysis (FOR508): <https://www.sans.org/>
 - Carrier, B. — *File System Forensic Analysis*, Addison-Wesley 2005.
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-209-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-209-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 210 - Forense de navegadores y correo](../210-forense-de-navegadores-y-correo/README.md)

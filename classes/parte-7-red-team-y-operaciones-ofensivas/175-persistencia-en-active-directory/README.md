@@ -106,6 +106,11 @@ Siempre al cierre, con inventario completo de lo instalado. Dejar persistencia e
 - Microsoft — *AdminSDHolder / SDProp*. <https://learn.microsoft.com/>
 - SpecterOps — research sobre RBCD y delegación.
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-175-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-175-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 176 - OPSEC ofensiva](../176-opsec-ofensiva/README.md)

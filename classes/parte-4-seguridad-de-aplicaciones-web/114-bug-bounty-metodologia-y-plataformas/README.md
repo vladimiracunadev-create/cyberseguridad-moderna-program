@@ -102,6 +102,11 @@ La automatización ayuda en recon y detección superficial, pero los bugs bien p
 - HackerOne: <https://www.hackerone.com/> · Bugcrowd: <https://www.bugcrowd.com/>
 - FIRST CVSS: <https://www.first.org/cvss/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-114-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-114-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 115 - Secure coding y defensa de aplicaciones web](../115-secure-coding-y-defensa-de-aplicaciones-web/README.md)

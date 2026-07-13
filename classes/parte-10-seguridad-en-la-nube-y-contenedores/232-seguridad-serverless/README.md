@@ -115,6 +115,11 @@ Es un abuso que no busca tumbar el servicio sino disparar el número de invocaci
 - Google Cloud Functions — Securing. <https://cloud.google.com/functions/docs/securing>
 - OWASP — Serverless Security Cheat Sheet. <https://cheatsheetseries.owasp.org/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-232-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-232-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 233 - Gestion de secretos en la nube](../233-gestion-de-secretos-en-la-nube/README.md)
