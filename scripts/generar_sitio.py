@@ -21,7 +21,9 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, "site")
 
 # Markdown de origen que se publican (rutas relativas al repo).
-INCLUIR_TOP = ["README.md", "ROADMAP.md", "CONTRIBUTING.md", "SECURITY.md"]
+INCLUIR_TOP = ["README.md", "ROADMAP.md", "CONTRIBUTING.md", "SECURITY.md",
+               "rutas/README.md", "autoevaluaciones/README.md", "labs/README.md",
+               "ctf/README.md"]
 
 LINK_MD = re.compile(r"\]\(([^)]+?)\.md((?:#[^)]*)?)\)")
 
@@ -62,7 +64,7 @@ PLANTILLA = """<!doctype html>
 </style>
 </head>
 <body>
-<div class="nav"><a href="{home}">🛡️ Inicio</a> · <a href="{indice}">📚 Índice de clases</a></div>
+<div class="nav"><a href="{home}">🛡️ Inicio</a> · <a href="{indice}">📚 Clases</a> · <a href="{rutas}">🧭 Rutas</a> · <a href="{quiz}">📝 Autoevaluación</a> · <a href="{progreso}">✅ Progreso</a></div>
 {body}
 </body>
 </html>
@@ -99,6 +101,9 @@ def escribir(rel_md: str, md_text: str) -> None:
         title=title,
         home=f"{subir}index.html" if prof else "index.html",
         indice=f"{subir}classes/README.html" if prof else "classes/README.html",
+        rutas=f"{subir}rutas/README.html" if prof else "rutas/README.html",
+        quiz=f"{subir}autoevaluaciones/quiz.html" if prof else "autoevaluaciones/quiz.html",
+        progreso=f"{subir}autoevaluaciones/progreso.html" if prof else "autoevaluaciones/progreso.html",
         body=render(reescribir_enlaces(md_text)),
     )
     with open(destino, "w", encoding="utf-8") as f:
@@ -130,6 +135,16 @@ def main() -> int:
 
     # index.html del sitio = README raíz renderizado.
     shutil.copyfile(os.path.join(OUT, "README.html"), os.path.join(OUT, "index.html"))
+
+    # Páginas interactivas del portal (quiz + progreso), ya autocontenidas.
+    destino_auto = os.path.join(OUT, "autoevaluaciones")
+    os.makedirs(destino_auto, exist_ok=True)
+    for nombre in ("quiz.html", "progreso.html"):
+        origen = os.path.join(ROOT, "autoevaluaciones", nombre)
+        if os.path.isfile(origen):
+            shutil.copyfile(origen, os.path.join(destino_auto, nombre))
+            generados += 1
+
     # .nojekyll para que Pages no ignore archivos con nombres especiales.
     open(os.path.join(OUT, ".nojekyll"), "w").close()
 

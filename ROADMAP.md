@@ -29,12 +29,14 @@ python-pptx). Notebooks **descartados** por decisión.
 - [x] Sección "📥 Material descargable" enlazada en cada README de clase.
 - [x] ~~Notebooks~~ — descartado.
 
-## Fase 4 — Portal y evaluación (futuro)
+## Fase 4 — Portal y evaluación ✅ (completa)
 
-- [ ] Sitio web navegable del currículo.
-- [ ] Autoevaluaciones y seguimiento de progreso.
-- [ ] Rutas guiadas por rol (pentester, SOC, AppSec, DFIR, cloud, GRC).
+- [x] Sitio web navegable del currículo (GitHub Pages, con nav a rutas/quiz/progreso).
+- [x] Autoevaluaciones interactivas por parte ([`autoevaluaciones/`](autoevaluaciones/README.md), 85 preguntas).
+- [x] Seguimiento de progreso de las 310 clases (localStorage).
+- [x] Rutas guiadas por rol ([`rutas/`](rutas/README.md)): pentester, red team, SOC, DFIR, AppSec, cloud, GRC.
 
 ---
 
-¿Ideas o prioridades? Abre un *issue* o revisa [CONTRIBUTING.md](CONTRIBUTING.md).
+**Las 4 fases del roadmap están completas.** ¿Ideas o mejoras? Abre un *issue* o revisa
+[CONTRIBUTING.md](CONTRIBUTING.md).
