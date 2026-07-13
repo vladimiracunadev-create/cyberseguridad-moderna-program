@@ -6,13 +6,13 @@ Mapeo entre las certificaciones de ciberseguridad y las partes/clases del progra
 
 | Certificación | Código | Nivel | Cobertura estimada | Detalle |
 |---|---|---|---|---|
-| CompTIA Security+ | SY0-701 | Fundacional | `█████████░` 90% | [ver mapeo](comptia-security-plus-sy0-701.md) |
-| CompTIA PenTest+ | PT0-002 | Intermedio (ofensivo) | `█████████░` 90% | [ver mapeo](comptia-pentest-plus-pt0-002.md) |
+| CompTIA Security+ | SY0-701 | Fundacional | `█████████░` 91% | [ver mapeo](comptia-security-plus-sy0-701.md) |
+| CompTIA PenTest+ | PT0-002 | Intermedio (ofensivo) | `█████████░` 91% | [ver mapeo](comptia-pentest-plus-pt0-002.md) |
 | CompTIA CySA+ | CS0-003 | Intermedio (defensivo) | `█████████░` 92% | [ver mapeo](comptia-cysa-plus-cs0-003.md) |
 | OSCP — Offensive Security Certified Professional | PEN-200 | Avanzado (ofensivo, práctico) | `█████████░` 86% | [ver mapeo](oscp-pen-200.md) |
-| CISSP — Certified Information Systems Security Professional | CISSP | Avanzado (gerencial, amplio) | `█████████░` 88% | [ver mapeo](cissp.md) |
-| BTL1 — Blue Team Level 1 | BTL1 | Fundacional (defensivo, práctico) | `█████████░` 89% | [ver mapeo](btl1.md) |
-| SANS GCIH / GCFA (Incident Handler / Forensic Analyst) | GCIH · GCFA | Avanzado (DFIR) | `████████░░` 82% | [ver mapeo](sans-gcih-gcfa.md) |
+| CISSP — Certified Information Systems Security Professional | CISSP | Avanzado (gerencial, amplio) | `█████████░` 90% | [ver mapeo](cissp.md) |
+| BTL1 — Blue Team Level 1 | BTL1 | Fundacional (defensivo, práctico) | `█████████░` 91% | [ver mapeo](btl1.md) |
+| SANS GCIH / GCFA (Incident Handler / Forensic Analyst) | GCIH · GCFA | Avanzado (DFIR) | `█████████░` 87% | [ver mapeo](sans-gcih-gcfa.md) |
 
 ## ¿Cómo se calcula la cobertura?
 

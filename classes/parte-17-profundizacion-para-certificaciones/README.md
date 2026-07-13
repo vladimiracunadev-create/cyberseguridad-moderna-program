@@ -2,7 +2,7 @@
 
 > [⬅️ Volver al programa](../../README.md) · [📚 Índice completo](../README.md)
 
-**14 clases** · rango 311–324 · Gestión de datos, IAM empresarial, arquitectura, seguridad física, gestión de vulnerabilidades, gobierno, threat intelligence, reporte y operaciones
+**20 clases** · rango 311–330 · Gestión de datos, IAM empresarial, arquitectura, seguridad física, gestión de vulnerabilidades, gobierno, threat intelligence, reporte, operaciones, forense avanzado, riesgo cuantitativo, Zero Trust y análisis de código
 
 **Fuentes de referencia de esta parte:**
 
@@ -61,6 +61,11 @@ Haber cursado (o dominar) la **Parte 0** (fundamentos) y tener contexto de la **
 | Threat intelligence operacional | 322 | BTL1 *Threat Intelligence*, CySA+ |
 | Pruebas de seguridad del software | 323 | CISSP *Assessment & Software Dev Security* |
 | Operaciones y hardening | 324 | Security+ / CISSP *Security Operations* |
+| Forense de memoria y malware para IR | 325–326 | SANS *GCFA/GCIH*, BTL1 |
+| Ingeniería de detección avanzada | 327 | BTL1 *SIEM*, CySA+ |
+| Riesgo cuantitativo y continuidad | 328 | CISSP *Risk Management* |
+| Arquitectura empresarial y Zero Trust | 329 | Security+ / CISSP *Architecture* |
+| Análisis de código y automatización | 330 | PenTest+ *Tools*, CISSP *Software Dev* |
 
 ## 🔗 Referencias de la parte
 

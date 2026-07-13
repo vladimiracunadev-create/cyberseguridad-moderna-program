@@ -1,6 +1,6 @@
 # Indice del curriculo
 
-**324 clases - 18 partes** - numeracion secuencial 001-324. Cada parte tiene su propio README con la narrativa completa (de que trata, que problemas resuelve, resultados de aprendizaje, estructura tematica y prerrequisitos).
+**330 clases - 18 partes** - numeracion secuencial 001-330. Cada parte tiene su propio README con la narrativa completa (de que trata, que problemas resuelve, resultados de aprendizaje, estructura tematica y prerrequisitos).
 
 | Parte | Tema | Clases | README de la parte |
 |---|---|---:|---|
@@ -21,7 +21,7 @@
 | 14 | GRC, riesgo y cumplimiento | 15 (276-290) | [leer parte 14](parte-14-grc-riesgo-y-cumplimiento/README.md) |
 | 15 | Seguridad de IA y machine learning | 10 (291-300) | [leer parte 15](parte-15-seguridad-de-ia-y-machine-learning/README.md) |
 | 16 | Capstones y preparacion de certificaciones | 10 (301-310) | [leer parte 16](parte-16-capstones-y-preparacion-de-certificaciones/README.md) |
-| 17 | Profundizacion para certificaciones (gestion, IAM, arquitectura) | 14 (311-324) | [leer parte 17](parte-17-profundizacion-para-certificaciones/README.md) |
+| 17 | Profundizacion para certificaciones (gestion, IAM, arquitectura) | 20 (311-330) | [leer parte 17](parte-17-profundizacion-para-certificaciones/README.md) |
 
 ---
 
@@ -404,3 +404,9 @@ A continuacion, el indice plano de las clases. Si buscas la narrativa de una par
 - [322 - Threat intelligence operacional avanzada](parte-17-profundizacion-para-certificaciones/322-threat-intelligence-operacional-avanzada/README.md)
 - [323 - Pruebas de seguridad del software y evaluacion](parte-17-profundizacion-para-certificaciones/323-pruebas-de-seguridad-del-software-y-evaluacion/README.md)
 - [324 - Operaciones de seguridad: hardening y gestion de configuracion](parte-17-profundizacion-para-certificaciones/324-operaciones-de-seguridad-hardening-y-gestion-de-configuracion/README.md)
+- [325 - Forense de memoria avanzado](parte-17-profundizacion-para-certificaciones/325-forense-de-memoria-avanzado/README.md)
+- [326 - Analisis de malware para respuesta a incidentes](parte-17-profundizacion-para-certificaciones/326-analisis-de-malware-para-respuesta-a-incidentes/README.md)
+- [327 - Ingenieria de deteccion avanzada y validacion](parte-17-profundizacion-para-certificaciones/327-ingenieria-de-deteccion-avanzada-y-validacion/README.md)
+- [328 - Gestion de riesgos cuantitativa y continuidad avanzada](parte-17-profundizacion-para-certificaciones/328-gestion-de-riesgos-cuantitativa-y-continuidad-avanzada/README.md)
+- [329 - Arquitectura de seguridad empresarial y Zero Trust](parte-17-profundizacion-para-certificaciones/329-arquitectura-de-seguridad-empresarial-y-zero-trust/README.md)
+- [330 - Analisis de codigo y automatizacion de seguridad](parte-17-profundizacion-para-certificaciones/330-analisis-de-codigo-y-automatizacion-de-seguridad/README.md)

@@ -1,11 +1,11 @@
 # 🗺️ Roadmap
 
 El programa se construye por fases. El **currículo escrito** (README completo por cada una
-de las 324 clases) es la base y el primer entregable.
+de las 330 clases) es la base y el primer entregable.
 
 ## Fase 1 — Currículo escrito completo ✅ (en curso)
 
-- [x] Diseño del currículo: 18 partes, 324 clases, numeración 001–324.
+- [x] Diseño del currículo: 18 partes, 330 clases, numeración 001–330.
 - [x] Estructura de carpetas + índice maestro (`classes/README.md`).
 - [x] README de cada parte (narrativa, prerrequisitos, fuentes).
 - [x] README rico por clase (objetivo, temas, definiciones, laboratorio, ejercicios, reto, errores comunes, FAQ, referencias).
@@ -24,8 +24,8 @@ de las 324 clases) es la base y el primer entregable.
 Generado con `scripts/generar_material.py <parte>` (PDF vía navegador headless, PPTX vía
 python-pptx). Notebooks **descartados** por decisión.
 
-- [x] Guías **PDF** imprimibles por clase — **las 324 clases** (partes 0–17).
-- [x] Presentaciones **PPTX** por clase — **las 324 clases** (partes 0–17).
+- [x] Guías **PDF** imprimibles por clase — **las 330 clases** (partes 0–17).
+- [x] Presentaciones **PPTX** por clase — **las 330 clases** (partes 0–17).
 - [x] Sección "📥 Material descargable" enlazada en cada README de clase.
 - [x] ~~Notebooks~~ — descartado.
 
@@ -33,7 +33,7 @@ python-pptx). Notebooks **descartados** por decisión.
 
 - [x] Sitio web navegable del currículo (GitHub Pages, con nav a rutas/quiz/progreso).
 - [x] Autoevaluaciones interactivas por parte ([`autoevaluaciones/`](autoevaluaciones/README.md), 92 preguntas).
-- [x] Seguimiento de progreso de las 324 clases (localStorage).
+- [x] Seguimiento de progreso de las 330 clases (localStorage).
 - [x] Rutas guiadas por rol ([`rutas/`](rutas/README.md)): pentester, red team, SOC, DFIR, AppSec, cloud, GRC.
 
 ---

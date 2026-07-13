@@ -6,9 +6,9 @@
 
 Certificación base de la industria: valida conocimientos fundamentales de seguridad, amenazas, arquitectura, operaciones y gobierno. El programa la cubre de forma amplia.
 
-## 📊 Cobertura estimada del programa: **90%**
+## 📊 Cobertura estimada del programa: **91%**
 
-`█████████░` 90.0% — suma ponderada por dominio (pesos oficiales del examen).
+`█████████░` 90.9% — suma ponderada por dominio (pesos oficiales del examen).
 
 ## Mapeo por dominio
 
@@ -16,10 +16,10 @@ Certificación base de la industria: valida conocimientos fundamentales de segur
 |---|---:|---|---:|---|
 | General Security Concepts | 12% | Parte 0, 2 | 92% | Tríada CIA, control de acceso, cripto básica, zero trust. |
 | Threats, Vulnerabilities & Mitigations | 22% | Parte 0, 3, 4, 5, 6, 12 | 90% | Actores, malware, ingeniería social, vulnerabilidades y mitigaciones. |
-| Security Architecture | 18% | Parte 1, 2, 10, 16, 17 | 88% | Redes, cripto/PKI, nube y modelos/seguridad física (Parte 17). |
+| Security Architecture | 18% | Parte 1, 2, 10, 16, 17 | 93% | Redes, cripto, nube, modelos y arquitectura empresarial/Zero Trust (clase 329). |
 | Security Operations | 28% | Parte 1, 8, 9, 17 | 92% | Monitoreo, detección, respuesta, hardening y gestión de configuración (clase 324). |
 | Security Program Management & Oversight | 20% | Parte 14, 17 | 88% | Riesgo, cumplimiento, gobierno y comunicación/reporte (clases 320-321). |
-| **Total ponderado** | **100%** | | **90%** | |
+| **Total ponderado** | **100%** | | **91%** | |
 
 ## 🎯 Brecha y cómo cerrarla
 

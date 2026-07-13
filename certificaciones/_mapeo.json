@@ -31,9 +31,9 @@
         {
           "nombre": "Security Architecture",
           "peso": 18,
-          "cobertura": 88,
+          "cobertura": 93,
           "partes": "1, 2, 10, 16, 17",
-          "notas": "Redes, cripto/PKI, nube y modelos/seguridad física (Parte 17)."
+          "notas": "Redes, cripto, nube, modelos y arquitectura empresarial/Zero Trust (clase 329)."
         },
         {
           "nombre": "Security Operations",
@@ -94,9 +94,9 @@
         {
           "nombre": "Tools and Code Analysis",
           "peso": 16,
-          "cobertura": 86,
+          "cobertura": 92,
           "partes": "0, 5, 17",
-          "notas": "Scripting, análisis de binarios y pruebas de seguridad del software (clase 323)."
+          "notas": "Scripting, análisis de binarios y de código, automatización (clases 323, 330)."
         }
       ],
       "brecha": "Practica con los laboratorios (appsec-web, red-team-ad) para consolidar la parte de herramientas.",
@@ -129,9 +129,9 @@
         {
           "nombre": "Incident Response and Management",
           "peso": 20,
-          "cobertura": 90,
-          "partes": "9",
-          "notas": "Ciclo NIST/SANS, contención, erradicación, RCA."
+          "cobertura": 92,
+          "partes": "9, 17",
+          "notas": "Ciclo NIST/SANS, forense de memoria y malware para IR (clases 325-326)."
         },
         {
           "nombre": "Reporting and Communication",
@@ -220,9 +220,9 @@
         {
           "nombre": "Security and Risk Management",
           "peso": 16,
-          "cobertura": 86,
+          "cobertura": 92,
           "partes": "14, 17",
-          "notas": "Gobernanza, riesgo, legal/regulatorio y gestión del programa (clase 320)."
+          "notas": "Gobierno, riesgo cuantitativo (FAIR/Monte Carlo) y continuidad (clases 320, 328)."
         },
         {
           "nombre": "Asset Security",
@@ -234,9 +234,9 @@
         {
           "nombre": "Security Architecture and Engineering",
           "peso": 13,
-          "cobertura": 88,
+          "cobertura": 92,
           "partes": "2, 5, 10, 17",
-          "notas": "Cripto, modelos de seguridad y seguridad física (clases 316-317)."
+          "notas": "Cripto, modelos, seguridad física y arquitectura Zero Trust (clases 316-317, 329)."
         },
         {
           "nombre": "Communication and Network Security",
@@ -269,9 +269,9 @@
         {
           "nombre": "Software Development Security",
           "peso": 10,
-          "cobertura": 88,
+          "cobertura": 90,
           "partes": "11, 4, 17",
-          "notas": "SDLC seguro, secure code review y pruebas de seguridad del software (clase 323)."
+          "notas": "SDLC seguro, code review y SAST/DAST/SCA (clases 323, 330)."
         }
       ],
       "brecha": "Los dominios de gestión (1, 2, 5) requieren el material propio de CISSP (marcos, legislación, BCP/DRP a fondo). CISSP además exige 5 años de experiencia.",
@@ -311,16 +311,16 @@
         {
           "nombre": "Digital Forensics",
           "peso": 20,
-          "cobertura": 85,
-          "partes": "9",
-          "notas": "Artefactos, memoria, timelines."
+          "cobertura": 90,
+          "partes": "9, 17",
+          "notas": "Artefactos, memoria avanzada y malware para IR (clases 325-326)."
         },
         {
           "nombre": "SIEM",
           "peso": 17,
-          "cobertura": 86,
-          "partes": "8",
-          "notas": "Splunk/Elastic, reglas, correlación (lab blue-team-soc)."
+          "cobertura": 90,
+          "partes": "8, 17",
+          "notas": "SIEM, detección como código y validación con Atomic Red Team (clase 327)."
         },
         {
           "nombre": "Incident Response",
@@ -353,30 +353,30 @@
         {
           "nombre": "Detección de intrusiones y ataques",
           "peso": 20,
-          "cobertura": 86,
+          "cobertura": 88,
           "partes": "6, 7, 8, 17",
-          "notas": "TTPs, detección y threat intelligence operacional (clase 322)."
+          "notas": "TTPs, threat intelligence e ingeniería de detección avanzada (clases 322, 327)."
         },
         {
           "nombre": "Forense de host (Windows/Linux)",
           "peso": 22,
-          "cobertura": 82,
-          "partes": "9",
-          "notas": "Artefactos, sistemas de archivos, timelines."
+          "cobertura": 86,
+          "partes": "9, 17",
+          "notas": "Artefactos, sistemas de archivos y timelines (Parte 9 + 325-326)."
         },
         {
           "nombre": "Forense de memoria",
           "peso": 18,
-          "cobertura": 80,
-          "partes": "9",
-          "notas": "Volatility (clase 207)."
+          "cobertura": 90,
+          "partes": "9, 17",
+          "notas": "Volatility 3 avanzado, malfind, detección de inyección/rootkits (clase 325)."
         },
         {
           "nombre": "Análisis de malware y anti-forense",
           "peso": 20,
-          "cobertura": 75,
-          "partes": "6, 9",
-          "notas": "Comportamiento, C2, contramedidas; SANS profundiza más."
+          "cobertura": 85,
+          "partes": "6, 9, 17",
+          "notas": "Triaje, IOCs y análisis para IR (clase 326)."
         }
       ],
       "brecha": "SANS es muy profundo y práctico: usa el material como base y complementa con retos de memoria/forense reales.",

@@ -8,7 +8,7 @@ Analista de ciberseguridad: operaciones de seguridad, gestión de vulnerabilidad
 
 ## 📊 Cobertura estimada del programa: **92%**
 
-`█████████░` 91.6% — suma ponderada por dominio (pesos oficiales del examen).
+`█████████░` 92.0% — suma ponderada por dominio (pesos oficiales del examen).
 
 ## Mapeo por dominio
 
@@ -16,7 +16,7 @@ Analista de ciberseguridad: operaciones de seguridad, gestión de vulnerabilidad
 |---|---:|---|---:|---|
 | Security Operations | 33% | Parte 1, 6, 8, 17 | 92% | SIEM, detección, threat intelligence operacional y hardening (clases 322, 324). |
 | Vulnerability Management | 30% | Parte 3, 11, 17 | 92% | Ciclo de VM con CVSS/EPSS/KEV y SLAs (clase 318). |
-| Incident Response and Management | 20% | Parte 9 | 90% | Ciclo NIST/SANS, contención, erradicación, RCA. |
+| Incident Response and Management | 20% | Parte 9, 17 | 92% | Ciclo NIST/SANS, forense de memoria y malware para IR (clases 325-326). |
 | Reporting and Communication | 17% | Parte 3, 8, 17 | 92% | Comunicación y reporte para analistas y stakeholders (clase 321). |
 | **Total ponderado** | **100%** | | **92%** | |
 
