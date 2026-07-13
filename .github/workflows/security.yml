@@ -28,7 +28,9 @@ jobs:
           gitleaks version
 
       - name: Detectar secretos en el árbol de archivos
-        run: gitleaks detect --no-git --redact -v --source .
+        # Los README de clase incluyen tokens de ejemplo (didácticos); se
+        # excluyen vía .gitleaks.toml. El resto del repo sí se escanea.
+        run: gitleaks detect --no-git --redact -v --source . --config .gitleaks.toml
 
   sast:
     name: Análisis estático (bandit)

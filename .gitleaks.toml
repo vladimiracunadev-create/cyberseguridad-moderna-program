@@ -1,0 +1,18 @@
+# Configuración de gitleaks para el Programa de Ciberseguridad Moderna.
+#
+# Se usan las reglas por defecto de gitleaks sobre TODO el repositorio
+# (scripts, workflows, ficheros de configuración), pero se excluye el texto
+# didáctico de las clases: varios README usan tokens/claves de EJEMPLO
+# (p. ej. un AWS access key falso en la clase de detección de secretos) con
+# fines pedagógicos. Nunca son secretos reales.
+
+title = "gitleaks — Ciberseguridad Moderna"
+
+[extend]
+useDefault = true
+
+[allowlist]
+description = "README de clase con secretos de ejemplo (material didáctico, no reales)"
+paths = [
+  '''^classes/.*\.md$''',
+]
