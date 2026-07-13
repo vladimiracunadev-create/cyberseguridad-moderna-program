@@ -135,6 +135,11 @@ Configura una carpeta de proyecto compartida por un grupo `equipo` con estas pro
 - Filesystem Hierarchy Standard — <https://refspecs.linuxfoundation.org/fhs.shtml>
 - GTFOBins — <https://gtfobins.github.io/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-005-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-005-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 006 - Linea de comandos Linux avanzada: grep, sed, awk, pipes y procesos](../006-linea-de-comandos-linux-avanzada-grep-sed-awk-pipes-y-procesos/README.md)

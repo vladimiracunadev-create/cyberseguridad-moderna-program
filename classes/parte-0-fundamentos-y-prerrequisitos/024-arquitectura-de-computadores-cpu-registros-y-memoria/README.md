@@ -126,6 +126,11 @@ Toma un programa C con una función que reciba argumentos y realice un cálculo.
 - System V AMD64 ABI — <https://gitlab.com/x86-psABIs/x86-64-ABI>
 - GEF (GDB Enhanced Features) — <https://hugsy.github.io/gef/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-024-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-024-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 025 - Etica, legalidad, alcance y divulgacion responsable](../025-etica-legalidad-alcance-y-divulgacion-responsable/README.md)

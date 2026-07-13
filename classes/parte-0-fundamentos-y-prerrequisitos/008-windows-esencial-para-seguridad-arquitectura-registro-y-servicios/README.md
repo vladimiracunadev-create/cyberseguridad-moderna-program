@@ -122,6 +122,11 @@ Realiza una mini auditoría de *hardening* de tu VM Windows: enumera cuentas y p
 - Windows Registry reference — <https://learn.microsoft.com/windows/win32/sysinfo/registry>
 - MITRE ATT&CK, técnica T1547 (Boot or Logon Autostart) — <https://attack.mitre.org/techniques/T1547/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-008-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-008-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 009 - PowerShell para seguridad ofensiva y defensiva](../009-powershell-para-seguridad-ofensiva-y-defensiva/README.md)

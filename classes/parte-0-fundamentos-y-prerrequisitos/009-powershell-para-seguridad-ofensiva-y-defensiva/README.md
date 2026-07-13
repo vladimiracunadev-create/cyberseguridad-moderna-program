@@ -123,6 +123,11 @@ Construye `triage.ps1`, un script de recolección para respuesta a incidentes qu
 - AMSI overview — <https://learn.microsoft.com/windows/win32/amsi/antimalware-scan-interface-portal>
 - LOLBAS Project — <https://lolbas-project.github.io/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-009-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-009-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 010 - Redes TCP/IP: modelo OSI, encapsulacion y capas](../010-redes-tcp-ip-modelo-osi-encapsulacion-y-capas/README.md)

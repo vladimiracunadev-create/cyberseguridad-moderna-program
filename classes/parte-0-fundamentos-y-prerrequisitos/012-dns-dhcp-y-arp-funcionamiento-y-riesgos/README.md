@@ -124,6 +124,11 @@ Monta en tu laboratorio un ataque de ARP spoofing entre dos VMs y **demuéstralo
 - RFC 826 (ARP) — <https://www.rfc-editor.org/rfc/rfc826>
 - Cloudflare Learning: DNS — <https://www.cloudflare.com/learning/dns/what-is-dns/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-012-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-012-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 013 - HTTP, HTTPS y la arquitectura de la web moderna](../013-http-https-y-la-arquitectura-de-la-web-moderna/README.md)

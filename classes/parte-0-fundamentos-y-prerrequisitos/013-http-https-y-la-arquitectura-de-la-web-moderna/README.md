@@ -119,6 +119,11 @@ Usando un proxy de interceptación, captura el flujo completo de autenticación 
 - OWASP Secure Headers Project — <https://owasp.org/www-project-secure-headers/>
 - PortSwigger Web Security Academy — <https://portswigger.net/web-security>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-013-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-013-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 014 - Direccionamiento IP y subnetting](../014-direccionamiento-ip-y-subnetting/README.md)

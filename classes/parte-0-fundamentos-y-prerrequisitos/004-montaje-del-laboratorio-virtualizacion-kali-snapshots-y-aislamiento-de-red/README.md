@@ -118,6 +118,11 @@ Entrega un laboratorio funcional con al menos dos VMs (Kali + una víctima) en r
 - Rapid7 Metasploitable — <https://docs.rapid7.com/metasploit/metasploitable-2/>
 - OWASP DVWA — <https://github.com/digininja/DVWA>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-004-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-004-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 005 - Linux esencial para seguridad: filesystem, permisos y usuarios](../005-linux-esencial-para-seguridad-filesystem-permisos-y-usuarios/README.md)

@@ -96,6 +96,11 @@ Produce un documento que integre los cuatro marcos sobre un mismo escenario: (1)
 - MITRE ATT&CK y Navigator — <https://attack.mitre.org/>
 - Caltagirone, Pendergast & Betz, *The Diamond Model of Intrusion Analysis* — <https://www.activeresponse.org/the-diamond-model/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-003-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-003-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 004 - Montaje del laboratorio: virtualizacion, Kali, snapshots y aislamiento de red](../004-montaje-del-laboratorio-virtualizacion-kali-snapshots-y-aislamiento-de-red/README.md)

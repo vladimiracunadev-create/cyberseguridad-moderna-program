@@ -132,6 +132,11 @@ Escribe una única línea (one-liner) que, a partir de un log de acceso web, pro
 - GNU Awk User's Guide — <https://www.gnu.org/software/gawk/manual/>
 - `man 7 signal`
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-006-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-006-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 007 - Bash scripting para tareas de seguridad](../007-bash-scripting-para-tareas-de-seguridad/README.md)

@@ -19,11 +19,14 @@ de las 310 clases) es la base y el primer entregable.
 - [x] Lab de **criptografía** ([`labs/cripto`](labs/cripto/README.md)) — 4 retos con solución en Python puro (Parte 2).
 - [x] Colección de **retos tipo CTF** ([`ctf/`](ctf/README.md)) con solución, por categoría.
 
-## Fase 3 — Material complementario (futuro)
+## Fase 3 — Material complementario (en curso)
 
-- [ ] Notebooks / cuadernos de práctica donde aplique (cripto, análisis de datos de seguridad, detección).
-- [ ] Guías PDF imprimibles por clase.
-- [ ] Presentaciones (PPTX) por clase para uso docente.
+Se genera **por parte** con `scripts/generar_material.py <parte>` (PDF vía navegador headless,
+PPTX vía python-pptx). Notebooks **descartados** por decisión.
+
+- [x] Guías **PDF** imprimibles por clase + presentaciones **PPTX** — **Parte 0** (001–025).
+- [ ] Resto de partes (1–16), de forma incremental.
+- [x] ~~Notebooks~~ — descartado.
 
 ## Fase 4 — Portal y evaluación (futuro)
 

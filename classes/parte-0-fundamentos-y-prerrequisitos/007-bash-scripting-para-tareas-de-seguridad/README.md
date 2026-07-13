@@ -143,6 +143,11 @@ Entrega un script `auditor.sh` parametrizable que reciba una subred, descubra ho
 - Google Shell Style Guide — <https://google.github.io/styleguide/shellguide.html>
 - `man 1 bash`
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-007-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-007-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 008 - Windows esencial para seguridad: arquitectura, registro y servicios](../008-windows-esencial-para-seguridad-arquitectura-registro-y-servicios/README.md)

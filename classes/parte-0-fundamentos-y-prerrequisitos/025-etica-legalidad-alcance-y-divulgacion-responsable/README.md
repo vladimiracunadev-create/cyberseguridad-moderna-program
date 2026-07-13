@@ -96,6 +96,11 @@ Elabora un paquete de autorización completo para un compromiso ficticio: (1) un
 - CISA Coordinated Vulnerability Disclosure — <https://www.cisa.gov/coordinated-vulnerability-disclosure-process>
 - EC-Council Code of Ethics — <https://www.eccouncil.org/code-of-ethics/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-025-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-025-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 026 - Wireshark: captura y analisis de paquetes](../../parte-1-redes-y-seguridad-de-redes/026-wireshark-captura-y-analisis-de-paquetes/README.md)

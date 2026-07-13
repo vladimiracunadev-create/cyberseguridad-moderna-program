@@ -125,6 +125,11 @@ Construye `pyscan.py`, un escáner de puertos TCP multihilo que reciba un objeti
 - Python `concurrent.futures` — <https://docs.python.org/3/library/concurrent.futures.html>
 - Beej's Guide to Network Programming — <https://beej.us/guide/bgnet/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-016-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-016-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 017 - Python para seguridad: manipulacion de paquetes con Scapy](../017-python-para-seguridad-manipulacion-de-paquetes-con-scapy/README.md)

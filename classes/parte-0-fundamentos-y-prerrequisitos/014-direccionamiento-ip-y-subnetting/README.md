@@ -113,6 +113,11 @@ Diseña un plan de direccionamiento para una organización ficticia con cuatro s
 - `man 1 ipcalc`, `man 1 sipcalc`
 - Cisco: Subnetting básico — <https://www.cisco.com/c/en/us/support/docs/ip/routing-information-protocol-rip/13788-3.html>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-014-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-014-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 015 - Python para seguridad: fundamentos del lenguaje](../015-python-para-seguridad-fundamentos-del-lenguaje/README.md)

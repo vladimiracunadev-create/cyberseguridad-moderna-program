@@ -132,6 +132,11 @@ Crea un repositorio de práctica, simula la fuga de un secreto (clave ficticia) 
 - GitHub: Removing sensitive data — <https://docs.github.com/authentication/keeping-your-account-and-data-secure/removing-sensitive-data-from-a-repository>
 - OWASP: Secrets Management Cheat Sheet — <https://cheatsheetseries.owasp.org/cheatsheets/Secrets_Management_Cheat_Sheet.html>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-018-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-018-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 019 - Expresiones regulares para analisis de logs y datos](../019-expresiones-regulares-para-analisis-de-logs-y-datos/README.md)

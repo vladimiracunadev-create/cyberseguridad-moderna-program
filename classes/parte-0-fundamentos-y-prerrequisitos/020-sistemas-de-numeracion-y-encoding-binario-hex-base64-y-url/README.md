@@ -123,6 +123,11 @@ Escribe `decoder.py`, una utilidad que reciba una cadena e intente detectar y de
 - CyberChef — <https://gchq.github.io/CyberChef/>
 - Unicode / UTF-8 (The Unicode Standard) — <https://home.unicode.org/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-020-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-020-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 021 - Criptografia: conceptos fundamentales e intuicion](../021-criptografia-conceptos-fundamentales-e-intuicion/README.md)

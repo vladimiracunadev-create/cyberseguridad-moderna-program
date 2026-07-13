@@ -136,6 +136,11 @@ Crea con Docker Compose un laboratorio web vulnerable reproducible (por ejemplo 
 - OWASP Juice Shop — <https://owasp.org/www-project-juice-shop/>
 - CIS Docker Benchmark — <https://www.cisecurity.org/benchmark/docker>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-022-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-022-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 023 - Sistemas operativos: procesos, memoria y syscalls](../023-sistemas-operativos-procesos-memoria-y-syscalls/README.md)

@@ -117,6 +117,11 @@ Realiza y documenta un escaneo comparativo contra tu VM víctima: un SYN scan y 
 - Nmap Reference Guide — <https://nmap.org/book/man.html>
 - W. R. Stevens, *TCP/IP Illustrated, Vol. 1*.
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-011-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-011-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 012 - DNS, DHCP y ARP: funcionamiento y riesgos](../012-dns-dhcp-y-arp-funcionamiento-y-riesgos/README.md)

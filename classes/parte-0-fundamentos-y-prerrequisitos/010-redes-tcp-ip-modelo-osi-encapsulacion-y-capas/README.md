@@ -105,6 +105,11 @@ A partir de una captura propia, entrega un documento que "diseccione" un único 
 - RFC 1122, *Requirements for Internet Hosts* — <https://www.rfc-editor.org/rfc/rfc1122>
 - Cloudflare Learning: OSI model — <https://www.cloudflare.com/learning/ddos/glossary/open-systems-interconnection-model-osi/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-010-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-010-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 011 - Protocolos de red: IP, TCP, UDP e ICMP en profundidad](../011-protocolos-de-red-ip-tcp-udp-e-icmp-en-profundidad/README.md)

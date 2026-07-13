@@ -124,6 +124,11 @@ Escribe `logstats.py`, una herramienta CLI que reciba la ruta de un log y un pat
 - Python `argparse` tutorial — <https://docs.python.org/3/howto/argparse.html>
 - Real Python — <https://realpython.com/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-015-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-015-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 016 - Python para seguridad: sockets y programacion de red](../016-python-para-seguridad-sockets-y-programacion-de-red/README.md)

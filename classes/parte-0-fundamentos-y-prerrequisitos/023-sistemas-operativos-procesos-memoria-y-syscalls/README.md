@@ -120,6 +120,11 @@ Analiza un binario desconocido (inofensivo, de tu laboratorio) usando solo herra
 - Linux syscall reference — <https://man7.org/linux/man-pages/man2/syscalls.2.html>
 - Michael Kerrisk, *The Linux Programming Interface*.
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-023-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-023-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 024 - Arquitectura de computadores: CPU, registros y memoria](../024-arquitectura-de-computadores-cpu-registros-y-memoria/README.md)

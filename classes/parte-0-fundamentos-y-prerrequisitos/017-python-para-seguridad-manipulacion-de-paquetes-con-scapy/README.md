@@ -139,6 +139,11 @@ Implementa `scapyscan.py`, un escáner SYN con Scapy que reciba un objetivo y un
 - BPF filter syntax — <https://biot.com/capstats/bpf.html>
 - Nmap vs. Scapy (comparativa didáctica) — <https://nmap.org/book/>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-017-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-017-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 018 - Git y control de versiones para profesionales de seguridad](../018-git-y-control-de-versiones-para-profesionales-de-seguridad/README.md)

@@ -134,6 +134,11 @@ Implementa `securebox.py`, una herramienta que cifre y descifre un archivo con A
 - NIST Cryptographic Standards — <https://csrc.nist.gov/projects/cryptographic-standards-and-guidelines>
 - OWASP Password Storage Cheat Sheet — <https://cheatsheetseries.owasp.org/cheatsheets/Password_Storage_Cheat_Sheet.html>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-021-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-021-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 022 - Docker y contenedores para laboratorios de seguridad](../022-docker-y-contenedores-para-laboratorios-de-seguridad/README.md)

@@ -119,6 +119,11 @@ Escribe `iocextract.py`, una herramienta que reciba un archivo de texto y extrai
 - regex101 (probador interactivo) — <https://regex101.com/>
 - OWASP: Regular Expression DoS (ReDoS) — <https://owasp.org/www-community/attacks/Regular_expression_Denial_of_Service_-_ReDoS>
 
+## 📥 Material descargable
+
+- 📄 [Guía en PDF](./clase-019-guia.pdf) — versión imprimible de esta clase.
+- 🎞️ [Presentación (PPTX)](./clase-019-presentacion.pptx) — deck para proyectar en clase.
+
 ## ➡️ Siguiente clase
 
 [Clase 020 - Sistemas de numeracion y encoding: binario, hex, base64 y URL](../020-sistemas-de-numeracion-y-encoding-binario-hex-base64-y-url/README.md)
