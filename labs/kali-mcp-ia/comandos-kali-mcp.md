@@ -42,6 +42,50 @@ hacerlo a mano.
 | [`kali-finish`](https://github.com/pabpereza/kali-mcp/blob/main/.claude/commands/kali-finish.md) | Consolida hallazgos y genera el **informe** | Reporte | **085**, **338** |
 | [`kali-resume`](https://github.com/pabpereza/kali-mcp/blob/main/.claude/commands/kali-resume.md) | Reanuda una sesión previa | Operación | 338 |
 
+## 🔎 Qué hace cada playbook (guía de exploración)
+
+Descripciones **redactadas para el curso** (resumen propio) de qué encontrarás en cada `.md`.
+Para ver los **pasos exactos**, abre el archivo enlazado en la tabla de arriba o clónalo:
+`git clone https://github.com/pabpereza/kali-mcp`.
+
+**Sesión y orquestación**
+
+- **`kali-start`** — Inicializa la sesión: define objetivo y **alcance**, crea la estructura de carpetas/metadatos y prepara el registro. Es el "contrato" de la sesión.
+- **`kali-pentest`** — El **director**: lanza sub-agentes en paralelo por fase, coordina el trabajo y consolida resultados.
+- **`kali-resume`** — Reanuda una sesión previa leyendo su estado y continúa donde se quedó.
+- **`kali-finish`** — Cierra la sesión: revisa las salidas de los sub-agentes, hace **doble verificación** (completitud, evidencia), detecta huecos (y pregunta si re-ejecutar), y compila un **informe por severidad** con matriz de riesgo, rutas de ataque, remediación y resumen ejecutivo.
+
+**Reconocimiento**
+
+- **`kali-recon`** — Recon (mayormente pasivo): orquesta `nmap -sV -sC`, `whatweb`, `wafw00f`, `gobuster`/`ffuf`, `nikto`, `nuclei`, `enum4linux` y `searchsploit`; entrega tabla de puertos/servicios + vectores priorizados.
+- **`kali-network-discovery`** — Descubre hosts vivos en un rango (barrido de red) e inventaría.
+- **`kali-mass-scan`** — Escaneo masivo de puertos sobre muchos objetivos para mapear la superficie rápido.
+- **`kali-subdomain-enum`** — Enumera subdominios (fuentes pasivas + diccionario DNS) y los resuelve.
+
+**Vulnerabilidades y web**
+
+- **`kali-vuln-scan`** — Escaneo de vulnerabilidades (plantillas `nuclei`, scripts nmap) y correlación con exploits conocidos.
+- **`kali-waf-detect`** — Detecta si hay **WAF/IPS** y de qué producto, para ajustar el enfoque.
+- **`kali-web-audit`** — Auditoría web: fingerprinting, descubrimiento de contenido, checks OWASP, cabeceras y `nikto`/`nuclei`.
+- **`kali-web-fuzz`** — Fuzzing de rutas/parámetros web con diccionarios para hallar contenido oculto.
+- **`kali-wp-audit`** — Auditoría específica de **WordPress** (`wpscan`): versión, plugins/temas vulnerables, usuarios.
+- **`kali-osint`** — Inteligencia de fuentes abiertas del objetivo (dominios, correos, metadatos) **sin tocarlo**.
+
+**Credenciales y explotación (supervisadas)**
+
+- **`kali-sniff`** — Captura/analiza tráfico de red para observar protocolos y credenciales en claro.
+- **`kali-brute`** — Fuerza bruta a servicios de autenticación **dentro del alcance**, con diccionarios.
+- **`kali-hash-crack`** — Cracking de hashes capturados con diccionarios/reglas.
+- **`kali-exploit`** — Explotación **supervisada**: a partir de los hallazgos, propone y ejecuta PoC con **validación humana** (nunca autónoma).
+- **`kali-ad-audit`** — Auditoría de **Active Directory** (enumeración, Kerberos, rutas de ataque) contra un dominio autorizado.
+
+**Auditoría y defensa**
+
+- **`kali-audit`** — Auditoría integral, más profunda que `kali-recon` (recon + vuln + explotación ligera).
+- **`kali-forensics`** — Triaje/forense asistido: recolecta artefactos y evidencia para análisis defensivo/IR.
+
+> 🧠 **Lo pedagógico:** fíjate en el patrón común — cada playbook **encadena herramientas → resume con evidencia → guarda en la sesión**, y `kali-finish` **verifica y detecta huecos** antes de reportar. Ese rigor (evidencia, deduplicación, doble chequeo) es exactamente lo que enseñan las clases 085, 318, 321 y 338. La IA acelera el flujo; el método sigue siendo el del pentester profesional.
+
 ## 🧭 Cómo usar este catálogo
 
 1. **Aprende la técnica a mano** en la clase indicada (columna derecha).
