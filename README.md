@@ -93,6 +93,7 @@ comando, más una colección de retos tipo CTF:
 - 🧠 **[DFIR memoria/malware](labs/dfir-memoria/README.md)** — Volatility 3 + YARA para forense de memoria · Partes 9 y 17.
 - 🔎 **[Code review / SAST](labs/appsec-code/README.md)** — app vulnerable + Semgrep/Bandit · Partes 11 y 17.
 - 🤖 **[Pentest con IA (kali-mcp)](labs/kali-mcp-ia/README.md)** — agente de IA orquestando Kali vía MCP · Parte 18.
+- 🪟 **[Triaje forense de Windows (RootCause)](labs/rootcause-windows/README.md)** — sensor forense de comportamiento en Rust · Partes 6, 8 y 9.
 - 🚩 **[Retos tipo CTF](ctf/README.md)** — web, cripto, redes, forense, OSINT y pwn, con writeups.
 
 ➡️ Ver todo en **[labs/](labs/README.md)**.

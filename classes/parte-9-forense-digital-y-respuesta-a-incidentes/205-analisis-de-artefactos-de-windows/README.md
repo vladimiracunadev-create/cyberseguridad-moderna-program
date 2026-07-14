@@ -129,6 +129,7 @@ Sí para probar navegación de carpetas; recuerda que persisten aunque la carpet
 
 ## 🔗 Referencias
 
+- 🛠️ [RootCause Windows Inspector](https://github.com/vladimiracunadev-create/rootcause-windows-inspector) (Apache-2.0) — sensor forense de comportamiento para Windows · lab: [`labs/rootcause-windows`](../../../labs/rootcause-windows/README.md).
 - Eric Zimmerman's Tools: <https://ericzimmerman.github.io/>
 - RegRipper: <https://github.com/keydet89/RegRipper3.0>
 - SANS — Windows Forensic Analysis poster (FOR500): <https://www.sans.org/posters/>

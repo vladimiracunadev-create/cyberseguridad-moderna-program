@@ -37,6 +37,7 @@ docker compose down -v      # apagar y borrar también los volúmenes/datos
 | [`dfir-memoria`](dfir-memoria/README.md) | Estación Volatility 3 + YARA para forense de memoria y malware en IR | Partes 9 y 17 · SANS/BTL1 | ✅ Disponible |
 | [`appsec-code`](appsec-code/README.md) | App vulnerable + Semgrep/Bandit para code review y SAST | Partes 11 y 17 · PenTest+/CISSP | ✅ Disponible |
 | [`kali-mcp-ia`](kali-mcp-ia/README.md) | Agente de IA orquestando Kali vía MCP (usa kali-mcp, MIT) | Parte 18 | ✅ Disponible |
+| [`rootcause-windows`](rootcause-windows/README.md) | Triaje forense de Windows con RootCause (sensor de comportamiento en Rust, Apache-2.0) | Partes 6, 8 y 9 | ✅ Disponible |
 
 Además: **[🚩 Retos tipo CTF](../ctf/README.md)** — colección de retos por categoría (web, cripto, redes, forense, OSINT, pwn) con solución.
 

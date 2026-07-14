@@ -117,6 +117,7 @@ Realiza una mini auditoría de *hardening* de tu VM Windows: enumera cuentas y p
 
 ## 🔗 Referencias
 
+- 🛠️ [RootCause Windows Inspector](https://github.com/vladimiracunadev-create/rootcause-windows-inspector) (Apache-2.0) — sensor forense de comportamiento para Windows · lab: [`labs/rootcause-windows`](../../../labs/rootcause-windows/README.md).
 - Russinovich, Solomon & Ionescu, *Windows Internals* (Microsoft Press).
 - Microsoft Sysinternals — <https://learn.microsoft.com/sysinternals/>
 - Windows Registry reference — <https://learn.microsoft.com/windows/win32/sysinfo/registry>
