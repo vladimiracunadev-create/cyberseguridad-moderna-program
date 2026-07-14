@@ -135,4 +135,4 @@ No: es defensivo. El objetivo es **encontrar y corregir** debilidades en tu prop
 
 ## ➡️ Siguiente clase
 
-[Volver al índice del programa](../../README.md)
+[Clase 331 - IA generativa y LLMs en ciberseguridad: panorama y límites](../../parte-18-ia-aplicada-a-la-ciberseguridad/331-ia-generativa-y-llms-en-ciberseguridad-panorama-y-limites/README.md)

@@ -1,6 +1,6 @@
 # Indice del curriculo
 
-**330 clases - 18 partes** - numeracion secuencial 001-330. Cada parte tiene su propio README con la narrativa completa (de que trata, que problemas resuelve, resultados de aprendizaje, estructura tematica y prerrequisitos).
+**340 clases - 19 partes** - numeracion secuencial 001-340. Cada parte tiene su propio README con la narrativa completa (de que trata, que problemas resuelve, resultados de aprendizaje, estructura tematica y prerrequisitos).
 
 | Parte | Tema | Clases | README de la parte |
 |---|---|---:|---|
@@ -22,6 +22,7 @@
 | 15 | Seguridad de IA y machine learning | 10 (291-300) | [leer parte 15](parte-15-seguridad-de-ia-y-machine-learning/README.md) |
 | 16 | Capstones y preparacion de certificaciones | 10 (301-310) | [leer parte 16](parte-16-capstones-y-preparacion-de-certificaciones/README.md) |
 | 17 | Profundizacion para certificaciones (gestion, IAM, arquitectura) | 20 (311-330) | [leer parte 17](parte-17-profundizacion-para-certificaciones/README.md) |
+| 18 | IA aplicada a la ciberseguridad (agentes, MCP, kali-mcp) | 10 (331-340) | [leer parte 18](parte-18-ia-aplicada-a-la-ciberseguridad/README.md) |
 
 ---
 
@@ -410,3 +411,16 @@ A continuacion, el indice plano de las clases. Si buscas la narrativa de una par
 - [328 - Gestion de riesgos cuantitativa y continuidad avanzada](parte-17-profundizacion-para-certificaciones/328-gestion-de-riesgos-cuantitativa-y-continuidad-avanzada/README.md)
 - [329 - Arquitectura de seguridad empresarial y Zero Trust](parte-17-profundizacion-para-certificaciones/329-arquitectura-de-seguridad-empresarial-y-zero-trust/README.md)
 - [330 - Analisis de codigo y automatizacion de seguridad](parte-17-profundizacion-para-certificaciones/330-analisis-de-codigo-y-automatizacion-de-seguridad/README.md)
+
+## [Parte 18 - IA aplicada a la ciberseguridad](parte-18-ia-aplicada-a-la-ciberseguridad/README.md)
+
+- [331 - IA generativa y LLMs en ciberseguridad: panorama y limites](parte-18-ia-aplicada-a-la-ciberseguridad/331-ia-generativa-y-llms-en-ciberseguridad-panorama-y-limites/README.md)
+- [332 - Agentes de IA y el Model Context Protocol (MCP) para seguridad](parte-18-ia-aplicada-a-la-ciberseguridad/332-agentes-de-ia-y-el-model-context-protocol-mcp-para-seguridad/README.md)
+- [333 - kali-mcp: orquestar herramientas de Kali desde un agente de IA](parte-18-ia-aplicada-a-la-ciberseguridad/333-kali-mcp-orquestar-herramientas-de-kali-desde-un-agente-de-ia/README.md)
+- [334 - Reconocimiento y escaneo asistidos por IA](parte-18-ia-aplicada-a-la-ciberseguridad/334-reconocimiento-y-escaneo-asistidos-por-ia/README.md)
+- [335 - Explotacion y post-explotacion autorizada asistida por IA](parte-18-ia-aplicada-a-la-ciberseguridad/335-explotacion-y-post-explotacion-autorizada-asistida-por-ia/README.md)
+- [336 - OSINT y auditoria web con agentes de IA](parte-18-ia-aplicada-a-la-ciberseguridad/336-osint-y-auditoria-web-con-agentes-de-ia/README.md)
+- [337 - IA para el lado defensivo: SOC, triaje y forense](parte-18-ia-aplicada-a-la-ciberseguridad/337-ia-para-el-lado-defensivo-soc-triaje-y-forense/README.md)
+- [338 - Generacion de informes y flujos de trabajo con IA](parte-18-ia-aplicada-a-la-ciberseguridad/338-generacion-de-informes-y-flujos-de-trabajo-con-ia/README.md)
+- [339 - Riesgos, guardrails, OPSEC y etica del hacking con IA](parte-18-ia-aplicada-a-la-ciberseguridad/339-riesgos-guardrails-opsec-y-etica-del-hacking-con-ia/README.md)
+- [340 - Capstone: pentest autorizado asistido por IA con MCP](parte-18-ia-aplicada-a-la-ciberseguridad/340-capstone-pentest-autorizado-asistido-por-ia-con-mcp/README.md)

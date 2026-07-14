@@ -1123,6 +1123,67 @@
           "exp": "Validan que el remitente esté autorizado y que el mensaje no fue alterado; DMARC define la política."
         }
       ]
+    },
+    {
+      "idx": 18,
+      "titulo": "IA aplicada a la ciberseguridad",
+      "preguntas": [
+        {
+          "q": "¿Cuál es el mayor riesgo operativo al usar un LLM en seguridad?",
+          "opciones": [
+            "Que sea lento",
+            "Las alucinaciones (salidas falsas con aplomo) sin verificación",
+            "Que use mucha RAM",
+            "Que no tenga interfaz gráfica"
+          ],
+          "correcta": 1,
+          "exp": "Un LLM genera lo plausible, no lo cierto; hay que verificar toda salida."
+        },
+        {
+          "q": "El Model Context Protocol (MCP) sirve para…",
+          "opciones": [
+            "Cifrar prompts",
+            "Estandarizar cómo un agente de IA usa herramientas externas",
+            "Entrenar modelos",
+            "Escanear puertos"
+          ],
+          "correcta": 1,
+          "exp": "MCP conecta clientes de IA con servidores que exponen tools/resources/prompts."
+        },
+        {
+          "q": "En kali-mcp, las herramientas de Kali se ejecutan…",
+          "opciones": [
+            "En tu host directamente",
+            "Dentro de un contenedor Docker aislado",
+            "En la nube de OpenAI",
+            "En el navegador"
+          ],
+          "correcta": 1,
+          "exp": "kali-mcp aísla las herramientas en un contenedor; el agente habla con un gateway MCP."
+        },
+        {
+          "q": "En un pentest asistido por IA, ¿quién decide y autoriza las acciones con impacto?",
+          "opciones": [
+            "El agente de IA de forma autónoma",
+            "El humano (el agente propone, la persona aprueba)",
+            "El servidor MCP",
+            "Nadie, se automatiza todo"
+          ],
+          "correcta": 1,
+          "exp": "Human-in-the-loop: la IA propone y acelera; la autorización y responsabilidad son humanas."
+        },
+        {
+          "q": "La 'prompt injection' contra tu propio agente de seguridad consiste en…",
+          "opciones": [
+            "Un ataque de fuerza bruta",
+            "Contenido malicioso en los datos que el agente procesa que intenta secuestrar sus instrucciones",
+            "Un fallo de red",
+            "Un cifrado débil"
+          ],
+          "correcta": 1,
+          "exp": "Datos no confiables (banners, webs) pueden manipular al agente; por eso mínimo privilegio y aislamiento."
+        }
+      ]
     }
   ]
 }

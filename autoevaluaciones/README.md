@@ -1243,3 +1243,70 @@ Lleva la cuenta de todas las clases del programa en [`progreso.html`](progreso.h
 **Correcta: b) Autenticar el origen del correo y detectar suplantación.** Validan que el remitente esté autorizado y que el mensaje no fue alterado; DMARC define la política.
 
 </details>
+
+## Parte 18 — IA aplicada a la ciberseguridad
+
+**1. ¿Cuál es el mayor riesgo operativo al usar un LLM en seguridad?**
+
+- a) Que sea lento
+- b) Las alucinaciones (salidas falsas con aplomo) sin verificación
+- c) Que use mucha RAM
+- d) Que no tenga interfaz gráfica
+
+<details><summary>Ver respuesta</summary>
+
+**Correcta: b) Las alucinaciones (salidas falsas con aplomo) sin verificación.** Un LLM genera lo plausible, no lo cierto; hay que verificar toda salida.
+
+</details>
+
+**2. El Model Context Protocol (MCP) sirve para…**
+
+- a) Cifrar prompts
+- b) Estandarizar cómo un agente de IA usa herramientas externas
+- c) Entrenar modelos
+- d) Escanear puertos
+
+<details><summary>Ver respuesta</summary>
+
+**Correcta: b) Estandarizar cómo un agente de IA usa herramientas externas.** MCP conecta clientes de IA con servidores que exponen tools/resources/prompts.
+
+</details>
+
+**3. En kali-mcp, las herramientas de Kali se ejecutan…**
+
+- a) En tu host directamente
+- b) Dentro de un contenedor Docker aislado
+- c) En la nube de OpenAI
+- d) En el navegador
+
+<details><summary>Ver respuesta</summary>
+
+**Correcta: b) Dentro de un contenedor Docker aislado.** kali-mcp aísla las herramientas en un contenedor; el agente habla con un gateway MCP.
+
+</details>
+
+**4. En un pentest asistido por IA, ¿quién decide y autoriza las acciones con impacto?**
+
+- a) El agente de IA de forma autónoma
+- b) El humano (el agente propone, la persona aprueba)
+- c) El servidor MCP
+- d) Nadie, se automatiza todo
+
+<details><summary>Ver respuesta</summary>
+
+**Correcta: b) El humano (el agente propone, la persona aprueba).** Human-in-the-loop: la IA propone y acelera; la autorización y responsabilidad son humanas.
+
+</details>
+
+**5. La 'prompt injection' contra tu propio agente de seguridad consiste en…**
+
+- a) Un ataque de fuerza bruta
+- b) Contenido malicioso en los datos que el agente procesa que intenta secuestrar sus instrucciones
+- c) Un fallo de red
+- d) Un cifrado débil
+
+<details><summary>Ver respuesta</summary>
+
+**Correcta: b) Contenido malicioso en los datos que el agente procesa que intenta secuestrar sus instrucciones.** Datos no confiables (banners, webs) pueden manipular al agente; por eso mínimo privilegio y aislamiento.
+
+</details>
