@@ -119,6 +119,7 @@ Ambos, con prioridad por riesgo: los parches de vulnerabilidades explotadas acti
 
 ## 🔗 Referencias
 
+- 🏢 **En la empresa:** gestión de parches con **Microsoft WSUS/SCCM (MECM)**, **Intune** o **Ansible**; verificación de baselines con **CIS-CAT** y benchmarks CIS.
 - CompTIA. *Security+ (SY0-701) Exam Objectives* — dominio *Security Operations*.
 - Chapple, Stewart & Gibson. *(ISC)² CISSP Official Study Guide*, 9.ª ed., Sybex — *Security Operations*.
 - CIS. *CIS Benchmarks* y *CIS-CAT* — [cisecurity.org/cis-benchmarks](https://www.cisecurity.org/cis-benchmarks).

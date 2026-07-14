@@ -101,6 +101,7 @@ No. Existen técnicas de evasión y tamper. Por eso el blue team combina EDR con
 
 ## 🔗 Referencias
 
+- 🏢 **En la empresa:** EDR/XDR comerciales como **CrowdStrike Falcon**, **Microsoft Defender for Endpoint**, **SentinelOne** o **Elastic Security** — el análisis de endpoint es transferible entre productos.
 - 🛠️ [RootCause Windows Inspector](https://github.com/vladimiracunadev-create/rootcause-windows-inspector) (Apache-2.0) — sensor forense de comportamiento para Windows · lab: [`labs/rootcause-windows`](../../../labs/rootcause-windows/README.md).
 - Murdoch, D. *Blue Team Handbook: SOC, SIEM, and Threat Hunting Use Cases*.
 - Velociraptor Documentation — <https://docs.velociraptor.app/>

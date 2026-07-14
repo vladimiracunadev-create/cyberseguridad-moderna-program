@@ -51,6 +51,21 @@ Detección, monitoreo, threat hunting y respuesta temprana.
 - 🚩 [CTF forense / redes](../ctf/README.md)
 - 🎓 **BTL1** (Blue Team Level 1) · CompTIA CySA+
 
+## 🛡️ Analista de Gestión de Vulnerabilidades
+
+Ciclo de vulnerabilidades, hardening/parchado, controles (AV/EDR) y reporte — el rol de *vulnerability management / security operations*.
+
+1. 📚 **Parte 0** — Fundamentos (001–025) · Windows, Linux y redes
+2. 📚 **Parte 1** — Redes y escaneo (026–045) · Nmap y enumeración
+3. 📚 **Parte 3** — Análisis de vulnerabilidades (**071**, Nessus/OpenVAS) y reporte (**085**)
+4. 📚 **Parte 17** — **318** Gestión del programa de vulnerabilidades · **322** Threat Intelligence · **324** Hardening y gestión de configuración · **321** Comunicación y reporte
+5. 📚 **Parte 8** — **189** EDR · 188 Threat hunting · 195 Threat Intelligence · 197 Métricas del SOC
+6. 📚 **Parte 11** — 240 SCA/dependencias · **245** Gestión de vulnerabilidades a escala
+7. 📚 **Parte 9** — **219** Ejercicios de mesa (simulacros) · + Partes 3–7 para las pruebas de penetración de validación
+
+- 🧪 [`appsec-code`](../labs/appsec-code/README.md) (SAST/vulns en código) · [`appsec-web`](../labs/appsec-web/README.md) · [`rootcause-windows`](../labs/rootcause-windows/README.md) (controles/EDR en Windows)
+- 🎓 **CompTIA CySA+** · Security+ · (certs de producto: Tenable/Qualys/Rapid7)
+
 ## 🕵️ DFIR / Analista forense
 
 Adquisición, memoria, timelines y respuesta a incidentes.

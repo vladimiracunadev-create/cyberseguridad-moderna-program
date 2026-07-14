@@ -119,6 +119,7 @@ Tendencia de riesgo abierto, MTTR por criticidad, % de remediación dentro de SL
 
 ## 🔗 Referencias
 
+- 🏢 **En la empresa:** el ciclo se gestiona con plataformas de VM como **Qualys VMDR**, **Tenable.io** y **Rapid7 InsightVM**; el enfoque (descubrir → priorizar CVSS/EPSS/KEV → SLA → verificar) es el mismo.
 - NIST. *Guide to Enterprise Patch Management Planning* — [SP 800-40 Rev.4](https://csrc.nist.gov/pubs/sp/800/40/r4/final).
 - Chapple & Seidl. *CompTIA CySA+ Study Guide (CS0-003)*, Sybex.
 - FIRST. *EPSS — Exploit Prediction Scoring System* — [first.org/epss](https://www.first.org/epss/).

@@ -117,6 +117,7 @@ Es una forma estandarizada de decir "este CVE está presente pero no somos explo
 
 ## 🔗 Referencias
 
+- 🏢 **En la empresa:** **Qualys / Tenable / Rapid7** para el escaneo a escala y **DefectDojo** para orquestar, deduplicar y dar seguimiento a los hallazgos.
 - NIST SP 800-40r4 Patch Management — <https://csrc.nist.gov/pubs/sp/800/40/r4/final>
 - DefectDojo — <https://www.defectdojo.org/>
 - CISA KEV — <https://www.cisa.gov/known-exploited-vulnerabilities-catalog>
