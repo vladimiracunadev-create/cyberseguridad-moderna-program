@@ -3,7 +3,7 @@
 El programa se construye por fases. El **currículo escrito** (README completo por cada una
 de las 340 clases) es la base y el primer entregable.
 
-## Fase 1 — Currículo escrito completo ✅ (en curso)
+## Fase 1 — Currículo escrito completo ✅ (completa)
 
 - [x] Diseño del currículo: 19 partes, 340 clases, numeración 001–340.
 - [x] Estructura de carpetas + índice maestro (`classes/README.md`).

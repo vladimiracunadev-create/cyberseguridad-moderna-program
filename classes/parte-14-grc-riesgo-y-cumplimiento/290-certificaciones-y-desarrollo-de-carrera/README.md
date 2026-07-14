@@ -52,7 +52,7 @@ Al finalizar, el alumno podrá:
 
 Vas a construir **tu plan de desarrollo profesional personal**.
 
-1. **Autoevaluación**: usando las 14 partes del programa, puntúa de 1 a 5 tu nivel en 6 áreas (redes, ofensiva, defensiva/SOC, cloud, appsec, GRC). Identifica tus 2 fortalezas y 2 huecos.
+1. **Autoevaluación**: usando las distintas partes del programa, puntúa de 1 a 5 tu nivel en 6 áreas (redes, ofensiva, defensiva/SOC, cloud, appsec, GRC). Identifica tus 2 fortalezas y 2 huecos.
 2. **Elección de ruta**: decide una ruta principal (ofensiva / defensiva / GRC / cloud / appsec) y una secundaria, alineadas con tus fortalezas e intereses.
 3. **Mapa de roles**: para tu ruta, identifica 3 roles objetivo (p. ej. GRC → analista de riesgo, auditor de seguridad, consultor de cumplimiento) y las competencias que exige cada uno según el NICE Framework.
 4. **Plan de certificaciones**: define una secuencia realista a 24 meses. Ejemplo GRC: Security+ → CISA o ISO 27001 Lead Implementer → CISSP (con experiencia). Ejemplo ofensiva: Security+ → eJPT/PNPT → OSCP.

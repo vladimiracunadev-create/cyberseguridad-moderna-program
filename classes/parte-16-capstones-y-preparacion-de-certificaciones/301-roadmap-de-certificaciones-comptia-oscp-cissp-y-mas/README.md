@@ -7,7 +7,7 @@
 
 ## 🎯 Objetivo
 
-Que el alumno construya un **roadmap de certificaciones personalizado**, entendiendo qué credencial demuestra qué competencia, cuál es el orden lógico según su perfil (ofensivo, defensivo o de gestión), y cuánto cuesta en dinero, tiempo y esfuerzo. Al final tendrás un plan escrito con hitos concretos alineado a tu objetivo profesional y a las 300 clases ya cursadas.
+Que el alumno construya un **roadmap de certificaciones personalizado**, entendiendo qué credencial demuestra qué competencia, cuál es el orden lógico según su perfil (ofensivo, defensivo o de gestión), y cuánto cuesta en dinero, tiempo y esfuerzo. Al final tendrás un plan escrito con hitos concretos alineado a tu objetivo profesional y a las clases ya cursadas del programa.
 
 ## 📚 Resultados de aprendizaje
 
