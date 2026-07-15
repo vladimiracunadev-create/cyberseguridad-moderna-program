@@ -27,7 +27,8 @@ OUT = os.path.join(ROOT, "site")
 INCLUIR_TOP = ["README.md", "ROADMAP.md", "CONTRIBUTING.md", "SECURITY.md",
                "rutas/README.md", "autoevaluaciones/README.md", "labs/README.md",
                "ctf/README.md", "docs/syllabus.md", "docs/rubrica-evaluacion.md",
-               "docs/examen-final-por-rol.md"]
+               "docs/examen-final-por-rol.md", "soluciones/README.md",
+               "soluciones/parte-02-criptografia.md"]
 
 LINK_MD = re.compile(r"\]\(([^)]+?)\.md((?:#[^)]*)?)\)")
 

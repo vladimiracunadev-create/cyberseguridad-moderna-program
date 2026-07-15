@@ -104,6 +104,7 @@ comando, más una colección de retos tipo CTF:
 - 🧭 **[Rutas guiadas por rol](rutas/README.md)** — recorridos ordenados para pentester, red team, SOC/blue, DFIR, **gestión de vulnerabilidades**, AppSec, cloud y GRC.
 - 📝 **[Autoevaluaciones](autoevaluaciones/README.md)** — 97 preguntas (una batería por parte). Versión interactiva con puntuación: [quiz](https://vladimiracunadev-create.github.io/cyberseguridad-moderna-program/autoevaluaciones/quiz.html).
 - ✅ **[Seguimiento de progreso](https://vladimiracunadev-create.github.io/cyberseguridad-moderna-program/autoevaluaciones/progreso.html)** — marca las 340 clases (se guarda en tu navegador).
+- 🔑 **[Soluciones a los retos](soluciones/README.md)** — claves de referencia de los ejercicios y retos (Parte 2 completa; resto por lotes).
 - 🎓 **[Certificaciones](certificaciones/README.md)** — mapeo del programa a Security+, PenTest+, CySA+, OSCP, CISSP, BTL1 y SANS con **% de cobertura ponderado por dominio**.
 
 🌐 Todo navegable en el **[sitio del curso](https://vladimiracunadev-create.github.io/cyberseguridad-moderna-program/)** (GitHub Pages).

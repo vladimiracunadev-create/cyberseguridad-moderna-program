@@ -79,11 +79,14 @@ gcc -fsanitize=address -g intov.c -o intov_asan
 
 2. Ejecuta con un `n` que provoque wrap-around (`n = 0x20000000` en 32 bits) y observa el crash.
 
-3. Compila con UBSan y confirma el diagnóstico:
+3. Confirma el diagnóstico. Ojo: el overflow **unsigned** es comportamiento *definido*
+   (wrap-around), así que `-fsanitize=undefined` (UBSan) **no** lo reporta. Para verlo hace
+   falta el sanitizer específico de clang:
 
    ```bash
-   gcc -m32 -fsanitize=undefined -g intov.c -o intov32
-   ./intov32 536870912     # UBSan reporta "unsigned integer overflow"
+   clang -m32 -fsanitize=unsigned-integer-overflow -g intov.c -o intov32
+   ./intov32 536870912     # ahora sí: "unsigned integer overflow"
+   # (Alternativa: la consecuencia real —el heap overflow— se observa con ASan en el paso 4.)
    ```
 
 4. Con ASan, observa el `heap-buffer-overflow` que sigue al `malloc` insuficiente.

