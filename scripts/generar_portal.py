@@ -1,13 +1,13 @@
 # -*- coding: utf-8 -*-
 """
-Genera el "portal" de evaluaciÃ³n (Fase 4) a partir de:
+Genera el "portal" de evaluación (Fase 4) a partir de:
   - autoevaluaciones/preguntas.json  (banco de preguntas por parte)
-  - el Ã¡rbol classes/                 (para el checklist de progreso)
+  - el árbol classes/                 (para el checklist de progreso)
 
-Produce (archivos estÃ¡ticos, autocontenidos, aptos para GitHub Pages):
-  - autoevaluaciones/quiz.html        (autoevaluaciÃ³n interactiva)
+Produce (archivos estáticos, autocontenidos, aptos para GitHub Pages):
+  - autoevaluaciones/quiz.html        (autoevaluación interactiva)
   - autoevaluaciones/progreso.html    (checklist de las clases con localStorage)
-  - autoevaluaciones/README.md        (versiÃ³n imprimible con respuestas)
+  - autoevaluaciones/README.md        (versión imprimible con respuestas)
 
 Uso: python scripts/generar_portal.py
 """
@@ -56,11 +56,11 @@ label.cls:hover{background:#eef3f0}
 
 
 def nav(rel_home="../index.html"):
-    return (f'<div class="nav"><a href="{rel_home}">ðŸ›¡ï¸ Inicio</a> Â· '
-            f'<a href="../classes/README.html">ðŸ“š Clases</a> Â· '
-            f'<a href="../rutas/README.html">ðŸ§­ Rutas</a> Â· '
-            f'<a href="quiz.html">ðŸ“ AutoevaluaciÃ³n</a> Â· '
-            f'<a href="progreso.html">âœ… Progreso</a></div>')
+    return (f'<div class="nav"><a href="{rel_home}">🛡️ Inicio</a> · '
+            f'<a href="../classes/README.html">📚 Clases</a> · '
+            f'<a href="../rutas/README.html">🧭 Rutas</a> · '
+            f'<a href="quiz.html">📝 Autoevaluación</a> · '
+            f'<a href="progreso.html">✅ Progreso</a></div>')
 
 
 def pagina(titulo, cuerpo):
@@ -78,23 +78,23 @@ def cargar_preguntas():
 def gen_quiz(data):
     js = json.dumps(data["partes"], ensure_ascii=False)
     cuerpo = f"""{nav()}
-<h1>ðŸ“ AutoevaluaciÃ³n</h1>
-<p class="small">Una baterÃ­a por parte. Marca una opciÃ³n por pregunta y pulsa <b>Corregir</b>.
-Se resalta el acierto/error y aparece la explicaciÃ³n. Tu nota no se envÃ­a a ningÃºn sitio.</p>
+<h1>📝 Autoevaluación</h1>
+<p class="small">Una batería por parte. Marca una opción por pregunta y pulsa <b>Corregir</b>.
+Se resalta el acierto/error y aparece la explicación. Tu nota no se envía a ningún sitio.</p>
 <div id="app"></div>
 <script>
 const PARTES = {js};
 const app = document.getElementById('app');
 PARTES.forEach((parte, pi) => {{
   const sec = document.createElement('section');
-  sec.innerHTML = `<h2>Parte ${{parte.idx}} â€” ${{parte.titulo}}</h2>`;
+  sec.innerHTML = `<h2>Parte ${{parte.idx}} — ${{parte.titulo}}</h2>`;
   parte.preguntas.forEach((pr, qi) => {{
     const card = document.createElement('div'); card.className='card';
     let opts = pr.opciones.map((o,oi)=>
       `<label class="opt" data-p="${{pi}}" data-q="${{qi}}" data-o="${{oi}}">
          <input type="radio" name="q_${{pi}}_${{qi}}" value="${{oi}}">${{o}}</label>`).join('');
     card.innerHTML = `<div class="q">${{qi+1}}. ${{pr.q}}</div>${{opts}}
-      <div class="exp" id="e_${{pi}}_${{qi}}">âœ”ï¸ ${{pr.exp}}</div>`;
+      <div class="exp" id="e_${{pi}}_${{qi}}">✔️ ${{pr.exp}}</div>`;
     sec.appendChild(card);
   }});
   const btn = document.createElement('button');
@@ -113,14 +113,14 @@ PARTES.forEach((parte, pi) => {{
       }}
       document.getElementById(`e_${{pi}}_${{qi}}`).style.display='block';
     }});
-    score.textContent = `PuntuaciÃ³n: ${{ok}} / ${{parte.preguntas.length}}`;
+    score.textContent = `Puntuación: ${{ok}} / ${{parte.preguntas.length}}`;
   }};
   sec.appendChild(btn); sec.appendChild(score);
   app.appendChild(sec);
 }});
 </script>"""
     with open(os.path.join(AUTO, "quiz.html"), "w", encoding="utf-8") as f:
-        f.write(pagina("AutoevaluaciÃ³n â€” Ciberseguridad Moderna", cuerpo))
+        f.write(pagina("Autoevaluación — Ciberseguridad Moderna", cuerpo))
 
 
 def listar_clases():
@@ -151,11 +151,11 @@ def listar_clases():
 def gen_progreso(partes):
     js = json.dumps(partes, ensure_ascii=False)
     cuerpo = f"""{nav()}
-<h1>âœ… Mi progreso</h1>
+<h1>✅ Mi progreso</h1>
 <p class="small">Marca las clases que completes. Tu avance se guarda <b>solo en este navegador</b>
-(localStorage), no se envÃ­a a ningÃºn servidor.</p>
+(localStorage), no se envía a ningún servidor.</p>
 <div class="prog-part"><b>Total</b><progress id="tot" max="0" value="0"></progress>
-<span id="tottxt"></span> Â· <button id="reset">Reiniciar</button></div>
+<span id="tottxt"></span> · <button id="reset">Reiniciar</button></div>
 <div id="app"></div>
 <script>
 const PARTES = {js};
@@ -167,12 +167,12 @@ PARTES.forEach(p=>{{
   total += p.clases.length;
   const sec=document.createElement('section');
   const pb=`pb_${{p.idx}}`;
-  sec.innerHTML=`<h2>Parte ${{p.idx}} â€” ${{p.titulo}}</h2>
+  sec.innerHTML=`<h2>Parte ${{p.idx}} — ${{p.titulo}}</h2>
     <progress id="${{pb}}" max="${{p.clases.length}}" value="0"></progress> <span id="${{pb}}t"></span>`;
   p.clases.forEach(c=>{{
     const id='c'+c.n;
     const lab=document.createElement('label'); lab.className='cls';
-    lab.innerHTML=`<input type="checkbox" data-p="${{p.idx}}" id="${{id}}"> ${{c.n}} â€” ${{c.t}}`;
+    lab.innerHTML=`<input type="checkbox" data-p="${{p.idx}}" id="${{id}}"> ${{c.n}} — ${{c.t}}`;
     sec.appendChild(lab);
     const cb=lab.querySelector('input');
     cb.checked=!!hecho[id];
@@ -192,27 +192,27 @@ function pintar(){{
   const tot=document.getElementById('tot'); tot.max=total; tot.value=done;
   document.getElementById('tottxt').textContent=`${{done}}/${{total}} clases (${{Math.round(done/total*100)}}%)`;
 }}
-document.getElementById('reset').onclick=()=>{{ if(confirm('Â¿Reiniciar tu progreso?')){{hecho={{}};
+document.getElementById('reset').onclick=()=>{{ if(confirm('¿Reiniciar tu progreso?')){{hecho={{}};
   localStorage.removeItem(KEY); document.querySelectorAll('input[type=checkbox]').forEach(c=>c.checked=false); pintar();}} }};
 pintar();
 </script>"""
     with open(os.path.join(AUTO, "progreso.html"), "w", encoding="utf-8") as f:
-        f.write(pagina("Mi progreso â€” Ciberseguridad Moderna", cuerpo))
+        f.write(pagina("Mi progreso — Ciberseguridad Moderna", cuerpo))
 
 
 def gen_readme(data):
-    L = ["# ðŸ“ Autoevaluaciones\n",
-         "BaterÃ­a de preguntas por parte para comprobar lo aprendido. Esta es la versiÃ³n de lectura "
-         "(con respuestas plegadas). Para la versiÃ³n **interactiva** con puntuaciÃ³n, abre "
+    L = ["# 📝 Autoevaluaciones\n",
+         "Batería de preguntas por parte para comprobar lo aprendido. Esta es la versión de lectura "
+         "(con respuestas plegadas). Para la versión **interactiva** con puntuación, abre "
          "[`quiz.html`](quiz.html) desde el [sitio del curso](https://vladimiracunadev-create.github.io/modern-cybersecurity-program/autoevaluaciones/quiz.html).\n",
-         "> ðŸ§­ Â¿No sabes por dÃ³nde empezar? Mira las [rutas por rol](../rutas/README.md).\n",
+         "> 🧭 ¿No sabes por dónde empezar? Mira las [rutas por rol](../rutas/README.md).\n",
          "<a id=\"progreso\"></a>\n",
          "## Seguimiento de progreso\n",
          "Lleva la cuenta de todas las clases del programa en [`progreso.html`](progreso.html) "
          "(se guarda en tu navegador).\n",
          "---\n"]
     for p in data["partes"]:
-        L.append(f"## Parte {p['idx']} â€” {p['titulo']}\n")
+        L.append(f"## Parte {p['idx']} — {p['titulo']}\n")
         for i, pr in enumerate(p["preguntas"], 1):
             L.append(f"**{i}. {pr['q']}**\n")
             for j, o in enumerate(pr["opciones"]):

@@ -1,13 +1,13 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 """
-Genera un sitio estÃ¡tico (site/) a partir de los Markdown del repositorio,
-para publicarlo en GitHub Pages. Renderiza el README raÃ­z, el Ã­ndice de
+Genera un sitio estático (site/) a partir de los Markdown del repositorio,
+para publicarlo en GitHub Pages. Renderiza el README raíz, el índice de
 clases, los README de parte y los README de clase a HTML, reescribiendo
-los enlaces internos .md -> .html para que la navegaciÃ³n funcione en el sitio.
+los enlaces internos .md -> .html para que la navegación funcione en el sitio.
 
 Uso:  python scripts/generar_sitio.py
-Salida: carpeta site/ con index.html y el Ã¡rbol de clases en HTML.
+Salida: carpeta site/ con index.html y el árbol de clases en HTML.
 Requiere: pip install "markdown>=3.6"
 """
 from __future__ import annotations
@@ -41,7 +41,7 @@ PLANTILLA = """<!doctype html>
 <head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>{title} Â· Ciberseguridad Moderna</title>
+<title>{title} · Ciberseguridad Moderna</title>
 <style>
   :root {{ color-scheme: light dark; }}
   * {{ box-sizing: border-box; }}
@@ -73,7 +73,7 @@ PLANTILLA = """<!doctype html>
 </style>
 </head>
 <body>
-<div class="nav"><a href="{home}">ðŸ›¡ï¸ Inicio</a> Â· <a href="{indice}">ðŸ“š Clases</a> Â· <a href="{rutas}">ðŸ§­ Rutas</a> Â· <a href="{quiz}">ðŸ“ AutoevaluaciÃ³n</a> Â· <a href="{progreso}">âœ… Progreso</a> Â· <a href="{certis}">ðŸŽ“ Certis</a></div>
+<div class="nav"><a href="{home}">🛡️ Inicio</a> · <a href="{indice}">📚 Clases</a> · <a href="{rutas}">🧭 Rutas</a> · <a href="{quiz}">📝 Autoevaluación</a> · <a href="{progreso}">✅ Progreso</a> · <a href="{certis}">🎓 Certis</a></div>
 {body}
 </body>
 </html>
@@ -193,7 +193,7 @@ def datos_partes():
         nums, titulo = [], slug
         rp = os.path.join(pdir, "README.md")
         if os.path.isfile(rp):
-            mm = re.search(r"^#\s+Parte\s+\d+\s*[â€”-]\s*(.+)$",
+            mm = re.search(r"^#\s+Parte\s+\d+\s*[—-]\s*(.+)$",
                            open(rp, encoding="utf-8").read(), re.MULTILINE)
             if mm:
                 titulo = mm.group(1).split(":")[0].strip()
@@ -208,7 +208,7 @@ def datos_partes():
 
 def escribir_landing(partes) -> None:
     total = sum(p["n"] for p in partes)
-    # Contadores dinÃ¡micos (se ajustan solos al crecer el programa).
+    # Contadores dinámicos (se ajustan solos al crecer el programa).
     try:
         with open(os.path.join(ROOT, "autoevaluaciones", "preguntas.json"), encoding="utf-8") as f:
             n_preg = sum(len(p["preguntas"]) for p in json.load(f)["partes"])
@@ -224,13 +224,13 @@ def escribir_landing(partes) -> None:
              (str(n_preg), "preguntas"), (str(n_cert), "certis mapeadas")]
     stats_html = "".join(f'<div class="stat"><b>{v}</b><span>{k}</span></div>' for v, k in stats)
     feats = [
-        ("ðŸ“š", "CurrÃ­culo completo", f"{total} clases de fundamentos a nivel experto, cada una con objetivo, laboratorio, ejercicios y referencias.", "classes/README.html"),
-        ("ðŸ§­", "Rutas por rol", "Recorridos ordenados para pentester, red team, SOC, DFIR, AppSec, cloud y GRC.", "rutas/README.html"),
-        ("ðŸ§ª", "Laboratorios", "Entornos Docker que se levantan con un comando: web, SOC, Active Directory y criptografÃ­a.", "labs/README.html"),
-        ("ðŸš©", "Retos CTF", "ColecciÃ³n de retos con soluciÃ³n por categorÃ­a: web, cripto, redes, forense, OSINT y pwn.", "ctf/README.html"),
-        ("ðŸ“", "AutoevaluaciÃ³n", f"{n_preg} preguntas interactivas con puntuaciÃ³n, una baterÃ­a por parte.", "autoevaluaciones/quiz.html"),
-        ("âœ…", "Tu progreso", f"Marca las {total} clases y sigue tu avance (se guarda en tu navegador).", "autoevaluaciones/progreso.html"),
-        ("ðŸŽ“", "Certificaciones", "Mapeo a Security+, PenTest+, CySA+, OSCP, CISSP, BTL1 y SANS con % de cobertura por dominio.", "certificaciones/README.html"),
+        ("📚", "Currículo completo", f"{total} clases de fundamentos a nivel experto, cada una con objetivo, laboratorio, ejercicios y referencias.", "classes/README.html"),
+        ("🧭", "Rutas por rol", "Recorridos ordenados para pentester, red team, SOC, DFIR, AppSec, cloud y GRC.", "rutas/README.html"),
+        ("🧪", "Laboratorios", "Entornos Docker que se levantan con un comando: web, SOC, Active Directory y criptografía.", "labs/README.html"),
+        ("🚩", "Retos CTF", "Colección de retos con solución por categoría: web, cripto, redes, forense, OSINT y pwn.", "ctf/README.html"),
+        ("📝", "Autoevaluación", f"{n_preg} preguntas interactivas con puntuación, una batería por parte.", "autoevaluaciones/quiz.html"),
+        ("✅", "Tu progreso", f"Marca las {total} clases y sigue tu avance (se guarda en tu navegador).", "autoevaluaciones/progreso.html"),
+        ("🎓", "Certificaciones", "Mapeo a Security+, PenTest+, CySA+, OSCP, CISSP, BTL1 y SANS con % de cobertura por dominio.", "certificaciones/README.html"),
     ]
     feats_html = "".join(
         f'<a class="feat" href="{u}"><div class="ic">{i}</div><h3>{t}</h3><p>{d}</p></a>'
@@ -239,35 +239,35 @@ def escribir_landing(partes) -> None:
         f'<a class="part" href="classes/{p["slug"]}/README.html">'
         f'<div class="num">{p["idx"]}</div>'
         f'<div><div class="t">{htmllib.escape(p["titulo"])}</div>'
-        f'<div class="c">{p["n"]} clases Â· {p["ini"]:03d}â€“{p["fin"]:03d}</div></div></a>'
+        f'<div class="c">{p["n"]} clases · {p["ini"]:03d}–{p["fin"]:03d}</div></div></a>'
         for p in partes)
     cuerpo = f"""
 <header class="hero">
-  <div class="escudo">ðŸ›¡ï¸</div>
+  <div class="escudo">🛡️</div>
   <h1>Programa de Ciberseguridad Moderna</h1>
-  <p class="sub">El curso mÃ¡s completo en espaÃ±ol â€” de redes, criptografÃ­a y Linux hasta Red Team, DFIR, cloud y seguridad de IA.</p>
+  <p class="sub">El curso más completo en español — de redes, criptografía y Linux hasta Red Team, DFIR, cloud y seguridad de IA.</p>
   <div class="chips">
     <span class="chip">{total} clases</span><span class="chip">{len(partes)} partes</span>
-    <span class="chip">Fundamentos â†’ Experto</span><span class="chip">EspaÃ±ol</span><span class="chip">MIT</span>
+    <span class="chip">Fundamentos → Experto</span><span class="chip">Español</span><span class="chip">MIT</span>
   </div>
   <div class="cta">
-    <a class="btn btn-1" href="classes/README.html">ðŸ“š Empezar el curso</a>
-    <a class="btn btn-2" href="rutas/README.html">ðŸ§­ Elegir mi ruta</a>
+    <a class="btn btn-1" href="classes/README.html">📚 Empezar el curso</a>
+    <a class="btn btn-2" href="rutas/README.html">🧭 Elegir mi ruta</a>
   </div>
 </header>
-<div class="aviso"><div class="wrap">âš ï¸ Contenido para aprendizaje y pruebas <b>autorizadas</b>. Practica solo en entornos propios o con permiso explÃ­cito.</div></div>
+<div class="aviso"><div class="wrap">⚠️ Contenido para aprendizaje y pruebas <b>autorizadas</b>. Practica solo en entornos propios o con permiso explícito.</div></div>
 <main class="wrap">
   <div class="stats">{stats_html}</div>
-  <h2 class="sec">QuÃ© incluye</h2>
+  <h2 class="sec">Qué incluye</h2>
   <div class="grid">{feats_html}</div>
   <h2 class="sec">Las {len(partes)} partes</h2>
   <div class="parts">{parts_html}</div>
 </main>
 <footer><div class="wrap">
-  Programa de Ciberseguridad Moderna Â· {total} clases Â· licencia
+  Programa de Ciberseguridad Moderna · {total} clases · licencia
   <a href="https://github.com/vladimiracunadev-create/modern-cybersecurity-program">MIT en GitHub</a><br>
-  <a href="classes/README.html">Ãndice de clases</a> Â· <a href="rutas/README.html">Rutas</a> Â·
-  <a href="autoevaluaciones/quiz.html">AutoevaluaciÃ³n</a> Â· <a href="autoevaluaciones/progreso.html">Progreso</a>
+  <a href="classes/README.html">Índice de clases</a> · <a href="rutas/README.html">Rutas</a> ·
+  <a href="autoevaluaciones/quiz.html">Autoevaluación</a> · <a href="autoevaluaciones/progreso.html">Progreso</a>
 </div></footer>
 """
     doc = (f"<!doctype html><html lang='es'><head><meta charset='utf-8'>"
@@ -292,7 +292,7 @@ def main() -> int:
             escribir(rel, open(p, encoding="utf-8").read())
             generados += 1
 
-    # Todo el Ã¡rbol de classes/.
+    # Todo el árbol de classes/.
     for cur, _, files in os.walk(os.path.join(ROOT, "classes")):
         for fn in files:
             if fn.endswith(".md"):
@@ -301,18 +301,18 @@ def main() -> int:
                 escribir(rel, open(p, encoding="utf-8").read())
                 generados += 1
 
-    # index.html del sitio = README raÃ­z renderizado.
-    # Documentos de certificaciones (uno por cert + Ã­ndice).
+    # index.html del sitio = README raíz renderizado.
+    # Documentos de certificaciones (uno por cert + índice).
     for p in glob.glob(os.path.join(ROOT, "certificaciones", "*.md")):
         rel = os.path.relpath(p, ROOT).replace("\\", "/")
         escribir(rel, open(p, encoding="utf-8").read())
         generados += 1
 
-    # Portada diseÃ±ada (NO se usa el README como landing: el markdown dentro de
-    # <div align="center"> no se renderiza y se veÃ­a roto).
+    # Portada diseñada (NO se usa el README como landing: el markdown dentro de
+    # <div align="center"> no se renderiza y se veía roto).
     escribir_landing(datos_partes())
 
-    # PÃ¡ginas interactivas del portal (quiz + progreso), ya autocontenidas.
+    # Páginas interactivas del portal (quiz + progreso), ya autocontenidas.
     destino_auto = os.path.join(OUT, "autoevaluaciones")
     os.makedirs(destino_auto, exist_ok=True)
     for nombre in ("quiz.html", "progreso.html"):
@@ -324,7 +324,7 @@ def main() -> int:
     # .nojekyll para que Pages no ignore archivos con nombres especiales.
     open(os.path.join(OUT, ".nojekyll"), "w").close()
 
-    print(f"Sitio generado en site/  ({generados} pÃ¡ginas HTML + index.html)")
+    print(f"Sitio generado en site/  ({generados} páginas HTML + index.html)")
     return 0
 
 
