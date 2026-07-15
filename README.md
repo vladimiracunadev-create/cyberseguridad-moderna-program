@@ -94,6 +94,7 @@ comando, más una colección de retos tipo CTF:
 - 🔎 **[Code review / SAST](labs/appsec-code/README.md)** — app vulnerable + Semgrep/Bandit · Partes 11 y 17.
 - 🤖 **[Pentest con IA (kali-mcp)](labs/kali-mcp-ia/README.md)** — agente de IA orquestando Kali vía MCP · Parte 18.
 - 🪟 **[Triaje forense de Windows (RootCause)](labs/rootcause-windows/README.md)** — sensor forense de comportamiento en Rust · Partes 6, 8 y 9.
+- 🌐 **[Escaneo de red (nmap)](labs/redes-nmap/README.md)** · 💥 **[Explotación de binarios (pwn)](labs/pwn-binarios/README.md)** · ☁️ **[Auditoría cloud (CSPM)](labs/cloud-security/README.md)** — Partes 1, 5 y 10.
 - 🚩 **[Retos tipo CTF](ctf/README.md)** — web, cripto, redes, forense, OSINT y pwn, con writeups.
 
 ➡️ Ver todo en **[labs/](labs/README.md)**.
@@ -106,6 +107,12 @@ comando, más una colección de retos tipo CTF:
 - 🎓 **[Certificaciones](certificaciones/README.md)** — mapeo del programa a Security+, PenTest+, CySA+, OSCP, CISSP, BTL1 y SANS con **% de cobertura ponderado por dominio**.
 
 🌐 Todo navegable en el **[sitio del curso](https://vladimiracunadev-create.github.io/cyberseguridad-moderna-program/)** (GitHub Pages).
+
+## 👩‍🏫 Para instructores
+
+- 📅 **[Syllabus y cronograma](docs/syllabus.md)** — horas por parte, dependencias y un plan de 30 semanas.
+- 📊 **[Rúbrica de evaluación](docs/rubrica-evaluacion.md)** — cómo puntuar retos, labs y capstones.
+- 🎓 **[Examen final por rol](docs/examen-final-por-rol.md)** — teoría + práctica + informe para cada ruta.
 
 ## 🚀 Cómo usar el programa
 

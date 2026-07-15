@@ -1,0 +1,38 @@
+name: redes-nmap-lab
+
+# Laboratorio de escaneo y enumeración de red (Parte 1). Levanta varios servicios
+# como OBJETIVOS en una red aislada y un contenedor "scanner" con nmap/tshark para
+# analizarlos desde dentro de esa red. Todo local; nada se expone a Internet.
+
+services:
+  scanner:
+    image: instrumentisto/nmap:latest
+    container_name: lab-redes-scanner
+    command: ["sleep", "infinity"]
+    cap_add: ["NET_RAW", "NET_ADMIN"]   # para escaneos SYN/OS
+    networks: [labnet]
+
+  web:
+    image: nginx:1.27-alpine
+    container_name: lab-redes-web
+    networks: [labnet]
+
+  ftp:
+    image: delfer/alpine-ftp-server:latest
+    container_name: lab-redes-ftp
+    environment:
+      - USERS=lab|labpass|/home/lab
+    networks: [labnet]
+
+  ssh:
+    image: linuxserver/openssh-server:latest
+    container_name: lab-redes-ssh
+    environment:
+      - USER_NAME=lab
+      - USER_PASSWORD=labpass
+      - PASSWORD_ACCESS=true
+    networks: [labnet]
+
+networks:
+  labnet:
+    driver: bridge

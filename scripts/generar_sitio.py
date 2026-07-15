@@ -26,7 +26,8 @@ OUT = os.path.join(ROOT, "site")
 # Markdown de origen que se publican (rutas relativas al repo).
 INCLUIR_TOP = ["README.md", "ROADMAP.md", "CONTRIBUTING.md", "SECURITY.md",
                "rutas/README.md", "autoevaluaciones/README.md", "labs/README.md",
-               "ctf/README.md"]
+               "ctf/README.md", "docs/syllabus.md", "docs/rubrica-evaluacion.md",
+               "docs/examen-final-por-rol.md"]
 
 LINK_MD = re.compile(r"\]\(([^)]+?)\.md((?:#[^)]*)?)\)")
 

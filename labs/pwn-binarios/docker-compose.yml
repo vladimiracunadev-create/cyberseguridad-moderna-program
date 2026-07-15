@@ -1,0 +1,15 @@
+name: pwn-binarios-lab
+
+# Estación de explotación de binarios. El binario vulnerable se compila dentro de la
+# imagen (ver Dockerfile) y todo corre aislado en el contenedor.
+
+services:
+  pwn:
+    build: .
+    container_name: lab-pwn
+    stdin_open: true
+    tty: true
+    # ASLR desactivado dentro del contenedor para simplificar la práctica de la clase 120.
+    # (En un objetivo real, ASLR está activo — ver clase 122 para bypass.)
+    security_opt:
+      - seccomp=unconfined

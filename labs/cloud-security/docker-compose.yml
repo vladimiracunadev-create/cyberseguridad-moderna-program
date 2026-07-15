@@ -1,0 +1,18 @@
+name: cloud-security-lab
+
+# Toolbox de auditoría cloud/contenedores. Herramientas de solo lectura.
+# NO incluye credenciales: montas las tuyas (perfil de laboratorio, permisos de
+# solo lectura) o auditas un clúster local kind. Nunca uses una cuenta de producción.
+
+services:
+  auditor:
+    build: .
+    container_name: lab-cloud-auditor
+    stdin_open: true
+    tty: true
+    volumes:
+      - ./salida:/audit/salida
+      # Monta tus credenciales de SOLO LECTURA de laboratorio (descomenta lo que uses):
+      # - ~/.aws:/root/.aws:ro
+      # - ~/.config/gcloud:/root/.config/gcloud:ro
+      # - ~/.kube:/root/.kube:ro

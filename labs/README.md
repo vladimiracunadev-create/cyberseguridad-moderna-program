@@ -38,6 +38,9 @@ docker compose down -v      # apagar y borrar también los volúmenes/datos
 | [`appsec-code`](appsec-code/README.md) | App vulnerable + Semgrep/Bandit para code review y SAST | Partes 11 y 17 · PenTest+/CISSP | ✅ Disponible |
 | [`kali-mcp-ia`](kali-mcp-ia/README.md) | Agente de IA orquestando Kali vía MCP (usa kali-mcp, MIT) | Parte 18 | ✅ Disponible |
 | [`rootcause-windows`](rootcause-windows/README.md) | Triaje forense de Windows con RootCause (sensor de comportamiento en Rust, Apache-2.0) | Partes 6, 8 y 9 | ✅ Disponible |
+| [`redes-nmap`](redes-nmap/README.md) | Objetivos en red aislada + scanner nmap para descubrimiento y enumeración | Parte 1 | ✅ Disponible |
+| [`pwn-binarios`](pwn-binarios/README.md) | Binario vulnerable + gdb/pwntools para explotación de stack overflow | Parte 5 | ✅ Disponible |
+| [`cloud-security`](cloud-security/README.md) | Toolbox Prowler/ScoutSuite/trivy/kube-bench para auditoría CSPM | Parte 10 | ✅ Disponible |
 
 Además: **[🚩 Retos tipo CTF](../ctf/README.md)** — colección de retos por categoría (web, cripto, redes, forense, OSINT, pwn) con solución.
 
