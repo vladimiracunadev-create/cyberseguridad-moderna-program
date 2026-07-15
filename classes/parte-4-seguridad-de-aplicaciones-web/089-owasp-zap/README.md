@@ -115,4 +115,4 @@ Con `zap-baseline.py` o `zap-full-scan.py` en un contenedor, haciendo que el pip
 
 ## ➡️ Siguiente clase
 
-[Clase 090 - Mapeo, spidering y descubrimiento de contenido](../090-mapeo-spidering-y-descubrimiento-de-contenido/README.md)
+[Clase 090 — Mapeo, spidering y descubrimiento de contenido](../090-mapeo-spidering-y-descubrimiento-de-contenido/README.md)

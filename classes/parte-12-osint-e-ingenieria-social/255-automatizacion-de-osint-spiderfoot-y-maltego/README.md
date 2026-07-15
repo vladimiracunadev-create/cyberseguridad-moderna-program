@@ -129,4 +129,4 @@ No. Recolecta a escala, pero el juicio, la verificación y la interpretación si
 
 ## ➡️ Siguiente clase
 
-[Clase 256 - Fundamentos de ingenieria social](../256-fundamentos-de-ingenieria-social/README.md)
+[Clase 256 — Fundamentos de ingeniería social](../256-fundamentos-de-ingenieria-social/README.md)

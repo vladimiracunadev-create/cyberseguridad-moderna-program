@@ -138,4 +138,4 @@ amplifica tu criterio; no lo sustituye.
 
 ## ➡️ Siguiente clase
 
-[Clase 334 - Reconocimiento y escaneo asistidos por IA](../334-reconocimiento-y-escaneo-asistidos-por-ia/README.md)
+[Clase 334 — Reconocimiento y escaneo asistidos por IA](../334-reconocimiento-y-escaneo-asistidos-por-ia/README.md)

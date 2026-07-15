@@ -154,4 +154,4 @@ No pongas secretos en el código. Usa un secrets manager/vault e inyéctalos en 
 
 ## ➡️ Siguiente clase
 
-[Clase 242 - Seguridad en pipelines CI/CD](../242-seguridad-en-pipelines-ci-cd/README.md)
+[Clase 242 — Seguridad en pipelines CI/CD](../242-seguridad-en-pipelines-ci-cd/README.md)

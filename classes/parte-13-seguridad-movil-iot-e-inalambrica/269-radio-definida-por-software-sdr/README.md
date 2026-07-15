@@ -123,4 +123,4 @@ Un código que cambia en cada uso para evitar ataques de repetición; distinguir
 
 ## ➡️ Siguiente clase
 
-[Clase 270 - Ataques a RFID y NFC](../270-ataques-a-rfid-y-nfc/README.md)
+[Clase 270 — Ataques a RFID y NFC](../270-ataques-a-rfid-y-nfc/README.md)

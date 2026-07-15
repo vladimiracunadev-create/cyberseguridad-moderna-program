@@ -127,4 +127,4 @@ OAEP para cifrado nuevo; PKCS#1 v1.5 es propenso a ataques (Bleichenbacher) y se
 
 ## ➡️ Siguiente clase
 
-[Clase 050 - Criptografia de curva eliptica (ECC)](../050-criptografia-de-curva-eliptica-ecc/README.md)
+[Clase 050 — Criptografía de curva elíptica (ECC)](../050-criptografia-de-curva-eliptica-ecc/README.md)

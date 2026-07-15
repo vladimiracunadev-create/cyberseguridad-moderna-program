@@ -113,4 +113,4 @@ Para invalidar cualquier ID que el atacante pudiera haber fijado antes de la aut
 
 ## ➡️ Siguiente clase
 
-[Clase 103 - Ataques y seguridad de JWT](../103-ataques-y-seguridad-de-jwt/README.md)
+[Clase 103 — Ataques y seguridad de JWT](../103-ataques-y-seguridad-de-jwt/README.md)

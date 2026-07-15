@@ -121,4 +121,4 @@ al agente para que haga algo fuera de alcance.
 
 ## ➡️ Siguiente clase
 
-[Clase 333 - kali-mcp: orquestar herramientas de Kali desde un agente de IA](../333-kali-mcp-orquestar-herramientas-de-kali-desde-un-agente-de-ia/README.md)
+[Clase 333 — kali-mcp: orquestar herramientas de Kali desde un agente de IA](../333-kali-mcp-orquestar-herramientas-de-kali-desde-un-agente-de-ia/README.md)

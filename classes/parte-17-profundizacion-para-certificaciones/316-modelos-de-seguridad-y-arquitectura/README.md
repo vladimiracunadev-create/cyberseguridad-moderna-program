@@ -133,4 +133,4 @@ El monitor de referencia es el **concepto** abstracto (mediar todo acceso); el k
 
 ## ➡️ Siguiente clase
 
-[Clase 317 - Seguridad física y ambiental](../317-seguridad-fisica-y-ambiental/README.md)
+[Clase 317 — Seguridad física y ambiental](../317-seguridad-fisica-y-ambiental/README.md)

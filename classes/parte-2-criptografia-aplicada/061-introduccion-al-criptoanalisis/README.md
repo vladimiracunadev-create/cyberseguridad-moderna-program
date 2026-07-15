@@ -114,4 +114,4 @@ No directamente; usa primitivas estándar bien analizadas. Preocúpate por la im
 
 ## ➡️ Siguiente clase
 
-[Clase 062 - Criptografia post-cuantica](../062-criptografia-post-cuantica/README.md)
+[Clase 062 — Criptografía post-cuántica](../062-criptografia-post-cuantica/README.md)

@@ -119,4 +119,4 @@ Permite saber qué componentes de terceros usa el dispositivo para reaccionar cu
 
 ## ➡️ Siguiente clase
 
-[Clase 276 - Gobernanza de la seguridad de la informacion](../../parte-14-grc-riesgo-y-cumplimiento/276-gobernanza-de-la-seguridad-de-la-informacion/README.md)
+[Clase 276 — Gobernanza de la seguridad de la información](../../parte-14-grc-riesgo-y-cumplimiento/276-gobernanza-de-la-seguridad-de-la-informacion/README.md)

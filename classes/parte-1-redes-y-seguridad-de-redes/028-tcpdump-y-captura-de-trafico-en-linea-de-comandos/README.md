@@ -165,4 +165,4 @@ Filtra en origen con BPF, usa snap length moderado si solo necesitas cabeceras (
 
 ## ➡️ Siguiente clase
 
-[Clase 029 - Nmap: descubrimiento de hosts y tecnicas de ping](../029-nmap-descubrimiento-de-hosts-y-tecnicas-de-ping/README.md)
+[Clase 029 — Nmap: descubrimiento de hosts y técnicas de ping](../029-nmap-descubrimiento-de-hosts-y-tecnicas-de-ping/README.md)

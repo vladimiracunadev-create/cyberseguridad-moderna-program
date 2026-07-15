@@ -121,4 +121,4 @@ No de forma útil ni legal: los sistemas de pago usan criptografía fuerte y val
 
 ## ➡️ Siguiente clase
 
-[Clase 271 - Seguridad de Bluetooth y BLE](../271-seguridad-de-bluetooth-y-ble/README.md)
+[Clase 271 — Seguridad de Bluetooth y BLE](../271-seguridad-de-bluetooth-y-ble/README.md)

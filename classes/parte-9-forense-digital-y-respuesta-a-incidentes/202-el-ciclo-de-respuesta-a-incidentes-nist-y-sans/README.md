@@ -117,4 +117,4 @@ Corto: aislar el equipo ya. Largo: solución temporal estable (segmentar red, re
 
 ## ➡️ Siguiente clase
 
-[Clase 203 - Adquisicion forense: discos e imagenes](../203-adquisicion-forense-discos-e-imagenes/README.md)
+[Clase 203 — Adquisición forense: discos e imágenes](../203-adquisicion-forense-discos-e-imagenes/README.md)

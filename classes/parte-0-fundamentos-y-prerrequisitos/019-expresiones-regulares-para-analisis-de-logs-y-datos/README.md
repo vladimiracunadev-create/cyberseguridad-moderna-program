@@ -130,4 +130,4 @@ Escribe `iocextract.py`, una herramienta que reciba un archivo de texto y extrai
 
 ## ➡️ Siguiente clase
 
-[Clase 020 - Sistemas de numeracion y encoding: binario, hex, base64 y URL](../020-sistemas-de-numeracion-y-encoding-binario-hex-base64-y-url/README.md)
+[Clase 020 — Sistemas de numeración y encoding: binario, hex, base64 y URL](../020-sistemas-de-numeracion-y-encoding-binario-hex-base64-y-url/README.md)

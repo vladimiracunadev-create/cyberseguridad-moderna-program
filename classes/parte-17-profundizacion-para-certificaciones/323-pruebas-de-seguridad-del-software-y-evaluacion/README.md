@@ -136,4 +136,4 @@ Por riesgo real: severidad técnica (CVSS/CWE) combinada con exposición (¿es a
 
 ## ➡️ Siguiente clase
 
-[Clase 324 - Operaciones de seguridad: hardening y gestión de configuración](../324-operaciones-de-seguridad-hardening-y-gestion-de-configuracion/README.md)
+[Clase 324 — Operaciones de seguridad: hardening y gestión de configuración](../324-operaciones-de-seguridad-hardening-y-gestion-de-configuracion/README.md)

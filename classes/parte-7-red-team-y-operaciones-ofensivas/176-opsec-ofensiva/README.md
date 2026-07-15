@@ -112,4 +112,4 @@ El cuaderno es interno y esencial para deconfliction, reproducibilidad y el info
 
 ## ➡️ Siguiente clase
 
-[Clase 177 - Red teaming fisico](../177-red-teaming-fisico/README.md)
+[Clase 177 — Red teaming físico](../177-red-teaming-fisico/README.md)

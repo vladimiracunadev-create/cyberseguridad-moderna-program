@@ -113,4 +113,4 @@ La validación laxa de `redirect_uri` y la falta de `state`, que llevan a robo d
 
 ## ➡️ Siguiente clase
 
-[Clase 105 - Control de acceso roto: IDOR y path traversal](../105-control-de-acceso-roto-idor-y-path-traversal/README.md)
+[Clase 105 — Control de acceso roto: IDOR y path traversal](../105-control-de-acceso-roto-idor-y-path-traversal/README.md)

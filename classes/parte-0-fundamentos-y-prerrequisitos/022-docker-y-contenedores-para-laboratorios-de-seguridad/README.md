@@ -147,4 +147,4 @@ Crea con Docker Compose un laboratorio web vulnerable reproducible (por ejemplo 
 
 ## ➡️ Siguiente clase
 
-[Clase 023 - Sistemas operativos: procesos, memoria y syscalls](../023-sistemas-operativos-procesos-memoria-y-syscalls/README.md)
+[Clase 023 — Sistemas operativos: procesos, memoria y syscalls](../023-sistemas-operativos-procesos-memoria-y-syscalls/README.md)

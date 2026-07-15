@@ -126,4 +126,4 @@ Con monitoreo reforzado durante un periodo y criterios objetivos: cero IOCs acti
 
 ## ➡️ Siguiente clase
 
-[Clase 217 - Analisis de causa raiz](../217-analisis-de-causa-raiz/README.md)
+[Clase 217 — Análisis de causa raíz](../217-analisis-de-causa-raiz/README.md)

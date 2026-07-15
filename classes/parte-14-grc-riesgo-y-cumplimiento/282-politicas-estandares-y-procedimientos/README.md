@@ -117,4 +117,4 @@ Sí, si se documentan, se aprueban, tienen controles compensatorios y caducan. U
 
 ## ➡️ Siguiente clase
 
-[Clase 283 - Continuidad de negocio y plan de recuperacion ante desastres](../283-continuidad-de-negocio-y-plan-de-recuperacion-ante-desastres/README.md)
+[Clase 283 — Continuidad de negocio y plan de recuperación ante desastres](../283-continuidad-de-negocio-y-plan-de-recuperacion-ante-desastres/README.md)

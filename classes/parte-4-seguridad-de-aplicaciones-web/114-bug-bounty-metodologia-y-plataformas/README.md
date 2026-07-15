@@ -113,4 +113,4 @@ La automatización ayuda en recon y detección superficial, pero los bugs bien p
 
 ## ➡️ Siguiente clase
 
-[Clase 115 - Secure coding y defensa de aplicaciones web](../115-secure-coding-y-defensa-de-aplicaciones-web/README.md)
+[Clase 115 — Secure coding y defensa de aplicaciones web](../115-secure-coding-y-defensa-de-aplicaciones-web/README.md)

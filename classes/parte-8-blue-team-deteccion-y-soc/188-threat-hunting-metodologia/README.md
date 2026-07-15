@@ -114,4 +114,4 @@ No. Una cacería "sin hallazgo" es valiosa: valida controles, mejora baselines y
 
 ## ➡️ Siguiente clase
 
-[Clase 189 - Analisis de endpoints con EDR](../189-analisis-de-endpoints-con-edr/README.md)
+[Clase 189 — Análisis de endpoints con EDR](../189-analisis-de-endpoints-con-edr/README.md)

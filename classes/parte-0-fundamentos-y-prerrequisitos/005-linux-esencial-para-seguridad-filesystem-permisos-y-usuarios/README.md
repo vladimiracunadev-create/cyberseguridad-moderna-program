@@ -146,4 +146,4 @@ Configura una carpeta de proyecto compartida por un grupo `equipo` con estas pro
 
 ## ➡️ Siguiente clase
 
-[Clase 006 - Linea de comandos Linux avanzada: grep, sed, awk, pipes y procesos](../006-linea-de-comandos-linux-avanzada-grep-sed-awk-pipes-y-procesos/README.md)
+[Clase 006 — Línea de comandos Linux avanzada: grep, sed, awk, pipes y procesos](../006-linea-de-comandos-linux-avanzada-grep-sed-awk-pipes-y-procesos/README.md)

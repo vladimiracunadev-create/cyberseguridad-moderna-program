@@ -143,4 +143,4 @@ No. Encuentra desviaciones de esquema y errores, pero la lógica de autorizació
 
 ## ➡️ Siguiente clase
 
-[Clase 248 - Cultura DevSecOps y security champions](../248-cultura-devsecops-y-security-champions/README.md)
+[Clase 248 — Cultura DevSecOps y security champions](../248-cultura-devsecops-y-security-champions/README.md)

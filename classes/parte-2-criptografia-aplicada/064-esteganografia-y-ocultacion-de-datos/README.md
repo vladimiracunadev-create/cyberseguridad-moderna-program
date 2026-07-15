@@ -133,4 +133,4 @@ Marcas de agua, trazabilidad de filtraciones, autenticación de contenido y ocul
 
 ## ➡️ Siguiente clase
 
-[Clase 065 - Implementaciones seguras y errores criptograficos comunes](../065-implementaciones-seguras-y-errores-criptograficos-comunes/README.md)
+[Clase 065 — Implementaciones seguras y errores criptográficos comunes](../065-implementaciones-seguras-y-errores-criptograficos-comunes/README.md)

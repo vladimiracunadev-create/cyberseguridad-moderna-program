@@ -109,4 +109,4 @@ equivocada puede causar más daño que el incidente.
 
 ## ➡️ Siguiente clase
 
-[Clase 338 - Generación de informes y flujos de trabajo con IA](../338-generacion-de-informes-y-flujos-de-trabajo-con-ia/README.md)
+[Clase 338 — Generación de informes y flujos de trabajo con IA](../338-generacion-de-informes-y-flujos-de-trabajo-con-ia/README.md)

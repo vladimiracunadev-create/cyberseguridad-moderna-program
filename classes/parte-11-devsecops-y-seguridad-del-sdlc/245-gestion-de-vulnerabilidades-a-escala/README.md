@@ -135,4 +135,4 @@ Es una forma estandarizada de decir "este CVE está presente pero no somos explo
 
 ## ➡️ Siguiente clase
 
-[Clase 246 - Supply chain security: SBOM y SLSA](../246-supply-chain-security-sbom-y-slsa/README.md)
+[Clase 246 — Supply chain security: SBOM y SLSA](../246-supply-chain-security-sbom-y-slsa/README.md)

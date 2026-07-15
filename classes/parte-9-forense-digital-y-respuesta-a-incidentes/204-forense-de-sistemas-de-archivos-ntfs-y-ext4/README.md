@@ -160,4 +160,4 @@ En Windows moderno normalmente sí. Es una fuente riquísima de creaciones, reno
 
 ## ➡️ Siguiente clase
 
-[Clase 205 - Analisis de artefactos de Windows](../205-analisis-de-artefactos-de-windows/README.md)
+[Clase 205 — Análisis de artefactos de Windows](../205-analisis-de-artefactos-de-windows/README.md)

@@ -122,4 +122,4 @@ Porque un login legítimo genera poca telemetría anómala frente a un exploit r
 
 ## ➡️ Siguiente clase
 
-[Clase 168 - Evasion de defensas: antivirus y EDR](../168-evasion-de-defensas-antivirus-y-edr/README.md)
+[Clase 168 — Evasión de defensas: antivirus y EDR](../168-evasion-de-defensas-antivirus-y-edr/README.md)

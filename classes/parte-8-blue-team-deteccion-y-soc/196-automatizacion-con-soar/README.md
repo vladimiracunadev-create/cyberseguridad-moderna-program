@@ -117,4 +117,4 @@ Con cuidado y salvaguardas. Aislar un host o bloquear una IP puede impactar prod
 
 ## ➡️ Siguiente clase
 
-[Clase 197 - Metricas y madurez del SOC](../197-metricas-y-madurez-del-soc/README.md)
+[Clase 197 — Métricas y madurez del SOC](../197-metricas-y-madurez-del-soc/README.md)

@@ -131,4 +131,4 @@ No, pero sí impredecible (CBC) o único (CTR/GCM). Se transmite junto al texto 
 
 ## ➡️ Siguiente clase
 
-[Clase 048 - Cifrado de flujo: ChaCha20 y por que evitar RC4](../048-cifrado-de-flujo-chacha20-y-por-que-evitar-rc4/README.md)
+[Clase 048 — Cifrado de flujo: ChaCha20 y por qué evitar RC4](../048-cifrado-de-flujo-chacha20-y-por-que-evitar-rc4/README.md)

@@ -169,4 +169,4 @@ consulta el *Intel SDM* para el resto.
 
 ## ➡️ Siguiente clase
 
-[Clase 117 - El stack, los registros y las convenciones de llamada](../117-el-stack-los-registros-y-las-convenciones-de-llamada/README.md)
+[Clase 117 — El stack, los registros y las convenciones de llamada](../117-el-stack-los-registros-y-las-convenciones-de-llamada/README.md)

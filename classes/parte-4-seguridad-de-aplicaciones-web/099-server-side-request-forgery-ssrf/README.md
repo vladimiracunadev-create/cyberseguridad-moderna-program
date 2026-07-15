@@ -118,4 +118,4 @@ No. Los blocklists se evaden fácil. Usa allowlists de destinos y bloquea rangos
 
 ## ➡️ Siguiente clase
 
-[Clase 100 - XML External Entities (XXE)](../100-xml-external-entities-xxe/README.md)
+[Clase 100 — XML External Entities (XXE)](../100-xml-external-entities-xxe/README.md)

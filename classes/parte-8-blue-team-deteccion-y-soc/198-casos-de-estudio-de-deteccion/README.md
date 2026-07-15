@@ -115,4 +115,4 @@ Ambos, pero el valor duradero está en las detecciones y lecciones que dejas: ca
 
 ## ➡️ Siguiente clase
 
-[Clase 199 - Ingenieria de deteccion como disciplina](../199-ingenieria-de-deteccion-como-disciplina/README.md)
+[Clase 199 — Ingeniería de detección como disciplina](../199-ingenieria-de-deteccion-como-disciplina/README.md)

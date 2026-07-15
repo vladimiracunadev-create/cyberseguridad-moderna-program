@@ -118,4 +118,4 @@ Solo si tratas PHI de entidades cubiertas estadounidenses. Para salud en la UE a
 
 ## ➡️ Siguiente clase
 
-[Clase 282 - Politicas, estandares y procedimientos](../282-politicas-estandares-y-procedimientos/README.md)
+[Clase 282 — Políticas, estándares y procedimientos](../282-politicas-estandares-y-procedimientos/README.md)

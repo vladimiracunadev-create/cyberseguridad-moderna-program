@@ -135,4 +135,4 @@ Monta en tu laboratorio un ataque de ARP spoofing entre dos VMs y **demuéstralo
 
 ## ➡️ Siguiente clase
 
-[Clase 013 - HTTP, HTTPS y la arquitectura de la web moderna](../013-http-https-y-la-arquitectura-de-la-web-moderna/README.md)
+[Clase 013 — HTTP, HTTPS y la arquitectura de la web moderna](../013-http-https-y-la-arquitectura-de-la-web-moderna/README.md)

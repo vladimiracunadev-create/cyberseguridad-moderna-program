@@ -139,4 +139,4 @@ Sí, si es irreversible de verdad. Pero anonimizar bien es difícil; la seudonim
 
 ## ➡️ Siguiente clase
 
-[Clase 290 - Certificaciones y desarrollo de carrera](../290-certificaciones-y-desarrollo-de-carrera/README.md)
+[Clase 290 — Certificaciones y desarrollo de carrera](../290-certificaciones-y-desarrollo-de-carrera/README.md)

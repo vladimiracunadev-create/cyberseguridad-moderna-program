@@ -127,4 +127,4 @@ Manéjalo solo en VMs aisladas y desechables, con snapshots, sin salida a Intern
 
 ## ➡️ Siguiente clase
 
-[Clase 221 - Fundamentos de seguridad en la nube y responsabilidad compartida](../../parte-10-seguridad-en-la-nube-y-contenedores/221-fundamentos-de-seguridad-en-la-nube-y-responsabilidad-compartida/README.md)
+[Clase 221 — Fundamentos de seguridad en la nube y responsabilidad compartida](../../parte-10-seguridad-en-la-nube-y-contenedores/221-fundamentos-de-seguridad-en-la-nube-y-responsabilidad-compartida/README.md)

@@ -129,4 +129,4 @@ Contraseñas largas y aleatorias para cuentas de servicio, uso de gMSA/dMSA, des
 
 ## ➡️ Siguiente clase
 
-[Clase 172 - Active Directory: Pass-the-Hash y Pass-the-Ticket](../172-active-directory-pass-the-hash-y-pass-the-ticket/README.md)
+[Clase 172 — Active Directory: Pass-the-Hash y Pass-the-Ticket](../172-active-directory-pass-the-hash-y-pass-the-ticket/README.md)

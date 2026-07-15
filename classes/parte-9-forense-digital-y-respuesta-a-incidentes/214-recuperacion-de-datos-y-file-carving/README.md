@@ -145,4 +145,4 @@ Artefactos como emails, URLs, números de tarjeta y dominios, sin necesidad de p
 
 ## ➡️ Siguiente clase
 
-[Clase 215 - Playbooks de respuesta a incidentes](../215-playbooks-de-respuesta-a-incidentes/README.md)
+[Clase 215 — Playbooks de respuesta a incidentes](../215-playbooks-de-respuesta-a-incidentes/README.md)

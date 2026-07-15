@@ -119,4 +119,4 @@ Sí: análisis estático del IPA, revisión de Info.plist y entitlements, y prue
 
 ## ➡️ Siguiente clase
 
-[Clase 264 - Pentest de aplicaciones iOS](../264-pentest-de-aplicaciones-ios/README.md)
+[Clase 264 — Pentest de aplicaciones iOS](../264-pentest-de-aplicaciones-ios/README.md)

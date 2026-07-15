@@ -125,4 +125,4 @@ No. SSDF (NIST) es un marco de prácticas de referencia; SAMM es un modelo de ma
 
 ## ➡️ Siguiente clase
 
-[Clase 237 - Modelado de amenazas: STRIDE y DREAD](../237-modelado-de-amenazas-stride-y-dread/README.md)
+[Clase 237 — Modelado de amenazas: STRIDE y DREAD](../237-modelado-de-amenazas-stride-y-dread/README.md)

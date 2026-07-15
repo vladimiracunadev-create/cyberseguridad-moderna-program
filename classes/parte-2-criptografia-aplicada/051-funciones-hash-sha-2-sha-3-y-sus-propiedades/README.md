@@ -122,4 +122,4 @@ Porque atacantes las fabrican intencionadamente (SHAttered); afectan firmas y co
 
 ## ➡️ Siguiente clase
 
-[Clase 052 - HMAC y autenticacion de mensajes](../052-hmac-y-autenticacion-de-mensajes/README.md)
+[Clase 052 — HMAC y autenticación de mensajes](../052-hmac-y-autenticacion-de-mensajes/README.md)

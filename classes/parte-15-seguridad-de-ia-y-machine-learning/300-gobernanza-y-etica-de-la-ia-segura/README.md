@@ -128,4 +128,4 @@ La model card y el registro de riesgos: dan visibilidad inmediata de límites y 
 
 ## ➡️ Siguiente clase
 
-[Clase 301 - Roadmap de certificaciones: CompTIA, OSCP, CISSP y mas](../../parte-16-capstones-y-preparacion-de-certificaciones/301-roadmap-de-certificaciones-comptia-oscp-cissp-y-mas/README.md)
+[Clase 301 — Roadmap de certificaciones: CompTIA, OSCP, CISSP y más](../../parte-16-capstones-y-preparacion-de-certificaciones/301-roadmap-de-certificaciones-comptia-oscp-cissp-y-mas/README.md)

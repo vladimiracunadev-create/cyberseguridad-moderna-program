@@ -119,4 +119,4 @@ No siempre. El análisis de red, app y nube da mucho valor sin tocar el hardware
 
 ## ➡️ Siguiente clase
 
-[Clase 267 - Hacking de firmware](../267-hacking-de-firmware/README.md)
+[Clase 267 — Hacking de firmware](../267-hacking-de-firmware/README.md)

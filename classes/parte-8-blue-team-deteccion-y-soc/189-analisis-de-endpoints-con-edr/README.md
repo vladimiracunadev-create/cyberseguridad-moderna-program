@@ -120,4 +120,4 @@ No. Existen técnicas de evasión y tamper. Por eso el blue team combina EDR con
 
 ## ➡️ Siguiente clase
 
-[Clase 190 - Analisis de logs de Windows: Event Logs y Sysmon](../190-analisis-de-logs-de-windows-event-logs-y-sysmon/README.md)
+[Clase 190 — Análisis de logs de Windows: Event Logs y Sysmon](../190-analisis-de-logs-de-windows-event-logs-y-sysmon/README.md)

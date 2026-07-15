@@ -138,4 +138,4 @@ Documéntalo de inmediato y con honestidad. Ocultarlo destruye tu credibilidad; 
 
 ## ➡️ Siguiente clase
 
-[Clase 202 - El ciclo de respuesta a incidentes (NIST y SANS)](../202-el-ciclo-de-respuesta-a-incidentes-nist-y-sans/README.md)
+[Clase 202 — El ciclo de respuesta a incidentes (NIST y SANS)](../202-el-ciclo-de-respuesta-a-incidentes-nist-y-sans/README.md)

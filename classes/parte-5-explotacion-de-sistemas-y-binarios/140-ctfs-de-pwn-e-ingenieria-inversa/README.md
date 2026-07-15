@@ -153,4 +153,4 @@ research de vulnerabilidades y el pentesting avanzado.
 
 ## ➡️ Siguiente clase
 
-[Clase 141 - Introduccion al malware: tipos y taxonomia](../../parte-6-analisis-de-malware/141-introduccion-al-malware-tipos-y-taxonomia/README.md)
+[Clase 141 — Introducción al malware: tipos y taxonomía](../../parte-6-analisis-de-malware/141-introduccion-al-malware-tipos-y-taxonomia/README.md)

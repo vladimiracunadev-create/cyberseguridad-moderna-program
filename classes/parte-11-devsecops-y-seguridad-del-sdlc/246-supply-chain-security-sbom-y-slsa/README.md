@@ -148,4 +148,4 @@ No lo previene por sí solo, pero te permite responder en minutos ("¿estamos af
 
 ## ➡️ Siguiente clase
 
-[Clase 247 - Seguridad de APIs en el ciclo de desarrollo](../247-seguridad-de-apis-en-el-ciclo-de-desarrollo/README.md)
+[Clase 247 — Seguridad de APIs en el ciclo de desarrollo](../247-seguridad-de-apis-en-el-ciclo-de-desarrollo/README.md)

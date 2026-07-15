@@ -115,4 +115,4 @@ Empieza por handshakes híbridos (X25519 + ML-KEM) donde tu stack lo soporte y p
 
 ## ➡️ Siguiente clase
 
-[Clase 063 - Gestion de secretos: Vault y KMS](../063-gestion-de-secretos-vault-y-kms/README.md)
+[Clase 063 — Gestión de secretos: Vault y KMS](../063-gestion-de-secretos-vault-y-kms/README.md)

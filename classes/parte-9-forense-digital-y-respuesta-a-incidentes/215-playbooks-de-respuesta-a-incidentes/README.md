@@ -122,4 +122,4 @@ Revísalos tras cada incidente y en las lecciones aprendidas; un playbook es un 
 
 ## ➡️ Siguiente clase
 
-[Clase 216 - Contencion, erradicacion y recuperacion](../216-contencion-erradicacion-y-recuperacion/README.md)
+[Clase 216 — Contención, erradicación y recuperación](../216-contencion-erradicacion-y-recuperacion/README.md)

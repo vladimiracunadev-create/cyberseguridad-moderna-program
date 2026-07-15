@@ -118,4 +118,4 @@ No deserialices datos no confiables. Si es inevitable, usa formatos de datos (no
 
 ## ➡️ Siguiente clase
 
-[Clase 107 - Server-Side Template Injection (SSTI)](../107-server-side-template-injection-ssti/README.md)
+[Clase 107 — Server-Side Template Injection (SSTI)](../107-server-side-template-injection-ssti/README.md)

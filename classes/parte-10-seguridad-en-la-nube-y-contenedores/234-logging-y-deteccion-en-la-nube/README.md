@@ -126,4 +126,4 @@ En recursos críticos (buckets con datos sensibles) sí: son la única forma de 
 
 ## ➡️ Siguiente clase
 
-[Clase 235 - Respuesta a incidentes en la nube](../235-respuesta-a-incidentes-en-la-nube/README.md)
+[Clase 235 — Respuesta a incidentes en la nube](../235-respuesta-a-incidentes-en-la-nube/README.md)

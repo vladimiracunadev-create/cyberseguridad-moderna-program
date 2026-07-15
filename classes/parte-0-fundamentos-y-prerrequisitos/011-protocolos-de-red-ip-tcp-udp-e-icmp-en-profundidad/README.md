@@ -128,4 +128,4 @@ Realiza y documenta un escaneo comparativo contra tu VM víctima: un SYN scan y 
 
 ## ➡️ Siguiente clase
 
-[Clase 012 - DNS, DHCP y ARP: funcionamiento y riesgos](../012-dns-dhcp-y-arp-funcionamiento-y-riesgos/README.md)
+[Clase 012 — DNS, DHCP y ARP: funcionamiento y riesgos](../012-dns-dhcp-y-arp-funcionamiento-y-riesgos/README.md)

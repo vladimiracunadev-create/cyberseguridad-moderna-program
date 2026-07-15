@@ -171,4 +171,4 @@ Sí, con despliegues en clúster (un manager y varios workers) puede analizar en
 
 ## ➡️ Siguiente clase
 
-[Clase 045 - NetFlow y analisis de metadatos de trafico](../045-netflow-y-analisis-de-metadatos-de-trafico/README.md)
+[Clase 045 — NetFlow y análisis de metadatos de tráfico](../045-netflow-y-analisis-de-metadatos-de-trafico/README.md)

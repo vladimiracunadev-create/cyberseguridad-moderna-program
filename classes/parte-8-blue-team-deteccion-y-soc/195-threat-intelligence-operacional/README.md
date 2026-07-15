@@ -115,4 +115,4 @@ El Traffic Light Protocol clasifica cuánto puedes difundir una información (RE
 
 ## ➡️ Siguiente clase
 
-[Clase 196 - Automatizacion con SOAR](../196-automatizacion-con-soar/README.md)
+[Clase 196 — Automatización con SOAR](../196-automatizacion-con-soar/README.md)

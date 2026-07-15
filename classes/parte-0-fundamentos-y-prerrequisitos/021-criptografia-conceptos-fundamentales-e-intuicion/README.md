@@ -145,4 +145,4 @@ Implementa `securebox.py`, una herramienta que cifre y descifre un archivo con A
 
 ## ➡️ Siguiente clase
 
-[Clase 022 - Docker y contenedores para laboratorios de seguridad](../022-docker-y-contenedores-para-laboratorios-de-seguridad/README.md)
+[Clase 022 — Docker y contenedores para laboratorios de seguridad](../022-docker-y-contenedores-para-laboratorios-de-seguridad/README.md)

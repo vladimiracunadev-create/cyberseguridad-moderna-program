@@ -123,4 +123,4 @@ El DEX es bytecode de alto nivel decompilable casi a Java; el `.so` es código m
 
 ## ➡️ Siguiente clase
 
-[Clase 266 - Seguridad de IoT: panorama y superficie de ataque](../266-seguridad-de-iot-panorama-y-superficie-de-ataque/README.md)
+[Clase 266 — Seguridad de IoT: panorama y superficie de ataque](../266-seguridad-de-iot-panorama-y-superficie-de-ataque/README.md)

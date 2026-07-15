@@ -128,4 +128,4 @@ CherryTree u Obsidian; lo importante es la disciplina, no la herramienta.
 
 ## ➡️ Siguiente clase
 
-[Clase 303 - Capstone: laboratorio completo de pentest](../303-capstone-laboratorio-completo-de-pentest/README.md)
+[Clase 303 — Capstone: laboratorio completo de pentest](../303-capstone-laboratorio-completo-de-pentest/README.md)

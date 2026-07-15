@@ -155,4 +155,4 @@ Parcialmente. Herramientas como pytm generan amenazas candidatas a partir del mo
 
 ## ➡️ Siguiente clase
 
-[Clase 238 - SAST: analisis estatico de codigo](../238-sast-analisis-estatico-de-codigo/README.md)
+[Clase 238 — SAST: análisis estático de código](../238-sast-analisis-estatico-de-codigo/README.md)

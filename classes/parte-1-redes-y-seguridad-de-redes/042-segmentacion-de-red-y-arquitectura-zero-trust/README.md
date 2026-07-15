@@ -124,4 +124,4 @@ Por identidad fuerte (MFA), inventario de activos, segmentación de lo crítico 
 
 ## ➡️ Siguiente clase
 
-[Clase 043 - Network Security Monitoring (NSM): fundamentos](../043-network-security-monitoring-nsm-fundamentos/README.md)
+[Clase 043 — Network Security Monitoring (NSM): fundamentos](../043-network-security-monitoring-nsm-fundamentos/README.md)

@@ -130,4 +130,4 @@ pero asume un residuo y protégete en consecuencia.
 
 ## ➡️ Siguiente clase
 
-[Clase 261 - Seguridad de Android: arquitectura](../../parte-13-seguridad-movil-iot-e-inalambrica/261-seguridad-de-android-arquitectura/README.md)
+[Clase 261 — Seguridad de Android: arquitectura](../../parte-13-seguridad-movil-iot-e-inalambrica/261-seguridad-de-android-arquitectura/README.md)

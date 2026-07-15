@@ -113,4 +113,4 @@ Validando y recalculando toda regla en el servidor, usando bloqueos/transaccione
 
 ## ➡️ Siguiente clase
 
-[Clase 110 - Seguridad de APIs REST](../110-seguridad-de-apis-rest/README.md)
+[Clase 110 — Seguridad de APIs REST](../110-seguridad-de-apis-rest/README.md)

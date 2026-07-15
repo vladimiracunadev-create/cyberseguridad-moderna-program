@@ -123,4 +123,4 @@ UART puede no dar shell o exponer solo parte del sistema; leer el flash por SPI 
 
 ## ➡️ Siguiente clase
 
-[Clase 269 - Radio definida por software (SDR)](../269-radio-definida-por-software-sdr/README.md)
+[Clase 269 — Radio definida por software (SDR)](../269-radio-definida-por-software-sdr/README.md)

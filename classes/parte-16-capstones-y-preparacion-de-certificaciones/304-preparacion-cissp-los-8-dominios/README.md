@@ -118,4 +118,4 @@ D1 (Seguridad y gestión de riesgos), en torno al 15%. Domínalo bien.
 
 ## ➡️ Siguiente clase
 
-[Clase 305 - Capstone: operacion Red Team end-to-end](../305-capstone-operacion-red-team-end-to-end/README.md)
+[Clase 305 — Capstone: operación Red Team end-to-end](../305-capstone-operacion-red-team-end-to-end/README.md)

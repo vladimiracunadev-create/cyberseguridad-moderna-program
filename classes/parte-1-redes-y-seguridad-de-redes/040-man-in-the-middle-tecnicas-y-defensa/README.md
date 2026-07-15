@@ -124,4 +124,4 @@ Usar siempre HTTPS/HSTS, una VPN de confianza y evitar aceptar certificados o in
 
 ## ➡️ Siguiente clase
 
-[Clase 041 - Seguridad de DNS: envenenamiento, DNSSEC y tunneling](../041-seguridad-de-dns-envenenamiento-dnssec-y-tunneling/README.md)
+[Clase 041 — Seguridad de DNS: envenenamiento, DNSSEC y tunneling](../041-seguridad-de-dns-envenenamiento-dnssec-y-tunneling/README.md)

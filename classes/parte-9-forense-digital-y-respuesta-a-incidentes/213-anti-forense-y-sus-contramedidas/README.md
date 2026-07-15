@@ -142,4 +142,4 @@ Difícil por TRIM, pero busca en shadow copies, backups, journal, memoria y logs
 
 ## ➡️ Siguiente clase
 
-[Clase 214 - Recuperacion de datos y file carving](../214-recuperacion-de-datos-y-file-carving/README.md)
+[Clase 214 — Recuperación de datos y file carving](../214-recuperacion-de-datos-y-file-carving/README.md)

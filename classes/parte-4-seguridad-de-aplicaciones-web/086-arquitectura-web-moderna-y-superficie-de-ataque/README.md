@@ -119,4 +119,4 @@ No para empezar. Community cubre esta parte; Pro añade el scanner automático y
 
 ## ➡️ Siguiente clase
 
-[Clase 087 - OWASP Top 10: panorama general](../087-owasp-top-10-panorama-general/README.md)
+[Clase 087 — OWASP Top 10: panorama general](../087-owasp-top-10-panorama-general/README.md)

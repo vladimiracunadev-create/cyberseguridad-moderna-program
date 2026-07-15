@@ -122,4 +122,4 @@ Es frágil. Mejor evitar el shell por completo y validar con allowlists estricta
 
 ## ➡️ Siguiente clase
 
-[Clase 096 - Cross-Site Scripting (XSS) reflejado](../096-cross-site-scripting-xss-reflejado/README.md)
+[Clase 096 — Cross-Site Scripting (XSS) reflejado](../096-cross-site-scripting-xss-reflejado/README.md)

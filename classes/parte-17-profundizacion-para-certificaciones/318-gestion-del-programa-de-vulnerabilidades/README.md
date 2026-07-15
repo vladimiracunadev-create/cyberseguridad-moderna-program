@@ -137,4 +137,4 @@ Tendencia de riesgo abierto, MTTR por criticidad, % de remediación dentro de SL
 
 ## ➡️ Siguiente clase
 
-[Clase 319 - Análisis avanzado de phishing y correo malicioso](../319-analisis-avanzado-de-phishing-y-correo-malicioso/README.md)
+[Clase 319 — Análisis avanzado de phishing y correo malicioso](../319-analisis-avanzado-de-phishing-y-correo-malicioso/README.md)

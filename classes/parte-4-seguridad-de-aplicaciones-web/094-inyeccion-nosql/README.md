@@ -127,4 +127,4 @@ No. Para NoSQL existe NoSQLMap y payloads manuales; los conceptos son análogos 
 
 ## ➡️ Siguiente clase
 
-[Clase 095 - Inyeccion de comandos del sistema operativo](../095-inyeccion-de-comandos-del-sistema-operativo/README.md)
+[Clase 095 — Inyección de comandos del sistema operativo](../095-inyeccion-de-comandos-del-sistema-operativo/README.md)

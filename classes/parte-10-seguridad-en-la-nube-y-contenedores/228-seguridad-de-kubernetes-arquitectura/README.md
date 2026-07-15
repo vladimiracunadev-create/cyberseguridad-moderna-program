@@ -127,4 +127,4 @@ En clústeres modernos sí, pero muchas instalaciones dejan roles amplios o Serv
 
 ## ➡️ Siguiente clase
 
-[Clase 229 - Kubernetes: hardening y ataques](../229-kubernetes-hardening-y-ataques/README.md)
+[Clase 229 — Kubernetes: hardening y ataques](../229-kubernetes-hardening-y-ataques/README.md)

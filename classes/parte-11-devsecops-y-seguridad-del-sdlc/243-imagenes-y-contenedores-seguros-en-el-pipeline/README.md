@@ -174,4 +174,4 @@ Sí: usa identidad OIDC efímera y un transparency log público (Rekor). Elimina
 
 ## ➡️ Siguiente clase
 
-[Clase 244 - Politicas como codigo con OPA](../244-politicas-como-codigo-con-opa/README.md)
+[Clase 244 — Políticas como código con OPA](../244-politicas-como-codigo-con-opa/README.md)

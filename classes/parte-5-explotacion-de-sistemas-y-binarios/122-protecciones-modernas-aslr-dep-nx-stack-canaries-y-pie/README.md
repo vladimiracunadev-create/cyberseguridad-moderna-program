@@ -152,4 +152,4 @@ además el propio ejecutable.
 
 ## ➡️ Siguiente clase
 
-[Clase 123 - Bypass de protecciones: ret2libc](../123-bypass-de-protecciones-ret2libc/README.md)
+[Clase 123 — Bypass de protecciones: ret2libc](../123-bypass-de-protecciones-ret2libc/README.md)

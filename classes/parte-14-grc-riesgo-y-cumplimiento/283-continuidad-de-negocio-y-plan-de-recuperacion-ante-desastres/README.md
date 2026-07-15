@@ -140,4 +140,4 @@ No. La nube reparte responsabilidades pero tú sigues siendo responsable de tus 
 
 ## ➡️ Siguiente clase
 
-[Clase 284 - Gestion de riesgo de terceros y proveedores](../284-gestion-de-riesgo-de-terceros-y-proveedores/README.md)
+[Clase 284 — Gestión de riesgo de terceros y proveedores](../284-gestion-de-riesgo-de-terceros-y-proveedores/README.md)

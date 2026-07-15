@@ -150,4 +150,4 @@ Dynamic ARP Inspection junto con DHCP snooping en switches gestionados; en hosts
 
 ## ➡️ Siguiente clase
 
-[Clase 040 - Man-in-the-Middle: tecnicas y defensa](../040-man-in-the-middle-tecnicas-y-defensa/README.md)
+[Clase 040 — Man-in-the-Middle: técnicas y defensa](../040-man-in-the-middle-tecnicas-y-defensa/README.md)

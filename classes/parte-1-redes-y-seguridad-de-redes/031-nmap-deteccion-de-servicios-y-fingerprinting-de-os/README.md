@@ -156,4 +156,4 @@ Es la llave para automatizar la búsqueda de vulnerabilidades: se cruza con base
 
 ## ➡️ Siguiente clase
 
-[Clase 032 - Nmap Scripting Engine (NSE)](../032-nmap-scripting-engine-nse/README.md)
+[Clase 032 — Nmap Scripting Engine (NSE)](../032-nmap-scripting-engine-nse/README.md)

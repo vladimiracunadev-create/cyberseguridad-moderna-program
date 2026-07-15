@@ -113,4 +113,4 @@ Es un mapa, no una garantía. Una técnica en verde puede tener una regla frági
 
 ## ➡️ Siguiente clase
 
-[Clase 188 - Threat hunting: metodologia](../188-threat-hunting-metodologia/README.md)
+[Clase 188 — Threat hunting: metodología](../188-threat-hunting-metodologia/README.md)

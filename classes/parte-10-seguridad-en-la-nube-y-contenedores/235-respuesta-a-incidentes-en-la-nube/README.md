@@ -129,4 +129,4 @@ Porque nunca tienes plena certeza de haber eliminado toda la persistencia de un 
 
 ## ➡️ Siguiente clase
 
-[Clase 236 - Secure SDLC y filosofia shift-left](../../parte-11-devsecops-y-seguridad-del-sdlc/236-secure-sdlc-y-filosofia-shift-left/README.md)
+[Clase 236 — Secure SDLC y filosofía shift-left](../../parte-11-devsecops-y-seguridad-del-sdlc/236-secure-sdlc-y-filosofia-shift-left/README.md)

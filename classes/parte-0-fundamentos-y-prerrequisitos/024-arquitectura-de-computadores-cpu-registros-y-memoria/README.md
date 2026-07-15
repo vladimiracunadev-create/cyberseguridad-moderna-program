@@ -137,4 +137,4 @@ Toma un programa C con una función que reciba argumentos y realice un cálculo.
 
 ## ➡️ Siguiente clase
 
-[Clase 025 - Etica, legalidad, alcance y divulgacion responsable](../025-etica-legalidad-alcance-y-divulgacion-responsable/README.md)
+[Clase 025 — Ética, legalidad, alcance y divulgación responsable](../025-etica-legalidad-alcance-y-divulgacion-responsable/README.md)

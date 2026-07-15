@@ -153,4 +153,4 @@ GDB.
 
 ## ➡️ Siguiente clase
 
-[Clase 133 - Analisis estatico de binarios](../133-analisis-estatico-de-binarios/README.md)
+[Clase 133 — Análisis estático de binarios](../133-analisis-estatico-de-binarios/README.md)

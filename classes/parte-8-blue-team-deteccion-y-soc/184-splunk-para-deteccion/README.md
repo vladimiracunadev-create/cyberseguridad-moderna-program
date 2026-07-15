@@ -118,4 +118,4 @@ Porque una detección escrita contra campos CIM funciona sin importar el fabrica
 
 ## ➡️ Siguiente clase
 
-[Clase 185 - Elastic Stack y Wazuh](../185-elastic-stack-y-wazuh/README.md)
+[Clase 185 — Elastic Stack y Wazuh](../185-elastic-stack-y-wazuh/README.md)

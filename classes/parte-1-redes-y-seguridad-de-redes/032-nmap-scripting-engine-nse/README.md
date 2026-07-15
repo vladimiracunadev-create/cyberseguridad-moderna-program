@@ -178,4 +178,4 @@ Con `nmap --script-help <nombre>`, que muestra descripción, categorías, argume
 
 ## ➡️ Siguiente clase
 
-[Clase 033 - Enumeracion de servicios de red](../033-enumeracion-de-servicios-de-red/README.md)
+[Clase 033 — Enumeración de servicios de red](../033-enumeracion-de-servicios-de-red/README.md)

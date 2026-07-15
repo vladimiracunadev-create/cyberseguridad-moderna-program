@@ -131,4 +131,4 @@ Segmenta por tenant: colecciones separadas o filtro obligatorio por `tenant_id` 
 
 ## ➡️ Siguiente clase
 
-[Clase 298 - IA aplicada a la defensa: deteccion y SOC](../298-ia-aplicada-a-la-defensa-deteccion-y-soc/README.md)
+[Clase 298 — IA aplicada a la defensa: detección y SOC](../298-ia-aplicada-a-la-defensa-deteccion-y-soc/README.md)

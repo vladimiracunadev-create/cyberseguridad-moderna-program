@@ -129,4 +129,4 @@ El pattern of life y las fotos con metadatos/entorno visible (badges, matrícula
 
 ## ➡️ Siguiente clase
 
-[Clase 253 - Geolocalizacion y analisis de imagenes](../253-geolocalizacion-y-analisis-de-imagenes/README.md)
+[Clase 253 — Geolocalización y análisis de imágenes](../253-geolocalizacion-y-analisis-de-imagenes/README.md)

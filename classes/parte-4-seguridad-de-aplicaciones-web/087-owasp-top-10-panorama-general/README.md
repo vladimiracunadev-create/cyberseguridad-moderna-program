@@ -111,4 +111,4 @@ Dentro de A03 Injection desde 2021, porque comparte causa raíz: datos no confia
 
 ## ➡️ Siguiente clase
 
-[Clase 088 - Burp Suite: configuracion y flujo de trabajo](../088-burp-suite-configuracion-y-flujo-de-trabajo/README.md)
+[Clase 088 — Burp Suite: configuración y flujo de trabajo](../088-burp-suite-configuracion-y-flujo-de-trabajo/README.md)

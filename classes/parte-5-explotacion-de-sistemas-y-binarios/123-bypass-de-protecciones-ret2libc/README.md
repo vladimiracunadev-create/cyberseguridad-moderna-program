@@ -166,4 +166,4 @@ sus constraints.
 
 ## ➡️ Siguiente clase
 
-[Clase 124 - Return-Oriented Programming (ROP)](../124-return-oriented-programming-rop/README.md)
+[Clase 124 — Return-Oriented Programming (ROP)](../124-return-oriented-programming-rop/README.md)

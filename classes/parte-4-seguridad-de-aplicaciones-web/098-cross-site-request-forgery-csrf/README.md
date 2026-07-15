@@ -123,4 +123,4 @@ Es riesgoso: se filtra por Referer, logs e historial. Mejor en cuerpo o cabecera
 
 ## ➡️ Siguiente clase
 
-[Clase 099 - Server-Side Request Forgery (SSRF)](../099-server-side-request-forgery-ssrf/README.md)
+[Clase 099 — Server-Side Request Forgery (SSRF)](../099-server-side-request-forgery-ssrf/README.md)

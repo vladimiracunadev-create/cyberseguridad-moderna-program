@@ -126,4 +126,4 @@ Ambos válidos. El nativo (Secrets Manager, Key Vault, Secret Manager) se integr
 
 ## ➡️ Siguiente clase
 
-[Clase 234 - Logging y deteccion en la nube](../234-logging-y-deteccion-en-la-nube/README.md)
+[Clase 234 — Logging y detección en la nube](../234-logging-y-deteccion-en-la-nube/README.md)

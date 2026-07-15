@@ -120,4 +120,4 @@ Como programa continuo: ciclos regulares (p. ej. mensuales/trimestrales) que rev
 
 ## ➡️ Siguiente clase
 
-[Clase 201 - Fundamentos de DFIR y cadena de custodia](../../parte-9-forense-digital-y-respuesta-a-incidentes/201-fundamentos-de-dfir-y-cadena-de-custodia/README.md)
+[Clase 201 — Fundamentos de DFIR y cadena de custodia](../../parte-9-forense-digital-y-respuesta-a-incidentes/201-fundamentos-de-dfir-y-cadena-de-custodia/README.md)

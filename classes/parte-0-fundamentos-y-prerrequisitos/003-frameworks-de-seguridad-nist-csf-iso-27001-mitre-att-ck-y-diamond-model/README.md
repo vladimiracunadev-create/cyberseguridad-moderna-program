@@ -107,4 +107,4 @@ Produce un documento que integre los cuatro marcos sobre un mismo escenario: (1)
 
 ## ➡️ Siguiente clase
 
-[Clase 004 - Montaje del laboratorio: virtualizacion, Kali, snapshots y aislamiento de red](../004-montaje-del-laboratorio-virtualizacion-kali-snapshots-y-aislamiento-de-red/README.md)
+[Clase 004 — Montaje del laboratorio: virtualización, Kali, snapshots y aislamiento de red](../004-montaje-del-laboratorio-virtualizacion-kali-snapshots-y-aislamiento-de-red/README.md)

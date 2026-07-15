@@ -158,4 +158,4 @@ Porque si un atacante captura tráfico hoy y roba una clave mañana, con PFS no 
 
 ## ➡️ Siguiente clase
 
-[Clase 037 - Proxies, NAT y pivoting de red](../037-proxies-nat-y-pivoting-de-red/README.md)
+[Clase 037 — Proxies, NAT y pivoting de red](../037-proxies-nat-y-pivoting-de-red/README.md)

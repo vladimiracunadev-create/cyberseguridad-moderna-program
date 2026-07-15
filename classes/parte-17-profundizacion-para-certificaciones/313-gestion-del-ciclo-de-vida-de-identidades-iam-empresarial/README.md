@@ -157,4 +157,4 @@ credenciales, cambio de permisos) y "baja" (desactivación cuando la app se reti
 
 ## ➡️ Siguiente clase
 
-[Clase 314 - Federación, SSO, SAML y OpenID Connect](../314-federacion-sso-saml-y-openid-connect/README.md)
+[Clase 314 — Federación, SSO, SAML y OpenID Connect](../314-federacion-sso-saml-y-openid-connect/README.md)

@@ -140,4 +140,4 @@ Determinar alcance (cuántos recibieron/hicieron clic) y si hubo compromiso de c
 
 ## ➡️ Siguiente clase
 
-[Clase 320 - Gobierno, aspectos legales/regulatorios y gestión del programa](../320-gobierno-aspectos-legales-regulatorios-y-gestion-del-programa/README.md)
+[Clase 320 — Gobierno, aspectos legales/regulatorios y gestión del programa](../320-gobierno-aspectos-legales-regulatorios-y-gestion-del-programa/README.md)

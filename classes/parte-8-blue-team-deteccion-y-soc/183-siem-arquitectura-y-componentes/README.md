@@ -115,4 +115,4 @@ Ingesta con propósito de detección, no por acumular. Cada fuente debe respalda
 
 ## ➡️ Siguiente clase
 
-[Clase 184 - Splunk para deteccion](../184-splunk-para-deteccion/README.md)
+[Clase 184 — Splunk para detección](../184-splunk-para-deteccion/README.md)

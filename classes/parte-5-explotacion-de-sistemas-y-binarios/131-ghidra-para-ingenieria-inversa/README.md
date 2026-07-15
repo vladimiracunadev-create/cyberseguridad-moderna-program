@@ -140,4 +140,4 @@ el Listing.
 
 ## ➡️ Siguiente clase
 
-[Clase 132 - IDA Pro y radare2](../132-ida-pro-y-radare2/README.md)
+[Clase 132 — IDA Pro y radare2](../132-ida-pro-y-radare2/README.md)

@@ -130,4 +130,4 @@ Sí: distorsiona por rangos arbitrarios y "colores". Úsala como triaje, no como
 
 ## ➡️ Siguiente clase
 
-[Clase 278 - ISO/IEC 27001 e implantacion de un SGSI](../278-iso-iec-27001-e-implantacion-de-un-sgsi/README.md)
+[Clase 278 — ISO/IEC 27001 e implantación de un SGSI](../278-iso-iec-27001-e-implantacion-de-un-sgsi/README.md)

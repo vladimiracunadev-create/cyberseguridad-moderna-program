@@ -177,4 +177,4 @@ No, se complementan. Defensa en profundidad: firewall perimetral + firewall de h
 
 ## ➡️ Siguiente clase
 
-[Clase 035 - IDS/IPS con Snort y Suricata](../035-ids-ips-con-snort-y-suricata/README.md)
+[Clase 035 — IDS/IPS con Snort y Suricata](../035-ids-ips-con-snort-y-suricata/README.md)

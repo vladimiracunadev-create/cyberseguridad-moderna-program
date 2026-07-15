@@ -157,4 +157,4 @@ En la explotación real lo tratarás como obstáculo (clases 122+).
 
 ## ➡️ Siguiente clase
 
-[Clase 119 - Buffer overflow en stack: teoria](../119-buffer-overflow-en-stack-teoria/README.md)
+[Clase 119 — Buffer overflow en stack: teoría](../119-buffer-overflow-en-stack-teoria/README.md)

@@ -157,4 +157,4 @@ Parcialmente. Hay reglas de secretos, pero para eso es mejor una herramienta ded
 
 ## ➡️ Siguiente clase
 
-[Clase 239 - DAST: analisis dinamico de aplicaciones](../239-dast-analisis-dinamico-de-aplicaciones/README.md)
+[Clase 239 — DAST: análisis dinámico de aplicaciones](../239-dast-analisis-dinamico-de-aplicaciones/README.md)

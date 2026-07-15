@@ -120,4 +120,4 @@ Deshabilitar el procesamiento de DTD y entidades externas en la configuración d
 
 ## ➡️ Siguiente clase
 
-[Clase 101 - Fallos de autenticacion y bypass](../101-fallos-de-autenticacion-y-bypass/README.md)
+[Clase 101 — Fallos de autenticación y bypass](../101-fallos-de-autenticacion-y-bypass/README.md)

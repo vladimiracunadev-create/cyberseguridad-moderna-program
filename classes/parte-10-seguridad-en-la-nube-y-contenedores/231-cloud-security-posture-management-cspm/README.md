@@ -127,4 +127,4 @@ Prioriza: no todos los hallazgos importan igual. Cruza severidad con exposición
 
 ## ➡️ Siguiente clase
 
-[Clase 232 - Seguridad serverless](../232-seguridad-serverless/README.md)
+[Clase 232 — Seguridad serverless](../232-seguridad-serverless/README.md)

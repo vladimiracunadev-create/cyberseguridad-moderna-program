@@ -130,4 +130,4 @@ coherencia contextual.
 
 ## ➡️ Siguiente clase
 
-[Clase 254 - OSINT tecnico: Shodan y Censys](../254-osint-tecnico-shodan-y-censys/README.md)
+[Clase 254 — OSINT técnico: Shodan y Censys](../254-osint-tecnico-shodan-y-censys/README.md)

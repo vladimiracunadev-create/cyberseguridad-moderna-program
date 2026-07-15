@@ -107,4 +107,4 @@ Elabora un paquete de autorización completo para un compromiso ficticio: (1) un
 
 ## ➡️ Siguiente clase
 
-[Clase 026 - Wireshark: captura y analisis de paquetes](../../parte-1-redes-y-seguridad-de-redes/026-wireshark-captura-y-analisis-de-paquetes/README.md)
+[Clase 026 — Wireshark: captura y análisis de paquetes](../../parte-1-redes-y-seguridad-de-redes/026-wireshark-captura-y-analisis-de-paquetes/README.md)

@@ -159,4 +159,4 @@ detectarlo en compilación.
 
 ## ➡️ Siguiente clase
 
-[Clase 126 - Explotacion de heap: fundamentos](../126-explotacion-de-heap-fundamentos/README.md)
+[Clase 126 — Explotación de heap: fundamentos](../126-explotacion-de-heap-fundamentos/README.md)

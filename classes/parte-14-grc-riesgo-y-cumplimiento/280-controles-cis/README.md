@@ -131,4 +131,4 @@ Los Controles se revisan cada pocos años (v8 en 2021, v8.1 en 2024); los Benchm
 
 ## ➡️ Siguiente clase
 
-[Clase 281 - Cumplimiento: GDPR, HIPAA y PCI-DSS](../281-cumplimiento-gdpr-hipaa-y-pci-dss/README.md)
+[Clase 281 — Cumplimiento: GDPR, HIPAA y PCI-DSS](../281-cumplimiento-gdpr-hipaa-y-pci-dss/README.md)

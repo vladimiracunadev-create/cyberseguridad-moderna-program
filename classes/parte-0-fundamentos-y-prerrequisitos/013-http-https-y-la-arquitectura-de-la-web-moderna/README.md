@@ -130,4 +130,4 @@ Usando un proxy de interceptación, captura el flujo completo de autenticación 
 
 ## ➡️ Siguiente clase
 
-[Clase 014 - Direccionamiento IP y subnetting](../014-direccionamiento-ip-y-subnetting/README.md)
+[Clase 014 — Direccionamiento IP y subnetting](../014-direccionamiento-ip-y-subnetting/README.md)

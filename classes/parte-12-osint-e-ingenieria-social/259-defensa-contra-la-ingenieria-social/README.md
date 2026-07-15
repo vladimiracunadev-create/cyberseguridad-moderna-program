@@ -122,4 +122,4 @@ una página falsa.
 
 ## ➡️ Siguiente clase
 
-[Clase 260 - OPSEC personal y anonimato](../260-opsec-personal-y-anonimato/README.md)
+[Clase 260 — OPSEC personal y anonimato](../260-opsec-personal-y-anonimato/README.md)

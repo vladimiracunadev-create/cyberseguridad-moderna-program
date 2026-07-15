@@ -138,4 +138,4 @@ Por la identidad y los recursos más críticos. Inventaría sujetos, dispositivo
 
 ## ➡️ Siguiente clase
 
-[Clase 330 - Análisis de código y automatización de seguridad](../330-analisis-de-codigo-y-automatizacion-de-seguridad/README.md)
+[Clase 330 — Análisis de código y automatización de seguridad](../330-analisis-de-codigo-y-automatizacion-de-seguridad/README.md)

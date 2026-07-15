@@ -161,4 +161,4 @@ arquitectura de seguridad.
 
 ## ➡️ Siguiente clase
 
-[Clase 136 - Fuzzing con AFL++ y libFuzzer](../136-fuzzing-con-afl-y-libfuzzer/README.md)
+[Clase 136 — Fuzzing con AFL++ y libFuzzer](../136-fuzzing-con-afl-y-libfuzzer/README.md)

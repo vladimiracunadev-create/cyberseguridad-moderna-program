@@ -122,4 +122,4 @@ Ayuda, pero muchos sandboxes de plantillas han sido evadidos. La defensa robusta
 
 ## ➡️ Siguiente clase
 
-[Clase 108 - Vulnerabilidades en carga de archivos](../108-vulnerabilidades-en-carga-de-archivos/README.md)
+[Clase 108 — Vulnerabilidades en carga de archivos](../108-vulnerabilidades-en-carga-de-archivos/README.md)

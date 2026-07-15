@@ -134,4 +134,4 @@ Realiza una mini auditoría de *hardening* de tu VM Windows: enumera cuentas y p
 
 ## ➡️ Siguiente clase
 
-[Clase 009 - PowerShell para seguridad ofensiva y defensiva](../009-powershell-para-seguridad-ofensiva-y-defensiva/README.md)
+[Clase 009 — PowerShell para seguridad ofensiva y defensiva](../009-powershell-para-seguridad-ofensiva-y-defensiva/README.md)

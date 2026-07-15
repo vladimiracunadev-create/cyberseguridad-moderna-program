@@ -127,4 +127,4 @@ Sí, es de los vectores más efectivos: la voz añade autoridad y urgencia que e
 
 ## ➡️ Siguiente clase
 
-[Clase 258 - Campanas de phishing con GoPhish](../258-campanas-de-phishing-con-gophish/README.md)
+[Clase 258 — Campañas de phishing con GoPhish](../258-campanas-de-phishing-con-gophish/README.md)

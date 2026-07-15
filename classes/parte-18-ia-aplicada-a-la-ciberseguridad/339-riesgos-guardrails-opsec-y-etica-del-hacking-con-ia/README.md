@@ -122,4 +122,4 @@ cumplimiento, no solo de comodidad.
 
 ## ➡️ Siguiente clase
 
-[Clase 340 - Capstone: pentest autorizado asistido por IA con MCP](../340-capstone-pentest-autorizado-asistido-por-ia-con-mcp/README.md)
+[Clase 340 — Capstone: pentest autorizado asistido por IA con MCP](../340-capstone-pentest-autorizado-asistido-por-ia-con-mcp/README.md)

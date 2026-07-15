@@ -113,4 +113,4 @@ Pretextos neutros, coordinación con la white cell, no explotar emociones sensib
 
 ## ➡️ Siguiente clase
 
-[Clase 167 - Acceso inicial: tecnicas](../167-acceso-inicial-tecnicas/README.md)
+[Clase 167 — Acceso inicial: técnicas](../167-acceso-inicial-tecnicas/README.md)

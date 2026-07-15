@@ -125,4 +125,4 @@ A través de superficies conectadas (telemática celular, WiFi/Bluetooth del inf
 
 ## ➡️ Siguiente clase
 
-[Clase 275 - Seguridad de dispositivos medicos](../275-seguridad-de-dispositivos-medicos/README.md)
+[Clase 275 — Seguridad de dispositivos médicos](../275-seguridad-de-dispositivos-medicos/README.md)

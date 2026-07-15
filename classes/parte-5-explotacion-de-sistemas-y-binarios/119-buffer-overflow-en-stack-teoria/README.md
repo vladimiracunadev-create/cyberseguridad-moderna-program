@@ -141,4 +141,4 @@ complican. Por eso primero se estudia en un binario sin protecciones.
 
 ## ➡️ Siguiente clase
 
-[Clase 120 - Buffer overflow en stack: explotacion practica](../120-buffer-overflow-en-stack-explotacion-practica/README.md)
+[Clase 120 — Buffer overflow en stack: explotación práctica](../120-buffer-overflow-en-stack-explotacion-practica/README.md)

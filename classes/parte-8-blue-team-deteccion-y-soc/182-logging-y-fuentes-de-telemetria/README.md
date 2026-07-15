@@ -119,4 +119,4 @@ Solo en segmentos críticos y con retención corta. Para hunting histórico, los
 
 ## ➡️ Siguiente clase
 
-[Clase 183 - SIEM: arquitectura y componentes](../183-siem-arquitectura-y-componentes/README.md)
+[Clase 183 — SIEM: arquitectura y componentes](../183-siem-arquitectura-y-componentes/README.md)

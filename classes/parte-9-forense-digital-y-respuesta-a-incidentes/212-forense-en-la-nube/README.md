@@ -144,4 +144,4 @@ Exporta a almacenamiento con retención/immutabilidad (object lock) o a una cuen
 
 ## ➡️ Siguiente clase
 
-[Clase 213 - Anti-forense y sus contramedidas](../213-anti-forense-y-sus-contramedidas/README.md)
+[Clase 213 — Anti-forense y sus contramedidas](../213-anti-forense-y-sus-contramedidas/README.md)

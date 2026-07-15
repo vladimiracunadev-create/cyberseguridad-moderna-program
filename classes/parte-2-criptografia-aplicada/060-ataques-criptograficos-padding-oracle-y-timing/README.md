@@ -115,4 +115,4 @@ Sí; con suficientes mediciones y estadística se explotan incluso a través de 
 
 ## ➡️ Siguiente clase
 
-[Clase 061 - Introduccion al criptoanalisis](../061-introduccion-al-criptoanalisis/README.md)
+[Clase 061 — Introducción al criptoanálisis](../061-introduccion-al-criptoanalisis/README.md)

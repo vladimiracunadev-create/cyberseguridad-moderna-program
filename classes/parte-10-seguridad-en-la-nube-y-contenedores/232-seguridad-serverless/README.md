@@ -126,4 +126,4 @@ Es un abuso que no busca tumbar el servicio sino disparar el número de invocaci
 
 ## ➡️ Siguiente clase
 
-[Clase 233 - Gestion de secretos en la nube](../233-gestion-de-secretos-en-la-nube/README.md)
+[Clase 233 — Gestión de secretos en la nube](../233-gestion-de-secretos-en-la-nube/README.md)

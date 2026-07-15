@@ -119,4 +119,4 @@ No. Actualizaciones, telemetría y sincronización también "laten". Por eso se 
 
 ## ➡️ Siguiente clase
 
-[Clase 194 - Deception: honeypots y honeytokens](../194-deception-honeypots-y-honeytokens/README.md)
+[Clase 194 — Deception: honeypots y honeytokens](../194-deception-honeypots-y-honeytokens/README.md)

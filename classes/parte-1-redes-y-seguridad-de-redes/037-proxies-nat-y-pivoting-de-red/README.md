@@ -151,4 +151,4 @@ Con segmentación estricta (clase 042), egress filtering, detección de túneles
 
 ## ➡️ Siguiente clase
 
-[Clase 038 - Seguridad WiFi: WPA2, WPA3 y superficie de ataque](../038-seguridad-wifi-wpa2-wpa3-y-superficie-de-ataque/README.md)
+[Clase 038 — Seguridad WiFi: WPA2, WPA3 y superficie de ataque](../038-seguridad-wifi-wpa2-wpa3-y-superficie-de-ataque/README.md)

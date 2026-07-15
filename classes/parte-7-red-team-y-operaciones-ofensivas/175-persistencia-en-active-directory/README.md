@@ -117,4 +117,4 @@ Siempre al cierre, con inventario completo de lo instalado. Dejar persistencia e
 
 ## ➡️ Siguiente clase
 
-[Clase 176 - OPSEC ofensiva](../176-opsec-ofensiva/README.md)
+[Clase 176 — OPSEC ofensiva](../176-opsec-ofensiva/README.md)

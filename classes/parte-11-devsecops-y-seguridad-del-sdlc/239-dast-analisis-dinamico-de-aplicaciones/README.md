@@ -148,4 +148,4 @@ El baseline sí. El active scan envía payloads que pueden crear/borrar datos: �
 
 ## ➡️ Siguiente clase
 
-[Clase 240 - SCA: dependencias y riesgo de terceros](../240-sca-dependencias-y-riesgo-de-terceros/README.md)
+[Clase 240 — SCA: dependencias y riesgo de terceros](../240-sca-dependencias-y-riesgo-de-terceros/README.md)

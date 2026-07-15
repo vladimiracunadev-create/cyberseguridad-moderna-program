@@ -118,4 +118,4 @@ El monitoreo reacciona a lo que una regla ya disparó; el hunting busca proactiv
 
 ## ➡️ Siguiente clase
 
-[Clase 182 - Logging y fuentes de telemetria](../182-logging-y-fuentes-de-telemetria/README.md)
+[Clase 182 — Logging y fuentes de telemetría](../182-logging-y-fuentes-de-telemetria/README.md)

@@ -126,4 +126,4 @@ IAM controla el acceso por identidad; VPC Service Controls crea un perímetro qu
 
 ## ➡️ Siguiente clase
 
-[Clase 226 - Ataques y pentest en entornos cloud](../226-ataques-y-pentest-en-entornos-cloud/README.md)
+[Clase 226 — Ataques y pentest en entornos cloud](../226-ataques-y-pentest-en-entornos-cloud/README.md)

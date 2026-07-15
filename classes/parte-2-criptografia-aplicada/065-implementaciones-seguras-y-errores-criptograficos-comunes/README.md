@@ -133,4 +133,4 @@ Poder cambiar algoritmos y claves sin rediseñar; será imprescindible en la mig
 
 ## ➡️ Siguiente clase
 
-[Clase 066 - Metodologia de pentesting: PTES y OSSTMM](../../parte-3-hacking-etico-y-pentesting-metodologia/066-metodologia-de-pentesting-ptes-y-osstmm/README.md)
+[Clase 066 — Metodología de pentesting: PTES y OSSTMM](../../parte-3-hacking-etico-y-pentesting-metodologia/066-metodologia-de-pentesting-ptes-y-osstmm/README.md)

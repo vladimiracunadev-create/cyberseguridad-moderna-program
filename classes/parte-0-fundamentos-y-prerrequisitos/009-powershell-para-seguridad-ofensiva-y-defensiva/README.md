@@ -134,4 +134,4 @@ Construye `triage.ps1`, un script de recolección para respuesta a incidentes qu
 
 ## ➡️ Siguiente clase
 
-[Clase 010 - Redes TCP/IP: modelo OSI, encapsulacion y capas](../010-redes-tcp-ip-modelo-osi-encapsulacion-y-capas/README.md)
+[Clase 010 — Redes TCP/IP: modelo OSI, encapsulación y capas](../010-redes-tcp-ip-modelo-osi-encapsulacion-y-capas/README.md)

@@ -141,4 +141,4 @@ No: Zeek resume a escala; Wireshark inspecciona a fondo. Se complementan.
 
 ## ➡️ Siguiente clase
 
-[Clase 209 - Analisis de linea de tiempo (timeline)](../209-analisis-de-linea-de-tiempo-timeline/README.md)
+[Clase 209 — Análisis de línea de tiempo (timeline)](../209-analisis-de-linea-de-tiempo-timeline/README.md)

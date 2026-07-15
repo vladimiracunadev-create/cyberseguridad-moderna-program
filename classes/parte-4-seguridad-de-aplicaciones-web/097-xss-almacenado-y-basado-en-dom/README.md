@@ -113,4 +113,4 @@ Ambos, según el caso. Para HTML enriquecido en el cliente, DOMPurify; en el ser
 
 ## ➡️ Siguiente clase
 
-[Clase 098 - Cross-Site Request Forgery (CSRF)](../098-cross-site-request-forgery-csrf/README.md)
+[Clase 098 — Cross-Site Request Forgery (CSRF)](../098-cross-site-request-forgery-csrf/README.md)

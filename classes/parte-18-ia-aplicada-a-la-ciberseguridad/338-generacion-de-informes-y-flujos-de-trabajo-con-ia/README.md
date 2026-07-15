@@ -110,4 +110,4 @@ puedas respaldar con la salida real de una herramienta.
 
 ## ➡️ Siguiente clase
 
-[Clase 339 - Riesgos, guardrails, OPSEC y ética del hacking con IA](../339-riesgos-guardrails-opsec-y-etica-del-hacking-con-ia/README.md)
+[Clase 339 — Riesgos, guardrails, OPSEC y ética del hacking con IA](../339-riesgos-guardrails-opsec-y-etica-del-hacking-con-ia/README.md)

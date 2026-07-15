@@ -135,4 +135,4 @@ Sí. Los detectores son modelos y por tanto atacables (evasión, envenenamiento 
 
 ## ➡️ Siguiente clase
 
-[Clase 299 - IA ofensiva y deepfakes](../299-ia-ofensiva-y-deepfakes/README.md)
+[Clase 299 — IA ofensiva y deepfakes](../299-ia-ofensiva-y-deepfakes/README.md)

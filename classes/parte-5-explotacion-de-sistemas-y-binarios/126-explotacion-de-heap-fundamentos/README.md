@@ -155,4 +155,4 @@ glibc moderna.
 
 ## ➡️ Siguiente clase
 
-[Clase 127 - Heap: use-after-free y double free](../127-heap-use-after-free-y-double-free/README.md)
+[Clase 127 — Heap: use-after-free y double free](../127-heap-use-after-free-y-double-free/README.md)

@@ -112,4 +112,4 @@ Ayuda mucho porque da TTPs atómicos reproducibles (Clase 180), pero puedes ejec
 
 ## ➡️ Siguiente clase
 
-[Clase 179 - Reporte y metricas de Red Team](../179-reporte-y-metricas-de-red-team/README.md)
+[Clase 179 — Reporte y métricas de Red Team](../179-reporte-y-metricas-de-red-team/README.md)

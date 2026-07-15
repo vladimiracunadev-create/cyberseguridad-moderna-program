@@ -116,4 +116,4 @@ supervisión contra nada que no sea tu laboratorio.
 
 ## ➡️ Siguiente clase
 
-[Clase 335 - Explotación y post-explotación autorizada asistida por IA](../335-explotacion-y-post-explotacion-autorizada-asistida-por-ia/README.md)
+[Clase 335 — Explotación y post-explotación autorizada asistida por IA](../335-explotacion-y-post-explotacion-autorizada-asistida-por-ia/README.md)

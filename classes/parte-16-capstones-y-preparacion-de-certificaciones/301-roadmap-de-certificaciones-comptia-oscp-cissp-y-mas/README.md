@@ -120,4 +120,4 @@ La mayoría sí (3 años típicos) y se renuevan con CEUs o reexamen. OSCP no ca
 
 ## ➡️ Siguiente clase
 
-[Clase 302 - Preparacion OSCP: mentalidad Try Harder](../302-preparacion-oscp-mentalidad-try-harder/README.md)
+[Clase 302 — Preparación OSCP: mentalidad Try Harder](../302-preparacion-oscp-mentalidad-try-harder/README.md)

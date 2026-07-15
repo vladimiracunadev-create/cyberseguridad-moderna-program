@@ -147,4 +147,4 @@ Buscando beaconing: conexiones periódicas y regulares hacia un mismo destino, a
 
 ## ➡️ Siguiente clase
 
-[Clase 046 - Historia y fundamentos de la criptografia](../../parte-2-criptografia-aplicada/046-historia-y-fundamentos-de-la-criptografia/README.md)
+[Clase 046 — Historia y fundamentos de la criptografía](../../parte-2-criptografia-aplicada/046-historia-y-fundamentos-de-la-criptografia/README.md)

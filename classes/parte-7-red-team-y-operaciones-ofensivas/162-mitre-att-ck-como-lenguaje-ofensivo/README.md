@@ -126,4 +126,4 @@ La Kill Chain (Lockheed Martin) es lineal y de alto nivel; ATT&CK es un catálog
 
 ## ➡️ Siguiente clase
 
-[Clase 163 - Emulacion de adversarios](../163-emulacion-de-adversarios/README.md)
+[Clase 163 — Emulación de adversarios](../163-emulacion-de-adversarios/README.md)

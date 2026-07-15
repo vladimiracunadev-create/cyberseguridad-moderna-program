@@ -125,4 +125,4 @@ Acelera tareas (variantes, ofuscación, guiones), pero no crea magia indetectabl
 
 ## ➡️ Siguiente clase
 
-[Clase 300 - Gobernanza y etica de la IA segura](../300-gobernanza-y-etica-de-la-ia-segura/README.md)
+[Clase 300 — Gobernanza y ética de la IA segura](../300-gobernanza-y-etica-de-la-ia-segura/README.md)

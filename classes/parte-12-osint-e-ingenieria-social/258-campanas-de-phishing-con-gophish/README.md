@@ -128,4 +128,4 @@ solo contar clics.
 
 ## ➡️ Siguiente clase
 
-[Clase 259 - Defensa contra la ingenieria social](../259-defensa-contra-la-ingenieria-social/README.md)
+[Clase 259 — Defensa contra la ingeniería social](../259-defensa-contra-la-ingenieria-social/README.md)

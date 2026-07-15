@@ -119,4 +119,4 @@ IEC 62443 (zonas y conductos, niveles de seguridad SL) y NIST SP 800-82 son las 
 
 ## ➡️ Siguiente clase
 
-[Clase 274 - Seguridad automotriz y bus CAN](../274-seguridad-automotriz-y-bus-can/README.md)
+[Clase 274 — Seguridad automotriz y bus CAN](../274-seguridad-automotriz-y-bus-can/README.md)

@@ -117,4 +117,4 @@ Reduce las pruebas por carácter de ~128 a ~7 comparaciones (log2), un ahorro en
 
 ## ➡️ Siguiente clase
 
-[Clase 093 - SQLMap](../093-sqlmap/README.md)
+[Clase 093 — SQLMap](../093-sqlmap/README.md)

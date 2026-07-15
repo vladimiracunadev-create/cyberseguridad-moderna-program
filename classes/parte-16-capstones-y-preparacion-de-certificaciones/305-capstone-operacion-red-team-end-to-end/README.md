@@ -124,4 +124,4 @@ Los logs de esta operación alimentan el capstone de la Clase 306 (purple teamin
 
 ## ➡️ Siguiente clase
 
-[Clase 306 - Capstone: deteccion Blue Team end-to-end](../306-capstone-deteccion-blue-team-end-to-end/README.md)
+[Clase 306 — Capstone: detección Blue Team end-to-end](../306-capstone-deteccion-blue-team-end-to-end/README.md)

@@ -112,4 +112,4 @@ La simulación (comportamientos genéricos) suele ser mejor punto de partida; la
 
 ## ➡️ Siguiente clase
 
-[Clase 164 - Diseno de infraestructura de comando y control (C2)](../164-diseno-de-infraestructura-de-comando-y-control-c2/README.md)
+[Clase 164 — Diseño de infraestructura de comando y control (C2)](../164-diseno-de-infraestructura-de-comando-y-control-c2/README.md)

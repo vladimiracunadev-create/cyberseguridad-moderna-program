@@ -123,4 +123,4 @@ Miden la eficacia del programa de respuesta y permiten fijar objetivos de mejora
 
 ## ➡️ Siguiente clase
 
-[Clase 218 - Reporte forense y aspectos legales](../218-reporte-forense-y-aspectos-legales/README.md)
+[Clase 218 — Reporte forense y aspectos legales](../218-reporte-forense-y-aspectos-legales/README.md)

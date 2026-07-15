@@ -137,4 +137,4 @@ Las redes modernas son conmutadas: el switch solo te envía lo tuyo. Necesitas u
 
 ## ➡️ Siguiente clase
 
-[Clase 027 - Analisis de trafico: filtros, seguimiento de flujos y estadisticas](../027-analisis-de-trafico-filtros-seguimiento-de-flujos-y-estadisticas/README.md)
+[Clase 027 — Análisis de tráfico: filtros, seguimiento de flujos y estadísticas](../027-analisis-de-trafico-filtros-seguimiento-de-flujos-y-estadisticas/README.md)

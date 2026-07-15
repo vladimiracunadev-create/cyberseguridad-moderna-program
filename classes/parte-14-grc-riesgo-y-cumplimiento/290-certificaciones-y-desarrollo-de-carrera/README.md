@@ -119,4 +119,4 @@ Con créditos de formación continua (CPE): cursos, conferencias, publicaciones 
 
 ## ➡️ Siguiente clase
 
-[Clase 291 - Introduccion a la seguridad de IA y ML](../../parte-15-seguridad-de-ia-y-machine-learning/291-introduccion-a-la-seguridad-de-ia-y-ml/README.md)
+[Clase 291 — Introducción a la seguridad de IA y ML](../../parte-15-seguridad-de-ia-y-machine-learning/291-introduccion-a-la-seguridad-de-ia-y-ml/README.md)

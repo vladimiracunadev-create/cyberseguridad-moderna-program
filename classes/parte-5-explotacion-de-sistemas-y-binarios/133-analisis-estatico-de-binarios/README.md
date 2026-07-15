@@ -154,4 +154,4 @@ requieren ejecución/emulación.
 
 ## ➡️ Siguiente clase
 
-[Clase 134 - Analisis dinamico y debugging de binarios](../134-analisis-dinamico-y-debugging-de-binarios/README.md)
+[Clase 134 — Análisis dinámico y debugging de binarios](../134-analisis-dinamico-y-debugging-de-binarios/README.md)

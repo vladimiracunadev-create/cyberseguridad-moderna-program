@@ -157,4 +157,4 @@ un proceso de reclasificación y desclasificación con aprobación del propietar
 
 ## ➡️ Siguiente clase
 
-[Clase 312 - Retención, destrucción segura de datos y DLP](../312-retencion-destruccion-segura-de-datos-y-dlp/README.md)
+[Clase 312 — Retención, destrucción segura de datos y DLP](../312-retencion-destruccion-segura-de-datos-y-dlp/README.md)

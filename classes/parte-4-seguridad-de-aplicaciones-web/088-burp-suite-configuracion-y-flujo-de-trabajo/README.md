@@ -117,4 +117,4 @@ Define siempre el scope y activa "show only in-scope" y "drop out-of-scope reque
 
 ## ➡️ Siguiente clase
 
-[Clase 089 - OWASP ZAP](../089-owasp-zap/README.md)
+[Clase 089 — OWASP ZAP](../089-owasp-zap/README.md)

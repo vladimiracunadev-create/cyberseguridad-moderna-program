@@ -126,4 +126,4 @@ Porque no hay un firewall físico entre tú y el mundo: cualquiera con credencia
 
 ## ➡️ Siguiente clase
 
-[Clase 222 - IAM en la nube: identidades, roles y permisos](../222-iam-en-la-nube-identidades-roles-y-permisos/README.md)
+[Clase 222 — IAM en la nube: identidades, roles y permisos](../222-iam-en-la-nube-identidades-roles-y-permisos/README.md)

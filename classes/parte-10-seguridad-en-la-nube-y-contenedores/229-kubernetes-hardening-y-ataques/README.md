@@ -132,4 +132,4 @@ Es una base excelente de configuración CIS, pero no cubre RBAC excesivo, imáge
 
 ## ➡️ Siguiente clase
 
-[Clase 230 - Seguridad de Infrastructure as Code (Terraform)](../230-seguridad-de-infrastructure-as-code-terraform/README.md)
+[Clase 230 — Seguridad de Infrastructure as Code (Terraform)](../230-seguridad-de-infrastructure-as-code-terraform/README.md)

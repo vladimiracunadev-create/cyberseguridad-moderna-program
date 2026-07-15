@@ -137,4 +137,4 @@ Ambos, con prioridad por riesgo: los parches de vulnerabilidades explotadas acti
 
 ## ➡️ Siguiente clase
 
-[Clase 325 - Forense de memoria avanzado](../325-forense-de-memoria-avanzado/README.md)
+[Clase 325 — Forense de memoria avanzado](../325-forense-de-memoria-avanzado/README.md)

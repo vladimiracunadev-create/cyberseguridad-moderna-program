@@ -126,4 +126,4 @@ Limitado por el riesgo de colisión de nonces (con nonces aleatorios de 96 bits,
 
 ## ➡️ Siguiente clase
 
-[Clase 060 - Ataques criptograficos: padding oracle y timing](../060-ataques-criptograficos-padding-oracle-y-timing/README.md)
+[Clase 060 — Ataques criptográficos: padding oracle y timing](../060-ataques-criptograficos-padding-oracle-y-timing/README.md)

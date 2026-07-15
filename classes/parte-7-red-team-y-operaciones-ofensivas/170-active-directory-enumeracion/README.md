@@ -112,4 +112,4 @@ Game of Active Directory: un laboratorio vulnerable y reproducible pensado para 
 
 ## ➡️ Siguiente clase
 
-[Clase 171 - Active Directory: Kerberoasting y ataques a Kerberos](../171-active-directory-kerberoasting-y-ataques-a-kerberos/README.md)
+[Clase 171 — Active Directory: Kerberoasting y ataques a Kerberos](../171-active-directory-kerberoasting-y-ataques-a-kerberos/README.md)

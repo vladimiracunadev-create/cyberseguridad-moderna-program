@@ -156,4 +156,4 @@ No. Los workflows cambian y aparecen nuevas técnicas. Corre zizmor/actionlint e
 
 ## ➡️ Siguiente clase
 
-[Clase 243 - Imagenes y contenedores seguros en el pipeline](../243-imagenes-y-contenedores-seguros-en-el-pipeline/README.md)
+[Clase 243 — Imágenes y contenedores seguros en el pipeline](../243-imagenes-y-contenedores-seguros-en-el-pipeline/README.md)

@@ -165,4 +165,4 @@ No. Un IDS moderno (Suricata/Snort) los detecta. "Stealth" se refiere a que evit
 
 ## ➡️ Siguiente clase
 
-[Clase 031 - Nmap: deteccion de servicios y fingerprinting de OS](../031-nmap-deteccion-de-servicios-y-fingerprinting-de-os/README.md)
+[Clase 031 — Nmap: detección de servicios y fingerprinting de OS](../031-nmap-deteccion-de-servicios-y-fingerprinting-de-os/README.md)

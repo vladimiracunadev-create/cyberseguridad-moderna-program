@@ -146,4 +146,4 @@ Solo si los datos limpios están garantizados. Si el dataset base sigue contamin
 
 ## ➡️ Siguiente clase
 
-[Clase 294 - Robo y extraccion de modelos](../294-robo-y-extraccion-de-modelos/README.md)
+[Clase 294 — Robo y extracción de modelos](../294-robo-y-extraccion-de-modelos/README.md)

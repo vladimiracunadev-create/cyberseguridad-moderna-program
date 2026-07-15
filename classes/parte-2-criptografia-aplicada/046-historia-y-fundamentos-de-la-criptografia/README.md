@@ -129,4 +129,4 @@ Porque los errores sutiles (nonces, padding, timing) rompen esquemas que parecen
 
 ## ➡️ Siguiente clase
 
-[Clase 047 - Cifrado simetrico: AES y modos de operacion](../047-cifrado-simetrico-aes-y-modos-de-operacion/README.md)
+[Clase 047 — Cifrado simétrico: AES y modos de operación](../047-cifrado-simetrico-aes-y-modos-de-operacion/README.md)

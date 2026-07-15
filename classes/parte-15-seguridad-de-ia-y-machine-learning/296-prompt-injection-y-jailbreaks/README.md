@@ -142,4 +142,4 @@ Relacionados pero distintos: el jailbreak busca evadir las políticas de segurid
 
 ## ➡️ Siguiente clase
 
-[Clase 297 - Seguridad de aplicaciones con LLM: RAG y agentes](../297-seguridad-de-aplicaciones-con-llm-rag-y-agentes/README.md)
+[Clase 297 — Seguridad de aplicaciones con LLM: RAG y agentes](../297-seguridad-de-aplicaciones-con-llm-rag-y-agentes/README.md)

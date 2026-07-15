@@ -117,4 +117,4 @@ Nivel 1 como mínimo para cualquier app; niveles 2–3 para aplicaciones sensibl
 
 ## ➡️ Siguiente clase
 
-[Clase 116 - Arquitectura x86/x64 y lenguaje ensamblador](../../parte-5-explotacion-de-sistemas-y-binarios/116-arquitectura-x86-x64-y-lenguaje-ensamblador/README.md)
+[Clase 116 — Arquitectura x86/x64 y lenguaje ensamblador](../../parte-5-explotacion-de-sistemas-y-binarios/116-arquitectura-x86-x64-y-lenguaje-ensamblador/README.md)

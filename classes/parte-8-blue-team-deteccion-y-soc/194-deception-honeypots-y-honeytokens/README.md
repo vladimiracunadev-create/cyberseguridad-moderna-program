@@ -119,4 +119,4 @@ Casi nada. Un canary token es un archivo, una URL o una clave que avisa al usars
 
 ## ➡️ Siguiente clase
 
-[Clase 195 - Threat intelligence operacional](../195-threat-intelligence-operacional/README.md)
+[Clase 195 — Threat intelligence operacional](../195-threat-intelligence-operacional/README.md)

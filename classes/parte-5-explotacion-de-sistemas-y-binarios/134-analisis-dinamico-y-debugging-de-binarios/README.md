@@ -161,4 +161,4 @@ entorno del binario.
 
 ## ➡️ Siguiente clase
 
-[Clase 135 - Ofuscacion y tecnicas anti-reversing](../135-ofuscacion-y-tecnicas-anti-reversing/README.md)
+[Clase 135 — Ofuscación y técnicas anti-reversing](../135-ofuscacion-y-tecnicas-anti-reversing/README.md)

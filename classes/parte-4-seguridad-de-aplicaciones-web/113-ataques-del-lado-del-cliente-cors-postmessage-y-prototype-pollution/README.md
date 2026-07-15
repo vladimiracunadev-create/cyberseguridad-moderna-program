@@ -113,4 +113,4 @@ Porque sin ello cualquier página puede enviar mensajes maliciosos que tu handle
 
 ## ➡️ Siguiente clase
 
-[Clase 114 - Bug bounty: metodologia y plataformas](../114-bug-bounty-metodologia-y-plataformas/README.md)
+[Clase 114 — Bug bounty: metodología y plataformas](../114-bug-bounty-metodologia-y-plataformas/README.md)

@@ -118,4 +118,4 @@ Usa allowlists de campos aceptados (DTOs), nunca vincules el body directamente a
 
 ## ➡️ Siguiente clase
 
-[Clase 111 - Seguridad de APIs GraphQL](../111-seguridad-de-apis-graphql/README.md)
+[Clase 111 — Seguridad de APIs GraphQL](../111-seguridad-de-apis-graphql/README.md)

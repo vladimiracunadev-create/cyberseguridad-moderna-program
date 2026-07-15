@@ -128,4 +128,4 @@ Es un marco técnico, no una norma. Combínalo con NIST AI RMF e ISO/IEC 42001 (
 
 ## ➡️ Siguiente clase
 
-[Clase 296 - Prompt injection y jailbreaks](../296-prompt-injection-y-jailbreaks/README.md)
+[Clase 296 — Prompt injection y jailbreaks](../296-prompt-injection-y-jailbreaks/README.md)

@@ -128,4 +128,4 @@ Mejor recon, vectores menos obvios y rapidez. Aun así, los duplicados son parte
 
 ## ➡️ Siguiente clase
 
-[Clase 309 - Construccion de portafolio y home lab permanente](../309-construccion-de-portafolio-y-home-lab-permanente/README.md)
+[Clase 309 — Construcción de portafolio y home lab permanente](../309-construccion-de-portafolio-y-home-lab-permanente/README.md)

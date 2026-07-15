@@ -130,4 +130,4 @@ Sí, pero cuida costes y aislamiento. Un lab local con Vagrant es gratuito y con
 
 ## ➡️ Siguiente clase
 
-[Clase 310 - Plan de aprendizaje continuo y comunidad](../310-plan-de-aprendizaje-continuo-y-comunidad/README.md)
+[Clase 310 — Plan de aprendizaje continuo y comunidad](../310-plan-de-aprendizaje-continuo-y-comunidad/README.md)

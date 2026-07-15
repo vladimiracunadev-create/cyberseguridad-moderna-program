@@ -114,4 +114,4 @@ Con tendencias de riesgo y dwell time, no con jerga técnica. Muestra cómo la i
 
 ## ➡️ Siguiente clase
 
-[Clase 198 - Casos de estudio de deteccion](../198-casos-de-estudio-de-deteccion/README.md)
+[Clase 198 — Casos de estudio de detección](../198-casos-de-estudio-de-deteccion/README.md)

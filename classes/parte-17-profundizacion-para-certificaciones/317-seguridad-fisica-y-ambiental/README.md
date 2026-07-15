@@ -135,4 +135,4 @@ Tier III es *concurrentemente mantenible* (puedes dar mantenimiento sin apagar),
 
 ## ➡️ Siguiente clase
 
-[Clase 318 - Gestión del programa de vulnerabilidades](../318-gestion-del-programa-de-vulnerabilidades/README.md)
+[Clase 318 — Gestión del programa de vulnerabilidades](../318-gestion-del-programa-de-vulnerabilidades/README.md)

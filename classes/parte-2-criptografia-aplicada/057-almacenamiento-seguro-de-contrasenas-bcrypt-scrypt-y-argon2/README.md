@@ -131,4 +131,4 @@ No; hashea con una KDF. Cifrar implica poder descifrar, un riesgo innecesario pa
 
 ## ➡️ Siguiente clase
 
-[Clase 058 - Generacion de aleatoriedad segura (CSPRNG)](../058-generacion-de-aleatoriedad-segura-csprng/README.md)
+[Clase 058 — Generación de aleatoriedad segura (CSPRNG)](../058-generacion-de-aleatoriedad-segura-csprng/README.md)

@@ -156,4 +156,4 @@ Fija versiones con lockfile y hashes, revisa nombres de paquetes nuevos, usa reg
 
 ## ➡️ Siguiente clase
 
-[Clase 241 - Secretos en el codigo y pre-commit hooks](../241-secretos-en-el-codigo-y-pre-commit-hooks/README.md)
+[Clase 241 — Secretos en el código y pre-commit hooks](../241-secretos-en-el-codigo-y-pre-commit-hooks/README.md)

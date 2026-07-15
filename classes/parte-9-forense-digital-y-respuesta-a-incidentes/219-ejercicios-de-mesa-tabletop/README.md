@@ -123,4 +123,4 @@ El guion maestro de eventos e injects, con tiempos, que estructura el ejercicio 
 
 ## ➡️ Siguiente clase
 
-[Clase 220 - Caso completo de respuesta a incidentes end-to-end](../220-caso-completo-de-respuesta-a-incidentes-end-to-end/README.md)
+[Clase 220 — Caso completo de respuesta a incidentes end-to-end](../220-caso-completo-de-respuesta-a-incidentes-end-to-end/README.md)

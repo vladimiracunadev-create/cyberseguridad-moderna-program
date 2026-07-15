@@ -134,4 +134,4 @@ Fijar una clave/certificado esperado en la app para no depender solo de la PKI; 
 
 ## ➡️ Siguiente clase
 
-[Clase 056 - TLS/SSL en profundidad](../056-tls-ssl-en-profundidad/README.md)
+[Clase 056 — TLS/SSL en profundidad](../056-tls-ssl-en-profundidad/README.md)

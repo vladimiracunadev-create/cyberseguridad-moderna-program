@@ -135,4 +135,4 @@ Sí, y deberías. Guarda tu carpeta de reglas en un repositorio, con revisión y
 
 ## ➡️ Siguiente clase
 
-[Clase 187 - Deteccion basada en MITRE ATT&CK](../187-deteccion-basada-en-mitre-att-ck/README.md)
+[Clase 187 — Detección basada en MITRE ATT&CK](../187-deteccion-basada-en-mitre-att-ck/README.md)

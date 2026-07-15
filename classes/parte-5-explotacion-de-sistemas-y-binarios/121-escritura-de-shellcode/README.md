@@ -168,4 +168,4 @@ la base; luego se pasa a ROP/ret2libc.
 
 ## ➡️ Siguiente clase
 
-[Clase 122 - Protecciones modernas: ASLR, DEP/NX, stack canaries y PIE](../122-protecciones-modernas-aslr-dep-nx-stack-canaries-y-pie/README.md)
+[Clase 122 — Protecciones modernas: ASLR, DEP/NX, stack canaries y PIE](../122-protecciones-modernas-aslr-dep-nx-stack-canaries-y-pie/README.md)

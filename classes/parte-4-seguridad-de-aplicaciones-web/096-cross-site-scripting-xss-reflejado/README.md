@@ -113,4 +113,4 @@ No lo elimina, lo mitiga: aunque el bug exista, una buena CSP puede impedir que 
 
 ## ➡️ Siguiente clase
 
-[Clase 097 - XSS almacenado y basado en DOM](../097-xss-almacenado-y-basado-en-dom/README.md)
+[Clase 097 — XSS almacenado y basado en DOM](../097-xss-almacenado-y-basado-en-dom/README.md)

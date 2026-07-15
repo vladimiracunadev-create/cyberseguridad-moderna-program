@@ -112,4 +112,4 @@ Enseñamos el mecanismo para **defender**: sin entender la evasión no se puede 
 
 ## ➡️ Siguiente clase
 
-[Clase 169 - Ofuscacion de payloads y bypass de AMSI](../169-ofuscacion-de-payloads-y-bypass-de-amsi/README.md)
+[Clase 169 — Ofuscación de payloads y bypass de AMSI](../169-ofuscacion-de-payloads-y-bypass-de-amsi/README.md)

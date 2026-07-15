@@ -136,4 +136,4 @@ Construye `pyscan.py`, un escáner de puertos TCP multihilo que reciba un objeti
 
 ## ➡️ Siguiente clase
 
-[Clase 017 - Python para seguridad: manipulacion de paquetes con Scapy](../017-python-para-seguridad-manipulacion-de-paquetes-con-scapy/README.md)
+[Clase 017 — Python para seguridad: manipulación de paquetes con Scapy](../017-python-para-seguridad-manipulacion-de-paquetes-con-scapy/README.md)

@@ -123,4 +123,4 @@ Porque compromete claves y nonces de golpe; un CSPRNG débil hace inútil el mej
 
 ## ➡️ Siguiente clase
 
-[Clase 059 - Cifrado autenticado (AEAD)](../059-cifrado-autenticado-aead/README.md)
+[Clase 059 — Cifrado autenticado (AEAD)](../059-cifrado-autenticado-aead/README.md)

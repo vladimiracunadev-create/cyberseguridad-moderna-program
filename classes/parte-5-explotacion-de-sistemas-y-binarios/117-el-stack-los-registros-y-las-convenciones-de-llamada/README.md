@@ -152,4 +152,4 @@ puedes corromper datos que la función hoja usa.
 
 ## ➡️ Siguiente clase
 
-[Clase 118 - Debugging con GDB y pwndbg](../118-debugging-con-gdb-y-pwndbg/README.md)
+[Clase 118 — Debugging con GDB y pwndbg](../118-debugging-con-gdb-y-pwndbg/README.md)

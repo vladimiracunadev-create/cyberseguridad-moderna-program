@@ -123,4 +123,4 @@ No; cae ante Shor, igual que RSA/ECC. De ahí la cripto post-cuántica.
 
 ## ➡️ Siguiente clase
 
-[Clase 054 - Firmas digitales](../054-firmas-digitales/README.md)
+[Clase 054 — Firmas digitales](../054-firmas-digitales/README.md)

@@ -121,4 +121,4 @@ Al menos una técnica (detallada) y una ejecutiva (breve, sin jerga). La legal p
 
 ## ➡️ Siguiente clase
 
-[Clase 219 - Ejercicios de mesa (tabletop)](../219-ejercicios-de-mesa-tabletop/README.md)
+[Clase 219 — Ejercicios de mesa (tabletop)](../219-ejercicios-de-mesa-tabletop/README.md)

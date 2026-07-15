@@ -130,4 +130,4 @@ Ante GDPR sigues siendo responsable de los datos que le confías. Por eso exiges
 
 ## ➡️ Siguiente clase
 
-[Clase 285 - Auditoria de seguridad](../285-auditoria-de-seguridad/README.md)
+[Clase 285 — Auditoría de seguridad](../285-auditoria-de-seguridad/README.md)

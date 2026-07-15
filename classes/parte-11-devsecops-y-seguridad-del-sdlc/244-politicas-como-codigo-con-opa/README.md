@@ -160,4 +160,4 @@ No: codifica sus decisiones para aplicarlas de forma consistente y automática. 
 
 ## ➡️ Siguiente clase
 
-[Clase 245 - Gestion de vulnerabilidades a escala](../245-gestion-de-vulnerabilidades-a-escala/README.md)
+[Clase 245 — Gestión de vulnerabilidades a escala](../245-gestion-de-vulnerabilidades-a-escala/README.md)

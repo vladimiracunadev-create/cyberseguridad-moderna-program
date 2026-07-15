@@ -132,4 +132,4 @@ La alerta que dispara el incidente puede venir del capstone Blue Team (Clase 306
 
 ## ➡️ Siguiente clase
 
-[Clase 308 - Capstone: campana de bug bounty](../308-capstone-campana-de-bug-bounty/README.md)
+[Clase 308 — Capstone: campaña de bug bounty](../308-capstone-campana-de-bug-bounty/README.md)

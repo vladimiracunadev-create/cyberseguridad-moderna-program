@@ -118,4 +118,4 @@ Leer es lo básico; combinado con upload o LFI puede escalar a ejecución de có
 
 ## ➡️ Siguiente clase
 
-[Clase 106 - Deserializacion insegura](../106-deserializacion-insegura/README.md)
+[Clase 106 — Deserialización insegura](../106-deserializacion-insegura/README.md)

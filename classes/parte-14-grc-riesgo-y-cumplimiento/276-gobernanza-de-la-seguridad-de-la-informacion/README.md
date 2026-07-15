@@ -121,4 +121,4 @@ ISO 27001 es el marco de gestión (SGSI); la gobernanza lo supervisa y aprueba. 
 
 ## ➡️ Siguiente clase
 
-[Clase 277 - Gestion de riesgos: cuantitativa y cualitativa](../277-gestion-de-riesgos-cuantitativa-y-cualitativa/README.md)
+[Clase 277 — Gestión de riesgos: cuantitativa y cualitativa](../277-gestion-de-riesgos-cuantitativa-y-cualitativa/README.md)

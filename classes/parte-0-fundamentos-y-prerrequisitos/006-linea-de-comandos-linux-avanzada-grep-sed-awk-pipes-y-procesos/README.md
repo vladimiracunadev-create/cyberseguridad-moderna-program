@@ -143,4 +143,4 @@ Escribe una única línea (one-liner) que, a partir de un log de acceso web, pro
 
 ## ➡️ Siguiente clase
 
-[Clase 007 - Bash scripting para tareas de seguridad](../007-bash-scripting-para-tareas-de-seguridad/README.md)
+[Clase 007 — Bash scripting para tareas de seguridad](../007-bash-scripting-para-tareas-de-seguridad/README.md)

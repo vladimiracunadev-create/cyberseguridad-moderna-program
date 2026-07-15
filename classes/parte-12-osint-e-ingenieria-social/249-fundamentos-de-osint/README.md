@@ -129,4 +129,4 @@ sistemas privados ni para manipular a personas fuera de un engagement autorizado
 
 ## ➡️ Siguiente clase
 
-[Clase 250 - OSINT de personas](../250-osint-de-personas/README.md)
+[Clase 250 — OSINT de personas](../250-osint-de-personas/README.md)

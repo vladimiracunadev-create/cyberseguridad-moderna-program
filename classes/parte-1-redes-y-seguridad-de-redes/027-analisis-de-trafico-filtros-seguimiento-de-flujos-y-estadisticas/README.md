@@ -129,4 +129,4 @@ Conversations agrupa por pares (A↔B); Endpoints agrupa por host individual con
 
 ## ➡️ Siguiente clase
 
-[Clase 028 - tcpdump y captura de trafico en linea de comandos](../028-tcpdump-y-captura-de-trafico-en-linea-de-comandos/README.md)
+[Clase 028 — tcpdump y captura de tráfico en línea de comandos](../028-tcpdump-y-captura-de-trafico-en-linea-de-comandos/README.md)

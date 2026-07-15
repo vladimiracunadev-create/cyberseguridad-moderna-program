@@ -122,4 +122,4 @@ Golden da acceso total pero es más detectable; Silver es acotado a un servicio 
 
 ## ➡️ Siguiente clase
 
-[Clase 175 - Persistencia en Active Directory](../175-persistencia-en-active-directory/README.md)
+[Clase 175 — Persistencia en Active Directory](../175-persistencia-en-active-directory/README.md)

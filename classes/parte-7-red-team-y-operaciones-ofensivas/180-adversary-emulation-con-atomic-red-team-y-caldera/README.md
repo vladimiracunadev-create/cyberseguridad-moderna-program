@@ -125,4 +125,4 @@ No. Automatiza la emulación repetible y la validación de detecciones, pero la 
 
 ## ➡️ Siguiente clase
 
-[Clase 181 - El SOC moderno: roles, niveles y procesos](../../parte-8-blue-team-deteccion-y-soc/181-el-soc-moderno-roles-niveles-y-procesos/README.md)
+[Clase 181 — El SOC moderno: roles, niveles y procesos](../../parte-8-blue-team-deteccion-y-soc/181-el-soc-moderno-roles-niveles-y-procesos/README.md)

@@ -130,4 +130,4 @@ autorizada.
 
 ## ➡️ Siguiente clase
 
-[Clase 252 - OSINT en redes sociales](../252-osint-en-redes-sociales/README.md)
+[Clase 252 — OSINT en redes sociales](../252-osint-en-redes-sociales/README.md)

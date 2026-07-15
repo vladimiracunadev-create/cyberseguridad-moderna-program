@@ -132,4 +132,4 @@ Analizando patrones: nombres muy largos, alta aleatoriedad (entropía), tipos de
 
 ## ➡️ Siguiente clase
 
-[Clase 042 - Segmentacion de red y arquitectura Zero Trust](../042-segmentacion-de-red-y-arquitectura-zero-trust/README.md)
+[Clase 042 — Segmentación de red y arquitectura Zero Trust](../042-segmentacion-de-red-y-arquitectura-zero-trust/README.md)

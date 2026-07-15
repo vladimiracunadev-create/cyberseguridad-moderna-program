@@ -128,4 +128,4 @@ No. El escaneo IaC detecta problemas *antes* de desplegar (shift-left); el CSPM 
 
 ## ➡️ Siguiente clase
 
-[Clase 231 - Cloud Security Posture Management (CSPM)](../231-cloud-security-posture-management-cspm/README.md)
+[Clase 231 — Cloud Security Posture Management (CSPM)](../231-cloud-security-posture-management-cspm/README.md)

@@ -128,4 +128,4 @@ engagement.
 
 ## ➡️ Siguiente clase
 
-[Clase 255 - Automatizacion de OSINT: SpiderFoot y Maltego](../255-automatizacion-de-osint-spiderfoot-y-maltego/README.md)
+[Clase 255 — Automatización de OSINT: SpiderFoot y Maltego](../255-automatizacion-de-osint-spiderfoot-y-maltego/README.md)

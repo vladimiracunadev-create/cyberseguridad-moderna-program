@@ -151,4 +151,4 @@ Por TRIM: el controlador borra físicamente bloques liberados, a veces en segund
 
 ## ➡️ Siguiente clase
 
-[Clase 204 - Forense de sistemas de archivos: NTFS y ext4](../204-forense-de-sistemas-de-archivos-ntfs-y-ext4/README.md)
+[Clase 204 — Forense de sistemas de archivos: NTFS y ext4](../204-forense-de-sistemas-de-archivos-ntfs-y-ext4/README.md)

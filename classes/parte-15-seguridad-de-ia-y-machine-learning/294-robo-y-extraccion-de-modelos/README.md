@@ -144,4 +144,4 @@ Incrustar un comportamiento secreto (respuestas concretas a entradas clave) que 
 
 ## ➡️ Siguiente clase
 
-[Clase 295 - OWASP Top 10 para aplicaciones con LLM](../295-owasp-top-10-para-aplicaciones-con-llm/README.md)
+[Clase 295 — OWASP Top 10 para aplicaciones con LLM](../295-owasp-top-10-para-aplicaciones-con-llm/README.md)

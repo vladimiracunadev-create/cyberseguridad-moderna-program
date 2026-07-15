@@ -190,4 +190,4 @@ Depende del objetivo, pero MTTD (rapidez de detección), tasa de FP (calidad) y 
 
 ## ➡️ Siguiente clase
 
-[Clase 328 - Gestión de riesgos cuantitativa y continuidad avanzada](../328-gestion-de-riesgos-cuantitativa-y-continuidad-avanzada/README.md)
+[Clase 328 — Gestión de riesgos cuantitativa y continuidad avanzada](../328-gestion-de-riesgos-cuantitativa-y-continuidad-avanzada/README.md)

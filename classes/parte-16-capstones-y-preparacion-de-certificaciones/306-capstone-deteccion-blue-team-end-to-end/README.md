@@ -119,4 +119,4 @@ No es realista. El objetivo es maximizar cobertura de las técnicas relevantes y
 
 ## ➡️ Siguiente clase
 
-[Clase 307 - Capstone: respuesta a incidentes DFIR end-to-end](../307-capstone-respuesta-a-incidentes-dfir-end-to-end/README.md)
+[Clase 307 — Capstone: respuesta a incidentes DFIR end-to-end](../307-capstone-respuesta-a-incidentes-dfir-end-to-end/README.md)

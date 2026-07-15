@@ -160,4 +160,4 @@ Sí. Genera tráfico característico que un IDS puede alertar. Ajusta la tempori
 
 ## ➡️ Siguiente clase
 
-[Clase 030 - Nmap: escaneo de puertos y tipos de escaneo](../030-nmap-escaneo-de-puertos-y-tipos-de-escaneo/README.md)
+[Clase 030 — Nmap: escaneo de puertos y tipos de escaneo](../030-nmap-escaneo-de-puertos-y-tipos-de-escaneo/README.md)

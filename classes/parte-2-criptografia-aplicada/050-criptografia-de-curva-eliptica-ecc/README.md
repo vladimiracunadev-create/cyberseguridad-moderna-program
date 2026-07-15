@@ -136,4 +136,4 @@ No; como RSA, cae ante Shor. Por eso existe la criptografía post-cuántica (cla
 
 ## ➡️ Siguiente clase
 
-[Clase 051 - Funciones hash: SHA-2, SHA-3 y sus propiedades](../051-funciones-hash-sha-2-sha-3-y-sus-propiedades/README.md)
+[Clase 051 — Funciones hash: SHA-2, SHA-3 y sus propiedades](../051-funciones-hash-sha-2-sha-3-y-sus-propiedades/README.md)

@@ -125,4 +125,4 @@ DNS es sigiloso y sobrevive a muchos filtros, pero es lento y ruidoso en volumen
 
 ## ➡️ Siguiente clase
 
-[Clase 165 - Frameworks C2: Cobalt Strike, Sliver y Mythic](../165-frameworks-c2-cobalt-strike-sliver-y-mythic/README.md)
+[Clase 165 — Frameworks C2: Cobalt Strike, Sliver y Mythic](../165-frameworks-c2-cobalt-strike-sliver-y-mythic/README.md)

@@ -143,4 +143,4 @@ Crea un repositorio de práctica, simula la fuga de un secreto (clave ficticia) 
 
 ## ➡️ Siguiente clase
 
-[Clase 019 - Expresiones regulares para analisis de logs y datos](../019-expresiones-regulares-para-analisis-de-logs-y-datos/README.md)
+[Clase 019 — Expresiones regulares para análisis de logs y datos](../019-expresiones-regulares-para-analisis-de-logs-y-datos/README.md)

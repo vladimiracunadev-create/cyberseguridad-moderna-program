@@ -128,4 +128,4 @@ Genera muchas peticiones y puede disparar alertas o rate limits. Hazlo solo con 
 
 ## ➡️ Siguiente clase
 
-[Clase 091 - Inyeccion SQL: fundamentos](../091-inyeccion-sql-fundamentos/README.md)
+[Clase 091 — Inyección SQL: fundamentos](../091-inyeccion-sql-fundamentos/README.md)

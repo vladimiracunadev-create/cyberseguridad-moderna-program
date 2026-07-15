@@ -155,4 +155,4 @@ necesario. Documenta ambas y define el período que satisface las dos.
 
 ## ➡️ Siguiente clase
 
-[Clase 313 - Gestión del ciclo de vida de identidades (IAM empresarial)](../313-gestion-del-ciclo-de-vida-de-identidades-iam-empresarial/README.md)
+[Clase 313 — Gestión del ciclo de vida de identidades (IAM empresarial)](../313-gestion-del-ciclo-de-vida-de-identidades-iam-empresarial/README.md)

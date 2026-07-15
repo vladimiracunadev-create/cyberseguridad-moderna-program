@@ -143,4 +143,4 @@ irreales; prioriza.
 
 ## ➡️ Siguiente clase
 
-[Clase 138 - Desarrollo de exploits moderno](../138-desarrollo-de-exploits-moderno/README.md)
+[Clase 138 — Desarrollo de exploits moderno](../138-desarrollo-de-exploits-moderno/README.md)

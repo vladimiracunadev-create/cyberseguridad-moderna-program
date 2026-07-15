@@ -127,4 +127,4 @@ De forma continua: píldoras breves y frecuentes superan a un curso largo anual.
 
 ## ➡️ Siguiente clase
 
-[Clase 287 - Metricas de seguridad: KPIs y KRIs](../287-metricas-de-seguridad-kpis-y-kris/README.md)
+[Clase 287 — Métricas de seguridad: KPIs y KRIs](../287-metricas-de-seguridad-kpis-y-kris/README.md)

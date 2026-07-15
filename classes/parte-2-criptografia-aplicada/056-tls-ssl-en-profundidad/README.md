@@ -131,4 +131,4 @@ Handshake más rápido y cifrado, forward secrecy obligatoria, cipher suites red
 
 ## ➡️ Siguiente clase
 
-[Clase 057 - Almacenamiento seguro de contrasenas: bcrypt, scrypt y Argon2](../057-almacenamiento-seguro-de-contrasenas-bcrypt-scrypt-y-argon2/README.md)
+[Clase 057 — Almacenamiento seguro de contraseñas: bcrypt, scrypt y Argon2](../057-almacenamiento-seguro-de-contrasenas-bcrypt-scrypt-y-argon2/README.md)

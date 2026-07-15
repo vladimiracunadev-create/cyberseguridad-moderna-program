@@ -159,4 +159,4 @@ actual de la investigación.
 
 ## ➡️ Siguiente clase
 
-[Clase 125 - Vulnerabilidades de format string](../125-vulnerabilidades-de-format-string/README.md)
+[Clase 125 — Vulnerabilidades de format string](../125-vulnerabilidades-de-format-string/README.md)

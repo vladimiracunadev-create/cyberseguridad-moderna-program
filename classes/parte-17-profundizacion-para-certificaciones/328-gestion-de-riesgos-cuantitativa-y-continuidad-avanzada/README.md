@@ -137,4 +137,4 @@ RTO mira **hacia adelante**: cuánto tiempo puedo tardar en volver a funcionar. 
 
 ## ➡️ Siguiente clase
 
-[Clase 329 - Arquitectura de seguridad empresarial y Zero Trust](../329-arquitectura-de-seguridad-empresarial-y-zero-trust/README.md)
+[Clase 329 — Arquitectura de seguridad empresarial y Zero Trust](../329-arquitectura-de-seguridad-empresarial-y-zero-trust/README.md)

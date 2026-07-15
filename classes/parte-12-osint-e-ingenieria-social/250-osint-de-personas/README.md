@@ -128,4 +128,4 @@ solicitudes de eliminación a los servicios.
 
 ## ➡️ Siguiente clase
 
-[Clase 251 - OSINT de empresas y dominios](../251-osint-de-empresas-y-dominios/README.md)
+[Clase 251 — OSINT de empresas y dominios](../251-osint-de-empresas-y-dominios/README.md)

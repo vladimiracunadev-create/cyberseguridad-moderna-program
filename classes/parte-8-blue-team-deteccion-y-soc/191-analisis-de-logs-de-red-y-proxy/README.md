@@ -118,4 +118,4 @@ Rara vez y por poco tiempo. Los metadatos de Zeek cubren la mayoría de casos de
 
 ## ➡️ Siguiente clase
 
-[Clase 192 - Deteccion de movimiento lateral](../192-deteccion-de-movimiento-lateral/README.md)
+[Clase 192 — Detección de movimiento lateral](../192-deteccion-de-movimiento-lateral/README.md)

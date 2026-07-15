@@ -112,4 +112,4 @@ No exactamente: evadir es lograr que no bloquee tu contenido concreto; los memor
 
 ## ➡️ Siguiente clase
 
-[Clase 170 - Active Directory: enumeracion](../170-active-directory-enumeracion/README.md)
+[Clase 170 — Active Directory: enumeración](../170-active-directory-enumeracion/README.md)

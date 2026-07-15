@@ -155,4 +155,4 @@ Perturbaciones que sobreviven a la captura por cámara: pegatinas en señales de
 
 ## ➡️ Siguiente clase
 
-[Clase 293 - Envenenamiento de datos y modelos](../293-envenenamiento-de-datos-y-modelos/README.md)
+[Clase 293 — Envenenamiento de datos y modelos](../293-envenenamiento-de-datos-y-modelos/README.md)

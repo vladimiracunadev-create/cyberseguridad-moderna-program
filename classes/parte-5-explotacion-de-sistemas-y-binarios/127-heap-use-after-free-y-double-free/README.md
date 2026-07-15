@@ -161,4 +161,4 @@ C++ y compila con ASan en CI.
 
 ## ➡️ Siguiente clase
 
-[Clase 128 - Integer overflows y errores aritmeticos](../128-integer-overflows-y-errores-aritmeticos/README.md)
+[Clase 128 — Integer overflows y errores aritméticos](../128-integer-overflows-y-errores-aritmeticos/README.md)

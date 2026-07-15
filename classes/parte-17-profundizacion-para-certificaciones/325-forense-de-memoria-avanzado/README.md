@@ -198,4 +198,4 @@ No para ese instante: al apagar se pierde la RAM. Por eso la captura de memoria 
 
 ## ➡️ Siguiente clase
 
-[Clase 326 - Análisis de malware para respuesta a incidentes](../326-analisis-de-malware-para-respuesta-a-incidentes/README.md)
+[Clase 326 — Análisis de malware para respuesta a incidentes](../326-analisis-de-malware-para-respuesta-a-incidentes/README.md)

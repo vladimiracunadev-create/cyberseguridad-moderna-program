@@ -120,4 +120,4 @@ El énfasis está en autorización, límites y trazabilidad — justo lo contrar
 
 ## ➡️ Siguiente clase
 
-[Clase 336 - OSINT y auditoría web con agentes de IA](../336-osint-y-auditoria-web-con-agentes-de-ia/README.md)
+[Clase 336 — OSINT y auditoría web con agentes de IA](../336-osint-y-auditoria-web-con-agentes-de-ia/README.md)

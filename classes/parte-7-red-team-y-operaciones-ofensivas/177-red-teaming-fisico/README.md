@@ -112,4 +112,4 @@ Solo en cerraduras propias y donde sea legal poseer las herramientas. Varían la
 
 ## ➡️ Siguiente clase
 
-[Clase 178 - Purple teaming](../178-purple-teaming/README.md)
+[Clase 178 — Purple teaming](../178-purple-teaming/README.md)

@@ -126,4 +126,4 @@ No; solo autenticidad e integridad. Combínalo con cifrado para confidencialidad
 
 ## ➡️ Siguiente clase
 
-[Clase 053 - Intercambio de claves: Diffie-Hellman](../053-intercambio-de-claves-diffie-hellman/README.md)
+[Clase 053 — Intercambio de claves: Diffie-Hellman](../053-intercambio-de-claves-diffie-hellman/README.md)

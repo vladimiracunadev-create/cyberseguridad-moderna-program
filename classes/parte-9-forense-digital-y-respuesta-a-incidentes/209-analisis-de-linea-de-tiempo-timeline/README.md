@@ -140,4 +140,4 @@ Buscando incoherencias entre fuentes que registran el mismo hecho: FS, `$UsnJrnl
 
 ## ➡️ Siguiente clase
 
-[Clase 210 - Forense de navegadores y correo](../210-forense-de-navegadores-y-correo/README.md)
+[Clase 210 — Forense de navegadores y correo](../210-forense-de-navegadores-y-correo/README.md)

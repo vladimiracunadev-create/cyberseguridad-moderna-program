@@ -163,4 +163,4 @@ mtime y atime sí con `touch`; ctime es más difícil (requiere manipular el rel
 
 ## ➡️ Siguiente clase
 
-[Clase 207 - Forense de memoria RAM con Volatility](../207-forense-de-memoria-ram-con-volatility/README.md)
+[Clase 207 — Forense de memoria RAM con Volatility](../207-forense-de-memoria-ram-con-volatility/README.md)

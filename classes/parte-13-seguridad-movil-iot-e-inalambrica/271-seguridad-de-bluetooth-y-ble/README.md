@@ -123,4 +123,4 @@ Para escanear e interactuar sí. Para sniffear conexiones necesitas hardware esp
 
 ## ➡️ Siguiente clase
 
-[Clase 272 - Ataques WiFi avanzados: Evil Twin y PMKID](../272-ataques-wifi-avanzados-evil-twin-y-pmkid/README.md)
+[Clase 272 — Ataques WiFi avanzados: Evil Twin y PMKID](../272-ataques-wifi-avanzados-evil-twin-y-pmkid/README.md)

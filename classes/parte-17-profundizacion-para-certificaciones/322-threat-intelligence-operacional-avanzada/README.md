@@ -136,4 +136,4 @@ No, se complementan. La Kill Chain describe las fases de un ataque en el tiempo;
 
 ## ➡️ Siguiente clase
 
-[Clase 323 - Pruebas de seguridad del software y evaluación](../323-pruebas-de-seguridad-del-software-y-evaluacion/README.md)
+[Clase 323 — Pruebas de seguridad del software y evaluación](../323-pruebas-de-seguridad-del-software-y-evaluacion/README.md)

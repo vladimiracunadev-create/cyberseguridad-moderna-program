@@ -123,4 +123,4 @@ Cookie HttpOnly reduce el robo vía XSS; localStorage es accesible por JS. Cada 
 
 ## ➡️ Siguiente clase
 
-[Clase 104 - Seguridad de OAuth 2.0 y OpenID Connect](../104-seguridad-de-oauth-2-0-y-openid-connect/README.md)
+[Clase 104 — Seguridad de OAuth 2.0 y OpenID Connect](../104-seguridad-de-oauth-2-0-y-openid-connect/README.md)

@@ -118,4 +118,4 @@ Sí. Los defensores lo usan para encontrar y cortar rutas peligrosas (relaciones
 
 ## ➡️ Siguiente clase
 
-[Clase 174 - Compromiso total de dominio: DCSync y Golden Ticket](../174-compromiso-total-de-dominio-dcsync-y-golden-ticket/README.md)
+[Clase 174 — Compromiso total de dominio: DCSync y Golden Ticket](../174-compromiso-total-de-dominio-dcsync-y-golden-ticket/README.md)

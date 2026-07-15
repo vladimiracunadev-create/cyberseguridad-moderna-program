@@ -135,4 +135,4 @@ Escribe `logstats.py`, una herramienta CLI que reciba la ruta de un log y un pat
 
 ## ➡️ Siguiente clase
 
-[Clase 016 - Python para seguridad: sockets y programacion de red](../016-python-para-seguridad-sockets-y-programacion-de-red/README.md)
+[Clase 016 — Python para seguridad: sockets y programación de red](../016-python-para-seguridad-sockets-y-programacion-de-red/README.md)

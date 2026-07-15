@@ -116,4 +116,4 @@ Cuando su ratio de falsos positivos es insostenible, la técnica ya no aplica, o
 
 ## ➡️ Siguiente clase
 
-[Clase 200 - Purple team desde el lado defensivo](../200-purple-team-desde-el-lado-defensivo/README.md)
+[Clase 200 — Purple team desde el lado defensivo](../200-purple-team-desde-el-lado-defensivo/README.md)

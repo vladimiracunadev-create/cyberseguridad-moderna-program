@@ -122,4 +122,4 @@ No; garantiza quién lo firmó y que no cambió. La veracidad del contenido es o
 
 ## ➡️ Siguiente clase
 
-[Clase 055 - PKI, certificados X.509 y autoridades de certificacion](../055-pki-certificados-x-509-y-autoridades-de-certificacion/README.md)
+[Clase 055 — PKI, certificados X.509 y autoridades de certificación](../055-pki-certificados-x-509-y-autoridades-de-certificacion/README.md)

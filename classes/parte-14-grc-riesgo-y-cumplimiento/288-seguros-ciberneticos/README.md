@@ -118,4 +118,4 @@ La aseguradora puede denegar el siniestro por declaración inexacta. La honestid
 
 ## ➡️ Siguiente clase
 
-[Clase 289 - Privacidad y proteccion de datos](../289-privacidad-y-proteccion-de-datos/README.md)
+[Clase 289 — Privacidad y protección de datos](../289-privacidad-y-proteccion-de-datos/README.md)

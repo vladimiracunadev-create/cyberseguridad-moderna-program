@@ -166,4 +166,4 @@ pslist confía en la lista del SO (manipulable); psscan escanea la memoria cruda
 
 ## ➡️ Siguiente clase
 
-[Clase 208 - Forense de red](../208-forense-de-red/README.md)
+[Clase 208 — Forense de red](../208-forense-de-red/README.md)

@@ -156,4 +156,4 @@ Organízala por servicio y prioriza vectores según impacto y facilidad. Unas bu
 
 ## ➡️ Siguiente clase
 
-[Clase 034 - Firewalls: tipos, iptables y nftables](../034-firewalls-tipos-iptables-y-nftables/README.md)
+[Clase 034 — Firewalls: tipos, iptables y nftables](../034-firewalls-tipos-iptables-y-nftables/README.md)

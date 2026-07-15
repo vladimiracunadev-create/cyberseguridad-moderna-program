@@ -130,4 +130,4 @@ Es el catálogo estándar que describe tablas y columnas; permite mapear la base
 
 ## ➡️ Siguiente clase
 
-[Clase 092 - Inyeccion SQL avanzada y ciega (blind)](../092-inyeccion-sql-avanzada-y-ciega-blind/README.md)
+[Clase 092 — Inyección SQL avanzada y ciega (blind)](../092-inyeccion-sql-avanzada-y-ciega-blind/README.md)

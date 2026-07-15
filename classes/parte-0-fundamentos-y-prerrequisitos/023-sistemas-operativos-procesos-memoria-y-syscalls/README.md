@@ -131,4 +131,4 @@ Analiza un binario desconocido (inofensivo, de tu laboratorio) usando solo herra
 
 ## ➡️ Siguiente clase
 
-[Clase 024 - Arquitectura de computadores: CPU, registros y memoria](../024-arquitectura-de-computadores-cpu-registros-y-memoria/README.md)
+[Clase 024 — Arquitectura de computadores: CPU, registros y memoria](../024-arquitectura-de-computadores-cpu-registros-y-memoria/README.md)

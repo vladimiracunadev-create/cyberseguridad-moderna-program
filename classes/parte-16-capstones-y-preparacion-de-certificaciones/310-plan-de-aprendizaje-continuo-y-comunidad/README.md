@@ -117,4 +117,4 @@ Repite los capstones subiendo la dificultad, persigue tu roadmap (Clase 301) y e
 
 ## ➡️ Siguiente clase
 
-Has completado la última clase del programa. [⬆️ Volver al índice completo del Programa de Ciberseguridad Moderna](../../README.md)
+[Clase 311 — Clasificación y ciclo de vida de los datos](../../parte-17-profundizacion-para-certificaciones/311-clasificacion-y-ciclo-de-vida-de-los-datos/README.md)

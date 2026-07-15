@@ -119,4 +119,4 @@ El uso de herramientas que recolectan evidencia automáticamente (configuracione
 
 ## ➡️ Siguiente clase
 
-[Clase 286 - Concienciacion y cultura de seguridad](../286-concienciacion-y-cultura-de-seguridad/README.md)
+[Clase 286 — Concienciación y cultura de seguridad](../286-concienciacion-y-cultura-de-seguridad/README.md)

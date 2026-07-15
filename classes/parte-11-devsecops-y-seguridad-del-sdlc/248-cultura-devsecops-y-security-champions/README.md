@@ -126,4 +126,4 @@ Con proxies medibles: participación en formación, tiempo de remediación por e
 
 ## ➡️ Siguiente clase
 
-[Clase 249 - Fundamentos de OSINT](../../parte-12-osint-e-ingenieria-social/249-fundamentos-de-osint/README.md)
+[Clase 249 — Fundamentos de OSINT](../../parte-12-osint-e-ingenieria-social/249-fundamentos-de-osint/README.md)

@@ -121,4 +121,4 @@ Sí, como tutor que explica y genera ejercicios, pero contrasta siempre con el m
 
 ## ➡️ Siguiente clase
 
-[Clase 332 - Agentes de IA y el Model Context Protocol (MCP) para seguridad](../332-agentes-de-ia-y-el-model-context-protocol-mcp-para-seguridad/README.md)
+[Clase 332 — Agentes de IA y el Model Context Protocol (MCP) para seguridad](../332-agentes-de-ia-y-el-model-context-protocol-mcp-para-seguridad/README.md)

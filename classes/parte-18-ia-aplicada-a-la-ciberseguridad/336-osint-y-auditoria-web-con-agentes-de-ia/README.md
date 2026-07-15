@@ -114,4 +114,4 @@ límites legales que debes respetar (ver Parte 12 y clase 339).
 
 ## ➡️ Siguiente clase
 
-[Clase 337 - IA para el lado defensivo: SOC, triaje y forense](../337-ia-para-el-lado-defensivo-soc-triaje-y-forense/README.md)
+[Clase 337 — IA para el lado defensivo: SOC, triaje y forense](../337-ia-para-el-lado-defensivo-soc-triaje-y-forense/README.md)

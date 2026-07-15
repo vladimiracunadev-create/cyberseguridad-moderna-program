@@ -120,4 +120,4 @@ En el Android Keystore respaldado por hardware, nunca en `SharedPreferences` ni 
 
 ## ➡️ Siguiente clase
 
-[Clase 262 - Pentest de aplicaciones Android](../262-pentest-de-aplicaciones-android/README.md)
+[Clase 262 — Pentest de aplicaciones Android](../262-pentest-de-aplicaciones-android/README.md)

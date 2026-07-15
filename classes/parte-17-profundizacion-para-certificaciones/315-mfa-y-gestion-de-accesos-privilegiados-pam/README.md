@@ -162,4 +162,4 @@ comunicarse al personal.
 
 ## ➡️ Siguiente clase
 
-[Clase 316 - Modelos de seguridad y arquitectura (Bell-LaPadula, Biba, Clark-Wilson)](../316-modelos-de-seguridad-y-arquitectura/README.md)
+[Clase 316 — Modelos de seguridad y arquitectura (Bell-LaPadula, Biba, Clark-Wilson)](../316-modelos-de-seguridad-y-arquitectura/README.md)

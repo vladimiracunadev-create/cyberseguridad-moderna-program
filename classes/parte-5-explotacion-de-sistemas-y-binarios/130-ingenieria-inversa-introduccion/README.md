@@ -153,4 +153,4 @@ reconstruye la semántica.
 
 ## ➡️ Siguiente clase
 
-[Clase 131 - Ghidra para ingenieria inversa](../131-ghidra-para-ingenieria-inversa/README.md)
+[Clase 131 — Ghidra para ingeniería inversa](../131-ghidra-para-ingenieria-inversa/README.md)

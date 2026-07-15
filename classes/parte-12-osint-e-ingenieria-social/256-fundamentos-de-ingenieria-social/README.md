@@ -130,4 +130,4 @@ puede ser ilegal o dañino.
 
 ## ➡️ Siguiente clase
 
-[Clase 257 - Pretexting y vishing](../257-pretexting-y-vishing/README.md)
+[Clase 257 — Pretexting y vishing](../257-pretexting-y-vishing/README.md)

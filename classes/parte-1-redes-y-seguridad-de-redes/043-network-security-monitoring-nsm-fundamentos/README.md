@@ -122,4 +122,4 @@ La búsqueda proactiva de amenazas guiada por hipótesis (no por alertas), usand
 
 ## ➡️ Siguiente clase
 
-[Clase 044 - Zeek para analisis de red a gran escala](../044-zeek-para-analisis-de-red-a-gran-escala/README.md)
+[Clase 044 — Zeek para análisis de red a gran escala](../044-zeek-para-analisis-de-red-a-gran-escala/README.md)

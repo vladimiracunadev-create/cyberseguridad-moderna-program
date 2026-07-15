@@ -125,4 +125,4 @@ Fuera de la imagen: en un gestor de secretos (clase 233), variables inyectadas e
 
 ## ➡️ Siguiente clase
 
-[Clase 228 - Seguridad de Kubernetes: arquitectura](../228-seguridad-de-kubernetes-arquitectura/README.md)
+[Clase 228 — Seguridad de Kubernetes: arquitectura](../228-seguridad-de-kubernetes-arquitectura/README.md)

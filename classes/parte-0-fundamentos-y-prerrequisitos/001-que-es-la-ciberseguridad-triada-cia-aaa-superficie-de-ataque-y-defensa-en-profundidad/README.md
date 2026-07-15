@@ -109,4 +109,4 @@ Redacta una ficha de una página para un activo de tu elección que contenga: (1
 
 ## ➡️ Siguiente clase
 
-[Clase 002 - El panorama de amenazas moderno: actores, motivaciones y Cyber Kill Chain](../002-el-panorama-de-amenazas-moderno-actores-motivaciones-y-cyber-kill-chain/README.md)
+[Clase 002 — El panorama de amenazas moderno: actores, motivaciones y Cyber Kill Chain](../002-el-panorama-de-amenazas-moderno-actores-motivaciones-y-cyber-kill-chain/README.md)

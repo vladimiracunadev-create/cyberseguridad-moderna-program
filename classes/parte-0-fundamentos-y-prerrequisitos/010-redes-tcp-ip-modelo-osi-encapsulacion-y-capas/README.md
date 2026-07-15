@@ -116,4 +116,4 @@ A partir de una captura propia, entrega un documento que "diseccione" un único 
 
 ## ➡️ Siguiente clase
 
-[Clase 011 - Protocolos de red: IP, TCP, UDP e ICMP en profundidad](../011-protocolos-de-red-ip-tcp-udp-e-icmp-en-profundidad/README.md)
+[Clase 011 — Protocolos de red: IP, TCP, UDP e ICMP en profundidad](../011-protocolos-de-red-ip-tcp-udp-e-icmp-en-profundidad/README.md)

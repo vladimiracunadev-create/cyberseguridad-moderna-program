@@ -113,4 +113,4 @@ Puede provocar denegación de servicio. Mejor combinar rate limiting, MFA y dete
 
 ## ➡️ Siguiente clase
 
-[Clase 102 - Gestion de sesiones y ataques asociados](../102-gestion-de-sesiones-y-ataques-asociados/README.md)
+[Clase 102 — Gestión de sesiones y ataques asociados](../102-gestion-de-sesiones-y-ataques-asociados/README.md)

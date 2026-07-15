@@ -147,4 +147,4 @@ En gran medida sí, comparten sintaxis, pero hay opciones específicas de cada m
 
 ## ➡️ Siguiente clase
 
-[Clase 036 - VPN y tuneles: IPsec, WireGuard y OpenVPN](../036-vpn-y-tuneles-ipsec-wireguard-y-openvpn/README.md)
+[Clase 036 — VPN y túneles: IPsec, WireGuard y OpenVPN](../036-vpn-y-tuneles-ipsec-wireguard-y-openvpn/README.md)

@@ -159,4 +159,4 @@ activa UBSan en CI.
 
 ## ➡️ Siguiente clase
 
-[Clase 129 - Explotacion en Windows: manejo de SEH](../129-explotacion-en-windows-manejo-de-seh/README.md)
+[Clase 129 — Explotación en Windows: manejo de SEH](../129-explotacion-en-windows-manejo-de-seh/README.md)

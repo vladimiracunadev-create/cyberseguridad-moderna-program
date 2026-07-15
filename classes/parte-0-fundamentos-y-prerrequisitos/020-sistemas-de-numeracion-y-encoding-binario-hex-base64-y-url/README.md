@@ -134,4 +134,4 @@ Escribe `decoder.py`, una utilidad que reciba una cadena e intente detectar y de
 
 ## ➡️ Siguiente clase
 
-[Clase 021 - Criptografia: conceptos fundamentales e intuicion](../021-criptografia-conceptos-fundamentales-e-intuicion/README.md)
+[Clase 021 — Criptografía: conceptos fundamentales e intuición](../021-criptografia-conceptos-fundamentales-e-intuicion/README.md)

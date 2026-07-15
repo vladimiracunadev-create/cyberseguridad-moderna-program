@@ -123,4 +123,4 @@ Permite empaquetar muchas operaciones en una petición, eludiendo rate limits di
 
 ## ➡️ Siguiente clase
 
-[Clase 112 - Web cache poisoning y HTTP request smuggling](../112-web-cache-poisoning-y-http-request-smuggling/README.md)
+[Clase 112 — Web cache poisoning y HTTP request smuggling](../112-web-cache-poisoning-y-http-request-smuggling/README.md)

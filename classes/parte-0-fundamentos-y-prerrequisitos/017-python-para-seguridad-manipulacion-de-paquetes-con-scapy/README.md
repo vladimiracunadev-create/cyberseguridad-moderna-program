@@ -150,4 +150,4 @@ Implementa `scapyscan.py`, un escáner SYN con Scapy que reciba un objetivo y un
 
 ## ➡️ Siguiente clase
 
-[Clase 018 - Git y control de versiones para profesionales de seguridad](../018-git-y-control-de-versiones-para-profesionales-de-seguridad/README.md)
+[Clase 018 — Git y control de versiones para profesionales de seguridad](../018-git-y-control-de-versiones-para-profesionales-de-seguridad/README.md)

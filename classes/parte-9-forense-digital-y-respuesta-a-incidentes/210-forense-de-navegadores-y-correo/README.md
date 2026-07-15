@@ -131,4 +131,4 @@ En disco casi no, pero puede quedar en memoria, DNS caché y logs del proxy o de
 
 ## ➡️ Siguiente clase
 
-[Clase 211 - Forense movil](../211-forense-movil/README.md)
+[Clase 211 — Forense móvil](../211-forense-movil/README.md)

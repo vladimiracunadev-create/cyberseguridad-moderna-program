@@ -133,4 +133,4 @@ Porque persiguen decisiones distintas: el técnico necesita IOCs para actuar; el
 
 ## ➡️ Siguiente clase
 
-[Clase 322 - Threat intelligence operacional avanzada](../322-threat-intelligence-operacional-avanzada/README.md)
+[Clase 322 — Threat intelligence operacional avanzada](../322-threat-intelligence-operacional-avanzada/README.md)

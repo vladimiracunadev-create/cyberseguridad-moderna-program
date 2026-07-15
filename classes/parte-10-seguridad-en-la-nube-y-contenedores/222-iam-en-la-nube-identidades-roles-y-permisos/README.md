@@ -129,4 +129,4 @@ Empieza permisivo pero mide: usa Access Analyzer/policy usage para ver qué se u
 
 ## ➡️ Siguiente clase
 
-[Clase 223 - Seguridad en AWS](../223-seguridad-en-aws/README.md)
+[Clase 223 — Seguridad en AWS](../223-seguridad-en-aws/README.md)

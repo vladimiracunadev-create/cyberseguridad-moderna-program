@@ -129,4 +129,4 @@ Porque ataca al usuario, no al cifrado: si la víctima se conecta al AP falso e 
 
 ## ➡️ Siguiente clase
 
-[Clase 273 - Seguridad de sistemas de control industrial (ICS/SCADA)](../273-seguridad-de-sistemas-de-control-industrial-ics-scada/README.md)
+[Clase 273 — Seguridad de sistemas de control industrial (ICS/SCADA)](../273-seguridad-de-sistemas-de-control-industrial-ics-scada/README.md)

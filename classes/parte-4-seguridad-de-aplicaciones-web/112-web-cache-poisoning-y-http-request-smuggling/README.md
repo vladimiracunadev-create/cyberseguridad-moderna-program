@@ -113,4 +113,4 @@ Que un solo input malicioso, una vez cacheado, se sirve a todos los usuarios que
 
 ## ➡️ Siguiente clase
 
-[Clase 113 - Ataques del lado del cliente: CORS, postMessage y prototype pollution](../113-ataques-del-lado-del-cliente-cors-postmessage-y-prototype-pollution/README.md)
+[Clase 113 — Ataques del lado del cliente: CORS, postMessage y prototype pollution](../113-ataques-del-lado-del-cliente-cors-postmessage-y-prototype-pollution/README.md)

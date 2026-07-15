@@ -113,4 +113,4 @@ Fuera del directorio web servible, con nombres generados, y sírvelos con Conten
 
 ## ➡️ Siguiente clase
 
-[Clase 109 - Vulnerabilidades de logica de negocio](../109-vulnerabilidades-de-logica-de-negocio/README.md)
+[Clase 109 — Vulnerabilidades de lógica de negocio](../109-vulnerabilidades-de-logica-de-negocio/README.md)

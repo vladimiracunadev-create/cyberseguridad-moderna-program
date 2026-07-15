@@ -120,4 +120,4 @@ La certificación dura 3 años con auditorías de seguimiento anuales, más una 
 
 ## ➡️ Siguiente clase
 
-[Clase 279 - NIST Cybersecurity Framework](../279-nist-cybersecurity-framework/README.md)
+[Clase 279 — NIST Cybersecurity Framework](../279-nist-cybersecurity-framework/README.md)

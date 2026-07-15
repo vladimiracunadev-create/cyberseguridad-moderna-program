@@ -146,4 +146,4 @@ Sí para probar navegación de carpetas; recuerda que persisten aunque la carpet
 
 ## ➡️ Siguiente clase
 
-[Clase 206 - Analisis de artefactos de Linux](../206-analisis-de-artefactos-de-linux/README.md)
+[Clase 206 — Análisis de artefactos de Linux](../206-analisis-de-artefactos-de-linux/README.md)

@@ -137,4 +137,4 @@ No sin autorización. Extrae datos reales y puede violar privacidad y ley. Solo 
 
 ## ➡️ Siguiente clase
 
-[Clase 094 - Inyeccion NoSQL](../094-inyeccion-nosql/README.md)
+[Clase 094 — Inyección NoSQL](../094-inyeccion-nosql/README.md)

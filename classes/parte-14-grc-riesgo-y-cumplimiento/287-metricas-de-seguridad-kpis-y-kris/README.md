@@ -123,4 +123,4 @@ Pregunta por cada métrica: "¿qué decisión cambiaría si este número sube o 
 
 ## ➡️ Siguiente clase
 
-[Clase 288 - Seguros ciberneticos](../288-seguros-ciberneticos/README.md)
+[Clase 288 — Seguros cibernéticos](../288-seguros-ciberneticos/README.md)

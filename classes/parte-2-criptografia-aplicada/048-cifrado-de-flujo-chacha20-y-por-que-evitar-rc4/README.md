@@ -123,4 +123,4 @@ Legado. Debe deshabilitarse; TLS moderno lo prohíbe.
 
 ## ➡️ Siguiente clase
 
-[Clase 049 - Cifrado asimetrico: RSA](../049-cifrado-asimetrico-rsa/README.md)
+[Clase 049 — Cifrado asimétrico: RSA](../049-cifrado-asimetrico-rsa/README.md)

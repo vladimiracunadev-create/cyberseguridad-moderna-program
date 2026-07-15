@@ -154,4 +154,4 @@ Entrega un script `auditor.sh` parametrizable que reciba una subred, descubra ho
 
 ## ➡️ Siguiente clase
 
-[Clase 008 - Windows esencial para seguridad: arquitectura, registro y servicios](../008-windows-esencial-para-seguridad-arquitectura-registro-y-servicios/README.md)
+[Clase 008 — Windows esencial para seguridad: arquitectura, registro y servicios](../008-windows-esencial-para-seguridad-arquitectura-registro-y-servicios/README.md)

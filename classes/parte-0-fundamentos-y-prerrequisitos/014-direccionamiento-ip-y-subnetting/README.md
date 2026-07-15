@@ -124,4 +124,4 @@ Diseña un plan de direccionamiento para una organización ficticia con cuatro s
 
 ## ➡️ Siguiente clase
 
-[Clase 015 - Python para seguridad: fundamentos del lenguaje](../015-python-para-seguridad-fundamentos-del-lenguaje/README.md)
+[Clase 015 — Python para seguridad: fundamentos del lenguaje](../015-python-para-seguridad-fundamentos-del-lenguaje/README.md)

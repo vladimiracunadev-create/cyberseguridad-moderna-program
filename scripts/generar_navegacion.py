@@ -67,14 +67,17 @@ def ruta_relativa(parte_origen, parte_destino, clase_destino):
     return f"../../{parte_destino}/{clase_destino}/README.md"
 
 
-def bloque_anterior(parte_origen, anterior):
-    if anterior is None:
-        destino = VOLVER_INDICE
-    else:
-        _, p_ant, c_ant = anterior
-        rel = ruta_relativa(parte_origen, p_ant, c_ant)
-        destino = f"[{titulo_de(p_ant, c_ant)}]({rel})"
-    return f"{SEC_ANTERIOR}\n\n{destino}\n\n"
+def enlace_a(parte_origen, vecino):
+    """Enlace al README de la clase vecina, o al indice si no hay vecina (extremos)."""
+    if vecino is None:
+        return VOLVER_INDICE
+    _, p_vec, c_vec = vecino
+    rel = ruta_relativa(parte_origen, p_vec, c_vec)
+    return f"[{titulo_de(p_vec, c_vec)}]({rel})"
+
+
+def bloque(seccion, parte_origen, vecino):
+    return f"{seccion}\n\n{enlace_a(parte_origen, vecino)}\n\n"
 
 
 def main():
@@ -95,16 +98,26 @@ def main():
             return 1
 
         anterior = clases[i - 1] if i > 0 else None
-        bloque = bloque_anterior(parte, anterior)
+        siguiente = clases[i + 1] if i < len(clases) - 1 else None
 
-        # Quita una seccion previa (para ser idempotente) y reinserta antes de "Siguiente".
+        # Quita la seccion "anterior" previa (idempotencia) antes de reinsertarla.
         nuevo = re.sub(
             re.escape(SEC_ANTERIOR) + r"\n\n.*?\n\n(?=" + re.escape(SEC_SIGUIENTE) + ")",
             "",
             txt,
             flags=re.DOTALL,
         )
-        nuevo = nuevo.replace(SEC_SIGUIENTE, bloque + SEC_SIGUIENTE, 1)
+        # Reescribe "Siguiente" completa: su enlace tambien se deriva del H1 destino,
+        # asi ambos sentidos usan la misma fuente de verdad y no divergen.
+        nuevo = re.sub(
+            re.escape(SEC_SIGUIENTE) + r"\n\n.*?(?=\n\n|\Z)",
+            (bloque(SEC_ANTERIOR, parte, anterior)
+             + bloque(SEC_SIGUIENTE, parte, siguiente)).rstrip("\n"),
+            nuevo,
+            count=1,
+            flags=re.DOTALL,
+        )
+        nuevo = nuevo.rstrip("\n") + "\n"
 
         if nuevo != txt:
             cambiados += 1

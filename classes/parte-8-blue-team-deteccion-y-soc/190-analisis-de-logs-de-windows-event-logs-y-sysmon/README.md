@@ -115,4 +115,4 @@ Parte de una configuración comunitaria afinada, excluye procesos benignos ruido
 
 ## ➡️ Siguiente clase
 
-[Clase 191 - Analisis de logs de red y proxy](../191-analisis-de-logs-de-red-y-proxy/README.md)
+[Clase 191 — Análisis de logs de red y proxy](../191-analisis-de-logs-de-red-y-proxy/README.md)

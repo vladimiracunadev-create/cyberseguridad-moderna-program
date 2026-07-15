@@ -154,4 +154,4 @@ procese contenido malicioso. La defensa es una validación estricta de la firma 
 
 ## ➡️ Siguiente clase
 
-[Clase 315 - MFA y gestión de accesos privilegiados (PAM)](../315-mfa-y-gestion-de-accesos-privilegiados-pam/README.md)
+[Clase 315 — MFA y gestión de accesos privilegiados (PAM)](../315-mfa-y-gestion-de-accesos-privilegiados-pam/README.md)

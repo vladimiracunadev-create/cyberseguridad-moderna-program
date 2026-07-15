@@ -164,4 +164,4 @@ también considera assertions.
 
 ## ➡️ Siguiente clase
 
-[Clase 137 - Descubrimiento de vulnerabilidades en codigo](../137-descubrimiento-de-vulnerabilidades-en-codigo/README.md)
+[Clase 137 — Descubrimiento de vulnerabilidades en código](../137-descubrimiento-de-vulnerabilidades-en-codigo/README.md)

@@ -130,4 +130,4 @@ Es voluntario, pero se está convirtiendo en referencia de facto y en base de re
 
 ## ➡️ Siguiente clase
 
-[Clase 292 - Ataques adversariales a modelos](../292-ataques-adversariales-a-modelos/README.md)
+[Clase 292 — Ataques adversariales a modelos](../292-ataques-adversariales-a-modelos/README.md)

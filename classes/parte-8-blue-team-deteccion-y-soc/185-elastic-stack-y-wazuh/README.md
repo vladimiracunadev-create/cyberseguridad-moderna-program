@@ -118,4 +118,4 @@ No. Sigma es un formato portable de reglas (clase 186) que puedes convertir a EQ
 
 ## ➡️ Siguiente clase
 
-[Clase 186 - Escritura de reglas de deteccion con Sigma](../186-escritura-de-reglas-de-deteccion-con-sigma/README.md)
+[Clase 186 — Escritura de reglas de detección con Sigma](../186-escritura-de-reglas-de-deteccion-con-sigma/README.md)

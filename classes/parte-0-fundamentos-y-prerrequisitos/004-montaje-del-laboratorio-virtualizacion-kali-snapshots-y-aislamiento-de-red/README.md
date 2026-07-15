@@ -129,4 +129,4 @@ Entrega un laboratorio funcional con al menos dos VMs (Kali + una víctima) en r
 
 ## ➡️ Siguiente clase
 
-[Clase 005 - Linux esencial para seguridad: filesystem, permisos y usuarios](../005-linux-esencial-para-seguridad-filesystem-permisos-y-usuarios/README.md)
+[Clase 005 — Linux esencial para seguridad: filesystem, permisos y usuarios](../005-linux-esencial-para-seguridad-filesystem-permisos-y-usuarios/README.md)

@@ -125,4 +125,4 @@ Para control de auditoría, rotación y separación de deberes, usa claves gesti
 
 ## ➡️ Siguiente clase
 
-[Clase 224 - Seguridad en Azure](../224-seguridad-en-azure/README.md)
+[Clase 224 — Seguridad en Azure](../224-seguridad-en-azure/README.md)

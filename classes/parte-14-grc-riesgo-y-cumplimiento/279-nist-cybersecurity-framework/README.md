@@ -119,4 +119,4 @@ Sí; NIST publica Quick Start Guides específicas para pequeñas empresas y gest
 
 ## ➡️ Siguiente clase
 
-[Clase 280 - Controles CIS](../280-controles-cis/README.md)
+[Clase 280 — Controles CIS](../280-controles-cis/README.md)

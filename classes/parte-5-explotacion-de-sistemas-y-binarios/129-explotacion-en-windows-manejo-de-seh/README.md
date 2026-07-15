@@ -147,4 +147,4 @@ x64dbg + scripts propios hoy.
 
 ## ➡️ Siguiente clase
 
-[Clase 130 - Ingenieria inversa: introduccion](../130-ingenieria-inversa-introduccion/README.md)
+[Clase 130 — Ingeniería inversa: introducción](../130-ingenieria-inversa-introduccion/README.md)

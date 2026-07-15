@@ -128,4 +128,4 @@ Credential Guard, deshabilitar NTLM donde se pueda, tiering administrativo, LAPS
 
 ## ➡️ Siguiente clase
 
-[Clase 173 - BloodHound y analisis de rutas de ataque](../173-bloodhound-y-analisis-de-rutas-de-ataque/README.md)
+[Clase 173 — BloodHound y análisis de rutas de ataque](../173-bloodhound-y-analisis-de-rutas-de-ataque/README.md)

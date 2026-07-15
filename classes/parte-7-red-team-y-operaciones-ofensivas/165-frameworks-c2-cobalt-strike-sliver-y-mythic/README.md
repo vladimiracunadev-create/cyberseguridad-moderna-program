@@ -137,4 +137,4 @@ HTTPS con perfil realista para trabajo diario; mTLS para robustez interna del la
 
 ## ➡️ Siguiente clase
 
-[Clase 166 - Phishing y entrega de payloads](../166-phishing-y-entrega-de-payloads/README.md)
+[Clase 166 — Phishing y entrega de payloads](../166-phishing-y-entrega-de-payloads/README.md)

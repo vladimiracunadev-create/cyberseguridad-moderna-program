@@ -112,4 +112,4 @@ El dwell time y el TTD/TTR: indican cuánto tiempo estuvo "dentro" el atacante y
 
 ## ➡️ Siguiente clase
 
-[Clase 180 - Adversary emulation con Atomic Red Team y Caldera](../180-adversary-emulation-con-atomic-red-team-y-caldera/README.md)
+[Clase 180 — Adversary emulation con Atomic Red Team y Caldera](../180-adversary-emulation-con-atomic-red-team-y-caldera/README.md)
