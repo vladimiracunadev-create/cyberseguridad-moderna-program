@@ -2,7 +2,7 @@
 
 > 🎓 **Intenta resolverlo tú primero.** Estas claves sirven para **verificar** tu trabajo, no para
 > copiar. En Red Team el valor está en el razonamiento y en el rastro que dejas, no en el comando.
-
+>
 > ⚠️ **Marco ético y legal.** Todo lo de esta parte se practica **exclusivamente en tu propio
 > laboratorio** (un AD de pruebas tipo GOAD, VMs que tú controlas) o bajo un **contrato con
 > autorización escrita** y reglas de enfrentamiento (RoE). Atacar sistemas ajenos es delito. Cada
