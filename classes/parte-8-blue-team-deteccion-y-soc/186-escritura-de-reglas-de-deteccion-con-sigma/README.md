@@ -102,7 +102,7 @@ Entrega dos reglas Sigma propias (una de ejecución, una de persistencia) con ta
 | `sigma convert` falla por pipeline | Falta el pipeline (ECS/CIM); instala/indica `-p` correcto |
 | La consulta no matchea campos | Nombres de campo distintos en tu SIEM; usa el pipeline de mapeo |
 | Regla dispara con todo | `condition` demasiado amplia; añade selecciones y filtros |
-| Wildcards no funcionan | Usaste `*` sin modificador; emplea `\|contains`/`\|endswith` |
+| Esperabas que `\|contains` fuera obligatorio para comodines | En Sigma los comodines `*`/`?` funcionan **directamente** en el valor; `\|contains`/`\|endswith` son azúcar que los añaden por ti (más legible). El fallo suele ser olvidar escapar un `*` literal. |
 | YAML inválido | Indentación o listas mal formadas; valida con linter |
 
 ## ❓ Preguntas frecuentes

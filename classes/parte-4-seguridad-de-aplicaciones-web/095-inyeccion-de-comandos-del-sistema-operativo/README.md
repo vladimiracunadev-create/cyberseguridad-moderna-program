@@ -74,7 +74,7 @@ nc -lvnp 4444
 
 1. Enumera 5 metacaracteres distintos y en qué se diferencian al encadenar.
 2. Confirma una inyección ciega solo con retardo temporal.
-3. Adapta un payload de Linux a su equivalente en Windows (`&`, `%COMPUSER%`).
+3. Adapta un payload de Linux a su equivalente en Windows (`&`, `%COMPUTERNAME%` o `%USERNAME%`).
 4. Explica la diferencia entre command injection y argument injection.
 5. Escribe la versión segura en Python usando `subprocess` con lista de argumentos (sin `shell=True`).
 6. Diseña una allowlist para un campo que solo debe aceptar una IP.

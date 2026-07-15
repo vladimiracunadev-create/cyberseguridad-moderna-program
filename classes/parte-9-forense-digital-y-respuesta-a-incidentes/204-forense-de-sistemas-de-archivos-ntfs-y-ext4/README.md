@@ -37,7 +37,7 @@ Al finalizar, el alumno podrá:
 - **MFT (Master File Table)**: base de datos de NTFS donde cada archivo tiene un registro. Característica: incluso los archivos pequeños viven dentro de la MFT (residentes).
 - **`$STANDARD_INFORMATION`**: atributo con timestamps que el usuario puede modificar fácilmente. Característica: manipulable por *timestomping*.
 - **`$FILE_NAME`**: atributo con timestamps que solo el kernel actualiza. Característica: útil para detectar manipulación de tiempos.
-- **MACB**: Modified, Accessed, Changed/Created, Born. Característica: cuatro marcas que permiten ordenar eventos.
+- **MACB**: Modified, Accessed, **Changed** (ctime: cambio de metadatos/entrada MFT), Born (creación). Característica: cuatro marcas que permiten ordenar eventos.
 - **`$UsnJrnl`**: Update Sequence Number Journal, registra cambios en archivos. Característica: revela creaciones/borrados recientes.
 - **Inodo (ext4)**: estructura con metadatos y punteros a bloques de datos. Característica: al borrar, ext4 suele limpiar punteros (dificulta recuperar).
 - **Journal (jbd2)**: registro de transacciones de ext4. Característica: puede conservar metadatos ya sobrescritos.

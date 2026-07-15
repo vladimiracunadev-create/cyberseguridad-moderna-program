@@ -98,7 +98,8 @@ Al finalizar, el alumno podrá:
 7. Vuelca un proceso sospechoso para análisis:
 
    ```bash
-   vol -f memoria.raw -o ./salida windows.dumpfiles --pid 1337
+   vol -f memoria.raw -o ./salida windows.malfind --pid 1337 --dump   # región RWX inyectada
+   # (windows.pslist --pid 1337 --dump vuelca el PE del proceso; dumpfiles solo saca archivos mapeados)
    ```
 
 8. Revisa DLLs cargadas y líneas de comando:
