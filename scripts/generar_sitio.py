@@ -25,7 +25,7 @@ OUT = os.path.join(ROOT, "site")
 
 # Markdown de origen que se publican (rutas relativas al repo).
 INCLUIR_TOP = ["README.md", "ROADMAP.md", "CONTRIBUTING.md", "SECURITY.md",
-               "rutas/README.md", "autoevaluaciones/README.md", "labs/README.md",
+               "autoevaluaciones/README.md",
                "ctf/README.md", "docs/syllabus.md", "docs/rubrica-evaluacion.md",
                "docs/examen-final-por-rol.md", "soluciones/README.md",
                "soluciones/parte-01-redes.md", "soluciones/parte-02-criptografia.md",
@@ -294,18 +294,27 @@ def main() -> int:
             escribir(rel, open(p, encoding="utf-8").read())
             generados += 1
 
-    # Todo el árbol de classes/.
-    for cur, _, files in os.walk(os.path.join(ROOT, "classes")):
-        for fn in files:
-            if fn.endswith(".md"):
-                p = os.path.join(cur, fn)
-                rel = os.path.relpath(p, ROOT).replace("\\", "/")
-                escribir(rel, open(p, encoding="utf-8").read())
-                generados += 1
+    # Árbol completo de classes/ y labs/ (los README de cada lab se enlazan
+    # desde las rutas por rol, así que deben existir como página en el sitio).
+    for base in ("classes", "labs"):
+        for cur, _, files in os.walk(os.path.join(ROOT, base)):
+            for fn in files:
+                if fn.endswith(".md"):
+                    p = os.path.join(cur, fn)
+                    rel = os.path.relpath(p, ROOT).replace("\\", "/")
+                    escribir(rel, open(p, encoding="utf-8").read())
+                    generados += 1
 
     # index.html del sitio = README raíz renderizado.
     # Documentos de certificaciones (uno por cert + índice).
     for p in glob.glob(os.path.join(ROOT, "certificaciones", "*.md")):
+        rel = os.path.relpath(p, ROOT).replace("\\", "/")
+        escribir(rel, open(p, encoding="utf-8").read())
+        generados += 1
+
+    # Rutas por rol (índice + una guía de carrera por rol). Por glob para que
+    # cualquier guía nueva se publique sin tocar este script.
+    for p in glob.glob(os.path.join(ROOT, "rutas", "*.md")):
         rel = os.path.relpath(p, ROOT).replace("\\", "/")
         escribir(rel, open(p, encoding="utf-8").read())
         generados += 1

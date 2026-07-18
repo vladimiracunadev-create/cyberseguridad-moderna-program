@@ -132,14 +132,16 @@ comando, más una colección de retos tipo CTF:
 
 ## 🧭 Rutas sugeridas por rol
 
-- **Pentester / Red Team** → Partes 0, 1, 3, 4, 5, 7 (+ 12).
-- **Analista SOC / Blue Team** → Partes 0, 1, 6, 8, 9.
-- **Analista de Gestión de Vulnerabilidades** → Partes 0, 1, 3, 8, 11, 17 (VM, hardening/parcheo, EDR y reporte) · alineado a **CySA+**.
-- **AppSec / Bug Bounty** → Partes 0, 2, 4, 11.
-- **DFIR / Forense** → Partes 0, 1, 6, 9.
-- **Cloud Security** → Partes 0, 2, 10, 11.
-- **GRC / Gestión** → Partes 0, 14 (+ 8, 9 para contexto técnico).
-- **Cooperación y Alianzas Técnicas** → Partes 0, 14 (+ 1, 8 para base técnica) · gobernanza, protección de datos y riesgo de terceros; alineado a **CISSP** e **ISO 27001**.
+Cada rol tiene una **guía de carrera completa** (qué es, día a día, qué necesitas saber, tu ruta en el curso, certificaciones, salario y progresión). Haz clic en el nombre:
+
+- **[Pentester](rutas/pentester.md) / [Red Team](rutas/red-team.md)** → Partes 0, 1, 3, 4, 5, 7 (+ 12).
+- **[Analista SOC / Blue Team](rutas/soc-blue-team.md)** → Partes 0, 1, 6, 8, 9.
+- **[Analista de Gestión de Vulnerabilidades](rutas/gestion-vulnerabilidades.md)** → Partes 0, 1, 3, 8, 11, 17 (VM, hardening/parcheo, EDR y reporte) · alineado a **CySA+**.
+- **[AppSec / Bug Bounty](rutas/appsec.md)** → Partes 0, 2, 4, 11.
+- **[DFIR / Forense](rutas/dfir.md)** → Partes 0, 1, 6, 9.
+- **[Cloud Security](rutas/cloud-security.md)** → Partes 0, 2, 10, 11.
+- **[GRC / Gestión](rutas/grc.md)** → Partes 0, 14 (+ 8, 9 para contexto técnico).
+- **[Cooperación y Alianzas Técnicas](rutas/cooperacion-alianzas.md)** → Partes 0, 14 (+ 1, 8 para base técnica) · gobernanza, protección de datos y riesgo de terceros; alineado a **CISSP** e **ISO 27001**.
 
 ## 📄 Licencia
 

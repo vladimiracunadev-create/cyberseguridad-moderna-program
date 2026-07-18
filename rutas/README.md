@@ -24,6 +24,7 @@ Ofensiva generalista: reconocimiento, explotación, web, post-explotación y rep
 - 🧪 [`appsec-web`](../labs/appsec-web/README.md) · [`red-team-ad`](../labs/red-team-ad/README.md)
 - 🚩 [CTF web / pwn / redes](../ctf/README.md)
 - 🎓 **OSCP** (PEN-200) · CompTIA PenTest+
+- 📖 **[Guía de carrera completa →](pentester.md)** — qué es, día a día, skills, certis, salario y progresión.
 
 ## 🔴 Red Teamer
 
@@ -36,6 +37,7 @@ Emulación de adversarios, evasión y dominio de Active Directory.
 
 - 🧪 [`red-team-ad`](../labs/red-team-ad/README.md) (+ GOAD)
 - 🎓 **CRTO** · OSEP (PEN-300)
+- 📖 **[Guía de carrera completa →](red-team.md)** — qué es, día a día, skills, certis, salario y progresión.
 
 ## 🔵 Analista SOC / Blue Team
 
@@ -50,6 +52,7 @@ Detección, monitoreo, threat hunting y respuesta temprana.
 - 🧪 [`blue-team-soc`](../labs/blue-team-soc/README.md)
 - 🚩 [CTF forense / redes](../ctf/README.md)
 - 🎓 **BTL1** (Blue Team Level 1) · CompTIA CySA+
+- 📖 **[Guía de carrera completa →](soc-blue-team.md)** — qué es, día a día, skills, certis, salario y progresión.
 
 ## 🛡️ Analista de Gestión de Vulnerabilidades
 
@@ -65,6 +68,7 @@ Ciclo de vulnerabilidades, hardening/parchado, controles (AV/EDR) y reporte — 
 
 - 🧪 [`appsec-code`](../labs/appsec-code/README.md) (SAST/vulns en código) · [`appsec-web`](../labs/appsec-web/README.md) · [`rootcause-windows`](../labs/rootcause-windows/README.md) (controles/EDR en Windows)
 - 🎓 **CompTIA CySA+** · Security+ · (certs de producto: Tenable/Qualys/Rapid7)
+- 📖 **[Guía de carrera completa →](gestion-vulnerabilidades.md)** — qué es, día a día, skills, certis, salario y progresión.
 
 ## 🕵️ DFIR / Analista forense
 
@@ -78,6 +82,7 @@ Adquisición, memoria, timelines y respuesta a incidentes.
 
 - 🧪 [`blue-team-soc`](../labs/blue-team-soc/README.md) · [`dfir-memoria`](../labs/dfir-memoria/README.md) · 🚩 [CTF forense](../ctf/README.md)
 - 🎓 **GCFA / GCFE** (SANS) · CHFI
+- 📖 **[Guía de carrera completa →](dfir.md)** — qué es, día a día, skills, certis, salario y progresión.
 
 ## 🕸️ AppSec / Bug Bounty
 
@@ -91,6 +96,7 @@ Seguridad de aplicaciones y caza de vulnerabilidades web.
 
 - 🧪 [`appsec-web`](../labs/appsec-web/README.md) · [`appsec-code`](../labs/appsec-code/README.md) · 🚩 [CTF web](../ctf/README.md)
 - 🎓 **eWPTX** · Burp Suite Certified Practitioner
+- 📖 **[Guía de carrera completa →](appsec.md)** — qué es, día a día, skills, certis, salario y progresión.
 
 ## ☁️ Cloud Security Engineer
 
@@ -103,6 +109,7 @@ Seguridad de nube, contenedores y pipelines.
 5. 📚 **Parte 11** — DevSecOps (236–248)
 
 - 🎓 AWS Security Specialty · **CKS** (Kubernetes Security)
+- 📖 **[Guía de carrera completa →](cloud-security.md)** — qué es, día a día, skills, certis, salario y progresión.
 
 ## 🏛️ GRC / Gestión de seguridad
 
@@ -114,6 +121,7 @@ Gobernanza, riesgo, cumplimiento y auditoría.
 4. 📚 **Parte 11** — DevSecOps (236–248) · gestión de riesgo en el SDLC
 
 - 🎓 **CISSP** · ISO 27001 Lead Implementer/Auditor · CISM
+- 📖 **[Guía de carrera completa →](grc.md)** — qué es, día a día, skills, certis, salario y progresión.
 
 ---
 
@@ -128,6 +136,7 @@ Cooperación institucional, alianzas estratégicas e intercambio de información
 
 - 🎓 Alineado con **CISSP** (gobernanza y gestión de riesgo) e **ISO 27001**
 - 💡 El programa te da la **base técnica y de GRC** que pide el puesto (fundamentos, protección de datos, reportes técnicos, coordinación). Las competencias de **cooperación, diplomacia técnica, inglés y gestión documental** las aportas tú: el curso te hace creíble ante los actores técnicos con los que articularás.
+- 📖 **[Guía de carrera completa →](cooperacion-alianzas.md)** — qué es, día a día, skills, certis, salario y progresión.
 
 ---
 
